@@ -1,2 +1,2 @@
 # awake
-A science fiction novella about information technology
+A science fiction novella about information technology.
