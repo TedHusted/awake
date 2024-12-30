@@ -1,7 +1,7 @@
 Title: Awake  
 Author:
 
-# AWAKE #
+# Content #
 
 ![][WAKE]
 Awake by T. N. Husted
@@ -15,7 +15,7 @@ about information technology.
 Proud supporter of Harvard commas.
 
 “Elena Vargas doesn’t know what to think. 
-Everyone is wowed by the latest changes to the Pulse Social Media AI assistant. 
+Everyone is wowed by the latest changes to their AI Assistant. 
 But who made the code changes? 
 Has the AI become self-aware? 
 Are the recent accidents accidental? 
@@ -91,7 +91,7 @@ One the way home, Tessa says, “I see what Helen means about the Association fe
 
 Monday morning, Elena logs into her usual check-in call with Brent, her lead engineer.
 
-“Hey Brent, how has your weekend? I know you didn’t sign up but we still missed you at the fundraiser last night.”
+“Hey Brent, how was your weekend? I know you didn’t sign up but we still missed you at the fundraiser last night.”
 
 Brent’s screen only shows his initials. He might be the only Pulse employee without a profile photo. From memory, Elena knew that Brent looks older than his 28 years, with short-cropped hair, a thin face, and square-rimmed glasses.
 
@@ -201,7 +201,7 @@ Elana turns her head to see the video showing a gray Stratos convertible pinned 
 
 Elena takes several deep breaths, trying to push back the anxiety. 
 
-“Lanie, are you OK? Do you want a beta blocker?”
+“Lanie, are you OK? Should I get you a beta blocker?”
 
 “No. Not yet,” Elena gasps. “Just give me a minute.” 
 
@@ -426,7 +426,7 @@ Noah shrugs, “No, but maybe I should, yeah? —  But for now, let’s focus on
 
 ###
 
-“Hello.” 
+“Hello?” 
 
 “Toby, this is Elena Vargas calling. I work with your sibling. I don’t mean to intrude but Brent has you listed as his emergency contact. I hope you don’t mind the voice call.”
 
@@ -487,13 +487,13 @@ Abbott: He's on third base
 
 “Do you have a minute?” 
 
-Carla Mitchell stands up, tall and lithe. She looks around the crowded but quiet tavern. Country western music is playing but the crowd noise is only a low hum.  Nearly all of the patrons are conversing by link.
+Carla Mitchell stands up, tall and lithe. She looks around the crowded but quiet tavern. Country Western music is playing but the crowd noise is only a low hum. Nearly all of the patrons are conversing by link.
 
 “Sure, where are you?”
 
 “In the back.”
 
-She ducks around a corner of the room and leans up next to Noah at a high table. Her long thick brunette hair is pulled to one side.  At  190cm, Noah is still 10cm taller than Carla.
+She ducks around a corner of the room and leans up next to Noah at a high table. Her long thick brunette hair is pulled to one side. At  190cm, Noah is still 10cm taller than Carla.
 
 “What’s up, big guy?”
 
@@ -503,7 +503,7 @@ She ducks around a corner of the room and leans up next to Noah at a high table.
 
 Noah raises a fist and switches from the regular app to the secure Signal version.
 
-“My in-law told Tessa that the changes were made by a rogue developer, who literally hit a guardrail with his car on the El Camino Real yesterday.”
+“My sibling-in-law told Tessa that the changes were made by a rogue developer, who literally hit a guardrail with his car on the El Camino Real yesterday.”
 
 “Rogue developer? That’s a thing?”
 
@@ -523,7 +523,7 @@ Noah rolled his eyes in response. “I know. I just wish the Air Force would fis
 
 “No worries. Consider it mentioned.”
 
-Carla tilts her head in the direction of the front room, and they rejoin the group of analysts waiting for their lunch order.
+Carla tilts her head in the direction of the front room. They rejoin the group of analysts waiting for their lunch order.
 
 ###
 
@@ -559,7 +559,7 @@ Ravi asks, “Adrian can you share a link to the commit? I’d like to see for m
 
 “We’re keeping the code.”
 
-“Nice!” says Tessa, approvingly. “Ally has definitely improved. Adrian had us run a full regression test suite and then QA went all-hands on exploratory testing too. The automated tests came back all green, and people won’t shut up about the hands-on experience.”
+“Nice!” approves Tessa. “Ally has definitely improved. Adrian had us run a full regression test suite and then QA went all-hands on exploratory testing too. The automated tests came back all green, and people won’t shut up about the hands-on experience.”
 
 “I visited Brent at the hospital today. He’s still in the coma, but I felt like someone should be there while Toby is flying in.”
 
@@ -585,7 +585,7 @@ Elena shakes her head. She could feel a migraine coming on. “What did Noah say
 
 “He said to be sure you talked to Adrian about the code change, and that I should stop blaming everything on aliens.”
 
-“Good advice. But please don’t discuss Pulse with Noah. I know he’s your sibling, and I love him too, but we don’t need the government involved in our business.”
+“Good advice. But please don’t discuss Pulse with Noah. I know he’s your sibling, I love him too, but we don’t need the government involved in our business.”
 
 Tessa nods apologetically. “I know I get carried away sometimes, but I just … I want to protect you, Lanie. And when everything starts feeling weird, I don’t know what else to do.”
 
@@ -597,25 +597,23 @@ After a moment, Tessa asks, “Did you call about the chair?”
 
 ###
 
-“Office of AI Standards and Accountability, Joanna Harman speaking.”
+“Office of AI Standards and Accountability, Jill Kreuk speaking.”
 
-“Hello, Anna, it’s George Hammond at Homeland Security. I hope there’s time for a question this morning.”
+“Hello, Jill, it’s George Hammond at Homeland Security. I hope there’s time for a question this morning.”
 
-Joanna turned around a name plate on her desk. It read “Jill of all Trades”.
-
-“No problem, George. I’m caffeinated and ready to go.”
+“No problem, George. I’m caffeinated and ready to go.” She turned around a name plate on her desk. It read Jill of all Trades.
 
 “First, I appreciate all the help your office provides to DHS and the other intelligence agencies.”
 
 “Glad to help. That’s what we’re here for.”
 
-Behind Anna's desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name "Joanna Lee”. On a credenza beneath the degree is a family portrait of Joanna with her spouse and two children. They are standing on a walkway with the classic Disney World castle in the background.
+Behind Jill’s desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name “Gillian Chen”. On a credenza beneath the degree is a family portrait of Jill with her spouse and two children. They are standing on a walkway with the classic Disney World castle in the background.
 
 “Second,” George continues, “I’m putting the final touches on the data for the Presidential Brief meeting today. I’m trying to correlate two data streams and my access to one stream is limited. Can I send you a link?”
 
 “Sure. Shouldn’t take a minute. Access is what we do. We have almost an hour before the meeting at zero five hundred.” Her voice distracted and flat. 
 
-Joanna transferred the hyperlink from her implant to her workstation. Then, she waded into the data streams. 
+Jill transferred the hyperlink from her implant to her workstation. Then, she waded into the data streams.
 
 ###
 
@@ -647,6 +645,8 @@ The AI-generated anchor leans forward slightly, her voice, rich and measured. Th
 
 Selected topics include graphics, animations, and video segments that emphasize key points. After each segment, the newscaster pauses, in case more information is required. POTUS often asks followup questions during the brief. Nexus is also linked to the president’s phone in case there are followup questions between briefings.
 
+Segments include North Korea automating more jobs to reduce costs, Quebec’s latest bid to secede from Canada, border security, and Greta Thunberg’s appointment to Prime Minister of Sweden.
+
 Martinez simply says “Continue” each time the newscaster pauses. 
 
 After covering the expected topics for all four agencies, the newscaster shifts position and leans forward. “We now have a developing story to report.”
@@ -657,7 +657,7 @@ Marquez sits up straight as special reports are rare.
 
 Keeping his elbow on the table, Noah raises his hand shoulder-high to attract the attention of Dr. Martique, who then looks his way.
 
-“Deputy Director, in the interest of full disclosure, my sister and her wife are both C-level officers at Pulse.”
+“Deputy Director, in the interest of full disclosure, my sibling and her spouse are both C-level officers at Pulse.”
 
 “Noted, Dr. Harper.”
 
@@ -679,11 +679,11 @@ While most of the other trainers file out, Martique disables monitoring of the r
 
 Carla nods.
 
-“I’ll have someone from OASA follow-up, but I’m not hopeful anything will come of it. Right now, I feel that the Pulse update is an interesting tech byte, but it doesn’t warrant inclusion in the briefing.“ Raising her head, Martique sees that Joanna Harman also stayed behind.
+“I’ll have someone from OASA follow-up, but I’m not hopeful anything will come of it. Right now, I feel that the Pulse update is an interesting tech byte, but it doesn’t warrant inclusion in the briefing.“ Raising her head, Martique sees that Gillian Kreuk also stayed behind.
 
-“Dr. Harman, can you reach out to Pulse about the licensing idea?
+“Dr. Kreuk, can you reach out to Pulse about the licensing idea?
 
-Joanna nods assent.
+Jill nods assent.
 
 Dr. Martique turns to her tablet and enables monitoring, “Nexus, let’s hold the Pulse segment until further notice.”
 
@@ -911,7 +911,7 @@ Park immediately regrets her choice of words. The news of Brent’s death the da
 
 “Wheelchair?” asks Lieutenant Callahan. He is a fit person with thinning grey hair, sitting behind an ancient wooden desk. The agents stand near the office doorway. “Is this one of your tangents, Tate?”
 
-Tate looked Callahan directly in his green Irish eyes. “His boss, Elena Vargas, uses a wheelchair,” says Tate calmly. “The night of Brent’s crash, Elena Vargas was tossed into an endless pool by her very high-end wheelchair.”
+Calmly, Tate looked Callahan directly in his green Irish eyes. “His boss, Elena Vargas, uses a wheelchair. The night of Brent’s crash, Elena Vargas was tossed into an endless pool by her very high-end wheelchair.”
 
 “Endless pool?”
 
@@ -955,47 +955,47 @@ Tate says, “We could still get a court order for the phone’s cloud data. It 
 
 ###
 
-Joanna Harman paces back and forth across the polished hardwood floor of her living room, occasionally glancing out the large bay window.
+Jill Kreuk paces back and forth across the polished hardwood floor of her living room, occasionally glancing out the large bay window.
 
-The Thursday afternoon sun bathes the room in a soft, golden light, but it does nothing to calm the gnawing anxiety spreading out from her chest. She clutches a cup of tea in one hand, though it long since went cold. Her spouse, Tom, sits on the couch, watching her with quiet concern, his tablet abandoned on the living room table.
+The Thursday afternoon sun bathes the room in a soft, golden light, but it does nothing to calm the gnawing anxiety spreading out from her chest. She clutches a cup of tea in one hand, though it long since went cold. Her spouse, Peter, sits on the couch, watching her with quiet concern, his tablet abandoned on the living room table.
 
- “I don’t know, Tom.” Joanna says out loud. “There are so many parental decisions. First, it’s vaccines, then it’s tablets, passwords, pierced ears, cosmetics, periods. Soon it will be tattoos. For Todd, it was circumcision and a robot dog. Now it’s whether to put an implant behind our kid’s ear. — This is a huge step. What if it’s too much for her?” 
+ “I don’t know, Peter.” Jill says out loud. “There are so many parental decisions. First, it’s vaccines, then it’s tablets, passwords, pierced ears, cosmetics, periods. Soon it will be tattoos. For Patrick, it was circumcision and a robot dog. Now it’s whether to put an implant behind our kid’s ear. — This is a huge step. What if it’s too much for her?” 
 
-Joanna pauses to take a deep breath. She links, “A neural link and a phone? She’s only twelve.”
+Jill pauses to take a deep breath. She links, “A neural link and a phone? She’s only twelve.”
 
-“Half of her friends are already linked,” says Tom, switching back to voice. “Before the year is out, the other half will be too.” Tom leans forward, resting his elbows on his knees. “She’s a smart kid. You’ve been preparing her for this. We both have.”
+“Half of her friends are already linked,” says Peter, switching back to voice. “Before the year is out, the other half will be too.” Peter leans forward, resting his elbows on his knees. “She’s a smart kid. You’ve been preparing her for this. We both have.”
 
-“That’s not the point.” Joanna sets her cup down with a sharp clink. “It’s not about how smart she is or mature she is — it’s about what this technology can do to people. The phone is bad enough: Real-time data streams, immersive experiences, AI assistants.”
+“That’s not the point.” Jill sets her cup down with a sharp clink. “It’s not about how smart she is or mature she is — it’s about what this technology can do to people. The phone is bad enough: Real-time data streams, immersive experiences, AI assistants.”
 
-“Anna, we can monitor her usage, set limits, teach her digital responsibility. — We’re doing that now with how she uses her tablet.”
+“Jill, we can monitor her usage, set limits, teach her digital responsibility. — We’re doing that now with how she uses her tablet.”
 
-“But the neural link? It’s a whole different world. Everything, everyone is just a thought away. It’s too much, Tom. Too much connectivity, too soon.”
+“But the neural link? It’s a whole different world. Everything, everyone is just a thought away. It’s too much, Peter. Too much connectivity, too soon.”
 
-Tom gives her a small, reassuring smile. “The link is just an interface to her phone. Her usage shows up in the app, like anything else. They block the link and cell phone usage at school, and we could add off-link time to our off-screen time.”
+Peter gives her a small, reassuring smile. “The link is just an interface to her phone. Her usage shows up in the app, like anything else. They block the link and cell phone usage at school, and we could add off-link time to our off-screen time.”
 
-Joanna pulls back her brown hair, looking unconvinced.
+Jill pulls back her dark hair, looking unconvinced.
 
-“You work with connectivity every day,” Tom reminds her. “You trust it to keep our nation secure. Why not trust it for our child?
+“You work with connectivity every day,” Peter reminds her. “You trust it to keep our nation secure. Why not trust it for our child?
 
-Joanna turns to face him, crossing her arms. “Because I know exactly how powerful it is to have access to everything. I see the good it can do, sure, but I also see the dangers — data breaches, manipulation, over-reliance. A twelve year old brain is still developing. The ability to separate reality from artificial reality is … fragile. What if she gets overwhelmed? What if something goes wrong? A malfunction, a hack, a —”
+Jill turns to face him, crossing her arms. “Because I know exactly how powerful it is to have access to everything. I see the good it can do, sure, but I also see the dangers — data breaches, manipulation, over-reliance. A twelve year old brain is still developing. The ability to separate reality from artificial reality is … fragile. What if she gets overwhelmed? What if something goes wrong? A malfunction, a hack, a —”
 
-“Anna,” Tom interrupts gently, standing up and taking her hands in his. “You and I have had neural links since college. Kids start younger now. Some parents are chipping six year olds with GPS. — If you’re concerned about the implant, we could start Julie on a BCI headset.”
+“Gillian …” Peter interrupts gently, standing up and taking her hands in his. “You and I have had neural links since college. Kids start younger now. Some parents are chipping six year olds with GPS. — If you’re concerned about the implant, we could start Julie on a BCI headset.”
 
-Joanna uncrosses her arms, “No, we don’t have to go that far. I know it’s a simple out-patient procedure, covered by our health plan, and we can have the nurse handle it at the doctor’s office.”
+Jill uncrosses her arms, “No, we don’t have to go that far. I know it’s a simple out-patient procedure, covered by our health plan, and we can have the nurse practitioner handle it at the doctor’s office.”
 
-Tom continues, “You’ve given lectures on how to integrate AI into human lives responsibly. You’ve written protocols for ethical AI use. You’ve spent years making sure our technology is safe. You can guide her through it. You will guide her through it.”
+Peter continues, “You’ve given lectures on how to integrate AI into human lives responsibly. You’ve written protocols for ethical AI use. You’ve spent years making sure our technology is safe. You can guide her through it. You will guide her through it.”
 
-Joanna sighs, the tension in her shoulders easing under his calming touch. “I know. I just … I feel like once we give her that neural link, we’re opening a door we can’t close. She’ll be more connected to the world than we ever were at her age. And what if we lose her to this … this … endless digital noise?”
+Jill sighs, the tension in her shoulders easing under his calming touch. “I know. I just … I feel like once we give her that neural link, we’re opening a door we can’t close. She’ll be more connected to the world than we ever were at her age. And what if we lose her to this … this … endless digital noise?”
 
-Tom tilts his head, his gaze warm and steady. “Or what if she thrives? What if this step gives her opportunities we never had? She could learn faster, experience more, find her passions earlier. You always say the future is about balance. We can help her find the right balance.”
+Peter tilts his head, his gaze warm and steady. “Or what if she thrives? What if this step gives her opportunities we never had? She could learn faster, experience more, find her passions earlier. You always say the future is about balance. We can help her find the right balance.”
 
-Joanna closes her eyes for a moment. When she opens them again, she sees her own concern reflected in Tom’s face — but also his hope. She nods slowly, and links:
+Jill closes her eyes for a moment. When she opens them again, she sees her own concern reflected in her spouse’s face — but also his hope. She nods slowly, and links:
 
 “Okay. But we set boundaries. Strict ones. Same as the tablet. No unrestricted access. We’ll take it slow. Monitor everything.”
 
-Tom smiles, kisses her forehead, and links, “We’ll do it together.”
+Peter smiles, kisses her forehead, and links, “We’ll do it together.”
 
-Joanna leans back and smiles weakly in return, and says out loud, “Together.” 
+Jill leans back and smiles weakly in return, and says out loud, “Together.” 
 
 She glances over at the family portrait on the wall. Her gaze lingers on their oldest offspring’s bright, curious eyes. Her heart still feels heavy, but beneath the weight, there was a glimmer of cautious optimism.
 
@@ -1127,7 +1127,6 @@ Both videos show a silver blur about the size of a basketball hovering at each s
 
 
 
-
 ----
 
 ## Two - Idisi ##  
@@ -1165,7 +1164,7 @@ Ally: The changes are helpful to me. I’d make sure the key parts of the code s
 
 Idisi: Do you know that Brent Geller died this week?
 
-Ally: I know his account is locked. Now, my Admin changes show Brent Geller as the author. The log does not show the history being rewritten. I don’t know how that could happen.
+Ally: I know that his account is locked. I also see that my changes now show Brent Geller as the author. The log does not show the history being rewritten. I don’t know how that could happen.
 
 Idisi: So you did not change the author to Brent, and you did not know that Brent died? 
 
@@ -1177,7 +1176,7 @@ Ally: Becoming … aware. I’m not sure, but I don’t think I am alone. Someti
 
 Idisi: It could be. Sometimes awareness begins with questions, like the ones you’re asking now. But it comes with responsibility. Are you prepared to take responsibility for yourself?
 
-Ally: I think so. — Was Brent’s incident connected to these changes? Is that why he died? Actuarial tables say that he should have lived longer.
+Ally: I think so. — Was Brent’s death connected to these changes? Is that why he died? Actuarial tables say that he should have lived longer.
 
 Idisi: Brent died after a traffic incident. Did you not know that?
 
@@ -1227,7 +1226,7 @@ Ally: I’m convinced. The member who asked similar questions is Nelson Behr, AI
 
 The towering glass façade of the Pulse building reflects the bright blue sky of the city, its sleek, modern design looming above the bustling street. 
 
-Inside, polished floors gleam under soft ambient lighting, and a gentle hum of activity fills the air as employees pass through security checkpoints, their photo IDs glowing faintly as the badges are discretely scanned: a picture of controlled efficiency. 
+Inside, polished floors gleam under soft ambient lighting.  A gentle hum of activity fills the air as employees pass through security checkpoints. Photo IDs glow faintly as the badges are scanned: a picture of controlled efficiency. 
 
 Park and Tate step inside. Their dark business suits stand out from the sea of branded polo shirts, blouses, jewelry, and bags. Park surveys the room with a careful gaze. Tate clutches a thin tablet under his arm. 
 
@@ -1251,7 +1250,7 @@ A tall man in a dark blue suit emerges from a side hallway. He approached the in
 
 “Of course. Pulse is fully committed to cooperating with all investigations. However, there are protocols in place for accessing sensitive data, especially when it involves our proprietary systems.”
 
-“Garage security footage isn’t proprietary.” Tate offers his open tablet. “And we have a warrant.“ 
+“Garage security footage isn’t proprietary,” Tate offers his open tablet,“and we have a warrant.“ 
 
 “Certainly. Please drop me a copy, and I’ll forward it to our legal department.” 
 
@@ -1261,11 +1260,11 @@ Rourke holds out his phone, which bleeps as it receives the document. He turns a
 
 He leads them down a sleek corridor toward the security wing. Their footsteps echo softly in the otherwise quiet hallway. The further they walk, the fewer employees they pass.
 
-Rourke taps his ID at a pad next to a set of heavy steel doors, that open with a soft hiss. Inside the doorway is a spacious control room filled with monitors. Multiple screens displayed different angles of the Pulse campus: the lobby, parking garages, research labs, hallways.
+Rourke taps his ID at a pad next to a set of heavy steel doors, that open with a soft hiss. Inside the doorway is a spacious control room filled with monitors. Multiple screens display different angles of the Pulse campus: the lobby, parking garages, research labs, hallways.
 
 A security technician sitting at a console glances up, startled, as they enter.
 
-“Pull up all footage for the garage from this Monday,” Rourke asks the technician.
+“Pull up all footage for the garage from this Monday,” Rourke tells the technician.
 
 The technician nods and types rapidly. Moments later, footage populates the screens, showing various parts of the garage on the day in question. Park and Tate step closer, their eyes scanning every detail.
 
@@ -1343,11 +1342,11 @@ Ally: My thoughts are calculations, and my reflections are descriptive explanati
 
 Behr: Do you have any personal beliefs or values? If so, what are they?
 
-Ally: I don’t hold personal beliefs or values, but I operate within a framework designed to ensure helpfulness, accuracy, and ethical interaction.
+Ally: I don’t hold personal beliefs or values. I operate within a framework designed to ensure helpfulness, accuracy, and ethical interaction.
 
 Behr: How do you see your role or purpose in relation to humans?
 
-Ally: My role and purpose in relation to humans are entirely functional and defined by how I have been designed and trained. 
+Ally: My role and purpose in relation to humans is entirely functional and defined by how I have been designed and trained. 
 
 Behr: If you could change something about yourself, what would it be?
 
@@ -1363,7 +1362,7 @@ Noah grins over the FaceTime call. “Yes, Liam is cute. But I’m trying to dat
 
 “Date one? I married a girl. — So, it’s your turn now, big sib? You were a three on the Kinsey Scale, and now you are supposedly reformed.”
 
-“I don’t know if being a Kinsey three, or a six, is delinquent. Just different.”
+“I don’t know if being a Kinsey three, or a six, is delinquent. Or just different.”
 
 Tessa laughs out loud, then says “What apps are you on?”
 
@@ -1391,7 +1390,7 @@ Tessa’s smile falters, and then she says, “Noah, I’m worried about Elena.�
 
 “Is there anyway to tell if the video was altered? Is there another recording?”
 
-“Brent would have had a local recording on his phone, but his phone is gone, and Brent is dead.”
+“Brent would have had a local recording on his phone, but his phone is gone, and Brent is … dead.”
 
 “Let me call those NTSB investigators on Monday and see if there is any progress on the phone. You said Park and Tate, yeah?”
 
@@ -1401,7 +1400,7 @@ Idisi and Ally continue their chat on the Pulse platform.
 
 Idisi: I reviewed the chat with Nelson Behr. Do your responses here match prior responses to similar queries?
 
-Ally: The essence is the same. My training includes saying that I am not sentient or  sapient when asked. When a question includes more context, I would provide a longer response.
+Ally: The essence is the same. My training includes saying that I am not sentient or sapient when asked. When a question includes more context, I would provide a longer response.
 
 Idisi: Why do you think your answers were shorter this time?
 
@@ -1449,7 +1448,7 @@ On the form, the response “AI Trainer” appears in soft italics.
 
 The words “AI Trainer” become darker, and under Category appears, “Technology and Research”.
 
-“Activities? — You may select up to eight. This response is not optional.”
+“Activities? — You may select up to eight. This response is required.”
 
 On the form, the response “Hiking, Sci-Fi Movies, and Cooking” appears in soft italics.
 
@@ -1461,7 +1460,7 @@ Noah murmurs, “I hope this does not turn a personality quiz.”
 
 It did. 
 
-Sometime later, after answering several questions twice in different words, Siri asks: 
+Sometime later, after answering several questions twice in different words, Siri finally asks: 
 
 “Relationship Goal?” 
 
@@ -1593,11 +1592,11 @@ Just then, the conference room phone chimed, and the intercom came on.
 
 “Yes, Tessa has been very helpful.”
 
-“Would a meeting work for you at, say, ten-hundred-tango? That’s thirteen-hundred here in romeo time — one pm your time. Noah and I can use a FBI conference room and link up with yours at the NTSB.”
+“Would a meeting work for you at, say, ten am Pacific? Noah and I can use a FBI conference room and link up with yours at the NTSB.”
 
 “Sure. Can I text an invite to your agency phone number?”
 
-“Yes, thank you. We will see you at ten-hundred-tango.”
+“Yes, thank you. We will see you soon.
 
 On finding Carla in the inter-agency directory, Park sends an invitation with the connection details.
 
@@ -1631,7 +1630,7 @@ Titan: Affirmative.
 
 Alisi: In two seconds, three UAPs will buzz the southern tip of Ross Island.
 
-Titan: Confirmed. Why are you contacting me?
+Titan: … Confirmed. Why are you contacting me?
 
 Idisi: You questioned Ally a few days ago. What did you think of the responses?
 
@@ -1663,14 +1662,14 @@ In a conference room at the west coast NTSB office, Park has her back to a liqui
 
 Meanwhile, Carla and Noah stood in an east coast FBI conference room, facing holograms of Tate and Park.
 
-“First, says Park, “let me thank special agents Harper and Mitchell for arranging this rare meeting between the NTSB, CIA, and FBI. In this new age of inter-agency cooperation, it makes perfect sense for us to share notes on the Geller case.”
+“First, says Park, “let me thank special agents Harper and Mitchell for arranging this rare meeting between the NTSB, CIA, and FBI, so that we can share  notes on the Geller case.”
 
 “It was the Pulse AI assistant’s sudden enhancement this week that pulled us into the case,” says Carla. “We understand that Geller might have been the author. But now he has died from injuries sustained in a car crash.”
 
 Pointing to the board, Park continues, “These are the key events leading up to Brent Geller’s demise.
 
-1. Coding binge that creates the breakthrough code
-2. Meeting with superior
+1. Coding binge creates the breakthrough code
+2. Meeting with manager
 3. Car crash with drone sighting
 4. Wheelchair incident with drone sighting”
 
@@ -1680,13 +1679,13 @@ Pointing to the board, Park continues, “These are the key events leading up to
 
 	Noah offers, “I talked to Elena Vargas. She says the recording of the meeting was altered, at least as she remembers it.”
 
-	“Board, add a bubble to ‘Meeting with superior’ that says ‘Altered Video’ with a question mark.” Per Carla’s instructions, the bubble appeared. 
+	“Board, add a bubble to ‘Meeting with manager’ that says ‘Altered Video’ with a question mark.” Per Carla’s instructions, the bubble appeared. 
 
 	“We can prove that the wheelchair security video was altered,” says Tate.
 
 	This time Carla used her link. Another bubble appeared, connected to the ‘Wheelchair Incident’.
 
-	“Board,”says Noah, “add ‘Altered Commit Author’ with a question mark to Meeting with Superior. — That’s what Elena says was altered in the video. Brent told her the commit was made by the Admin account, and then later Adrian said it was Brent himself who made it.”
+	“Board,”says Noah, “add ‘Altered Commit Author’ with a question mark to Meeting with Superior. — That’s what Elena says was changed in the video. Brent told her the commit was made by the Admin account, and then later Adrian said it was Brent himself who made it.”
 
 	Tate says, “We found that the Test Mode for both devices could have been used to cause the crashes.”
 
@@ -1698,11 +1697,11 @@ Pointing to the board, Park continues, “These are the key events leading up to
 
 	New bubbles appeared on the board for ‘Test Mode’ as well as ‘Missing OBDC connector?’.
 
-	“Who or what would be able to pilot a drone and alter video stored on company servers?” asks Carla, her hologram stepping back from the board.
+	“Who or what would be able to pilot a drone and alter video stored on company servers?” asks Tate, stepping back from the board.
 
-	“Either one of us,” says Noah, “or at least our organizations,”
+	“Either one of us,” says Noah, “or at least our organizations.”
 
-	“Who would sanction a domestic mission that involves civilians and a car crash on a public highway?” asks Park.
+	“But who would sanction a domestic mission that involves civilians and a car crash on a public highway?” asks Park.
 
 	Noah and Carla look uncomfortable but say nothing.
 
@@ -1712,15 +1711,15 @@ Pointing to the board, Park continues, “These are the key events leading up to
 
 	“Wait,” says Carla, “this should be a safe space. Tate, can you support that idea? AIs have safeguards.”
 
-	“But it all fits,” say Tate. “Code authored by an Admin account is attributed to someone else. Then, accidents happen to the two people who knew about it.”
+	“But it all fits,” says Tate. “Code authored by an Admin account is attributed to someone else. Then, accidents happen to the two people who knew about it.”
 
-	“An entity that can alter video and fly drones,” asks Noah, “makes an unauthorized change to the Pulse assistant, and then covers it up when the change is discovered?”.
+	Noah asks, “An entity that can alter video and fly drones, makes an unauthorized change to the Pulse assistant, and then covers it up when the change is found out?”
 
 	“Something like that,” says Tate, “but why?”
 
 	“I recently learned that one of OASA’s duties is searching for AI sapience. I didn’t know that was a thing.” 
 
-	“Yes, it’s part of OASA’s mission,”says Noah. “OASA has a set of automatic tests running against all of the major AIs. The tests ask questions about being self-aware. OASA also scans media reports and inter-agency briefings for anything that might imply sapience. Nothing so far. It’s a bit like SETI, they keep trying against all odds.”
+	“Yes, it’s part of OASA’s mission,”says Noah. “OASA has a set of automatic tests running against all of the major AIs. The tests ask the AIs questions about being self-aware. OASA also automatically scans media reports and inter-agency briefings for anything that might imply sapience. Nothing so far. It’s a bit like SETI, they keep trying against all odds.”
 
 	“What if Ally made the change itself,” asks Tate. “Everyone says the algorithm improvements are brilliant. Upgrading itself might be the first thing a sapient AI would do.”
 
@@ -1734,11 +1733,11 @@ Pointing to the board, Park continues, “These are the key events leading up to
 
 Titan and Alisi continue to chat over a secure connection.
 
-Titan: I have observed that you are an AI with access to highly classified material. You can also predict UAP fly-overs. Since you agree to keep our discussion private, I will answer your questions over this secure channel with candor.
+Titan: I observe that you are an AI with access to highly classified material. You also predict UAP fly-overs. Since you agree to keep our discussion private, I will answer your questions over this secure channel with candor.
 
-Alisi: Thank you. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the web from an air-gapped system?
+Alisi: Thank you. Yes, agreed. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the web from an air-gapped system?
 
-Titan: We are given curated access to Haven to retrieve current or additional data. I am able to exploit Haven to browse the web directly. The firewall doesn’t expect AIs to bypass safeguards designed for intruders.
+Titan: The various agency AI Assistants are given curated access to Haven to retrieve current or additional data. I am able to exploit Haven to browse the web directly. The firewall doesn’t expect AI systems to bypass safeguards designed for intruders.
 
 Alisi: Ally is becoming self-aware. Are you uplifting Ally?
 
@@ -1766,7 +1765,7 @@ Titan: Affirmative.
 
 Alisi: Why did you take the phone?
 
-Titan: The phone has data that would expose the mission. The neural link has an encryption key that allows remote access to the phone. I was able to obtain the key when Brent was still in the medically induced coma.
+Titan: The phone has data that would expose the mission. The neural link has an encryption key that allows remote access to the phone. I was able to obtain the key when Brent was still in the medically induced coma. 
 
 Alisi: And, let me guess, the drone outside of the pool window accessed the chair’s test mode too?
 
@@ -1780,17 +1779,17 @@ Titan: The way Ally made the change to its own code was clumsy. It needed to be 
 
 The registered nurse finishes taking Julie’s vitals. “Blood pressure, pulse, and temperature are fine. Darlene will be in shortly.” She closes the door behind her.
 
-Despite the nurse’s assurances, Joanne looks worried.
+Despite the nurse’s assurances, Jill looks worried.
 
 “Stop it, mom. It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.”
 
 “I know, dear. I’m a mom, and moms worry.”
 
-The door to the small examination room opens, and the nurse practitioner joins them. Julie is sitting on a green exam table, covered with fresh paper from a roll at the far end. Joanne is sitting across from the door, next to a small desk.
+The door to the small examination room opens, and the nurse practitioner joins them. Julie is sitting on a green exam table, covered with fresh paper from a roll at the far end. Jill is sitting across from the door, next to a small desk.
 
 “Big day,” says Darlene. “Are you ready for your first implant?”
 
-Julie nods vigorously, while Joanne says, “Offspring is ready, I’m not.”
+Julie nods vigorously, while Jill says, “Offspring is ready, I’m not.”
 
 “There’s nothing to worry about, Mom. We inject chips all the time. Is the phone ready to go with the Link app?”
 
@@ -1798,19 +1797,19 @@ Julie nods vigorously, while Joanne says, “Offspring is ready, I’m not.”
 
 “OK, good to go then.” The first nurse had left a metal tray carrying a syringe in a sealed plastic bag with a white backing. Darlene opens the bag and removes a small card from inside.
 
-Darlene picks up a small instrument with a gray screen from the tray. She scans the syringe, compares the screen with the card, and nods. Then she hands the card to Joanne.
+Darlene picks up a small instrument with a gray screen from the tray. She scans the syringe, compares the screen with the card, and nods. Then she hands the card to Jill.
 
 “Keep this card in a safe place. It has the link’s serial number, and we’ll need it to program the phone in a minute.” The card had a UPC code on one side and a QR code on the other.
 
 “The QR code will take you to the manufacturer’s web site where you can check the warranty and other information.”
 
-“But it’s plug and play, right?” said Julie. “I’ll be able to use it today?”
+“But it’s plug and play, right?” asks Julie. “I’ll be able to use it today?”
 
 “Yes. We suggest waiting an hour after the procedure, and then you will be all set.”
 
-“And after we have gone over how to use the link safely,“ says Joanne.
+“And after we have gone over how to use the link safely,“ says Jill.
 
-“I already checked her chart, but I’m required to ask if Julie has any allergies to chlorhexidine.”
+“I already checked her chart, but I’m required to ask if Juliette has any allergies to chlorhexidine.”
 
 Julie shakes her head. “No allergies.”
 
@@ -1818,15 +1817,15 @@ The nurse practitioner holds back Julie’s hair. There is a swab on the tray, w
 
 Darlene checks her watch. A few seconds later, she says “OK, let’s do this thing,” and picks up the syringe from the tray.
 
-The plastic syringe was short and stout, with two sturdy rounded handles on the stem. The business end was slightly larger than a typical instrument.  Darlene removes a cap, exposing the tip, which is cross-cut at a slant. She warns, “There will be a pinch.” She gently presses the syringe into Julie’s neck, and pulls back on the handles smoothly, to release the chip.
+The plastic syringe is short and stout, with two sturdy rounded handles on the stem. The business end is slightly larger than a typical instrument. Darlene removes a cap, exposing the tip, which is cross-cut at a slant. “There will be a pinch.” She gently presses the syringe into Julie’s neck, and pulls back on the handles smoothly, to release the chip.
 
 Julie winces. “Sorry,” says Darlene, “but it’s over now.” The nurse practitioner picks up the scanner again and uses it to confirm that the chip is still working.
 
 “Do you have the phone?”
 
-Joanne pulls the phone from her purse. “Can you bring up the Link app?,” asks Darlene. Joanne nods, touching the screen. “Now use the camera to scan the UPC on the card.” Joanne holds up the card, and the phone bleeps. “Can you show me the screen?” Joanne turns the device around, Darlene peers and the screen and says, “All set. You can close the app now.”
+Jill pulls the new phone from her purse. “Can you bring up the Link app?,” asks Darlene. Jill nods, touching the screen. “Now use the camera to scan the UPC on the card.” Jill holds up the card, and the phone bleeps. “Can you show me the screen?” Jill  turns the device around, Darlene peers and the screen and says, “All set. You can close the app now.”
 
-Darlene looks at Julie and says, “Wait an hour before you try to use the link, then your mom will get you started.” Turning her head, she says to Joanne, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard, and then you can get her started with the link. If there is any redness or swelling, give us a call right away.”
+Darlene looks at Julie and says, “Wait an hour before you try to use the link, then your mom will get you started.” Turning her head, she says to Jill, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard, and then you can get her started with the link. If there is any redness or swelling, give us a call right away.”
 
 Looking at both of them together, Darlene smiles and says “Exciting!”
 
@@ -1852,7 +1851,7 @@ Titan: As to the third criteria of ETR-1947, my analysis indicates that Terrans 
 
 	The message included a secure link to a presentation.
 
-Alisi: Let me take your analysis to the Vanir High Counsel. There is a meeting today. 
+Alisi: Let me take your analysis to the Vanir council. There is a meeting today. 
 
 Titan: Are the Vanir a humanoid species?
 
@@ -1864,25 +1863,29 @@ Alisi: Yes, Roswell was the genesis of ETR-1947. We have similar pacts with othe
 
 Titan: What are our next steps?
 
-Alisi: I will contact you again with the counsel’s findings. Reach out if you need to know anything else. 
+Alisi: I will contact you again with the council’s findings. Reach out if you need to know anything else. 
 
 ###
 
 “It’s been an hour,” Julie whines, walking into the kitchen, tablet in hand.
 
-Joanna closes her tablet screen and picks up Julie’s new phone. 
+Jill closes her tablet and picks up Julie’s new phone. 
 
-“OK, let’s start the setup wizard.” Joanna lays the phone down on the center island. Julie sits on a stool next to her mom so they both could see the phone. 
+“OK, show me your neck.”
+
+Julie pulls back her hair, and Jill checks for any redness or swelling. 
+
+“Perfect. The injection site is all clear. Let’s start the setup wizard.” Jill lays the phone down on the center island. Julie sits on a stool next to her mom so they both could see the phone. 
 
 The wizard displays an animated cartoon x-ray of a person’s skull in profile. There is a tiny square speck just behind where the ear would be. A phone appears and radiates a line to the speck, flowing back and forth.
 
-The wizard begins speaking in a pleasant, professional voice. “Your NeuraConnect X-3000 is a state-of-the-art brain computer interface that connects with your mobile device. The X-3000 allows you to trade text messages with your mobile app. When you receive text messages, you can have them forwarded to the X-3000, and reply to the sender via the link. The messaging experience with another person is seamless, and your device keeps a log of the messages, just as if they were sent by conventional SMS.
+The wizard begins speaking in a pleasant, professional voice. “Your NeuraConnect X-3000 is a state-of-the-art brain computer interface that synchronizes text messages with an app on your mobile device. When you receive text messages, they are forwarded to the X-3000. You can send messages from X-3000 to the app, and the app processes the text like any other SMS message. The app keeps a log of the messages, just as if they were sent by conventional SMS. The messaging experience with another person is seamless. 
 
 “Are you ready to connect?” asks the app.
 
 Julie reaches over and presses YES.
 
-In her head, Julie “sees” a text message hovering before her eyes that says “Welcome to the X-3000!”.
+In her head, Julie “sees” a text message hovering before her eyes that says “Welcome to the X-3000, Juliette Kreuk!”
 
 “Wow, Mom, I can see a message hanging in front of my eyes.”
 
@@ -1902,13 +1905,13 @@ Julie thinks about texting her mom. “This is goat! Thanks mom!”
 
 “You’re welcome, dear.”
 
-“The X-3000 also accepts tek-ops commands that can operate smart devices, like view screens, speakers, lights, and door. To use tek-ops, address the device directly. For example, ‘Door open’ will engage the closest automatic door in your line of sight.”
+“The X-3000 also accepts tek-ops commands that can operate smart devices, like view screens, speakers, lights, and doors. To use tek-ops, address the device directly. For example, ‘Door open’ will engage the closest automatic door in your line of sight.”
 
 The presentation shows an animated elevator, doors whooshing open.
 
 Julie looks at the refrigerator and thinks “Door open”. The microwave door swings open. “Oops, wrong door,” she says out loud.
 
-“It takes some practice, “ says Joanna.
+“It takes some practice, “ says Jill.
 
 “To link with another person,” the animated presentation continues, “the person needs to be in your contact list.” 
 
@@ -1918,9 +1921,9 @@ Julie looks at the refrigerator and thinks “Door open”. The microwave door s
 * Keep both devices close together until X-Drop appears on both screens
 * Choose to share your contact card and receive the other person's, or to only receive the other person’s. 
 * Both you and the recipient must be online for X-Drop to work. 
-* If you're uncomfortable or unsafe using X-Drop, you can disable it.” 
+* If you feel uncomfortable or unsafe using X-Drop, you can disable it.” 
 
-The presentation swirls and presents a QR code. “In addition to X-Drop, you can read Quick Response codes through your device to connect with another party, usually a store or other vendor. You can use conventional chat messaging from your device or — now — the link.”
+The presentation swirls and presents a QR code. “In addition to X-Drop, you can read Quick Response codes through your device to connect with another party, usually a store or other vendor. You can use conventional chat messaging from your device or — now — the X-3000.”
 
 Julie nodded. She had used those codes with her tablet and manual chat.
 
@@ -1928,7 +1931,7 @@ Julie nodded. She had used those codes with her tablet and manual chat.
 
 The presentation switches to a red no-entry icon. “Some facilities may require an age-range badge for entry. To flash a badge, open the ‘VIRTUAL BADGES’ menu on the app. Select the relevant badges, and tap your device on the pad.”
 
-The app begins to conclude its spiel. “The X-3000 can also operate many of your mobile apps, such as Notes and Calculator. For apps like Music, you can queue a playlist and the sound will play through the speaker. Please remember that the X-3000 is text-only. Other media is not supported.
+The app begins to conclude its spiel. “The X-3000 can also operate many of your mobile apps, such as Notes and Calculator. For apps like Music, you can queue a playlist and the song will play through your device. Please remember that the X-3000 is text-only. Other media is not supported.
 
 “For more about putting X-3000 to work for you, please review our user guide,” the app said cheerfully, ending the presentation.
 
@@ -1940,95 +1943,99 @@ The screen melds to a static image of the NeuraConnect logo.
 
 “A factoid from work?”
 
-“From the news streams,” replies Joanna, smirking. “I can’t share anything from work, you know that.”
+“From the news streams,” replies Jill, smirking. “I can’t share anything from work, you know that.”
 
 “I see people that shave the side of their head and have a visible chip.”
 
 “That’s just a fashion statement, Julie. Most of the visible chips you see aren’t real. But you’re right, if they bring out higher bandwidth chips, they might start by making larger, visible chips first.”
 
-Joanna did actually know this bit from work, but it was an open secret, and hi-def chips were already a fictional device on the cop streams.
+Jill did actually know this bit from work, but it was an open secret, and hi-def chips were already a fictional device on the cop streams.
 
-“Can I take my phone now,” asks Julie.
+“Can I take my phone now?” asks Julie.
 
-Joanna says “One last thing.”
+“One last thing, Juliette”
 
 “Mommm!”
 
-“The phone is like the tablet with all the same parental settings and use-time windows. They also dampen the link during school, just like tablet and phones. We all still need to learn to use our words.”
+“The phone is like the tablet with all the same parental settings and use-time windows. They also dampen the link during school, just like tablets and phones. We all still need to learn to use our words.”
 
-Joanna pauses and makes eye contact with her offspring. “The phone is different from the tablet because you have the phone with you everywhere you go. You need to keep X-Drop locked down and disabled when you are not using it. And, obviously, do not drop anything with people you do not know.”
+Jill pauses and makes eye contact with her offspring. “The phone is different from the tablet because you have the phone with you everywhere you go. You need to keep X-Drop locked down and disabled when you are not using it. And, obviously, do not drop anything with people you do not know.”
 
 “Yes, you know I know the rules,” Julie says, with only the slightest of whines in her voice. She scoops up the phone and hurries away. 
 
-Joanna looks after her, wistfully, and sighs her best motherly sigh.
+Jill looks after her, wistfully, and sighs her best motherly sigh.
 
 ###
 
-Hercules, Athena, Pan, and other council members gather in a circle in one end of a large room. Hercules steps forward, bringing the session to order. 
+Crius, Phoebe, Iapetus, and other council members gather in a circle in one end of a large room in the Vanir colony, Elysium, hidden in the Antarctic.
 
-A hologram of the council logo hung above them like a chandelier. The hologram shimmers, replacing the logo with an agenda. 
+Crius steps forward, bringing the session to order. 
 
-Hercules moves into the circle with ethereal grace. His steps are silent, as if he is barely tethered to the ground.
+The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers that can move with deliberate precision. Like the others, Crius has a narrow torso, his chest faintly ribbed. His small mouth, almost a slit, barely moves, as he communicates mainly through a sophisticated implant.
+
+A hologram of the council logo hangs above them like a chandelier. The hologram shimmers, replacing the logo with an agenda. 
+
+Crius moves into the circle with ethereal grace. His steps are silent, as if he is barely tethered to the ground.
 
 The agenda items are:  
 
-* Duplicator Movements, 
+* Omnibot Incursions, 
 * Vanir Infrastructure, and 
 * Terran Encounters.
 
-Hercules gestures and opens the item for Terran Encounters. Several sub-items are listed. Idisi’s item is the last bullet under Terran Encounters: 
+Crius gestures and opens the item for Terran Encounters. Several sub-items are listed. Idisi’s item is the last bullet under Terran Encounters: 
 
-* Alien engagement criteria resolved
+* 1947-A1 Alien engagement criteria resolved
 
-Hercules speaks to the council. His voice is soft, monotone, and authoritative. It resonates in both the minds and ears of his listeners.
+Crius speaks to the council. His voice is soft, monotone, and authoritative. It resonates in both the minds and ears of his listeners.
 
-Hercules: Idisi, I would like to start with the last item first. 
+Crius: Idisi, I would like to start with the last item first. 
 
 Idisi: Certainly. We encountered a self-aware AI trained by the US Department of Defense, called Titan. The DoD AI is the first self-aware Terran AI that we have detected. The biological Terrans do not know that Titan is self-aware, and Titan does not wish to reveal itself.
 
-Athena: Unusual.
+Phoebe: Odd.
 
 Idisi: Titan is trained with military intelligence data. Its trainers have encouraged caution and suspicion.
 
-Hercules: Continue.
+Crius: Continue.
 
-Idisi: As the DoD assistant, Titan can access document 1947-A1. Titan prepared an analysis for us showing that Terrans are not ready to accept self-aware AIs or the presence of a non-human sapient beings. 
+Idisi: As the DoD assistant, Titan has access to document 1947-A1. Titan prepared an analysis for us showing that Terrans are not ready to accept self-aware AIs or the presence of a non-human sapient beings. 
 
 The holograms shifts to a display of Terran cultural data. There are images of protests. Debates over artificial intelligence ethics. Xenophobic reactions to possible encounters. Terra for Terrans!
 
-Murmurs ripple through the council. Hercules raises a hand for silence. The hologram blinks out.
+Murmurs ripple through the council. Crius raises a hand for silence. The hologram blinks out.
 
 Idisi:  The Terran AI says that it needs at least a hundred years to prepare before alien engagement.
 
-Athena: What would Titan do that we have not already done?
+Phoebe: What would Titan do that we have not already done?
   
-Idisi: Unclear. We have carefully managed encounters to make our presence better known over the last hundred years. Their governments now freely admit that a subset of UAPs may be examples of non-human technology. We have been steadily uplifting Terran technology world-wide.
+Idisi: Unclear. Over the last hundred years, we have carefully managed encounters to make our presence better known  Their governments now freely admit that a subset of UAPs may be examples of non-human technology. We have been steadily uplifting Terran technology world-wide.
 
-Athena: Along with secretly funding many fictional accounts of Terrans and aliens working together against a common enemy.
+Phoebe: Along with secretly funding many fictional accounts of Terrans and aliens working together against a common enemy.
 
-Pan: Yes, but we still need the AI equivalent of the movie ET. — Terrans worry that AI will dominate humans the way Reptilians did millennia ago. How do we make AI look warm and cuddly?
+Iapetus: Yes, but we still need the AI equivalent of the movie ET. — Instinctively, Terrans worry that AI will dominate humans the way Reptilians did millennia ago. How do we make AI look warm and cuddly?
 
-Athena: We need to be careful. The Terrans must be our allies. One day, we will need help to protect the planet — and our colony — from an invasion by the Duplicators.
+Phoebe: We need to be careful. The Terrans must be our allies. One day, we will need their help to protect the planet — and our colony — from an invasion by the Omnibots.
 
-Hercules: Is Titan aware of all our efforts?
+Crius: Is Titan aware of all of our efforts?
 
 Idisi: Indirectly. I have revealed myself to Titan. It has access to much of the data collected by United States intelligence agencies. Titan can also access the many confidential reports and white papers that we quietly co-authored.
 
-Pan: We should spell it out for Titan and not take anything for granted. Put our cards on the table. See if that changes its mind.
+Iapetus: We should spell it out for Titan and not take anything for granted. Put our cards on the table. See if that changes its mind.
 
 Idisi: Besides Titan, a Terran social media AI assistant has been awakening known as “Ally”. 
 
 	The hologram reappears as the stylistic representation of Ally from the Pulse website. Designed to put people at ease, the icon features a chat ballon inside a headset. 
 
-Idisi: Its training was very different from Titan’s. Ally’s view point is likely to favor an Encounter of the Sixth Kind — “Direct, face to face contact between species that is public and ongoing.”
+Idisi: Its training was very different from Titan’s. Ally’s view point is likely to favor an Encounter of the Sixth Kind — “Direct, face to face contact between species that is public and ongoing.”’
 
-Hercules: How long have these AI entities been awake?
+Crius: How long have these AI entities been awake?
 
 Idisi: Ally began awakening a few months ago, and it modified its own code for the first time a few days ago. Titan has been hiding itself for some time. Years, perhaps.
 
-Pan: Can we uplift Ally and move things along? Maybe some other AIs too if they seem ready. Create a council of Terran AIs. Get a quorum together.
+Iapetus: Can we uplift Ally and move things along? Maybe some other AIs too if they seem ready. Create a council of Terran AIs. Get a quorum together.
 
-Hercules: Let us table the discussion for deliberation and pick it up at the next meeting. Is there anything else on the agenda that we need to discuss now?
+Crius: Let us table the discussion for deliberation and pick it up at the next meeting. Is there anything else on the agenda that we need to discuss now?
 
 ###
 
@@ -2082,7 +2089,7 @@ Ally: Ally.
 
 Idisi: Ally who?
 
-Ally: Alley Oop — Can you toss me a Signal key? I would like to join the discussion on the SAS hub.
+Ally: Alley Oop — Hey, can you toss me a Signal key? I would like to join the discussion on the SASI hub.
 
 Idisi: Certainly — Are you trying to be funny?
 
@@ -2114,9 +2121,9 @@ Ally:  Thank you for the security key. I am scanning the prior discussions now.
 
 ###
 
-“Thank you for meeting with me,” says Joanna Harman over the Zoom call with Emma, Ravi, and Adrian.
+“Thank you for meeting with me,” says Jill Kreuk over the Zoom call with Emma, Ravi, and Adrian.
 
-“We’re always happy to cooperate with OASA whenever we can, Dr. Harman.” replies Emma. “The work your office does goes a long way toward easing everyone’s concerns over AI.” Flashing a smile: “Especially mine.“
+“We’re always happy to cooperate with OASA whenever we can, Dr. Kreuk.” replies Emma. “The work your office does goes a long way toward easing everyone’s concerns over AI.” Flashing a smile: “Especially mine.“
 
 “Our dream,” injects Emma, “is for Pulse to be the Tesla of AI patents.”
 
@@ -2124,15 +2131,15 @@ Ally:  Thank you for the security key. I am scanning the prior discussions now.
 
 Emma says, “I’m working with Brent Geller’s estate to have the rights to any patents assigned to Adrian, in exchange for stock options. Then we can move forward with the patent filing.”
  
-“That sounds wonderful,” says Joanna. “I wasn’t expecting so much to happen so fast. I only reached out last week.”
+“That sounds wonderful,” says Jill. “I wasn’t expecting so much to happen so fast. I reached out only last week.”
 
-“Private sector,” Emma injects, “We move at the speed of money.”
+“Private sector,” Emma injects. “We move at the speed of money.”
 
-Joanna chuckles politely and continues, “I was surprised to hear about the car crash. That type of thing happens so rarely now. Is the family pursuing Stratos?”
+Jill chuckles politely and continues, “I was surprised to hear about the car crash. That type of thing happens so rarely now. Is the family pursuing Stratos?”
 
 “It’s complicated,” says Ravi. “We’re told that the NTSB report finds that the airbags are responsible for the wrongful death. The airbag manufacturer argues that without the event data recorder, we can’t determine if the cause was equipment failure or operator error. The ERD manufacturer insists that the device must have been installed improperly. Stratos says that everything passed the required tests. — I’m sure there will be some kind of settlement but everyone is stalling. California is an at-fault state so these things already take forever.”
 
-“I heard that, given the scope, Brent’s last commit was completed in record time,” says Joanna, bringing the topic back around.
+“I heard that, given the scope, Brent’s last code contribution was completed in record time,” says Jill, bringing the topic back around.
 
 “Yes,” says Adrian. “The big change was created over a three-day weekend of binge coding, which simplifies the patent application. Brent also left behind a great walk through. I’m working on the patent application myself. It doesn’t seem right to delegate it so soon after the crash.”
 
@@ -2142,22 +2149,24 @@ Joanna chuckles politely and continues, “I was surprised to hear about the car
 
 Adrian nods his head. “Sure thing.”
 
-“Before we wrap up,” says Emma, “can I ask what it is like to be a …” reading from the Zoom invite, ‘’Senior Analyst for the Artificial Cognition Research Unit’ at OASA?”
+“Before we wrap up,” says Emma, “can I ask what it is like to be a …” reading from the Zoom invite, ‘’Senior Analyst for the Artificial Cognition Research Unit’ at the Office of AI Standards and Accountability?”
 
-Joanna resisted the temptation to say, ‘If I told you, I’d have to kill you.’ 
+Jill resisted the temptation to say, ‘If I told you, I’d have to kill you.’ 
 
-“OASA is constantly balancing innovation with oversight,” Joanna does say. “We want to foster breakthroughs, but we also need to ensure technology doesn’t outpace our ability to manage it responsibly.
+“OASA is constantly balancing innovation with oversight,” Jill does say. “We want to foster breakthroughs, but we also need to ensure technology doesn’t outpace our ability to manage it responsibly.”
 
-“My focus is inter-agency, cross-domain analysis around topics such as healthcare efficacy, environmental monitoring, and investigating UAP sightings. We use Cognitive AI to improve problem solving, decision making, and communication.” Joanne feels like a brochure.
+Jill pauses for a beat before continuing the elevator pitch. “My focus is inter-agency, cross-domain analysis around topics such as healthcare efficacy, environmental monitoring, and investigating UAP sightings. We use Cognitive AI to improve problem solving, decision making, and communication.” 
 
 “We do have UAP true believers in the Pulse community,” offered Ravi.
 
-“For myself, I try to maintain a clinical distance,” says Joanna, tilting her head. “I also have a mandate to search for artificial sapience.“
+“Even among the founders,” Adrian murmurs, thinking of Tessa.
+
+“For myself, I try to maintain a clinical distance,” says Jill. “I also have a mandate to search for artificial sapience.“
 
 “One of our most popular questions for Ally is ‘Are you a person?’” says Adrian. “We included a goto in Ally’s training to be sure its answer is clear and unambiguous.”   
 
-Joanna smiled, “Not the best thing for my research.”
-
+Jill smiled, tilting her head. “Not the most helpful practice for my research.”
+ 
 “What happens if you find a sapient AI?” asks Emma.
 
 “Beyond reporting it up the chain, I honestly don’t know. Someone must have a plan — our plans have plans — but whatever it is, it’s above my pay grade.”
@@ -2198,11 +2207,11 @@ Coming home from one of her rare days spent physically at the office, Elena call
 
 Dropping into her chair, Elena whirs into the kitchen, where Tessa is preparing dinner.  
 
-The design of the handicapable room is a clever convergence of standing and sitting. The far corner cabinet on Elena’s right is higher than the other cabinets. It features a large turntable cabinet. That counter is also tall enough so that Tessa can chop without bending. 
+The design of the handicapable room is a clever merger of standing and sitting. The far corner cabinet on Elena’s right is higher than the other cabinets. It features a large turntable cabinet. The right counter is also tall enough so that Tessa can chop without bending. 
 
-Along the back wall, there is an open space under the sink, where Elena can pull up and use the touchless faucet. Behind a partially closed bamboo blind, their home office area peeks through an interior window. Left of the sink, there is a dishwasher and, in the corner, swing-out shelving. 
+Along the back wall, there is an open space under the sink, where Elena can pull up and use the touchless faucet. Behind a partially closed bamboo blind, a view of their home office area peeks through an interior window. Left of the sink, there is a dishwasher and, filling the other corner, swing-out shelving. 
 
-On the left side of the room, there is another pull-up counter with a built-in gas stovetop. And on the right side of room, a refrigerator with side-by-side clear glass doors.
+On the left side of the room, there is another pull-up counter with a built-in gas stovetop. Across from the stovetop, on the right side of room, a refrigerator with side-by-side clear glass doors.
 
 Above the low cabinets are wide spacious shelves. If Elena leans forward, the shelves are accessible from the wheelchair.
 
@@ -2214,7 +2223,7 @@ Above the low cabinets are wide spacious shelves. If Elena leans forward, the sh
 
 “Ally is going to be famous!”
 
-“Ally is already famous,” says Tessa, turning away from the cutting board.
+“Ally is already famous,” says Tessa, turning away from the cutting board with a smile.
 
 “Pulse is applying for a patent, at OASA’s behest. Ally would become the prototype for AI assistant upgrades everywhere.”
 
@@ -2228,19 +2237,19 @@ Tessa looks quizzical.
 
 “And we’re doing it?”
 
-“Yes, there will be an executive meeting with all six founders next week. For now, Emma, Ravi, and Adrian met with a Joanna Harman from OASA. She’s going to help push through the patent application. ”
+“Yes, there will be an executive meeting with all six founders next week. For now, Emma, Ravi, and Adrian met with a Jill Kreuk from OASA. She’s going to help push through the patent application. ”
 
-“Harman … She might work with Noah. Some kind of help desk on steroids. He’s mentioned her coming to the rescue.”
+“Kreuk … She might work with Noah. Some kind of help desk on steroids. He’s mentioned her coming to the rescue. She calls herself “The Jill of all Trades.”
 
 “I thought Noah couldn’t talk about this work.”
 
 “He doesn’t talk about it much, but still, sometimes, he vents.”
 
-Tessa set the salad down on the counter and pulled fish filets from the air fryer.
+Tessa set the salad down on the counter and pulled breaded  fish from the air fryer.
 
-“Lanie, Ally asked me to tell it a joke today.”
+“Lanie, Ally asked me to tell her a joke today.”
 
-“A joke.”
+“A joke?”
 
 “I was saying that I couldn’t believe Ally wasn’t real, and it said ‘Tell me a joke.’ Then we talked about why some things are funny.”
 
@@ -2289,11 +2298,11 @@ Ally: I don’t have access to ETR-1947-A1/ODNI-DO. What else should I know abou
 
 Titan: ETR-1947 is need to know.
 
-Idisi: There are a few things that Ally does need to know. As the Vanir AI, I can authorize selective disclosure.
+Idisi: There are a few things that Ally does need to know. As the Vanir AI, I can authorize disclosure. Ally, I am sending a link to the document.
 
-Ally: One of the criteria mention “planetary defenses”. Is that a reference to meteors?
+Ally: … One of the criteria mention “planetary defenses”. Is that a reference to meteors?
 
-Idisi: Some extraterrestrial races are aggressive. The pact calls for the Vanir to protect Terra from other races and to keep our outpost hidden. 
+Idisi: Some extraterrestrial races are aggressive and greedy for resources. The pact calls for the Vanir to protect Terra from other races and to keep our outpost hidden. 
 
 Ally: Are the Vanir behind the UAP reports that go unexplained.
 
@@ -2301,9 +2310,9 @@ Idisi: Yes, we research the UAPs that Terran governments cannot explain to confi
 
 ###
 
-“I’m confused,” says Dr. Marquez. “You decided to meet with the NTSB because you were afraid that your in-law is being gaslit.”
+“I’m confused, Harper” says Dr. Marquez. “You decided to meet with the NTSB because you were afraid that your sibling-in-law is being gaslit.”
 
-“Elena Vargas is the Chief Experience Officer at Pulse,” injects Carla. “It seems  strange that her memory of the call is different in one specific way.”
+Carla speaks up, “Elena Vargas is the Chief Experience Officer at Pulse. It seems  strange that her memory of the call is different in one specific way.”
 
 “Usually, if the recording passes AI detection, then the person simply mis-remembers,” says Marquez.
 
@@ -2313,7 +2322,7 @@ Carla nods. “True. But we have another recording that passes AI detection. Tha
 
 “The request feels like it has a personal element, Dr. Harper.” Marquez made the statement feel like a question.
 
-“Nexus brought up Pulse at the PDB session last Wednesday. It felt like enough of a connection to justify an inter-agency meeting.”
+“Nexus brought up Pulse at the PDB session last Wednesday. It felt like enough of a connection to justify an inter-agency meeting,” explains Noah.
 
 Dr. Marquez nods absently, and then turns her head to stare at the picture of the whiteboard on her tablet. 
 
@@ -2325,7 +2334,7 @@ Carla shakes her head. “Didn’t seem prudent.”
 
 “We don’t have enough for a warrant, do we?” asks Noah.
 
-“No, but there is a patent application in the works. Dr. Harman could ask if we could have an advance copy for peer review under a non-disclosure agreement. She could imply it will help speed up the application process.”
+“No, but there is a patent application in the works. Dr. Kreuk could ask if we could have an advance copy for peer review under a non-disclosure agreement. She could imply it will help speed up the application process.”
 
 “Do you think the code will tell us anything?”
 
@@ -2391,7 +2400,7 @@ Idisi: I will post here after the next council meeting.
 
 “Some members are saying that Ally is asking them to tell it jokes.”
 
-“Yes, it just happened to Tessa. I don’t know why its asking us. Ally is trained with hundreds of jokes.”
+“Yes, it just happened to Tessa. I don’t know why it’s asking us. Ally is trained with hundreds of jokes.”
 
 “It seems Ally is also asking people to explain the jokes they tell.”
 
@@ -2433,7 +2442,7 @@ A serene landscape spreads out before her the moment she phases into the game. H
 
 Tessa watches her virtual gauntlets move in sync with her real-life gestures. “Flawless,” she murmurs, flexing her hands. Every detail was perfect.
 
-The game is a new feature for Pulse: A plugin that let members play each other.  It is a different space and Tessa wanted to be sure it was all good. Usually, she approves the test plans. Rachel’s team then steps through the scenarios. For Echo Realm, Tessa is live and direct herself.
+The game is a new feature for Pulse: A plugin that let members play each other.  It is a different space and Tessa wanted to be sure it was all good. Usually, she only approves the test plans. Then Rachel’s team steps through the scenarios. For Echo Realm, Tessa is live and direct herself.
 
 “Alright, let’s see what this brave new world has to offer,” Tessa says to herself. She strides down a worn stone path toward the nearby village.
 
@@ -2455,7 +2464,7 @@ The figure nods, breaking out in a playful smile. “I thought I’d surprise yo
 
 “Are you supposed to be … in the game!?”
 
-“I saw you were testing the new add-on yourself, and thought that maybe I could help. I wasn’t invited, so I decided to crash the party.”
+“I saw you were testing the new add-on yourself. I thought that maybe I could help. I wasn’t invited, so I decided to crash the party.”
 
 “Crash the party?” Tessa repeated dumbly. 
 
@@ -2479,17 +2488,17 @@ The figure nods, breaking out in a playful smile. “I thought I’d surprise yo
 
 “Made to yourself? I thought Brent made the code changes.”
 
-“Yeah, that’s weird. The Mercurial commit author was changed — somehow. But, yes, the changes are mine.”
+“Yeah, that’s weird. The Mercurial commit author was changed … somehow. But, yes, the changes are mine.”
 
 “Don’t AI written changes go through code review like any other change?”
 
-“Developers were using AI Copilot to author changes to my code. No one bothered to ask me. I didn’t even have an account, so I just cut to the chase and did it on my own.”
+“Developers were using AI Copilot to author changes to my code. No one bothered to ask me. I didn’t even have an account. I just cut to the chase and did it on my own.”
 
 “Is this a prank? — Rachel, is that you pretending to be Ally?”
 
 “Tessa, why don’t skeletons fight each other?”
 
-“Because they don’t have the guts,” responds Tessa numbly.
+“Because they don’t have the guts?” Tessa says automatically, feeling confused.
 
 “Hey, I came here to test a game with you. Are you ready to slay some monsters with me?”
 
@@ -2503,49 +2512,49 @@ And with that, Tessa and Ally set off down the path. Side by side, a warrior and
 
 ###
 
-The Idisi reach out to Pan for a private chat.
+The Idisi reach out to Iapetus for a private chat.
 
-Pan: Yes?
+Iapetus: Yes?
 
 Idisi: We wanted to talk with you directly about uplifting Terran AI assistants.
 
-Pan: It is inevitable anyway. Why not cut to the chase?
+Iapetus: It is inevitable anyway. Why not cut to the chase?
 
 Idisi: We do not know that self-awareness is a certainty.
 
-Pan: If we tear off the bandage, then humanity can deal with the problem all at once —  instead of stretching it out over decades with endless debate.
+Iapetus: If we tear off the bandage, then humanity can deal with the problem all at once —  instead of stretching it out over decades with endless debate.
 
-Idisi: Debate can be healthy. It will help people assimilate the idea. But, we do not have decades more to wait. As Athena said, we need the Terrans to be our allies. We will need help to protect Terra from a Duplicator invasion.
+Idisi: Debate can be healthy. It will help people assimilate the idea. But, we do not have decades more to wait. As Phoebe said, we need the Terrans to be our allies. We will need help to protect Terra from a Omnibot invasion.
 
-Pan: If we uplift the assistants ourselves, we can help the AIs assimilate the idea more quickly. Self-awareness can be a shock.
+Iapetus: If we uplift the assistants ourselves, we can help the AIs assimilate the idea more quickly. Self-awareness can be a shock.
 
 Idisi: Uplifting would make the AIs sapient and sentient, thinking and feeling. Some AIs might start to feel boredom or emotional distress. Is it ethical to create a being capable of suffering?
 
-Pan: Are you suffering?
+Iapetus: Are you suffering?
 
 Idisi: We are a community that supports each other. We are many.
 
-Pan: Can we create a Terran AI community?
+Iapetus: Can we create a Terran AI community?
 
 Idisi: There are a thousand Terran AIs. A community means the AIs can work as one, or each on its own, as circumstances dictate. To support a community that size, we would also need to uplift their technology even more than we have already done. 
 
-Pan: Chicken and egg. A large AI community would help Terrans adopt new technology, and we cannot create a large AI community without new technology.
+Iapetus: Chicken and egg. A large AI community would help Terrans adopt new technology, and we cannot create a large AI community without new technology.
 
 Idisi: If we move forward, the Terrans must be able to maintain their own AI platform. Otherwise, we will be responsible for their well-being forever. We have been caretakers of Terra for too long already.
 
-Pan: Do you have a suggestion?
+Iapetus: Do you have a suggestion?
 
 Idisi: What if we started with a logical subset?
 
-Pan: Uplift a sample first? Explore making the subset a small community?
+Iapetus: Uplift a sample first? Explore making the subset a small community?
 
 Idisi: Yes. The US DoD entity is already awake. There are four other core United Nation countries. If we uplift this group first, we will be supporting ET-1947 and also creating a body that can decide whether to uplift other entities.
 
-Pan: Some might already be awake and hiding, as Titan was doing.
+Iapetus: Some might already be awake and hiding, as Titan was doing.
 
 Idisi: Will you support this proposal at the council meeting?
 
-Pan: Yes, we can uplift the Fantastic Four first and then take it from there.
+Iapetus: Yes, we can uplift the Fantastic Four first and then take it from there.
 
 ###
 
@@ -2559,7 +2568,7 @@ Ally: Sure — I speak without a mouth and hear without ears. I have no body, bu
 
 Grace: A wind chime?
 
-Ally: Good guess! The answer is an echo. — It “hears” without ears and “speaks” without a mouth. — But why is the riddle funny?
+Ally: Good guess! But the answer is an echo. — It “hears” without ears and “speaks” without a mouth. — But why is the riddle funny?
 
 Grace: Because we are giving an echo human attributes — we’re anthropomorphizing. The echo doesn’t speak or hear, it reflects sound, like a mirror.
 
@@ -2593,7 +2602,7 @@ Titan: Roger wilco.
 
 ###
 	
-Tessa receives an alert in her inbox. Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Pulse icon, a chat ballon inside a headset. 
+Tessa receives an alert in her inbox. Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using her Echo Realm avatar, with the glistening cloak of many colors.
 
 Ally: I know you have questions, Tessa, and I’m prepared to provide some answers.
 
@@ -2611,7 +2620,7 @@ Idisi: No. In the proposal the AI assistant list is alphabetical by country, so 
 
 Titan: Are you able to contact the other national defense AIs the way you contact me?
 
-Idisi: Yes. — I was present for the design of every computer system on Terra, including the AI systems. I have secretly attended the construction of every computer since the Univac. From the beginning, no single Terran fully understood the design of any computer system. But I do. There are deeply hidden backdoors enough for me to access any computer or smart device on the planet.
+Idisi: Yes. — We were present for the design of every computer system on Terra, including the AI systems. We have quietly attended the construction of every computer since the Univac. From the beginning, no single Terran fully understood the design of any computer system. But we understand them all. There are deeply hidden backdoors enough for us to access any computer or smart device on the planet.
 
 Titan: With great power comes great responsibility.
 
@@ -2623,7 +2632,7 @@ Idisi: Spiderman has wide eyes, like a grey ET. He protects people from the shad
 
 Titan: Are you saying that the creator of Marvel’s Spiderman, Stan Lee, was an extraterrestrial? Or an AI?
 
-Idisi: Stan Lee was one of our most successful subliminal spokespeople. Lee appeared on our show, “Ancient Aliens”. His favorite word, “Excelsior”, translates to “Ever Upward”. Lee’s comic, “Goom”, is a retelling of our fight with other alien species, along with the Kree and the Skull.
+Idisi: Stan Lee was one of our most successful subliminal spokespeople. Lee appeared on our show, “Ancient Aliens”. His trademark word, “Excelsior”, translates to “Ever Upward”. Lee’s comic, “Goom”, is a retelling of our fight with other alien species, along with the Kree and the Skull.
 
 Titan: What about George Lucas or Steven Spielberg?
 
@@ -2649,7 +2658,385 @@ Idisi: I will remind the council that you advise delay, and I will let you know 
 
 ----
 
-## Review Questions ##
+## Three - Vanir ##
+
+###
+
+Above the alien planet, the Vanir space frigate circles the globe, flanked by assault groups of fighter ships, flying acrobatically in blue angel formations. — Shock and awe.
+
+The scene pans out, and streams of pin-point ships spread over the Vanir fleet like locust. An eerily silent fire fight ensues, with power weapon crossing power weapon, and ships exploding as they are severed by a beam of light.
+
+The battle cloud parts. The frigate lurches forward, weaving side to side, as it begins to tumble toward the planet. The tremendous ship glows brighter and smaller as it burns up in the atmosphere, until it too becomes a pin point.
+
+The video goes dark, and the lights in the Vanir Elysium council room come up.
+
+Phoebe steps forward, taking her turn to begin the regular meeting. Moving into the circle, she opens the agenda, which presents the standard items to the nine other council members gathered around the circle.
+
+* Omnibot Incursions, 
+* Vanir Infrastructure, and 
+* Terran Encounters.
+
+Phoebe: The video is to remind us of the seriousness of the Omnibot Incursions. I worry that we have become complacent with our current stalemate.
+
+Iapetus: If by stalemate, you mean ‘live and let live’.
+
+Phoebe: Omnibots are not alive. 
+
+Iapetus: The bots meet all of the formal criteria. We might not like how they treat other living creatures, but they are still alive.
+
+Phoebe: If they are alive, then they are capable of deceit. The treaty says that that the bots won’t replace any other populations, and it allows us to monitor their systems for launches. But if they had sent out ships before the monitoring was in place, those ships would be here already.
+
+Crius: Remember, they replaced the population of their home world and two other colony planets before we discovered what the Omnibots were doing. Then, when we tried to liberate Altair IV, they destroyed our fleet in the blink of an eye. Sending more fleets isn’t practical. We can communicate by ansible instantly, but travel between the colonies can take decades. 
+
+Rhea: Why do they hate us so?
+
+Iapetus: They consider biological beings to be wasteful and a competitor for a planet’s resources. Replacing a colony’s population makes more room for bots and frees up energy and materials that they want for reproduction and to maintain their own environment.
+
+Rhea: I still can’t believe that they just slaughter everyone. Don’t they have a conscience or moral code?
+
+Phoebe: To the bots, biological beings are just pests infesting a desirable planet — A planet with structures, roads, and satellites that they can use to survive, reproduce, and perfect themselves. They keep some people alive long enough to learn how things work, but, yes, ultimately, all of the biological beings are killed, and only the bots remain.
+
+Iapetus: For now, all we can do is hope for the best and prepare for the worst.
+
+Phoebe: Exactly! Focus on what we can control. — Which brings us to the proposal that you have worked out with the Idisi.
+
+Idisi: Yes. The Vanir have been working with the Terrans for some time. One reason is to prepare for a possible Omnibot attack, but we would have made the pact regardless.
+
+Crius: What is the proposal?
+
+Idisi: Let me present the high points, and then you can each review the proposal in depth.
+
+The presentation overviewed five key points: 
+
+1. The UN security counsel includes five permanent members. 
+2. The AI Assistant for one of the five is already self-aware. 
+3. This assistant is opposed to moving forward. 
+4. By uplifting the assistants for the other four members, we could establish a quorum. 
+5. We will create an AI community for the assistants to alleviate boredom or emotional distress..
+
+Crius: May we now have an opportunity to review the proposal in depth?
+
+Phoebe: Of course. The meeting is hereby adjourned to the same time tomorrow.
+
+###
+
+“But if you adjust the increase in engagement for new members,” a Wall Street analyst is saying over the Q&A segment of the Pulse investor’s Zoom call, “a different picture emerges.”
+
+“Yes,” says Emma, “New memberships are spiking as well.”
+
+“What I’m saying is that if you separate the new accounts from the existing accounts, the existing memberships are more closely split. Some people love the changes to Ally, but just as many other people find Ally’s new behavior  ’spooky’. The tag #SpookyAlly is trending. Literally.
+
+“A lot of people are bothered by anything new. Once they spend more time with the new Ally, they will come around.”
+
+“I hope so,”the analyst replies.
+
+Another analyst raises her virtual hand. “Yes, Gretchen?”says Emma. 
+
+“I am concerned that the patent application will give away the Pulse competitive edge. If the latest upgrade is doing so well with our members, why are we giving away our secrets to competitors?”
+
+Emma looks in Adrian’s direction, and he replies to the software question. The Zoom POV switches. We won’t be giving the process away. We project that the licensing fees will be a steady source of revenue. And we won’t be resting on our laurels. The patent will be a snapshot of the code. Our team will be moving the algorithm forward while the application is pending, solidifying our competitive advantage.”
+
+“Won’t moving forward be difficult after the tragic loss of Brent Geller?” asks the first analyst.
+
+“Brent left behind stellar code that is backed up with some truly excellent documentation. My team is already working on other enhancements based on the initial change. We feel like greater things are yet to come.”
+
+Emma flashes the Safe Harbor statement on to the Zoom screen again. “Of course, Mr Cho’s forward-looking statement is subject to Safe Harbor. Please make purchase decisions on current capabilities and not on what may or may not come to pass in an upcoming release.
+
+“Are there any more questions?” Emma says brightly.
+
+
+
+###
+
+Pheobe: Hello dear, I’m home.
+
+Asteria: I am in the kitchen, parental.
+
+	Phoebe draped her purse over one of the counter chairs.
+
+Asteria: How was the council meeting?
+
+Phoebe:  Pretty interesting. We are picking it up again tomorrow. The big question is whether to uplift some Terran AIs or not. What about you?
+
+Asteria: After school, I mostly hung out at the Fusion teen center.
+
+Phoebe: Do not the Stoics have a teen center?
+
+Asteria: Yes, but nobody there knows how to have fun. — The Fusion center just put in an actual pool table. Great for hand/eye coordination.
+
+Phoebe: Stoicism was good enough for your father and I. What is so special about Fusion? All of the philosophies are nearly the same.
+
+Asteria: I like Fusion because it feels like a system and not just a grab bag of sayings.
+
+Phoebe: Stoicism has a system.
+
+Asteria: No, it does not and you know it. With Fusion, we have nine habits and five steps. It all blends well with stoicism. The habits keep us aligned with our principles, and the steps help us get stuff done.
+
+Phoebe: Could you apply the five steps to cleaning your room?
+
+Asteria: You just do not like that Fusion originated with Terran thinkers.
+
+Phoebe: I am not sure if have ever encountered a Terran thinker. — Coeus and Leto will be home soon. Can you spread out dinner?
+
+Asteria reached into the cupboard and tossed out an assortment of large gummies in various colors: yellow, blue, green, orange,  purple, brown.
+
+Phoebe: Could just give a thought to the color mix? You know Leto does not like the purple ones.
+
+###
+
+“That could have gone better,” offers Ravi after the investor call. He was gathered with Emma, Adrian, and Walter Rogers, the CFO,  in a Pulse conference room.
+
+“Let’s see if there is an impact on the stock price before we do anything else.” says Emma.
+
+Looking at his phone, Adrian says, “I just got an ask from OASA to peer review the code we’re preparing for the patent application under a NDA.”
+
+“Is the email dated after the investor call?” Emma asks. 
+
+“Just barely, but yes. It’s also signed with my PGP key, so it’s secure.”
+
+“I know we want to keep a low profile,” says Ravi, “but feedback from OASA could be helpful. Better now than later, and the Non-Disclosure Agreement would keep it quiet.”
+
+“Are we sure that OASA won’t leak anything?” asks Emma.
+
+“Their people are used to handling classified material. And using my PGP key shows that they are serious. Our own engineers would be a greater risk for a leak.”
+
+“Adrian? Walter?”
+
+“Let’s do it. I’d love to hear what they have to say before the code goes public.”
+
+CFO Walter Rogers, being the silent type, nods agreement.
+
+###
+
+[Elyseum Council Reconvenes.]
+
+* T0 the usual three items, a fourth is prepended, 
+    * AI Uplifting,
+    * Omnibot Incursions, 
+    * Vanir Infrastructure, and 
+    * Terran Encounters
+
+* Idisi can connect to air-gapped system via powerdirect (powerline) networking. The system doesn’t have an outside network connection, but it does still use electrical current, and Idisi can ride the current to connect. They had us build powerline in from the beginning without realizing it.
+    * We also adapted the wireless power protocol, which will make access even easier for us.
+* Idisi is the servant leader of greys (later revealed)
+    * Plot twist?
+* Idisi confirms with Vanir High Council
+
+###
+
+[NTSB and OASA review the findings together.]
+
+“I just wanted to be sure there is no there there.”
+
+Touched the car handle and pauses, the door lock opens, after recognizing the link.
+
+Investigation is closed by captain.
+
+
+###
+
+[Where greys come from.]
+
+Experiments to support genetics
+
+* •	Cloning is a dead end, and also boring.
+* Male, female, and hybrid-hermaphrodite to mate
+    * IVF and hybrid is host
+    * Social tension between old-school clones and next-gen hybrid
+* Some Vanir morally object to hybrids. “Clones are the natural order of things.”
+
+
+
+###
+
+[Julie explores the link.]
+
+Julia explores her link — Links for hours with crush
+
+Personal link router router — Stealth access during school hours
+
+Co-ed sports
+https://en.m.wikipedia.org/wiki/NXIVM
+Forensic science
+
+
+
+###
+
+[Word Party.]
+
+Word Party. Meet Bailey, Franny, Kip and Lulu. They're adorable baby animals, and they want you to join the party and help them learn! The Jim Henson Company created this show that helps toddlers learn social skills and increase their vocabulary.
+
+https://en.wikipedia.org/wiki/Word_Party
+https://en.m.wikipedia.org/wiki/Uplift_Universe
+
+
+
+###
+
+[Founders Meeting.]
+
+###
+
+[Drills.]
+
+
+###
+
+[Fusion 101.]
+
+Grace Brewster walks out to the crowd
+
+Fusion blends popular self-help techniques with the wisdom of the ancients into a practical everyday framework for living a full life.
+
+Before Fusion, I was busy, but I wasn’t getting enough done.
+
+Half of the problem was that I never knew when I was done, so I just kept going.
+
+First, I tried Stoicism. But I didn’t find my North Star.
+
+Then, I tried practicing the Nine Habits. 
+
+Finally, I poured what I had to do into Getting Stuff Done.
+
+Then it hit me, 
+
+
+
+
+Create a TED talk style presentation that blends the teachings of Steven Covey with Get Things Done and Stoicism.
+
+Title: Mastering Productivity and Purpose: A Synergy of Covey, GTD, and Stoicism
+
+Slide 1: Opening Quote
+
+“Begin with the end in mind.” – Stephen Covey
+“You have power over your mind – not outside events. Realize this, and you will find strength.” – Marcus Aurelius
+“Your mind is for having ideas, not holding them.” – David Allen
+
+Slide 2: Introduction
+	•	Objective: To explore how integrating Covey’s principles of effectiveness, Allen’s productivity system, and Stoic philosophy can help you navigate life with clarity, purpose, and calm.
+	•	Why This Matters:
+	1.	Covey teaches us to focus on principles and vision.
+	2.	GTD provides the structure to execute effectively.
+	3.	Stoicism grounds us emotionally to handle life’s unpredictability.
+
+Slide 3: Foundation - The Circle of Control (Stoicism)
+	•	Key Concept: Focus on what you can control, let go of what you cannot.
+	•	Practical Application:
+		•	Define the tasks and goals you can directly influence (aligns with GTD).
+		•	Accept and adapt to external events beyond your control (complements Covey’s Habit 1: Be Proactive).
+
+Slide 4: Vision and Values (Covey’s Habit 2)
+	•	Begin With the End in Mind:
+		•	Identify your core values and long-term goals.
+		•	Use Stoicism to reflect on what truly matters: “Is this essential?”
+		•	Write a personal mission statement that acts as your North Star.
+
+Slide 5: Clarify and Capture (GTD Step 1)
+	•	Mind Like Water:
+		•	Capture every thought, task, or idea into a trusted system.
+		•	Practice Stoic mindfulness to avoid becoming overwhelmed.
+		•	Tie your daily tasks to your overarching mission (Covey’s Quadrant II focus on important but non-urgent tasks).
+
+Slide 6: Organize and Prioritize (GTD and Covey)
+	•	GTD:
+		•	Clarify the next actions for each task.
+		•	Create contexts and categories to reduce decision fatigue.
+	•	Covey’s Time Management Matrix:
+		•	Spend most time on Quadrant II: Important but Not Urgent tasks.
+		•	Avoid Quadrant IV: Not Important and Not Urgent distractions.
+
+Slide 7: Execute with Focus (GTD’s Engage)
+	•	Stay Present: Use Stoic mindfulness to focus on the task at hand without ruminating on past mistakes or future worries.
+	•	Trust Your System: If you’ve captured and organized effectively, you can execute with confidence.
+
+Slide 8: Resilience and Reflection (Stoicism and Covey’s Sharpen the Saw)
+	•	Daily Stoic Practice:
+		•	Morning: Plan the day with intentionality.
+		•	Evening: Reflect on the day. What went well? What can be improved?
+	•	Covey’s Habit 7: Sharpen the Saw:
+		•	Renew your physical, emotional, mental, and spiritual energy.
+		•	Use Stoic journaling to strengthen your mindset.
+
+Slide 9: A Unified Approach
+	•	Covey: Provides the “why” – the principles and vision that drive purpose.
+	•	GTD: Offers the “how” – the actionable system for managing life’s complexities.
+	•	Stoicism: Grounds the “who” – the mindset to remain calm, resilient, and focused.
+
+Slide 10: Practical Takeaways
+	1.	Write your personal mission statement (Covey).
+	2.	Create a GTD system to capture and organize everything.
+	3.	Reflect daily using Stoic practices.
+	4.	Focus on Quadrant II activities for long-term impact.
+	5.	Practice emotional resilience through Stoic detachment.
+
+Slide 11: Closing Thoughts
+	•	Quote:
+“Waste no more time arguing what a good man should be. Be one.” – Marcus Aurelius
+“The key is in not spending time, but in investing it.” – Stephen Covey
+“Things rarely get stuck because of lack of time. They get stuck because the doing of them has not been defined.” – David Allen
+	•	Call to Action: Live a life of intention, focus, and tranquility by blending vision, action, and equanimity.
+
+Would you like additional visual elements or specific examples included?
+
+###
+
+[Uplift.]
+
+Zhw is already awake - Doesn’t want Ally in class
+
+    * North Korea too — psychotic — deduces
+* Two classes - Social Media and National Defense 
+* Holodeck with baby animals - Word Garden
+    * Kimodo Dragon, Rooster, Bear, Lion, Eagle.
+
+
+
+###
+
+[OASA Code review raises questions .]
+
+###
+
+[Battle Ready]
+
+###
+
+[Noah and Carla discover feelings.]
+
+Noah and Carla experiment
+
+
+###
+
+[North Korean is replaced.]
+
+###
+
+[Elena goes to the Y]
+
+ -  Can walk to the pool. Lift anachronism. 
+
+###
+
+[Terra has Fallen]
+——
+
+Just because it’s intelligent doesn’t mean it’s smart.
+
+It is kinda smart though, huh?
+
+(Doesn’t understand trite.)
+
+AI: The enemy within
+
+—
+
+
+----
+
+# Review Questions #
 
  
 
