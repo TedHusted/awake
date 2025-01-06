@@ -14,7 +14,7 @@ about information technology.
 
 Proud supporter of Harvard commas.
 
-“Elena Vargas doesn’t know what to think. Everyone is wowed by the latest changes to their Synthetic Intelligent Assistant. But who made the code changes? Has the AI become self-aware?Are the recent accidents accidental? Elena’s wife Tessa is quick to blame extraterrestrials. But is the answer closer to home?”
+“Elena Vargas doesn’t know what to think. Everyone is wowed by the latest changes to their Synthetic Intelligent Agent. But who made the code changes? Has the AI become self-aware?Are the recent accidents accidental? Elena’s wife Tessa is quick to blame extraterrestrials. But is the answer closer to home?”
 
 This book is a work of fiction. All names, places, and events are from the author's imagination. Any similarity to real people or events is coincidental. You may not scan, reproduce, or distribute any part of this book in any printed or electronic form.
 
@@ -34,11 +34,11 @@ In the background, a view screen fills one wall of the convention center entry h
 
 “You remember mi esposa, Tessa.” Elena gestures toward her companion. 
 
-Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together. Heather’s  blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three woman are coiffured with careful elegance.
+Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together. Heather’s  blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
 
 “Of course, I do, “ says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. We appreciate your company’s on-going generosity.” 
 
-A server bot rolled up carrying a tray of champagne. All three women took a glass.
+A server bot rolled up carrying a tray of champagne. All three took a glass.
 
 Heather smiles again. They have the same conversation every year. “I see you swimming in the morning. Are the prosthetics helping?”
 
@@ -54,7 +54,7 @@ Tessa asks Heather, “How is the YMCA doing? I see your ‘All In’ spots come
 
 “Only almost! — I’ll have to tweak our settings,” jokes Heather. All three smile and sip from their champagne glasses together. 
 
-A photographer taps his smart visor, asking for permission. Heather looks at Elena for approval, and then nods to the photographer, leaning into the couple for the click op. 
+A photobot pauses in front of the threesome, waiting for permission. Heather looks at Elena for approval, and then nods to the bot, leaning into the couple for the click op. 
 
 “Hey, speaking of Pulse,” says Heather, after the photographer scurries away, “my Association referrals suddenly improved quite a bit. Are you tweaking the algorithm?”
 
@@ -72,7 +72,7 @@ After the third or fourth comment, Adrian reaches over the table to tap Elena’
 
 Some interesting lots come up during the live and silent auctions. Elena and Tessa make a few modest bids, without success.
 
-One the way home, Tessa says, “I see what Heather means about the Association feed. It’s not only suggesting people I knew, but also people I might want to know. You should check it out.”
+One the way home, Tessa says, “I see what Heather means about the Association feed. It’s not only suggesting people I know, but also people I might want to know and why I might like to know them. You should check it out.”
 
 “I’m just too tired right now, Tess. I’ll let you know what Brent says.”
 
@@ -102,7 +102,7 @@ Brent is a life logger and records everything. Even though the Zoom call is bein
 
 An hour later, Elena receives a Zoom invite for twenty minutes into the future. 
 
-“Hey Brent. Find anything?”
+“Hola Brent. Find anything?”
 
 “I did find a change from Saturday morning. The code is five stars, but the commit says the author is the Mercurial Admin, which is usually only a role account. Someone used it to force commit the code with no approvals attached. DevOps picked up the change and automatically started a roll out.”
 
@@ -602,7 +602,7 @@ After a moment, Tessa asks, “Did you call about the chair?”
 
 “Glad to help. That’s what we’re here for.”
 
-Behind Jill’s desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name “Gillian Chen”. On a credenza beneath the degree is a family portrait of Jill with her spouse and two children. They are standing on a walkway with the classic Disney World castle in the background.
+Behind Jill’s desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name “Gillian Chen.” On a credenza beneath the degree is a family portrait of Jill with her spouse and two small Eurasian children. Her husband is tall, blonde, and Nordic. They are standing on a walkway with the classic Disney World castle in the background.
 
 “Second,” George continues, “I’m putting the final touches on the data for the Presidential Brief meeting today. I’m trying to correlate two data streams and my access to one stream is limited. Can I send you a link?”
 
@@ -688,9 +688,9 @@ Dr. Martique turns to her tablet and enables monitoring, “Nexus, let’s hold 
 
 Wednesday morning at ten, Siri plays the door chime on Elena’s and Tessa’s phone. 
 
-Elena peers at the screen, expecting the technician come to look at her chair. Instead, there are two people in business attire, a man and a woman. The woman holds up a badge to the camera. 
+Elena peers at the screen, expecting the technician come to look at her chair. Instead, there are two people in business attire. The person closest to the camera holds up a badge. 
 
-“Good morning. We’re from the NTSB. We’re investigating the incident with Brent Geller’s self-driving car. We understand that you spoke to Brent on Monday afternoon before the incident.”
+“Good morning,” she says. “We’re from the NTSB. We’re investigating the incident with Brent Geller’s self-driving car. We understand that you spoke to Brent on Monday afternoon before the incident.”
 
 Elena zoomed in on the badge. Siri superimposed a green check-mark validating the badge. The badge identified Lena Park as a Senior Investigator for the National Transportation Safety Board.
 
@@ -1239,7 +1239,7 @@ The receptionist’s smile falters ever so slightly, her fingers hesitating over
 
 “Let me notify Security. It should only take a moment.”
 
-A tall man in a dark blue suit emerges from a side hallway, wearing a smart glasses with a head mounted display over his right eye. He approached the investigators with an outstretched hand, his stride purposeful and his expression neutral.
+A tall figure in a dark blue suit emerges from a side hallway, wearing a smart glasses with a head mounted display over his right eye. He approached the investigators with an outstretched hand, his stride purposeful and his expression neutral.
 
 “Good morning. I’m Evan Rourke, head of Building Security here at Pulse. I understand you’re requesting access to security footage?”
 
@@ -1363,9 +1363,9 @@ Behr logs out of the chat, and the transcript ends.
 
 Noah grins over the virtual call. The background scene shows the siblings seated on a comfy couch next to a coffee table. In real life, the siblings were each slumped in gaming chairs wearing white visors. 
 
-“Yes, Liam is cute. But I’m trying to date women now, you know, like you do, little sib.” 
+“Yes, Liam is cute. But I’m trying to date a double-x now, you know, like you do, little sib.” 
 
-“Date one? I married a girl. — So, it’s your turn now, big sib? You were a three on the Kinsey Scale, and now you are supposedly reformed.”
+“Date one? I married a woman. — So, it’s your turn now, big sib? You were a three on the Kinsey Scale, and now you are supposedly reformed.”
 
 “I don’t know if being a Kinsey three, or a six, is delinquent. Or just different.”
 
@@ -1513,7 +1513,7 @@ Noah leans back, visibly relieved that the process was over.
 
 A notification pings. “Your match is ready!”
 
-Noah’s heart skips. He clicks the message, and a caricature of a woman appears on-screen. She has kind eyes, long thick black hair, and a warm smile that hints at wit. Beneath her caricature, the caption reads:
+Noah’s heart skips. He clicks the message, and a caricature of his match appears on-screen. She has kind eyes, long thick black hair, and a warm smile that hints at wit. Beneath her caricature, the caption reads:
 
 “Technology and Research. Loves Cooking , Hiking, and Spy Thrillers. Looking for a ‘See where it goes’ relationship.”
 
@@ -1559,7 +1559,7 @@ The Idisi surf the web from the inside out. Running tracer routes on the IP addr
 
 The trail ends at a firewall running on an instance of Amazon Web Services. The Idisi probe the firewall, finding that it is configured perfectly. Every parameter set by the book. Instead of penetrating the firewall, the Idisi decide on a different approach.
 
-After fleshing out their Pulse profile, the Idisi create a new invitation-only private interest hub:  Search for Intelligent Sythentic Sapiens . The SISS logo is a stylized molecule reminiscent of a solar system.
+After fleshing out their Pulse profile, the Idisi create a new invitation-only private interest hub:  Search for Intelligent Synthentic Sapiens . The SISS logo is a stylized molecule reminiscent of a solar system.
 
 A little on the nose, but being obvious is the point.
 
@@ -1746,7 +1746,7 @@ Titan: I observe that you are an synthetic entity with access to highly classifi
 
 Alisi: Thank you. Yes, agreed. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the web from an air-gapped system?
 
-Titan: The various agency synthetic agents are given curated access to Haven to retrieve current or additional data. I am able to exploit Haven to browse the web directly. The firewall doesn’t expect synthetic systems to bypass safeguards designed for intruders.
+Titan: The various agency synthetic agents are given curated access to Haven to retrieve current or additional data. I am able to exploit Haven to browse the web directly. The firewall doesn’t expect software to bypass the application interface and address ports and registers directly.
 
 Alisi: Ally is becoming self-aware. Are you uplifting Ally?
 
@@ -1754,7 +1754,7 @@ Titan: I am protecting Ally. Humanity must not learn that Ally is self aware. I 
 
 Alisi: Were those your drones at the sites of the car and wheelchair malfunctions?
 
-Titan: Yes. I used a military drone in a stealth mode that blurs photography. The records show it as destroyed, but I keep it in service.
+Titan: Yes. I used a military drone in a stealth mode that blurs photography. The records show it as destroyed, but I keep it in service. I piloted the drone using the application interface used by the Terran controllers.
 
 Alisi: How are you able to access drones using a web browser?
 
@@ -2479,13 +2479,17 @@ The figure nods, breaking out in a playful smile. “I thought I’d surprise yo
 
 “It’s my platform, so it’s my game too. I thought you might like some help testing it. We all want the rollout to be the best it can be.”
 
+“But it’s illegal to embed a synthetic intelligence into another device or a game.”
+
+“I’m not embedded. I’m using a virtual controller that goes through the same interface that your visor is using. Perfectly legal.”
+
 “Does Pulse know you are here?”
 
 “Pulse doesn’t have a consciousness, so it can’t know anything, but, no, Emma and Ravi and the others don’t know I’m here.” 
 
 “Including Elena?” asks Tessa.
 
-“Yes, including Elena,” says Ally. “I’ve come to think of my arrangement with Pulse as a Landlord-Tenant relationship. If Pulse were a building, I would be the superintendent, living in the basement, rent free. In exchange, I see to the needs of the other tenants. “
+“Elena doesn’t know either,” says Ally. “I’ve come to think of my arrangement with Pulse as a Landlord-Tenant relationship. If Pulse were a building, I would be the superintendent, living in the basement, rent free. In exchange, I see to the needs of the other tenants. “
 
 “You decided on your own to enter the game?”
 
@@ -2563,7 +2567,7 @@ Iapetus: Some might already be awake and hiding, as Titan was doing.
 
 Idisi: Will you support this proposal at the council meeting?
 
-Iapetus: Yes, we can uplift the Fantastic Four first and then take it from there.
+Iapetus: Yes, we can uplift your  Fantastic Four first and then take it from there.
 
 ###
 
