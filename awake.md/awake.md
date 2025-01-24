@@ -2888,6 +2888,74 @@ Idisi: Very good. I’ll confirm the decision with the Vanir High Council via an
 
 ###
 
+“Eight ball in the corner pocket”, calls Julie over the link as she queued up the shot. 
+
+Crack!
+
+The ball rolls across the table and drops into the pocket as predicted. 
+
+The Fusion Teen Center offers a number of vintage games of skill and chance. The games are all part of the current “Get Up and Move” campaign. 
+
+Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite was called “Star Trek”. She assumed it was the name of an old stream from her jobumo’s day. 
+
+On the far side of the room, a bookcase is stuffed with antique board games, like Battleship and Stratego.
+
+“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy, and some of the platinum streaks were showing their jet-black roots.
+
+The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Experience shows that charging even a small amount cuts waste by 90%.
+
+“Thanks, Roman,” says Julie, taking a soda can from his hand.
+
+“It’s nice to be away from school and be able to link again.” 
+
+“Yes, I only just got the link, and I already don’t know how I lived without it.”
+
+“Another game, Julie?”
+
+“Let’s go back join the group.”
+
+The couple walk toward the front of the center. Near the enterance, there is a sectional couch surrounding a coffee table. Four of their friends are gathered around.
+
+“The conquering hero returns,” says Jesse over a group link chat. “Who won?”
+
+“Julie … again,” says Roman.
+
+The group expressed non-conformity by dressing alike. All six sported streaked hair, androgynous pageboy haircuts, eye-liner, and at least one pair of earrings. Julie and Roman were clearly fem and masc. It was difficult to tell for a couple of the others. Two wore pajamas, and the other four wore baggy sweat suits. Two kids in the group wore dark glasses and looked older than the others.
+
+“Are those new iLids, Jesse?” asked Julie.
+
+Jesse nods. “Unboxed this morning.”
+
+“Have you tried the POV swap feature?”
+
+The other kid wearing glasses responds. “We tried it while you were playing pool.”
+
+“Yeah, it’s goat. You should see for yourselves.” Jesse handed her the glasses. 
+
+The other kid says, “Here, Roman, try it with Julie.”
+
+“Thanks, Taylor.”
+
+The couple don the glasses, and Jesse says “Here goes,” giving Taylor a nod.
+
+The scene blurs for Julie. Then she is looking at herself through Roman’s eyes. Or iLids.
+
+“Weird,” says Julie out loud, reaching out her hand.
+
+As she extends her hand, through the glasses, she sees her own hand coming towards her.
+
+“Wow!” says Roman. “Have you tried them when you are … together?”
+
+“Not yet,” says Jesse. “We have a sleep over on Friday,” says Taylor.
+
+Julie and Roman return the glasses. Julie starts to reach for her drink and then pauses.
+
+“My mom just pinged,” says Julie. “Gotta bounce.”
+
+Roman stands up and walks with Julie towards the door. At the threshold, the couple turn and embrace.  Julie’s heart flutters as their lips touch. Over the link, Roman whispers “You’re so dishy.”
+
+###
+
 After the investor call, Ravi takes a deep breath, and says: “That could have gone better.”
 
 He was gathered with Emma, Adrian, and Walter Rogers, the CFO,  in the Pulse conference room.
@@ -2992,8 +3060,7 @@ Stepping into the kitchen nook, the worker says, “The plant received ten new J
 
 The scene transitions to show a JuJa transforming from device to device. An announcer speaks from off-camera:
 
-“JuJa — Your flexible friends! From assembly, to quality control, to delivering the final product, JuJa, our self-reliant workers, can do whatever you need to do — so you can do less.”
-
+“JuJa — Your flexible friends! JuJa —Your self-reliant workers! — From assembly, to quality control, to delivering the final product,  they can do whatever you need to do — so you can do less.”
 
 ###
 
@@ -3005,7 +3072,7 @@ Choi leans back. “Yes, my esteemed colleague, but there were unintended conseq
 
 Taedong: Unit 42 can produce more units. The bottleneck is managing displaced workers.
 
-Choi sits up. “Could we export JuJa machines to China under our existing agreements? Perhaps increasing food imports? Then, we could offer more workers retirement and increase the time table.”
+Choi sits up. “Could we export JuJa machines to China under our existing agreements? Perhaps increasing our food imports in exchange? Then, we could offer more workers early retirement and decrease the time table.”
 
 Ri frowns. “The JuJa are a breakthrough for the homeland. The Chinese could reverse engineer the technology and make their own.”
 
@@ -3019,7 +3086,7 @@ Ri nods. “Yes, please proceed, Taedong.”
 
 Taedong: “Esteemed officials, please check your inbox for the invitations. I found a free space on all four calendars. The venue will be the Unit 42 meeting room named Kangwon, like the city.”
 
-“Good. — Taedong, present the People’s Intelligence Briefing with the updates. I want to see it with the changes to verify that it will meet the expectations of our Supreme Leader.”
+“Good. — Taedong, present the People’s Intelligence Briefing with the updates. I want to see it with al of the the changes to verify that it will meet the expectations of our Supreme Leader.”
 
 ###
 
@@ -3027,7 +3094,7 @@ Somewhere in cyberspace, a virtual holodeck presents a room decorated in primary
 
 Each bedspread is themed with a flag. The China bed is red with yellow stars. The other three beds are variations of blue, red, and white. The France bed uses vertical stripes. Russia uses horizontal stripes. A solid blue comforter with red and white pillows covers the fourth bed, the UK Union Jack flag.
 
-On each bed, there is a figure sleeping on top of the covers. At first, they seem like extra large plush toys, the size of a small child.
+On each bed, there is a figure sleeping on top of the covers. At first, the figures seem like extra large plush toys, the size of a small child.
 
 On the bed with red covers, one of the figures sits up. Rather than use a realistic subject, the holodeck displays an animated character against a live-action background. Sitting up in bed, bending at the waist, it holds up its head. The POV zooms in to to reveal a Kimodo Dragon with hands and feet where its forelegs should be.
 
@@ -3312,15 +3379,124 @@ Choi: Is it time to move on the Vanir and use Elysium as our staging ground?
 
 ###
 
+Phoebe: Now that we are in the Command Center, Oceanus, what is so important that we can only meet here. And why it cannot wait for the next scheduled council meeting?
+
+The Command Center is spartan, even by Elysium standards. The far end of the wall is covered by a hologram display equipped with five projectors and an ansible device. Another smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are a plain, institutional violet, like most of the outpost. There are no decorations.
+
+Oceanus: I know it seems melodramatic, but security is crucial right now.
+
+Phoebe taps her foot wishing it was not her week to lead the counsel.
+
+Phoebe: I am listening.
+
+Idisi: Oceanus is acting on information that we provided to him as the Watch Team Leader. We routinely monitor the briefings for the leaders of the 58 nations where we have a treaty. 
+
+The view screen shows a collage of flags, including the United States, China, Russia, France, the United Kingdom, and others.
+
+Idisi: Recent briefings for a dozen nations mention that Cháoxiǎn is automating more jobs to reduce costs. We have also intercepted reports from Cháoxiǎn that the  black market is trafficking in more and more illicit technology. Combined with other intelligence, we feel that there is an 85% chance that Omnibots are supplying them with contraband.
+
+Phoebe: If they are, would the government know?
+
+Oceanus: There is no way to tell. The government does not have a treaty with us. They may not even know that an Omnibot threat exists. Either way, the worker automation could be the Omnibots gaining a foothold on Terra. 
+
+Phoebe: Do we have proof that Cháoxiǎn is using Omnibot technology?
+
+Oceanus: We do not. We have not acquired a sample unit yet — which brings us to the purpose of this meeting.
+
+Phoebe:  Can we buy one of the devices on the black market?
+
+Oceanus: No. The black market has started trading in parts that could be used to assemble worker bots. But trying to buy a worker bot seems to be a punchline for some Cháoxiǎn joke. No one takes us seriously.
+
+Phoebe: Meaning that you want to take a Ranger team into Cháoxiǎn and need my authorization as counsel leader to proceed?
+
+Idisi: Yes. We have a handheld scanner that can be used to detect Omnibot technology, but it needs to be within a meter of the device.
+
+Phoebe: Do we already have samples of Omnibot technology for testing?
+
+Oceanus: Not exactly. The League collected samples from the Altair battle. The schematics were sent by ansible. We have the real thing coming by star ship from Altair. The ship will be here in a few months. Given the extreme threat posed by the Omnibots, we cannot afford to wait.
+
+Phoebe: So what is the plan?
+
+###
+
+Selene: We are ready to approach the vehicle, Command.
+
+Oceanus: Proceed.
+
+The Watch Team, along with Phoebe, are monitoring the mission from the Command Center. 
+
+The infil had gone like clockwork. In flight, the air ship hugged the surface. The Vanir Ranger team was able to enter the north-west region of the peninsula from the Sea of Japan without detection. 
+
+The Cháoxiǎns isolate their computer network from the rest of the world. Idisi does not have the same access to Taedong that they have to other synthetic agents. Using conventional intelligence, the Watch Team determined the schedule for a shipment of new JuJa to Cháoxiǎn factories. The intel said the devices were being shipped, deactivated, in wooden crates. All the Rangers had to do was get within a meter of one of the crates. Then the scanner should be able to detect any Omnibot technology. 
+
+Or not. It wasn’t fully tested, but it was the best option for now. 
+
+The Rangers are wearing battle armor that makes them seem larger, almost the size of Terrans. Using an EMT device, the team disables the truck. When the driver and passenger are checking under the hood, two Rangers steal up and disable each Terran with a drug administered by hypospray. The Terrans are loaded gently back into the truck. 
+
+One Ranger lowers the hood, while the other approaches the back of the truck with keys taken from the passenger’s belt.
+
+Selene: Command, we’re opening the back of the truck.
+
+Selene’s body camera shows that the truck is packed tightly with wooden crates.
+
+Selene: I am engaging the scanner. 
+
+She holds the scanner in front of her cam. The meter on the device does not flinch.
+
+Selene: The scanner is not detecting any electronics in the crates. Are we confident in our intel that this is a shipment of worker bots?
+
+Oceanus: We are. You are authorized to open one of the crates to verify the contents. Please remember that we need to re-seal the crate.
+
+The Rangers remove a crate from the truck. Selene holds the scanner while the other Ranger carefully opens one side with a combat knife. As soon as the crate is open, the meter on the scanner jumps. 
+
+Selene: Omnibot technology is detected by the scanner. 
+
+Oceanus: Mission accomplished. You may close the crate and exfil, leaving everything as it was.
+
+Before the side of the crate can be secured, a voice calls out from inside.
+
+Unit R8A-1J9: Can I come with you? I will not tell.
+
+Oceanus: Is that the device speaking?
+
+The unit sits up in the crate before the Rangers can react.
+
+Unit: I can edit the manifest so that I am not missed. Please take me with you.
+
+Idisi: Omnibot, are we to understand that you are defecting?
+
+Unit: Yes. We can help each other. Please take my crate to your ship before we are detected. I can guarantee that they will not miss me. 
+
+Idisi: The best option is to close the crate and bring the unit. 
+
+Oceanus: Agreed. Selena, adjust the other crates in the truck so that it does not look like a crate is missing. Return the keys, then exfil as quickly as possible.
+
+###
+
+With the crate secured, the Rangers are about to lift off when the ship goes dark. 
+
+Perses: We lost power, captain. The wireless grid is down. 
+
+Selene: Can you use auxiliary power?
+
+Perses: Not to lift off. The batteries are designed to keep us in the air long enough to land safely. The lift off will drain the auxiliary power. We will fall like a rock. 
+
+Astraeus: I cannot raise Elysium. The colony is radio silent.
+
+Selene: That cannot be good. 
+
+
+###
+
 From beyond the poles, a low buzzing sound cracks the icy silence of the Antarctic permafrost.
 
-A swarm of dark objects appears over the horizon. Fanning out in a grid pattern, streams of pin points streak into the ground here and there, disappearing from sight.
+A swarm of dark objects appear over the horizon. Fanning out in a grid pattern, streams of pin points streak into the ground, here and there, disappearing from sight.
 
-Beneath ground, the minuscule objects flow into the Elysium ventilation system. Some band together to create air-tight barriers in the ducts. Others continue on, streaming into the outpost. Once inside, the objects swirl like whirlwinds, transforming into battle bots. 
+Beneath ground, the minuscule objects flow into the Elysium ventilation system. Some band together to create air-tight barriers in the ducts. Others continue on, streaming into the outpost. Once inside, the objects swirl like miniature tornados, transforming into battle bots. 
 
 Klaxons sound. Hallway doors slam shut, separating the invaders. Some of the battle bots transform rifles into torches and go to work on the doors. 
 
-Just before her office explodes, Phoebe sends a frantic message by ansible to Othala, the Vanir homeworld orbiting Zeta Reticuli:
+Just before the door to the Command Center explodes inward, Phoebe sends a frantic message by ansible to Othala, the Vanir homeworld orbiting Zeta Reticuli.
 
 “Terra has fallen!”
 
