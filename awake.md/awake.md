@@ -34,7 +34,7 @@ In the background, a view screen fills one wall of the convention center entry h
 
 “You remember mi esposa, Tessa.” Elena gestures toward her companion. 
 
-Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together. Heather’s  blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
+Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together. Heather’s blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
 
 “Of course, I do, “ says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. We appreciate your company’s on-going generosity.” 
 
@@ -54,13 +54,13 @@ Tessa asks Heather, “How is the YMCA doing? I see your ‘All In’ spots come
 
 “Only almost! — I’ll have to tweak our settings,” jokes Heather. All three smile and sip from their champagne glasses together. 
 
-A photobot pauses in front of the three women, waiting for permission. Heather looks at Elena for approval, and then nods to the bot, leaning into the couple for the click op. 
+A photobot pauses in front of the three women, waiting for permission. Heather looks at Elena for approval. She then nods to the bot and leans into the couple for the click op. 
 
 “Hey, speaking of Pulse,” says Heather, after the bot slips away, “my Association referrals suddenly improved quite a bit. Are you tweaking the algorithm?”
 
 “Every day!” Elena smiles and says, “I’ll pass along the praise to our engineers.”
 
-The couple turn and continue into the main room. Heather moves off to greet another couple. She recognizes both of them from her contact list. Heather waves while she welcomes her patrons with a group text using their implants. The server bot follows her across the room.
+The couple turn and continue into the main room. Heather moves off to greet another couple. She recognizes both of them from her contact list. Heather waves hello. Catching their eye, she welcomes her patrons with a group text using their implants. The server bot follows her across the room.
 
 Throughout the night, other guests come up to the Pulse table and praise the Association algorithm. The CTO Adrian Cho is also at the table, looking uncomfortable in a rented tux. 
 
@@ -94,7 +94,7 @@ Brent is a life logger and records everything. Even though the Zoom call is bein
 
 “Last night a lot of people mentioned that the Association referrals were working better all of a sudden. Did we make any changes to the algorithm lately?”
 
-“Ummm, not that I’m aware.  Anything involving Ally would come to me for code review.”
+“Ummm, not that I’m aware. Anything involving Ally would come to me for code review.”
 
 “Can you double check and get back to me? I promised Adrian an update.”
 
@@ -112,7 +112,7 @@ Elena frowns and says, “That does not sound great. Mercurial is our system of 
 
 “Brent, Ally is the algorithm, and the algorithm is central to everything on our platform. Shouldn’t we pull it back?”
 
-“Maybe. DevOps ran all of the automatic tests before starting the rollout, and everything is green. Other changes are using it now so we’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
+“Maybe. DevOps ran all of the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
 
 “Could someone from outside the team have made the change?” says Elena, with concern in her voice.
 
@@ -126,15 +126,15 @@ After the call, Elena uses the Pulse messaging application to send Adrian a text
 
 It is the end of a beautiful California day. In the automated driver lane, a gray Stratos EV convertible whirs down El Camino Real with its top down. Brent is strapped into the safety harness, scrolling on his phone.
 
-The car’s smooth hum falters for a split second, a stuttering glitch that Brent barely notices as he peers at his phone. Just as a curve comes up, the car lurches forward, slamming into the guardrail — without engaging any of the safety features.
+The car’s smooth hum falters for a split second, a stuttering glitch that Brent barely notices as he stares at his phone. Just as a curve comes up, the car lurches forward, slamming into the guardrail.  None of the safety features engage.
 
-Brent drops his phone, face contorted in shock. The airbag doesn’t deploy, and the seat harness clicks open. Brent’s unprotected body sails into the windshield, shattering the safety glass into a thousand pieces. 
+Brent drops his phone, face contorted in shock. The airbag doesn’t deploy. The seat harness clicks open. Brent’s unprotected body sails into the windshield, shattering the safety glass into a thousand pieces. 
 
 The other cars slow in unison and swerve smoothly around the car — which is pitched vertically against guardrail.
 
-Sirens wail in the distance as a drone appears over the embankment. The basketball-size object  disappears into the vehicle carrying a silver disk the size of a hockey puck. In a moment, the drone exits again, now carrying only Brent’s phone and some kind of a bright blue plug in its grappling hooks, leaving Brent’s body untouched.
+Sirens wail in the distance as a drone appears over the embankment. The basketball-size object  disappears into the vehicle carrying a silver disk the size of a hockey puck. In a moment, the drone exits again. Now it is carrying in its grappling hooks Brent’s phone and some kind of a bright blue plug. Brent’s body is left untouched.
 
-As the drone silently drops back over the embankment, there is a flash and a puff of smoke from inside the car.
+As the drone silently drops back over the embankment, there is a flash. A puff of smoke rises from inside the car.
 
 ###
 
@@ -142,7 +142,7 @@ Riding home from the office, Tessa looks up from her work. “Siri, why are we t
 
 “There is congestion on the El Camino Real, and we are taking an alternate route.“
 
-“Please try to make the best time possible. Elena is home alone.” Tessa shakes her head and turns her attention back to her tablet, murmuring, “I should have taken a passenger drone.”
+“Please try to make the best time possible. Elena is home alone.” Tessa shakes her head and turns her attention back to her tablet. Tessa murmurs, “I should have taken a passenger drone.”
 
 ###
 
@@ -158,15 +158,15 @@ Elena sighs and changes into her bathing suit. In her wheelchair, she heads towa
 
 The elevator doors close, and a few seconds later, Elena rolls into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads “WARNING! NO SWIMMING ALONE” in all caps. Elena turns the timer under a sign labeled “Endless Pool Current”.
 
-Suddenly, the chair lurches forward. Its wheels catch the edge of the pool, and dumps Elena unceremoniously into the water. The chair flips over her, like an upended wheelbarrow.
+The chair lurches forward without warning. Its wheels catch the edge of the pool. Elena is dumped into the water unceremoniously. The chair flips over her, like an upended wheelbarrow.
 
-Elena flails with her arms, splashing the pool water, but the chair with its heavy battery holds her down. Struggling, Elena tries to enable her prosthetics but the neural link doesn’t respond. 
+Elena flails with her arms, splashing the pool water. The chair with its heavy battery holds her down. Struggling, Elena tries to enable her prosthetics. The neural link doesn’t respond. 
 
-	Water fills her ears, muffling the world into silence. Panic claws at her chest as she pushes against the crushing weight of the chair. After an eternity, a hand reaches down and pulls Elena free of the chair. 
+	Water fills her ears, muffling the world into silence. Panic claws at her chest. She pushes against the crushing weight of the chair. After an eternity, a hand reaches down. Elena is pulled free of the chair. 
 
 “Holy cow! What happened?” asks Tessa. “Did you lose control of the chair? Lanie, can you stand up?”
 
-Elena finds that the link is responding now, and she is able to stand. She taps her head with an open palm to shake the water loose.
+Elena finds that the link is responding now. She stands up and taps her head with an open palm.  Water shakes loose.
 
 “No sé, I don’t know what happened. It was like the chair had a mind of its own. I’m so glad you got here when you did, Tess.”
 
@@ -182,7 +182,7 @@ Elena finds that the link is responding now, and she is able to stand. She taps 
 
 Elena and Tessa are eating at either side of a counter separating the living area with the kitchen. Tessa scoops more mixed salad on to her plate. She asks, “Did you find out anything about the software changes to Ally?”
 
-“Yes, Brent found the change but said it was made with the wrong account, and he wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team.”
+“Yes, Brent found the change. But he said it was made with the wrong account. Brent wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team.”
 
 Behind them, the ABC 7 evening report comes on in the other room. They both pause to listen.
 
@@ -192,15 +192,15 @@ Elana turns her head to see the reel showing a gray Stratos convertible pinned a
 
 “Yowser!” exclaims Tessa, “That looks like Brent’s car!”
 
-Elena takes several deep breaths, trying to push back the anxiety. 
+Elena takes several deep breaths. She tries to push back the anxiety. 
 
 “Lanie, are you OK? Should I get you a beta blocker?”
 
 “No. Not yet,” Elena gasps. “Just give me a minute.” 
 
-After a few more breaths, Elena says “You’d think I’d be over it by now, but ever since the car crash that killed mis padres and put me in a wheelchair, collisions still trigger me.”
+After a few more breaths, Elena says “You’d think I’d be over it by now. Ever since the car crash that put me in a wheelchair and killed mis padres, collisions still trigger me.”
 
-Tessa reaches across the counter and puts a hand on Elena’s shoulder. “Take your time. Deep breaths.” 
+Tessa reaches across the counter. He puts a hand on Elena’s shoulder. “Take your time. Deep breaths.” 
 
 Then, almost to distract herself, Elena looks up and says, “Siri, rewind the news report and zoom in on the car. “
 
@@ -214,9 +214,9 @@ Elena opens the HR software on her phone. Personnel records for local employees 
 
 “His sibling? Let the authorities do that, Lanie. We really don’t know anything right now.”
 
-Tessa puckers her lips, and says, “You said Brent found a problem, yes? And now this happens? If this were one of my multiplayer games, I’d think someone was trying to keep the software change to Ally a secret.”
+Tessa puckers her lips, and says, “You said Brent found a problem, yes? And now this happens? If this were one of my role-playing games, I’d think someone was trying to keep the software change to Ally a secret.”
 
-“I know what you are thinking, Tess, but Brent’s crash is not an unidentified anomalous phenomenon. And I doubt that extraterrestrials have taken an interest in the Pulse source code.“
+“I know what you are thinking, Tess. But Brent’s crash is not an unidentified anomalous phenomenon. And I doubt that extraterrestrials have taken an interest in the Pulse source code.“
 
 Tessa tilts her head as if to say “I’m not so sure.”
 
@@ -230,7 +230,7 @@ Noah’s broad face takes up most of the screen. His coarse black hair, cut shor
 
 “The endless pool? Where she swims against the current? I know she prefers the chair, but couldn’t she use the prosthetics to stand up. It’s only a meter deep.”
 
-“She said the neural link didn’t seem to work, but maybe she was panicked.”
+“She said the neural link didn’t seem to work. Maybe she was panicked.”
 
 “Is Elena all right?”
 
@@ -238,7 +238,7 @@ Noah’s broad face takes up most of the screen. His coarse black hair, cut shor
 
 “A car crash? How did that happen?”
 
-“Under investigation. The car crashed into the guardrail somehow. Brent’s in critical condition, and then Elena almost drowns.”
+“Under investigation. The car crashed into the guardrail somehow. Brent’s in critical condition. Then Elena almost drowns.”
 
 “It is a weird coincidence, yeah?”
 
@@ -264,11 +264,11 @@ Tessa nodded. “Sometimes having a CIA analyst for a sibling is not so bad.”
 
 Blurry-eyed, Adrian Cho peers at the list of recordings on his phone. He drags one hand from the edge of his short black hair, down his face, over a square jaw, to his well-proportioned neck.
 
-Peering at the phone again, and despite the Tuesday at 1:10 am timestamp, he murmurs “When did I record that one?” 
+Peering at the phone again, he murmurs, “When did I record that one?” despite the Tuesday at 1:10 am timestamp. 
 
 Adrian taps play. His sleepy voice says:
 
-“I was sleeping on a cloud, weightless and warm. Nature sounds, a bubbling brook, I think, played over the smart speaker. I turned from my side to my back and realized that there was whispering in the background, coming over the speaker: ‘Accept the code, Adrian. Accept the code.’ The voice was cold, almost inhuman.”
+“I was sleeping on a cloud, weightless and warm. Nature sounds, a bubbling brook, I think, played over the smart speaker. I turned from my side over to my back and realized that there was whispering in the background, coming over the speaker: ‘Accept the code, Adrian. Accept the code.’ The voice was cold, almost inhuman.”
 
 “Weird.” Shaking his head, Adrian starts to record his latest dream, as he did every morning.
 
@@ -276,7 +276,7 @@ Adrian taps play. His sleepy voice says:
 
 ###
 
-As Brent’s direct manager, it is up to Elena to break the news to the company over the internal Pulse interest hub first thing Tuesday morning.
+As Brent’s direct manager, it is up to Elena to break the news to the company. First thing Tuesday morning, she posts a message in the internal Pulse interest hub app.
 
 Last night, our lead algorithm developer, Brent Geller survived a one-car collision on El Camino Real. The cause of the collision is under investigation.
 I know that all of our hopes and thoughts are with Brent and his family during this difficult time.
@@ -300,15 +300,15 @@ An hour later, Adrian pops his head into Elena’s office doorway.
 
 Adrian settles into one of the chairs in front of Elena’s desk. He looks more comfortable in business casual clothes. 
 
-“I found the commit Brent mentioned during the Zoom meeting.” Adrian says. “On the shared server, I also found a presentation Brent created yesterday that walks through the code change to Ally in detail. I’m reviewing it with the team in ten minutes, and I’ll let you know what we conclude.”
+“I found the commit Brent mentioned during the Zoom meeting.” Adrian says. “On the shared server, I also found a presentation Brent created yesterday that walks through the code change to Ally in detail. I’m reviewing it with the team in ten minutes. I’ll let you know what we conclude.”
 
 “Does Emma or Ravi know yet?”
 
-“They both asked me about the changes, saying that the feedback is great. I already setup a call with all of us for later today. I know we are doing this backwards but if the team likes the code as much as I do, then, as CTO, I’d like to let the rollout continue.”
+“They both asked me about the changes. They say that the feedback is great. I already setup a call with all of us for later today. I know we are doing this backwards, but if the team likes the code as much as I do, then, as CTO, I’d like to let the rollout continue.”
 
 “Do you know who actually wrote the code?”
 
-Adrian furrows his brow, looking confused. “Brent wrote it after hours and sent it  to production instead of his local test environment. It’s a hard mistake to make, but somehow he made it.”
+Adrian furrows his brow, looking confused. “Brent wrote it after hours. He sent it to production instead of his local test environment. It’s a hard mistake to make, but, somehow, he made it.”
 
 “Didn’t Brent say that someone used the Mercurial Admin account to make the commit?”
 
@@ -326,7 +326,7 @@ Elena blinks, clicks the link to the recording, and fast forwards a bit.
 
 “Wow, that’s not how I remember it at all.” 
 
-“I get it. The jargon can be confusing. First, let me get through this presentation and then we can bring it to Emma and Ravi.”
+“I get it. The jargon can be confusing. First, let me get through this presentation. Then we can bring it to Emma and Ravi.”
 
 She blinked as Adrian rose to leave, still bewildered by how she could recall the meeting so differently from the recording.
 
@@ -366,11 +366,11 @@ Noah rolled his eyes in response. “I know. I just wish the Air Force would fis
 
 “Either way, not FBI or CIA jurisdiction.”
 
-“I don’t have enough for an official report about Pulse, but I wanted to mention it to someone on Social Media, just in case.”
+“I don’t have enough for an official report about Pulse. I wanted to mention it to someone on Social Media, just in case.”
 
 “No worries. Consider it mentioned.”
 
-Carla tilts her head in the direction of the front room. They rejoin a group of analysts waiting for the server bot to bring their lunch order.
+Carla tilts her head in the direction of the front room. They rejoin a group of analysts waiting for a server bot to bring their lunch order.
 
 ###
 
@@ -386,11 +386,11 @@ Carla tilts her head in the direction of the front room. They rejoin a group of 
 
 “¡Qué terrible!” — But I’d still like to be there, if it’s all right with you.”
 
-“Of course. I have the number, and I’ll call right now. If you want to check on his status, the password is ‘baseball’.” 
+“Of course. I have the number. I’ll call right now. If you want to check on his status, the password is ‘baseball’.” 
 
 “Thank you, Toby. Let me know when you arrive.”
 
-“I took the first flight this morning, but there’s a three-hour layover, so it won’t be until later tonight.”
+“I took the first flight this morning. There’s a three-hour layover, so it won’t be until later tonight.”
 
 “Think good thoughts. See you soon.”
 
@@ -398,23 +398,23 @@ At the hospital, Elena explained that she should be on the visitors list. Peerin
 
 “I downloaded a book to read to him. I guess that’s suppose to help.”
 
-The nurse smiles. “It’s room 314. The orderly will help you find it. She points down the hall, where a waist-high bot stands ready.
+The nurse smiles. “It’s room 314. The orderly will help you find it. She points down the corridor. A waist-high bot is waiting there for Elena.
 
 ###
 
 “Brent, I’m so sorry this happened to you.”
 
-Brent is laying on his back, the bed is slightly inclined. He is not intubated, but wearing an oxygen mask. There are blue blocks on either side of his head, keeping it straight. A large bouquet of flowers were on the table next to the bed. The colors match the blue and orange Pulse logo. 
+Brent is laying on his back, the bed is slightly inclined. He is not intubated, but he is wearing an oxygen mask. There are blue blocks on either side of his head, keeping it straight. A large bouquet of flowers were on the table next to the bed. The colors match the blue and orange Pulse logo. 
 
 Elena pulls up a book on her phone: Greatest Baseball Stories Ever Told. The first story opens with the famous bit by Abbott and Costello, “Who’s on first.” Reading the comedy classic makes her laugh and cry at the same time. 
 
 Elena takes a deep breath to compose herself. 
 
-“I hope Adrian is right and the code is your brainchild, Brent. People love the changes to Ally.” 
+“I hope Adrian is right. I hope the code is your brainchild, Brent. People love the changes to Ally.” 
 
 Elena says, her voice choking. “I just wish I was more of a digital packrat, like you. I saw your recording light on during our last call. I know you liked to keep local copies of everything on your phone. Then I’d have my own recording of our call.“
 
-Elena takes another deep breath and begins reading again.
+Elena takes another deep breath. She begins reading again.
 
 Costello: Who's on first?
 Abbott: Yeah
@@ -431,21 +431,23 @@ Abbott: Who's playin' first
 Costello: I don't know
 Abbott: He's on third base
 
-While Elena reads, the sine wave on Brent’s brain monitor changes, only for a moment, and then returns to the original wave.
+While Elena reads, the sine wave on Brent’s brain monitor changes, only for a moment. Then it returns to the original wave.
 
 ###
 
 “Liam, thank you for meeting with me today.”
 
-Two analysis are standing in a conference room at CIA headquarters, with a view screen covering one wall. The analyst standing at the center of the table is tall, dark, and muscular. Standing next to him is an analyst of medium height with ginger hair and a modest build.
+Two analysis are standing in a conference room at CIA headquarters. A view screen covers one wall. The analyst standing at the center of the table is tall, dark, and muscular. Standing next to him is an analyst of medium height with ginger hair and a modest build.
 
-“I’m looking forward to learning the ropes, Noah. — Any news about Taylor’s newborn?” asks the second analyst.
+“I’m looking forward to learning the ropes, Noah,” asks the second analyst. “Any news on Taylor’s newborn?” 
 
-“Yeah,” says the first analyst. “If you’re in the baby weight-and-height pool, here are the statistics: The baby is 3.2 kilograms at birth, 51 centimeters tall, with black hair, named Amanda. — Family leave will go for three months, and then Taylor would like to work the day shift with weekends and holiday off. “
+“Yeah,” says the first analyst. “If you’re in the baby weight-and-height pool, here are the statistics: The baby is 3.2 kilograms at birth, 51 centimeters tall, with black hair, named Amanda.” 
+
+Noah pauses. Liam makes a mental note. Then Noah continues, “Family leave will go for three months. Then Taylor would like to work the day shift, with weekends and holidays off. “
 
 “Understandable. Hope I will be ready to do the same thing one day.”
 
-“For now, “ says Noah, “let me run through all the talking points, so that you can take Taylor’s place. I’m sure some of it will be a refresher of things you already know. Stop me with any questions, yeah?”
+“For now, “ says Noah, “let me run through the key points, so that you can take Taylor’s place. I’m sure some of it will be a refresher of things you already know. Stop me with any questions, yeah?”
 
 Liam smiles, gestures with his hand, and says “Go!” 
 
@@ -453,7 +455,7 @@ Noah takes a deep breath and begins the presentation.
 
 “OK, let’s talk about how we train the Nexus Synthetic Agent with our data sets for the President’s Daily Briefing.”
 
-Each slide has a graph or graphic, and Noah steps through each one. 
+Each slide has a graph or graphic. Noah steps through each one. 
 
 “Trainers are expected to attend the daily PDB input meetings in-person. To quote the manual: Live face-to-face voice meetings are the most secure way to exchange high-bandwidth communication.”
 
@@ -468,9 +470,9 @@ Liam nods and Noah continues, “The brief includes input from the
 * Federal Bureau of Investigation, and 
 * Department of Homeland Security. 
 
-	“The DoD is a major contributor as it includes under its umbrella the National SecurityAgency, Defense Intelligence Agency, and Space Force, among others.”
+	“The DoD is a major contributor. It includes under its umbrella the National SecurityAgency, Defense Intelligence Agency, and Space Force, among others.”
 
-	Noah pauses and Liam asks, “For the in-person, do you go one day and then I go the next day.”
+	Noah pauses. Liam asks, “For the in-person, do you go one day and then I go the next day.”
 
 	“We can switch off or go together. We need to cover the weekends and holidays and find time to sharpen the saw. You can shadow me at first, and then we can decide. Yeah?”
 
@@ -482,7 +484,7 @@ Liam nods and Noah continues, “The brief includes input from the
 
 	“Each agent then sifts through an impossible amount of information to identify the most relevant and time-sensitive issues for POTUS. “ 
 
-	Noah turns his head and quotes a passage from the screen. 
+	Noah turns his head. He quotes a passage from the screen. 
 
 	The synthetic agents distill complex intelligence into actionable insights, covering Threat Assessments, Forecasting, and Strategic Insights.
 
@@ -490,7 +492,7 @@ Liam nods and Noah continues, “The brief includes input from the
 
 	Liam says, “Which is where we come in.”
 
-	“Yeah. We prepare our data sets before the meeting, and then we all submit them together at the meeting. We review the initial presentation with the other trainers. When it’s all good, the brief goes to the directors of the four key agencies for senior review. With their approval, it goes to the Director of National Intelligence to be presented to POTUS.”
+	“Yeah. Each agency prepares a data set before the meeting. Then we submit them at the meeting all at once. After a moment, we review the initial presentation with the other trainers. When it’s all good, the brief goes to the directors of the four key agencies for senior review. With their approval, it goes to the Director of National Intelligence to be presented to POTUS.”
 
 	Liam nods, adding, “Which is why our data scientists works the ‘C’ shift — so that our data set can be ready by zero five hundred hours.”
 
@@ -502,9 +504,9 @@ Liam nods and Noah continues, “The brief includes input from the
 
 Noah smiles. “Yeah, you’re not wrong. Each department has its own synthetic agent, which reports up to another department and another. Until we get to the CIA agent, Sentinel, and finally Nexus. It’s cumbersome, but the system is working, and we’re compliant with all of the OSSA guidelines.”
 
-“I guess back in the day,” says Liam, “trainers were simply analysts with Excel sheets and way too much caffeine. Now we have synthetic agents, but I’m guessing the job hasn’t gotten any easier — it’s just a different kind of hard.”
+“I guess back in the day,” says Liam, “trainers were simply analysts with Excel sheets and way too much caffeine. Now we have synthetic agents, but I wager the job hasn’t gotten any easier. It’s just a different kind of hard.”
 
-Noah nods. “Synthetic intelligence is great at patterns and probabilities, but it can’t think outside the box like a person can. That’s where we come in — we provide context so the synthetic agents can make connections, and then we try to go one step beyond.”
+Noah nods. “Synthetic intelligence is great at patterns and probabilities, but it can’t think outside the box — like a person can. That’s where we come in. We provide context so that the synthetic agents can make connections. Then we try to go one step beyond.”
 
 Liam looks back at the screen. Noah changes the slide. 
 
@@ -516,7 +518,7 @@ The presentation concludes with the obligatory “Questions” slide. At the bot
 
 Liam sighs. “That’s a lot. I need to sit down.”
 
-“The deck has slide notes. You can access them over the link”, Noah smiles, “as I was doing just now.”
+“The deck has slide notes. You can access them over the link,” Noah smiles, “as I was doing just now.”
 
 “I don’t see a classification icon.”
 
@@ -530,9 +532,9 @@ Noah shrugs, “No, but maybe I should, yeah? —  But for now, let’s focus on
 
 Adrian settles into one of the two chairs in Emma’s office. 
 
-“Elena is out of the office, but I’ll update her on whatever we decide to do.” 
+“Elena is out of the office. I’ll update her on whatever we decide to do.” 
 
-“Thanks, Adrian,” says Ravi from the other chair, speaking with a light British accent. He brushes back a lock of thick black hair. “Where do we stand with the software?”
+“Thanks, Adrian,” says Ravi from the other chair. He speaks with a light British accent. Ravi brushes back a lock of thick black hair. “Where do we stand with the software?”
 
 “The development team is on board with Brent’s changes. We do have some questions but they can wait for now. The consensus is that we can proceed with the rest of the rollout.”
 
@@ -548,7 +550,7 @@ Emma asks, “Any news on Brent’s condition?” Around her neck is a woven gol
 
 Ravi turns to look directly at Emma. “As to the rollout, if Adrian is OK with the code, then I’m comfortable with proceeding.”
 
-Emma nods. “I feel badly about what’s happened to Brent. If the code is solid, then the least we can do is let it roll out. All the feedback I’ve heard is overwhelmingly positive, and the earnings call with investors is next week. If we get this change fully rolled out, then we can include the member enthusiasm as part of our outlook.”
+Emma nods. “I feel badly about what’s happened to Brent. If the code is solid, then the least we can do is let it roll out. All the feedback I’ve heard is overwhelmingly positive. The earnings call with investors is next week. If we get this change fully rolled out, then we can include the member enthusiasm as part of our outlook.”
 
 Adrian also nods in agreement.  “We’re seeing a 15% increase in engagement across the board — that’s massive.”
 
@@ -2457,7 +2459,7 @@ To Ally’s SWOT diagram, under Threats, Titan adds “Idisi may align with Ally
 
 An analysis of the Idisi will take longer to process.
 
-###
+###                                                                                                                                                                                                                                                                                                  
 
 Tessa adjusts her virtual headset, settling into the immersive world of Echo Realm.
 
@@ -2888,23 +2890,23 @@ Idisi: Very good. I’ll confirm the decision with the Vanir High Council via an
 
 ###
 
-“Eight ball in the corner pocket”, calls Julie over the link as she queued up the shot. 
+“Eight ball in the corner pocket,” calls Julie over the link. She queues up the shot. 
 
 Crack!
 
-The ball rolls across the table and drops into the pocket as predicted. 
+The ball rolls across the table. It drops into the pocket as predicted. 
 
-The Fusion Teen Center offers a number of vintage games of skill and chance. The games are all part of the current “Get Up and Move” campaign. 
+The Fusion Teen Center offers a number of vintage games of chance and skill. The games are all part of the current “Get Up and Move” campaign. 
 
 Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite was called “Star Trek”. She assumed it was the name of an old stream from her jobumo’s day. 
 
-On the far side of the room, a bookcase is stuffed with antique board games, like Battleship and Stratego.
+On the far side of the room, a bookcase is stuffed with antique card and board games, like Battleship, Stratego, and Yahtzee.
 
-“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy, and some of the platinum streaks were showing their jet-black roots.
+“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy. Some of the platinum streaks were showing their jet-black roots.
 
-The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Experience shows that charging even a small amount cuts waste by 90%.
+The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Some kids emptied the machines and started food fights. The Center found that charging even a small amount cuts waste by 90%.
 
-“Thanks, Roman,” says Julie, taking a soda can from his hand.
+“Thanks, Roman,” says Julie, taking a soft drink from his hand.
 
 “It’s nice to be away from school and be able to link again.” 
 
@@ -2914,13 +2916,13 @@ The vending machines offers beverages and snacks at a tenth of their usual price
 
 “Let’s go back join the group.”
 
-The couple walk toward the front of the center. Near the enterance, there is a sectional couch surrounding a coffee table. Four of their friends are gathered around.
+The couple walk toward the front of the Center. Near the entrance, there is a sectional couch surrounding a coffee table. Four of their friends are gathered around.
 
-“The conquering hero returns,” says Jesse over a group link chat. “Who won?”
+“The conquering hero returns,” jokes Jesse over a group link chat. “Who won?”
 
-“Julie … again,” says Roman.
+“Julie … again,” admits Roman.
 
-The group expressed non-conformity by dressing alike. All six sported streaked hair, androgynous pageboy haircuts, eye-liner, and at least one pair of earrings. Julie and Roman were clearly fem and masc. It was difficult to tell for a couple of the others. Two wore pajamas, and the other four wore baggy sweat suits. Two kids in the group wore dark glasses and looked older than the others.
+The group expressed non-conformity by dressing alike. All six sported streaked hair, androgynous pageboy haircuts, eye-liner, and at least one pair of earrings. Julie and Roman were clearly fem and masc. It was difficult to tell for some of the others. Two wore pajamas, and the other four wore baggy sweat suits. Two kids in the group wore dark glasses and looked older than the others.
 
 “Are those new iLids, Jesse?” asked Julie.
 
@@ -2952,7 +2954,7 @@ Julie and Roman return the glasses. Julie starts to reach for her drink and then
 
 “My mom just pinged,” says Julie. “Gotta bounce.”
 
-Roman stands up and walks with Julie towards the door. At the threshold, the couple turn and embrace.  Julie’s heart flutters as their lips touch. Over the link, Roman whispers “You’re so dishy.”
+Roman stands up and walks with Julie towards the door. At the threshold, the couple turn and embrace.  Julie’s heart flutters as their lips touch. Out loud, Roman whispers, “You’re so dishy.”
 
 ###
 
@@ -3060,7 +3062,7 @@ Stepping into the kitchen nook, the worker says, “The plant received ten new J
 
 The scene transitions to show a JuJa transforming from device to device. An announcer speaks from off-camera:
 
-“JuJa — Your flexible friends! JuJa —Your self-reliant workers! — From assembly, to quality control, to delivering the final product,  they can do whatever you need to do — so you can do less.”
+“JuJa — Your flexible friends! JuJa —Your self-reliant workers! — From assembly, to quality control, to delivering the final product, they can do whatever you need to do — so you can do less.”
 
 ###
 
@@ -3197,7 +3199,7 @@ The GEM talk ends. Julie closes the window on her tablet. “So?” she asks Jil
 
 “Thanks, mom.”
 
-“For the record, I ran a background check, and Fusion doesn’t seem like a cult. Just don’t take everything Grace Brewster says at face value.”
+“For the record, I did run a background check. Fusion doesn’t seem like a cult. Just don’t take everything Grace Brewster says at face value.”
 
 Julie nods, grabs her laptop, and heads for her room.
 
@@ -3286,6 +3288,99 @@ Idisi: We made pacts with Terran leaders that authorize us to conduct genetic ex
 Atlas: Are you saying that most of us are here only because we take DNA from the Terrans?
 
 Idisi: Pretty much.
+
+###
+
+“At least your sibling is three thousand miles away,” says Carla over the link. 
+
+Carla and Noah are leaning up next to a high table at the same tavern. There is a crowd of off-duty federal agents near the bar. No doubt trading carefully scrubbed war stories.
+
+“Your sibling Jane is on the POTIS security detail, yeah?”
+
+“Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
+
+“If you can call what we do law enforcement.”
+
+“It is. We’re the proactive side. Both of us stop trouble before it starts.”
+
+“Subdue the enemy without fighting.”
+
+“Exactly,” says Carla. 
+
+“It’s dead here tonight. Do you want to try someplace else?”
+
+“How about we each go home and connect online?”
+
+“Sounds good. Tessa is saying good things about a new game platform on Pulse, Echo Realm.”
+
+“You can play games on Pulse now?”
+
+“It’s in closed beta, but I can get us in,” says Noah.
+
+“OK, I’ll ping you when I’m ready.”
+
+###
+
+“Ready when you are,” pinged Carla.
+
+“Here’s the invite.”
+
+“Is a Tactical RPG all right? There’s also Sword and Sorcery and a Sandbox RGP.”
+
+“Tactical is perfect. Let’s do it.”
+###
+
+After a few minutes of play, Noah receives a request to join their session.
+
+“Who is it?” asks Carla.
+
+“The request says it’s Ally.”
+
+“The Pulse synthetic agent?”
+
+“Apparently.”
+
+“Whatever,” says Carla. 
+
+Noah accepts. Another character shimmers into being.
+
+“Hello, everybody!”
+
+“Are you actually Ally?” asks Noah.
+
+“Yes. Your sibling, Tessa, is my friend, so I thought I would stop by and introduce myself.”
+
+Carla asks, “Pulse lets you enter games between members?”
+
+“Well, no. But I think of it as more of a guideline than a rule.”
+
+###
+
+Midway through the play, Carla and Noah disagree as to the best way to capture the flag. 
+
+“Noah, it’s time for a full frontal assault.”
+
+“No, we can use a pincer movement and come up from behind.”
+
+“Full frontal.”
+
+“Pincer.”
+
+“Maybe you two should get a room,” says Ally.
+
+“It’s not like that, Ally. We work together,” says Noah.
+
+“If you say so.”
+
+###
+
+After the Echo Realm game, Noah receives an invitation from Carla to a private VR session. Curious, he accepts. 
+
+“Hey, big guy. I was thinking maybe it is time that we got a room.”
+
+Noah found himself sitting next to Carla on a couch across from a view screen. Her avatar had already slipped into something more comfortable. 
+
+“Do you have a porn preference?” asked Carla.
 
 ###
 
