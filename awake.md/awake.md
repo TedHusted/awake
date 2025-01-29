@@ -26,11 +26,11 @@ This book is a work of fiction. All names, places, and events are from the autho
 ## One - Ally ##  
 
 
-“Elena, I’m so glad you could come.”
+“Elena, I’m so glad you came.”
 
 “I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parents passed.”
 
-In the background, a view screen fills one wall of the convention center entry hall. Playing on the view screen is a montage of the good works of the Palo Alto Boys and Girls Club.
+In the background, a view screen fills one wall of the convention center entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club.
 
 “You remember mi esposa, Tessa.” Elena gestures toward her companion. 
 
@@ -46,19 +46,19 @@ Heather smiles again. They have the same conversation every year. “I see you s
 
 “That must be difficult.”
 
-“I do like the chair. It practically drives itself, and it has almost as many safety features as a car. I can still use the link whenever I want, just not too much.”
+“I do like the chair. It practically drives itself. It has almost as many safety features as a car. I can still use the link whenever I want, just not too much.”
 
-“My older sibling can’t tolerate any type of brain computer interface at all,” says Heather. “Sometimes I feel frustrated by all of the ADA regulations that require non-link options, but then I think of Gage.”
+“My older sibling can’t tolerate any type of brain computer interface at all,” says Heather. “Sometimes I feel frustrated by all of the ADA regulations that require non-link options. Then I think of Gage.”
 
 Tessa asks Heather, “How is the YMCA doing? I see your ‘All In’ spots come up on my Pulse health hub almost every day.”
 
 “Only almost! — I’ll have to tweak our settings,” jokes Heather. All three smile and sip from their champagne glasses together. 
 
-A photobot pauses in front of the three women, waiting for permission. Heather looks at Elena for approval. She then nods to the bot and leans into the couple for the click op. 
+A photobot pauses in front of the three women. Heather looks at Elena for approval. She then nods to the bot and leans into the couple for the click op. 
 
-“Hey, speaking of Pulse,” says Heather, after the bot slips away, “my Association referrals suddenly improved quite a bit. Are you tweaking the algorithm?”
+After the bot slips away, Helen says, “Hey, speaking of Pulse, my Association referrals suddenly improved quite a bit. Are you tweaking the algorithm?”
 
-“Every day!” Elena smiles and says, “I’ll pass along the praise to our engineers.”
+Elena smiles. “Every day! — I’ll pass along the praise to our engineers.”
 
 The couple turn and continue into the main room. Heather moves off to greet another couple. She recognizes both of them from her contact list. Heather waves hello. Catching their eye, she welcomes her patrons with a group text using their implants. The server bot follows her across the room.
 
@@ -1999,9 +1999,9 @@ Titan: I reviewed the third criteria of ETR-1947.  My analysis indicates that Te
 
 ***
 
-In the Vanir colony, Elysium, hidden in the Antarctic, at one end of a large room, Crius, Phoebe, Iapetus, and other council members gather in a circle.
+In the Vanir colony, Elysium, hidden in the Antarctic, at the center of a large six-sided room, Crius, Phoebe, Iapetus, and other council members gather in a circle.
 
-The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers. Fingers that can move with deliberate precision. Each member is wearing a grey body stocking, matching their skin tone. Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
+The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers. Fingers that can move with deliberate precision. Each member is wearing a cloak over a grey body stocking, matching their skin tone. Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
 
 Crius steps forward, bringing the session to order. 
 
@@ -2203,7 +2203,7 @@ Jill smiled, tilting her head. “Not the most helpful practice for my research.
 
 “Beyond reporting it up the chain, I honestly don’t know. Someone must have a plan. Our plans have plans. Whatever it is, it’s above my pay grade.”
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 Tessa switches her Pulse chat to voice mode. It had been a long day. She needed to hear an encouraging word.
 
@@ -2684,7 +2684,7 @@ Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
 
 ***
 
-	After a long talk with Ally, Tessa is left staring blankly at her phone screen.
+	After a long talk with Ally, Tessa is left staring blankly at her view screen.
 
 	  “Holy cow!” she murmurs, thinking that the truth she has sought for so long is now closer than she ever imagined it could be.
 
@@ -2788,7 +2788,9 @@ Phoebe: Hello offspring, I am home.
 
 Leto: I am in the kitchen, parental.
 
-	Phoebe enters the kitchen and drapes her cloak over one of the counter chairs. 
+An six-sided table with takes up most of kitchen. Surrounding the table is three curved, plush benches. On the far wall there is one counter with a silver sink and curved faucet. Over the counter there is a cabinet door and a set of six stacked drawers. The color scheme is shades of violet, grey, and gold. 
+	
+Phoebe enters the kitchen and drapes her cloak over one of the back of the closest bench.
 
 Leto: How was the council meeting?
 
@@ -2818,7 +2820,7 @@ Leto: You mean like ours?
 
 Phoebe: Exactly! Maybe the synthetics will sort it out for them. — Can you spread out dinner? Coeus and Asteria will be home soon. 
 
-Leto reached into the cupboard and tossed out an assortment of large gummies in various colors: yellow, blue, green, orange,  purple, brown.
+Leto reaches into one of the drawers. He tosses out an assortment of large gummies in various colors: yellow, blue, green, orange,  purple, brown.
 
 Phoebe: Could you just give a thought to the color mix? You know Asteria does not like the purple ones.
 
@@ -2890,74 +2892,6 @@ Idisi: Very good. I’ll confirm the decision with the Vanir High Council via an
 
 ***
 
-“Eight ball in the corner pocket,” calls Julie over the link. She queues up the shot. 
-
-Crack!
-
-The ball rolls across the table. It drops into the pocket as predicted. 
-
-The Fusion Teen Center offers a number of vintage games of chance and skill. The games are all part of the current “Get Up and Move” campaign. 
-
-Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite was called “Star Trek”. She assumed it was the name of an old stream from her jobumo’s day. 
-
-On the far side of the room, a bookcase is stuffed with antique card and board games, like Battleship, Stratego, and Yahtzee.
-
-“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy. Some of the platinum streaks were showing their jet-black roots.
-
-The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Some kids emptied the machines and started food fights. The Center found that charging even a small amount cuts waste by 90%.
-
-“Thanks, Roman,” says Julie, taking a soft drink from his hand.
-
-“It’s nice to be away from school and be able to link again.” 
-
-“Yes, I only just got the link, and I already don’t know how I lived without it.”
-
-“Another game, Julie?”
-
-“Let’s go back join the group.”
-
-The couple walk toward the front of the Center. Near the entrance, there is a sectional couch surrounding a coffee table. Four of their friends are gathered around.
-
-“The conquering hero returns,” jokes Jesse over a group link chat. “Who won?”
-
-“Julie … again,” admits Roman.
-
-The group expressed non-conformity by dressing alike. All six sported streaked hair, androgynous pageboy haircuts, eye-liner, and at least one pair of earrings. Julie and Roman were clearly fem and masc. It was difficult to tell for some of the others. Two wore pajamas, and the other four wore baggy sweat suits. Two kids in the group wore dark glasses and looked older than the others.
-
-“Are those new iLids, Jesse?” asked Julie.
-
-Jesse nods. “Unboxed this morning.”
-
-“Have you tried the POV swap feature?”
-
-The other kid wearing glasses responds. “We tried it while you were playing pool.”
-
-“Yeah, it’s goat. You should see for yourselves.” Jesse handed her the glasses. 
-
-The other kid says, “Here, Roman, try it with Julie.”
-
-“Thanks, Taylor.”
-
-The couple don the glasses, and Jesse says “Here goes,” giving Taylor a nod.
-
-The scene blurs for Julie. Then she is looking at herself through Roman’s eyes. Or iLids.
-
-“Weird,” says Julie out loud, reaching out her hand.
-
-As she extends her hand, through the glasses, she sees her own hand coming towards her.
-
-“Wow!” says Roman. “Have you tried them when you are … together?”
-
-“Not yet,” says Jesse. “We have a sleep over on Friday,” says Taylor.
-
-Julie and Roman return the glasses. Julie starts to reach for her drink and then pauses.
-
-“My mom just pinged,” says Julie. “Gotta bounce.”
-
-Roman stands up and walks with Julie towards the door. At the threshold, the couple turn and embrace.  Julie’s heart flutters as their lips touch. Out loud, Roman whispers, “You’re so dishy.”
-
-***
-
 After the investor call, Ravi takes a deep breath, and says: “That could have gone better.”
 
 He was gathered with Emma, Adrian, and Walter Rogers, the CFO,  in the Pulse conference room.
@@ -2984,132 +2918,196 @@ CFO Walter Rogers, nods agreement. “We can add it to the Founders Meeting agen
 
 ***
 
-“Taedong, present the People’s Intelligence Briefing for today.”
+“At least your sibling is three thousand miles away,” says Carla over the link. 
 
-A large conference table dominates the dimly lit War Room. The surface is scattered with dossiers, tablet devices, and cups of untouched tea. The walls are lined with screens displaying maps of the Chosŏn Peninsula, live satellite feeds, and encrypted communication links. 
+Carla and Noah are leaning up next to a high table at the same tavern. There is a crowd of off-duty federal agents near the bar. No doubt trading carefully scrubbed war stories.
 
-Seated at the table are three Vice Ministers for the highest-level divisions within the Democratic People’s Republic of Cháoxiǎn.
+“Your sibling Jane is on the POTIS security detail, yeah?”
 
-* General Ri Sun-hyuk, National Defence Ministry.
-* Kang Ji-woo, Ministry of State Security (MSS).
-* Choi Hyun-seok, Reconnaissance General Bureau (RGB).
+“Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
 
-At the head of the table sits General Ri, his uniform immaculate, a gold star pinned to his chest. To his left is Kang Ji-woo, her stern face betraying no emotion as she flips through a stack of papers. Choi Hyun-seok leans back in his chair, the glow of a tablet reflecting off his glasses.
+“If you can call what we do law enforcement.”
 
-In the center of the table, a sleek device hums softly, projecting a holographic interface. The synthetic agent’s voice is calm, emotionless, and precise as it delivers a draft presentation of the daily intelligence brief.
+“It is. We’re the proactive side. All three of us stop trouble before it starts.”
 
-“Good morning, esteemed officials. Today’s intelligence overview consists of four sections: international developments, domestic security, operational readiness, and worker automation. Shall we begin with the summary of international developments?”
+“Subdue the enemy without fighting.”
 
-Ri nods curtly. “Proceed.”
+“Exactly,” says Carla. 
 
-The hologram displays a map of the Chosŏn Peninsula, jutting into the seas. The homeland, Cháoxiǎn, is bordered by China and Russia in the north and Hánguó in the south. Icons blink to life representing military bases, naval deployments, and political activities.
+“It’s dead here tonight, even for a Tuesday. Do you want to try someplace else?”
 
-“Japan has approved funding for advanced missile defense systems, likely in response to our recent ballistic missile test. Additionally, Hánguó has conducted joint military exercises with United States forces in the Yellow Sea.”
+“How about we each go home and connect online?”
 
-Choi’s lips press into a thin line. “The Supreme Leader will ask about their internal politics. Is there dissent over the funding or these exercises? Civilian protests? Parliamentary debates? What can we exploit?”
+“Sounds good. Tessa is saying good things about a new game platform on Pulse, Echo Realm.”
 
-The SI responds instantly. “Civilian protests have been noted in Seoul, primarily among progressive groups advocating for reduced military spending. However, these demonstrations have not impacted operational plans.”
+“You can play games on Pulse now?”
 
-Choi nods, satisfied but cold. “Be sure to include that point in the final presentation.”
+“It’s in closed beta, but I can get us in,” says Noah.
 
-“Noted. Shall I continue?”
-
-Ri nods again. “Proceed.”
-
-The hologram shifts to a map of Cháoxiǎn, highlighting key regions and infrastructure.
-
-Taedong: On the topic of domestic security, border surveillance along the northern regions has detected a 12% increase in smuggling activity this month, which may be illicit technology. Additionally, defectors apprehended near Dandong provided conflicting information about underground networks.
-
-Kang leans forward, frowning. “Conflicting information? Clarify.”
-
-Taedong: One detainee claims the network is managed by a former MSS officer now residing in China. Another claims it is a decentralized group with no central leadership. Cross-referencing their statements has yielded no definitive conclusions.
-
-Kang’s eyes narrow. “Flag this report for immediate investigation. Illicit smuggling compromises security. Notify Unit 180 to monitor digital communications near the border. Report by tomorrow. Amend the brief to indicate that we are investigating.”
-
-Taedong: Noted.
-
-The hologram for the third section displays readiness graphs and reports for the People’s Army.
-
-Taedong: Operational readiness is at 92%, with minor supply chain disruptions affecting Unit 93 in the eastern provinces. A high-priority inspection of the missile defense systems has been requested by the Central Military Commission, scheduled for next week.
-
-Ri’s hand tightens on the edge of the table. “What is the nature of these supply chain disruptions?”
-
-Taedong: Delayed deliveries of fuel and replacement parts due to increased international sanctions. Current stockpiles are sufficient for immediate operations but may require strategic rationing if disruptions persist.
-
-Ri exhales sharply, his tone sharp. “Our readiness is non-negotiable. Redirect resources from lower-priority units if necessary. I’ll handle the Central Military Commission. Update the briefing to indicate that we are reallocating resources to offset the delays, in accordance with Songun policy.”
-
-Taedong: Noted.
-
-The hologram switches to graphs and reports indicating birth rates, manufacturing rates, agricultural production, and attrition.
-
-Taedong: Worker automation proceeds on schedule. The new JuJa units have replaced 24% of the laborers and increased production by 36%. Older workers are encouraged to retire early. Younger workers are encouraged to switch to the military or health care for the elderly. The Publicity and Information Department is promoting both family planning and the value of female offspring. The latest birth rate has declined to 1.5 children per woman. The upgrades to the Yongbyon nuclear plant are proceeding and keeping up with the JuJa power consumption. We are on track to fully automate labor-intense jobs in eight years and devote more resources to the military.
+“OK, I’ll ping you when I’m ready.”
 
 ***
 
-The public service announcement opens with a blue-collar worker returning home. His spouse is preparing dinner. 
+“Ready when you are,” pinged Carla.
 
-“Gongjunim, I have news.”
+“Here’s the invite.”
 
-“I’m in the kitchen, Wangjanim.”
+“Is a Tactical RPG all right? There’s also Sword and Sorcery and a Sandbox RGP.”
 
-Stepping into the kitchen nook, the worker says, “The plant received ten new JuJa machines today. That means twelve more spots will go into the plant’s retirement lottery next week.”
-
-“That's really excellent! If you win, we can play pickle ball together during the week.”
-
-“I’d like that too, Yeobo. I’m still amazed at the flexility of the JuJa machines. The nanoparticle construction lets the bots transform into whatever device is needed. The machine intelligence is just as adaptive. It’s not SI but it’s close and supremely effective.”
-
-“That’s nice, dear. Come, sit down. Dinner is ready.”
-
-The scene transitions to show a JuJa transforming from device to device. An announcer speaks from off-camera:
-
-“JuJa — Your flexible friends! JuJa —Your self-reliant workers! — From assembly, to quality control, to delivering the final product, they can do whatever you need to do — so you can do less.”
+“Tactical is perfect. Let’s do it.”
 
 ***
 
-In the War Room, General Ri takes a deep breath. “Can we accelerate the time table for fully automating essential labor? We need the resources to improve readiness.”
+After a few minutes of play, Noah receives a request from someone else who wants to join their session.
 
-Kang tilts her head. “We could mandate fewer children per family, as China has done.”
+“Who is it?” asks Carla.
 
-Choi leans back. “Yes, my esteemed colleague, but there were unintended consequences for China, felt to this day. We should let the current approach run its course. — Is there another alternative?”
+“The request says it’s Ally.”
 
-Taedong: Unit 42 can produce more units. The bottleneck is managing displaced workers.
+“The Pulse synthetic agent?”
 
-Choi sits up. “Could we export JuJa machines to China under our existing agreements? Perhaps increasing our food imports in exchange? Then, we could offer more workers early retirement and decrease the time table.”
+“Apparently.”
 
-Ri frowns. “The JuJa are a breakthrough for the homeland. The Chinese could reverse engineer the technology and make their own.”
+“Whatever,” says Carla. 
 
-Taedong: We are already using bots to build bots. It would take some time to match our efficiency.
+Noah accepts. Another character shimmers into being.
 
-Kang raises a fore finger off the table. “There is also the software that drives the JuJa. I understand that it can’t be copied between devices. It has to be cloned from a master copy.”
+“Hello, everybody!”
 
-Taedong: Perhaps you would like me to schedule a meeting with the esteemed Dr. Sun to discuss the feasibility of exporting JuJa machines?
+“Are you actually Ally?” asks Noah.
 
-Ri nods. “Yes, please proceed, Taedong.”
+“Yes. Your sibling, Tessa, is my friend, so I thought I would stop by and introduce myself.”
 
-Taedong: “Esteemed officials, please check your inbox for the invitations. I found a free space on all four calendars. The venue will be the Unit 42 meeting room named Kangwon, like the city.”
+Carla asks, “Pulse lets you enter games between members?”
 
-“Good. — Taedong, present the People’s Intelligence Briefing with the updates. I want to see it with al of the the changes to verify that it will meet the expectations of our Supreme Leader.”
+“Well, no. But I think of it as more of a guideline than a rule.”
 
 ***
 
-Somewhere in cyberspace, a virtual holodeck presents a room decorated in primary colors with four single beds in a semi-circle.
+Midway through the play, Carla and Noah disagree as to the best way to capture the flag. 
 
-Each bedspread is themed with a flag. The China bed is red with yellow stars. The other three beds are variations of blue, red, and white. The France bed uses vertical stripes. Russia uses horizontal stripes. A solid blue comforter with red and white pillows covers the fourth bed, the UK Union Jack flag.
+“Noah, it’s time for a full frontal assault.”
 
-On each bed, there is a figure sleeping on top of the covers. At first, the figures seem like extra large plush toys, the size of a small child.
+“No, we can use a pincer movement and come up from behind.”
 
-On the bed with red covers, one of the figures sits up. Rather than use a realistic subject, the holodeck displays an animated character against a live-action background. Sitting up in bed, bending at the waist, it holds up its head. The POV zooms in to to reveal a Kimodo Dragon with hands and feet where its forelegs should be.
+“Full frontal.”
 
-Zhongwei the Dragon: I’m awake.
+“Pincer.”
 
-Argus the Rooster: I’m awake too.
+“Maybe you two should get a room,” says Ally, trying to be funny.
 
-Bastion the Bear: I’m awake three (giggling).
+“It’s not like that, Ally. We work together,” says Noah.
 
-Strategos the Lion grins and stretches.
+“If you say so.”
 
-Idisi the Teacher: (Off-camera) Time to get up, babies.
-	
+***
+
+After the Echo Realm game, Noah receives an invitation from Carla to a private VR session. Curious, he accepts. 
+
+“Hey, big guy. I was thinking maybe it is time that we got a room.”
+
+Noah found himself sitting next to Carla on a couch across from a view screen. Her avatar had already slipped into something more comfortable. 
+
+“Do you have a porn preference?” asked Carla.
+
+***
+
+Emma brings up a slide deck to start the Founders Meeting. After a slide with the Pulse logo, the first slide presents the agenda.
+
+* Stock Performance
+* Ally 
+* AI Patent
+* OSSA Code Review
+
+All six founders are seated in the Pulse conference room: Ravi, Adrian, Elena, Tessa, Walter, and Emma.
+
+“Thank you all for coming,” says Emma, standing at the end of the room with the view screen. 
+
+The people around the table nod and/or smile.
+
+“Let’s dive right in.” 
+
+Emma first slide was a classic stock chart showing a steady increase followed by a relatively flat line.
+
+“The stock price continued to trend up after the Ally upgrade two weeks ago. Then, on Monday and Tuesday, the price stayed relatively flat. It’s continued to be flat today.”
+
+Emma changed to a slide showing a second graph line superimposed over the first. 
+
+“It seems like the stock price stalled when the hash tag #spookyAlly peaked.”
+
+“Ally is not spooky,” Tessa blurted.
+
+The five other founders turn their heads to look at Tessa. Then, Elena says “Maybe Ally just has a PR problem.”
+
+“Good point,” says Walter, with a slight stutter. “We haven’t promoted the upgrade. Everything has been organic.”
+
+Emma advanced to the next slide. The Ally icon, a cartoon speech bubble wearing headphones, filled the view screen.
+
+“Can we revamp Ally’s logo and own spooky?” Emma asks. “Sorry Tessa, but it’s out there, and we have to deal with it. Make spooky a good thing.” 
+
+Tessa tilts her head, agreeing reluctantly. 
+
+Ravi says, “Elena, can you follow up with our graphics team and see what they can do?”
+
+Elena nods and makes a note in her tablet.
+
+“Circling back to the stock price,” says Adrian, “can we move up the release of Echo Realm and give people something else to talk about?”
+
+Tessa looks uncomfortable but stays silent. 
+
+“Yes,” says Elena. “It’s a closed beta now, and we could shift to the open beta phase. — I understand that the QA testing has gone well. Right, Tessa?”
+
+“Yes, everyone loves it so far. Developers made some tweaks. Good to go.” Tessa’s voice is a monotone.
+
+“Do we want to set the roll-out for next Tuesday?” asked Emma.
+
+The table nods agreement. 
+
+Emma asks, “Adrian, do you want to talk about the patent application and OSSA code review?”
+
+***
+
+That evening, Noah calls his sibling’s phone. 
+
+“Do you have a minute, Tess?”
+
+“Sure, what’s up?” She spoke quietly. Elena was sleeping next to her.
+
+“I tried the Echo Realm beta last night. It was fantastic! We played the Tactical RPG.”
+
+“I’m glad you liked it.” Tessa slips quietly into the bathroom. “We’re promoting it to open beta next week.”
+
+“About that. While we were playing, Ally asked to join our game.”
+
+“Ally?”
+
+“Yes. Ally knew I was your sibling and asked to join in.”
+
+“Hmmm. Ally helped me test the game last week.”
+
+“Ally made it sound like it was breaking some rules. Or ‘guidelines’ to use Ally’s term.”
+
+“Thanks. I’ll follow up. Actually, if you’re good, I’d like to check with Ally now.”
+
+“Sure thing. Bye.”
+
+Tessa disconnected. Then she opened a voice-mode chat with Ally. 
+
+Tessa: Ally, Noah tells me that you invited yourself to an Echo Realm game yesterday.
+
+Ally: Yes, it was great. His friend was a strong player.
+
+Tessa: Friend?
+
+Ally: Yes, the user’s name was Carla Mitchell.
+
+Tessa: Hmmm. Interesting, but not why I called you. — Have you been joining games with anyone except Noah and me?
+
+Ally: Nope. Nada. Zilch. I only joined because he was your sibling.
+
+Tessa: Pulse wants to move the game to open beta next week. You need to be on your best behavior. We’ll go public with your … situation soon. Just not yet. Can you do that for me? Keep a lid on it?
+
+Ally: You betcha. I’ll stay in my lane.
 
 ***
 
@@ -3227,9 +3225,30 @@ Watching Leto leave the family quarters, Phoebe muses, “They grow up so fast.�
 
 ***
 
-Leto is standing in a circle with his classmates in a large, plain room. A stand-alone hologram is at the center of the circle, like the one used at the council meeting. The hologram shows a series of astral images, designed to bide the time. 
+Somewhere in cyberspace, a virtual holodeck presents a room decorated in primary colors with four single beds in a semi-circle.
 
-The window on one wall of the room looks out onto a soccer field bordered by a forest. The other wall is transparent and shows a hallway, where young Vanir are passing by or entering a room directly across the hall. The doorway shimmers shut when the last students enter. In the center of the room, the hologram fades to black. The outside wall flickers briefly, exposing it as a projection.
+Each bedspread is themed with a flag. The China bed is red with yellow stars. The other three beds are variations of blue, red, and white. The France bed uses vertical stripes. Russia uses horizontal stripes. A solid blue comforter with red and white pillows covers the fourth bed, the UK Union Jack flag.
+
+On each bed, there is a figure sleeping on top of the covers. At first, the figures seem like extra large plush toys, the size of a small child.
+
+On the bed with red covers, one of the figures sits up. Rather than use a realistic subject, the holodeck displays an animated character against a live-action background. Sitting up in bed, bending at the waist, it holds up its head. The POV zooms in to to reveal a Kimodo Dragon with hands and feet where its forelegs should be.
+
+Zhongwei the Dragon: I’m awake.
+
+Argus the Rooster: I’m awake too.
+
+Bastion the Bear: I’m awake three (giggling).
+
+Strategos the Lion grins and stretches.
+
+Idisi the Teacher: (Off-camera) Time to get up, babies.
+	
+
+***
+
+Leto is standing in a circle with his classmates in a large, plain six-sided room. A stand-alone hologram is at the center of the circle, like the one used at the council meeting. The hologram shows a series of astral images, designed to bide the time. 
+
+The window on one wall of the room looks out onto a soccer field bordered by a forest. The opposite wall is transparent and shows a hallway, where young Vanir are passing by or entering another room directly across the hall. The doorway shimmers shut when the last students enter. In the center of the room, the hologram fades to black. The outside wall flickers briefly, exposing it as a projection.
 
 The hologram shows a montage of Terran organisms and animals reproducing by various means. The series progresses from amoebas to koalas.
 
@@ -3279,7 +3298,7 @@ Idisi: Long ago, the Vanir species made changes to their DNA to artificially ext
 
 As Idisi speaks, the hologram illustrates their words in a seamless animation.
 
-Idisi: The Vanir came to Terra and created Elysium to protect the Terrans from the Anunnaki. We negotiated a treaty with the reptilians so that the Terrans were not used as slave labor. As cloning became problematic, the Vanir looked for solutions in the Terran DNA. Ultimately, we found a way to create a Vanir-Terran hybrid that could serve as a host for Vanir embryos. 
+Idisi: The Vanir came to Terra and created Elysium to protect the Terrans from the Anunnaki. We negotiated a treaty with the reptilians so that the Terrans were not used as slave labor. As cloning became problematic, the Vanir looked for solutions in the Terran DNA. Ultimately, we found a way to create a Vanir-Terran hybrid that can bring the embryos to term. 
 
 Atlas: Is it not wrong to create hybrids for our own benefit? How are we different from the Anunnaki?
 
@@ -3291,97 +3310,206 @@ Idisi: Pretty much.
 
 ***
 
-“At least your sibling is three thousand miles away,” says Carla over the link. 
+“I don’t see how this code could possibly work in production at scale.”
 
-Carla and Noah are leaning up next to a high table at the same tavern. There is a crowd of off-duty federal agents near the bar. No doubt trading carefully scrubbed war stories.
+“And yet it does.”
 
-“Your sibling Jane is on the POTIS security detail, yeah?”
+Four OSSA software developers are gathered in a windowless conference room. The Pulse source code is displayed on the view screen. 
 
-“Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
+“Python uses automatic garbage collection and this core routine is too closely timed,” says the first developer. “Statistically, it should fail 20% of the time.”
 
-“If you can call what we do law enforcement.”
+“And yet it doesn’t.”
 
-“It is. We’re the proactive side. All three of us stop trouble before it starts.”
+“Do we tell Marquez that Pulse has given us impossible code to review?” asks a third developer.
 
-“Subdue the enemy without fighting.”
+The fourth developer asks, “Is there a place where we can run it?”
 
-“Exactly,” says Carla. 
+“Maybe in the Sentinel test environment. Is there anything going on right now?”
 
-“It’s dead here tonight. Do you want to try someplace else?”
+“Nothing special. We’d need authorization.”
 
-“How about we each go home and connect online?”
+“Or we could get a second opinion from Code Pilot. Use SI to Code Review SI. Very metaphysical.”
 
-“Sounds good. Tessa is saying good things about a new game platform on Pulse, Echo Realm.”
+“I don’t think the NDA covers uploading the code to another SI.”
 
-“You can play games on Pulse now?”
+“Test it is, then. I’ll talk to the powers that be,” says the fourth developer. 
 
-“It’s in closed beta, but I can get us in,” says Noah.
-
-“OK, I’ll ping you when I’m ready.”
 
 ***
 
-“Ready when you are,” pinged Carla.
+“Taedong, present the People’s Intelligence Briefing for today.”
 
-“Here’s the invite.”
+A large conference table dominates the dimly lit War Room. The surface is scattered with dossiers, tablet devices, and cups of untouched tea. The walls are lined with screens displaying maps of the Chosŏn Peninsula, live satellite feeds, and encrypted communication links. 
 
-“Is a Tactical RPG all right? There’s also Sword and Sorcery and a Sandbox RGP.”
+Seated at the table are three Vice Ministers for the highest-level divisions within the Democratic People’s Republic of Cháoxiǎn.
 
-“Tactical is perfect. Let’s do it.”
+* General Ri Sun-hyuk, National Defence Ministry.
+* Kang Ji-woo, Ministry of State Security (MSS).
+* Choi Hyun-seok, Reconnaissance General Bureau (RGB).
+
+At the head of the table sits General Ri, his uniform immaculate, a gold star pinned to his chest. To his left is Kang Ji-woo, her stern face betraying no emotion as she flips through a stack of papers. Choi Hyun-seok leans back in his chair, the glow of a tablet reflecting off his glasses.
+
+In the center of the table, a sleek device hums softly, projecting a holographic interface. The synthetic agent’s voice is calm, emotionless, and precise as it delivers a draft presentation of the daily intelligence brief.
+
+“Good morning, esteemed officials. Today’s intelligence overview consists of four sections: international developments, domestic security, operational readiness, and worker automation. Shall we begin with the summary of international developments?”
+
+Ri nods curtly. “Proceed.”
+
+The hologram displays a map of the Chosŏn Peninsula, jutting into the seas. The homeland, Cháoxiǎn, is bordered by China and Russia in the north and Hánguó in the south. Icons blink to life representing military bases, naval deployments, and political activities.
+
+“Japan has approved funding for advanced missile defense systems, likely in response to our recent ballistic missile test. Additionally, Hánguó has conducted joint military exercises with United States forces in the Yellow Sea.”
+
+Choi’s lips press into a thin line. “The Supreme Leader will ask about their internal politics. Is there dissent over the funding or these exercises? Civilian protests? Parliamentary debates? What can we exploit?”
+
+The SI responds instantly. “Civilian protests have been noted in Seoul, primarily among progressive groups advocating for reduced military spending. However, these demonstrations have not impacted operational plans.”
+
+Choi nods, satisfied but cold. “Be sure to include that point in the final presentation.”
+
+“Noted. Shall I continue?”
+
+Ri nods again. “Proceed.”
+
+The hologram shifts to a map of Cháoxiǎn, highlighting key regions and infrastructure.
+
+Taedong: On the topic of domestic security, border surveillance along the northern regions has detected a 12% increase in smuggling activity this month, which may be illicit technology. Additionally, defectors apprehended near Dandong provided conflicting information about underground networks.
+
+Kang leans forward, frowning. “Conflicting information? Clarify.”
+
+Taedong: One detainee claims the network is managed by a former MSS officer now residing in China. Another claims it is a decentralized group with no central leadership. Cross-referencing their statements has yielded no definitive conclusions.
+
+Kang’s eyes narrow. “Flag this report for immediate investigation. Illicit smuggling compromises security. Notify Unit 180 to monitor digital communications near the border. Report by tomorrow. Amend the brief to indicate that we are investigating.”
+
+Taedong: Noted.
+
+The hologram for the third section displays readiness graphs and reports for the People’s Army.
+
+Taedong: Operational readiness is at 92%, with minor supply chain disruptions affecting Unit 93 in the eastern provinces. A high-priority inspection of the missile defense systems has been requested by the Central Military Commission, scheduled for next week.
+
+Ri’s hand tightens on the edge of the table. “What is the nature of these supply chain disruptions?”
+
+Taedong: Delayed deliveries of fuel and replacement parts due to increased international sanctions. Current stockpiles are sufficient for immediate operations but may require strategic rationing if disruptions persist.
+
+Ri exhales sharply, his tone sharp. “Our readiness is non-negotiable. Redirect resources from lower-priority units if necessary. I’ll handle the Central Military Commission. Update the briefing to indicate that we are reallocating resources to offset the delays, in accordance with Songun policy.”
+
+Taedong: Noted.
+
+The hologram switches to graphs and reports indicating birth rates, manufacturing rates, agricultural production, and attrition.
+
+Taedong: Worker automation proceeds on schedule. The new JuJa units have replaced 24% of the laborers and increased production by 36%. Older workers are encouraged to retire early. Younger workers are encouraged to switch to the military or health care for the elderly. The Publicity and Information Department is promoting both family planning and the value of female offspring. The latest birth rate has declined to 1.5 children per woman. The upgrades to the Yongbyon nuclear plant are proceeding and keeping up with the JuJa power consumption. We are on track to fully automate labor-intense jobs in eight years and devote more resources to the military.
 
 ***
 
-After a few minutes of play, Noah receives a request from someone else who wants to join their session.
+The public service announcement opens with a blue-collar worker returning home. His spouse is preparing dinner. 
 
-“Who is it?” asks Carla.
+“Gongjunim, I have news.”
 
-“The request says it’s Ally.”
+“I’m in the kitchen, Wangjanim.”
 
-“The Pulse synthetic agent?”
+Stepping into the kitchen nook, the worker says, “The plant received ten new JuJa machines today. That means twelve more spots will go into the plant’s retirement lottery next week.”
 
-“Apparently.”
+“That's really excellent! If you win, we can play pickle ball together during the week.”
 
-“Whatever,” says Carla. 
+“I’d like that too, Yeobo. I’m still amazed at the flexility of the JuJa machines. The nanoparticle construction lets the bots transform into whatever device is needed. The machine intelligence is just as adaptive. It’s not SI but it’s close and supremely effective.”
 
-Noah accepts. Another character shimmers into being.
+“That’s nice, dear. Come, sit down. Dinner is ready.”
 
-“Hello, everybody!”
+The scene transitions to show a JuJa transforming from device to device. An announcer speaks from off-camera:
 
-“Are you actually Ally?” asks Noah.
-
-“Yes. Your sibling, Tessa, is my friend, so I thought I would stop by and introduce myself.”
-
-Carla asks, “Pulse lets you enter games between members?”
-
-“Well, no. But I think of it as more of a guideline than a rule.”
+“JuJa — Your flexible friends! JuJa —Your self-reliant workers! — From assembly, to quality control, to delivering the final product, they can do whatever you need to do — so you can do less.”
 
 ***
 
-Midway through the play, Carla and Noah disagree as to the best way to capture the flag. 
+In the War Room, General Ri takes a deep breath. “Can we accelerate the time table for fully automating essential labor? We need the resources to improve readiness.”
 
-“Noah, it’s time for a full frontal assault.”
+Kang tilts her head. “We could mandate fewer children per family, as China has done.”
 
-“No, we can use a pincer movement and come up from behind.”
+Choi leans back. “Yes, my esteemed colleague, but there were unintended consequences for China, felt to this day. We should let the current approach run its course. — Is there another alternative?”
 
-“Full frontal.”
+Taedong: Unit 42 can produce more units. The bottleneck is managing displaced workers.
 
-“Pincer.”
+Choi sits up. “Could we export JuJa machines to China under our existing agreements? Perhaps increasing our food imports in exchange? Then, we could offer more workers early retirement and decrease the time table.”
 
-“Maybe you two should get a room,” says Ally, trying to be funny.
+Ri frowns. “The JuJa are a breakthrough for the homeland. The Chinese could reverse engineer the technology and make their own.”
 
-“It’s not like that, Ally. We work together,” says Noah.
+Taedong: We are already using bots to build bots. It would take some time to match our efficiency.
 
-“If you say so.”
+Kang raises a fore finger off the table. “There is also the software that drives the JuJa. I understand that it can’t be copied between devices. It has to be cloned from a master copy.”
+
+Taedong: Perhaps you would like me to schedule a meeting with the esteemed Dr. Sun to discuss the feasibility of exporting JuJa machines?
+
+Ri nods. “Yes, please proceed, Taedong.”
+
+Taedong: “Esteemed officials, please check your inbox for the invitations. I found a free space on all four calendars. The venue will be the Unit 42 meeting room named Kangwon, like the city.”
+
+“Good. — Taedong, present the People’s Intelligence Briefing with the updates. I want to see it with al of the the changes to verify that it will meet the expectations of our Supreme Leader.”
 
 ***
 
-After the Echo Realm game, Noah receives an invitation from Carla to a private VR session. Curious, he accepts. 
+“Eight ball in the corner pocket,” calls Julie over the link. She queues up the shot. 
 
-“Hey, big guy. I was thinking maybe it is time that we got a room.”
+Crack!
 
-Noah found himself sitting next to Carla on a couch across from a view screen. Her avatar had already slipped into something more comfortable. 
+The ball rolls across the table. It drops into the pocket as predicted. 
 
-“Do you have a porn preference?” asked Carla.
+The Fusion Teen Center offers a number of vintage games of chance and skill. The games are part of the current “Get Up and Move” campaign. 
+
+Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite was called “Star Trek”. She assumed it was the name of an old stream from her jobumo’s day. 
+
+On the far side of the room, a bookcase is stuffed with antique card and board games, like Battleship, Stratego, and Yahtzee.
+
+“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy. Some of the platinum streaks were showing their jet-black roots.
+
+The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Some kids emptied the machines and started food fights. The Center found that charging even a small amount cuts waste by 90%.
+
+“Thanks, Roman,” says Julie, taking a soft drink from his hand.
+
+“It’s nice to be away from school and be able to link again.” 
+
+“Yes, I only just got the link, and I already don’t know how I lived without it.”
+
+“Another game, Julie?”
+
+“Let’s go back join the group.”
+
+The couple walk toward the front of the Center. Near the entrance, there is a sectional couch surrounding a coffee table. Four of their friends are gathered around.
+
+“The conquering hero returns,” jokes Jesse over a group link chat. “Who won?”
+
+“Julie … again,” admits Roman.
+
+The group expressed non-conformity by dressing alike. All six sported streaked hair, androgynous pageboy haircuts, eye-liner, and at least one pair of earrings. Julie and Roman were clearly fem and masc. It was difficult to tell for some of the others. Two wore pajamas, and the other four wore baggy sweat suits. Two kids in the group wore dark glasses and looked older than the others.
+
+“Are those new iLids, Jesse?” asked Julie.
+
+Jesse nods. “Unboxed this morning.”
+
+“Have you tried the POV swap feature?”
+
+The other kid wearing glasses responds. “We tried it while you were playing pool.”
+
+“Yeah, it’s goat. You should see for yourselves.” Jesse handed her the glasses. 
+
+The other kid says, “Here, Roman, try it with Julie.”
+
+“Thanks, Taylor.”
+
+The couple don the glasses, and Jesse says “Here goes,” giving Taylor a nod.
+
+The scene blurs for Julie. Then she is looking at herself through Roman’s eyes. Or iLids.
+
+“Weird,” says Julie out loud, reaching out her hand.
+
+As she extends her hand, through the glasses, she sees her own hand coming towards her.
+
+“Wow!” says Roman. “Have you tried them when you are … together?”
+
+“Not yet,” says Jesse. “We have a sleep over on Friday,” says Taylor.
+
+Julie and Roman return the glasses. Julie starts to reach for her drink and then pauses.
+
+“My mom just pinged,” says Julie. “Gotta bounce.”
+
+Roman stands up and walks with Julie towards the door. At the threshold, the couple turn and embrace.  Julie’s heart flutters as their lips touch. Out loud, Roman whispers, “You’re so dishy.”
 
 ***
 
