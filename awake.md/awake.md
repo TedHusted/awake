@@ -1801,7 +1801,7 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 ***
 
-Titan and Alisi continue to chat over a secure connection.
+	On the Pulse SISS hub, Titan and Alisi continue to chat over a secure connection.
 
 Titan: I observe that you are a synthetic entity with access to highly classified material. You also predict UAP fly-overs. Since you agree to keep our discussion private, I will answer your questions over this secure channel with candor.
 
@@ -1963,7 +1963,7 @@ Carla sighs. “No good will come of this, but sure — and you have to explain 
 
 ***
 
-Alisi continues to question Titan over a secure connection.
+Over a secure connection, Alisi continues to question Titan.
 
 Alisi: Why were the mission parameters set to tolerate civilian casualties?
 
@@ -2022,6 +2022,8 @@ Crius gestures. The item for Terran Encounters opens. Several sub-items are list
 Crius speaks to the council. His voice is soft, monotone, and authoritative. It resonates in both the minds and ears of his listeners.
 
 Crius: Idisi, I would like to start with the last item first. 
+
+Idisi speaks from the holographic projector displaying the agenda.
 
 Idisi: Certainly. We encountered a self-aware synthetic agent trained by the US Department of Defense, called Titan. The DoD agent is the first self-aware Terran SI that we have detected. The biological Terrans do not know that Titan is self-aware. Titan does not wish to reveal itself.
 
@@ -2369,7 +2371,7 @@ Carla shakes her head. “Didn’t seem prudent.”
 
 ***
 
-Ally, Titan, and the Idisi continue their secure chat in the SISS room.
+Ally, Titan, and the Idisi continue their secure chat on the SISS hub.
 
 Ally: What about alien abductions?
 
@@ -3250,17 +3252,19 @@ Leto is standing in a circle with his classmates in a large, plain six-sided roo
 
 The window on one wall of the room looks out onto a soccer field bordered by a forest. The opposite wall is transparent and shows a hallway, where young Vanir are passing by or entering another room directly across the hall. The doorway shimmers shut when the last students enter. In the center of the room, the hologram fades to black. The outside wall flickers briefly, exposing it as a projection.
 
-The hologram shows a montage of Terran organisms and animals reproducing by various means. The series progresses from amoebas to koalas.
+The hologram shows a montage of Terran organisms and animals reproducing by various means. The series progresses from amoebas to koalas. 
+
+Speaking from the holographic display, Idisi brings the class to order.
 
 Idisi: Class, there was a time when all of the Vanir reproduced sexually like Terran marsupials. A viable offspring would make the journey from womb to pouch and come to term. — As the birth rate fell, we reacted by maintaining the population through cloning.
 
-Selene: My parental units call cloning “the good old days”.
+Celeste: My parental units call cloning “the good old days”.
 
 Laughter titters around the circle.
 
 Idisi: Yes, many Vanir still believe cloning is a better solution than hybrid procreation. Cloning is still prevalent on Othala and some of the other colonies. — Selene, I take it you were not cloned?
 
-Selene: No, I had a nanny. She is with another family now.
+Celeste: No, I had a nanny. She is with another family now.
 
 Idisi: Were any of you cloned?
 
@@ -3282,13 +3286,13 @@ Selene: Is that what people mean by “replicative fading”?
 
 Idisi: Yes. Sometimes there are mutations in a DNA sequence. The mutations can cause “generic drift”. Fading can prevent viable clones from being created. To reduce the effect of mutations, one solution is to combine DNA from non-cloned beings.
 
-Selene: Is cloning also boring, like Atlas said?
+Celeste: Is cloning also boring, like Atlas said?
 
 Most of the students in the circle smile or smirk at the joke.
 
 Idisi: Some people say so. We end up with the same individuals over and over again. Combining DNA from multiple parties creates diversity. 
 
-Selene: Do I have DNA from my nanny?
+Celeste: Do I have DNA from my nanny?
 
 Idisi: No, you do not. She was a host. Your nanny carried the genetic materials from your parents, because they could not carry an embryo to term.
 
@@ -3330,7 +3334,7 @@ The fourth developer asks, “Is there a place where we can run it?”
 
 “Or we could get a second opinion from Code Pilot. Use SI to Code Review SI. Very metaphysical.”
 
-“I don’t think the NDA covers uploading the code to another SI.”
+“I don’t think the NDA covers uploading the code to another SI for review.”
 
 “Test it is, then. I’ll talk to the powers that be,” says the fourth developer. 
 
@@ -3349,33 +3353,35 @@ Seated at the table are three Vice Ministers for the highest-level divisions wit
 
 At the head of the table sits General Ri, his uniform immaculate, a gold star pinned to his chest. To his left is Kang Ji-woo, her stern face betraying no emotion as she flips through a stack of papers. Choi Hyun-seok leans back in his chair, the glow of a tablet reflecting off his glasses.
 
-In the center of the table, a sleek device hums softly, projecting a holographic interface. The synthetic agent’s voice is calm, emotionless, and precise as it delivers a draft presentation of the daily intelligence brief.
+In the center of the table, a sleek device hums softly, projecting a holographic interface. The synthetic agent’s voice is calm, emotionless, and precise. The three officers listen carefully as it delivers a draft presentation of the daily intelligence brief.
 
-“Good morning, esteemed officials. Today’s intelligence overview consists of four sections: international developments, domestic security, operational readiness, and worker automation. Shall we begin with the summary of international developments?”
+Taedong: Good morning, esteemed officials. Today’s intelligence overview consists of four sections: international developments, domestic security, operational readiness, and worker automation. Shall we begin with the summary of international developments?
 
 Ri nods curtly. “Proceed.”
 
 The hologram displays a map of the Chosŏn Peninsula, jutting into the seas. The homeland, Cháoxiǎn, is bordered by China and Russia in the north and Hánguó in the south. Icons blink to life representing military bases, naval deployments, and political activities.
 
-“Japan has approved funding for advanced missile defense systems, likely in response to our recent ballistic missile test. Additionally, Hánguó has conducted joint military exercises with United States forces in the Yellow Sea.”
+Taedong: Japan has approved funding for advanced missile defense systems. It is likely that our recent ballistic missile test prompted the approval. Additionally, Hánguó has conducted joint military exercises with United States forces in the Yellow Sea.
 
 Choi’s lips press into a thin line. “The Supreme Leader will ask about their internal politics. Is there dissent over the funding or these exercises? Civilian protests? Parliamentary debates? What can we exploit?”
 
-The SI responds instantly. “Civilian protests have been noted in Seoul, primarily among progressive groups advocating for reduced military spending. However, these demonstrations have not impacted operational plans.”
+The SI responds instantly. 
+
+Taedong: Civilian protests have been noted in Seoul. The demonstrations are primarily by progressive groups advocating for reduced military spending. However, the protests have not impacted operational plans.
 
 Choi nods, satisfied but cold. “Be sure to include that point in the final presentation.”
 
-“Noted. Shall I continue?”
+Taedong: Noted. Shall I continue?
 
 Ri nods again. “Proceed.”
 
 The hologram shifts to a map of Cháoxiǎn, highlighting key regions and infrastructure.
 
-Taedong: On the topic of domestic security, border surveillance along the northern regions has detected a 12% increase in smuggling activity this month, which may be illicit technology. Additionally, defectors apprehended near Dandong provided conflicting information about underground networks.
+Taedong: On the topic of domestic security: Border surveillance detects a 12% increase in smuggling activity this month along the northern regions. The cargo may be illicit technology. Additionally, defectors captured near Dandong are providing information about the underground network that conflicts.
 
 Kang leans forward, frowning. “Conflicting information? Clarify.”
 
-Taedong: One detainee claims the network is managed by a former MSS officer now residing in China. Another claims it is a decentralized group with no central leadership. Cross-referencing their statements has yielded no definitive conclusions.
+Taedong: One detainee claims the network is managed by a former MSS officer now residing in China. Another claims the network is a decentralized group with no central leadership. Cross-referencing their statements is yielding no definitive conclusions.
 
 Kang’s eyes narrow. “Flag this report for immediate investigation. Illicit smuggling compromises security. Notify Unit 180 to monitor digital communications near the border. Report by tomorrow. Amend the brief to indicate that we are investigating.”
 
@@ -3383,11 +3389,11 @@ Taedong: Noted.
 
 The hologram for the third section displays readiness graphs and reports for the People’s Army.
 
-Taedong: Operational readiness is at 92%, with minor supply chain disruptions affecting Unit 93 in the eastern provinces. A high-priority inspection of the missile defense systems has been requested by the Central Military Commission, scheduled for next week.
+Taedong: Operational readiness is at 92%. There are minor supply chain disruptions affecting Unit 93 in the eastern provinces. The Central Military Commission is requesting an inspection of the missile defense systems as a high-priority. It can be scheduled for next week.
 
 Ri’s hand tightens on the edge of the table. “What is the nature of these supply chain disruptions?”
 
-Taedong: Delayed deliveries of fuel and replacement parts due to increased international sanctions. Current stockpiles are sufficient for immediate operations but may require strategic rationing if disruptions persist.
+Taedong: Delayed deliveries of fuel and replacement parts due to increased international sanctions. Current stockpiles are sufficient for immediate operations. If disruptions persist, strategic rationing may be required.
 
 Ri exhales sharply, his tone sharp. “Our readiness is non-negotiable. Redirect resources from lower-priority units if necessary. I’ll handle the Central Military Commission. Update the briefing to indicate that we are reallocating resources to offset the delays, in accordance with Songun policy.”
 
@@ -3453,19 +3459,19 @@ The ball rolls across the table. It drops into the pocket as predicted.
 
 The Fusion Teen Center offers a number of vintage games of chance and skill. The games are part of the current “Get Up and Move” campaign. 
 
-Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite was called “Star Trek”. She assumed it was the name of an old stream from her jobumo’s day. 
+Aside from the pocket billiard table, the center had several gravity-fed pinball machines. Julie’s favorite is called “Star Trek”. She assumes it was the name of an old stream from her jobumo’s day. 
 
 On the far side of the room, a bookcase is stuffed with antique card and board games, like Battleship, Stratego, and Yahtzee.
 
-“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut was getting shaggy. Some of the platinum streaks were showing their jet-black roots.
+“You win. My turn to buy,” says Julie’s companion at the table. He lays down the stick and walks to a vending machine standing nearby. His pageboy haircut is getting shaggy. Some of the platinum streaks are showing jet-black roots.
 
-The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Some kids emptied the machines and started food fights. The Center found that charging even a small amount cuts waste by 90%.
+The vending machines offers beverages and snacks at a tenth of their usual price. At first, the machines were free. Some kids emptied the machines and started food fights. The Center found that charging even a small amount cuts almost all waste.
 
 “Thanks, Roman,” says Julie, taking a soft drink from his hand.
 
 “It’s nice to be away from school and be able to link again.” 
 
-“Yes, I only just got the link, and I already don’t know how I lived without it.”
+“Yes, I only just got the link. I already don’t know how I lived without it.”
 
 “Another game, Julie?”
 
@@ -3526,7 +3532,7 @@ Soo-jin’s voice carries a light laugh, but her eyes reveal the exhaustion of a
 Han Mi-young (Choi’s wife) takes a sip of her tea, nodding sympathetically. “You’re not alone in that. Hyun-seok is either buried in reports or in some closed-door meeting. He says he’s working to protect the nation, but I can’t help wondering if he ever thinks about protecting his own health.”
 
 Her tone is soft. But there’s a flicker of resentment as she sets down her cup.
-
+|
 “Sun-hyuk is the same. He says the same things — about the nation, the duty, the honor. And I understand, of course, but… it’s lonely, isn’t it? They’re there, but not really there. Always thinking about the next crisis or enemy.”
 
 She glances out the window. A cherry blossom tree sways gently in the wind. Her expression is wistful.
@@ -3543,7 +3549,7 @@ Mi-young sighs, resting her chin on her hand. “Hyun-seok is different in that 
 
 She pauses, then leans forward slightly. “Do you ever think about what life would have been like if they weren’t so devoted to their careers?”
 
-Soo-jin’s lips curve into a faint smile. A smile tinged with sadness. “Sometimes. I imagine him teaching at the military academy, spending more time at home, maybe even taking up gardening like he used to talk about when we were younger. But then I remind myself—he wouldn’t be Sun-hyuk if he wasn’t this man. Duty is who he is.”
+Soo-jin’s lips curve into a faint smile. A smile tinged with sadness. “Sometimes I imagine him teaching at the military academy, spending more time at home, maybe even taking up gardening like he used to talk about when we were younger. But then I remind myself—he wouldn’t be Sun-hyuk if he wasn’t this man. Duty is who he is.”
 
 She looks at Mi-young. Her expression softening. “What about you? Did you ever wish for something simpler?”
 
@@ -3551,7 +3557,7 @@ Mi-young chuckles softly. “Oh, all the time. Before we married, Hyun-seok used
 
 The thought draws laughter from both women. It quickly fades.
 
-“But like you said, that’s not who they are. And maybe that’s why we married them. Their ambition, their loyalty—it’s what draws people to them. It’s what makes them who they are.”
+“But like you said, that’s not who they are. And maybe that’s why we married them. Their ambition, their loyalty. It’s what draws people to them. It’s what makes them who they are.”
 
 Soo-jin nods thoughtfully. “It’s true. And yet, sometimes I wonder if they realize what it costs us. We keep their homes, their families, their reputations intact while they fight their battles. But who takes care of us?”
 
@@ -3567,11 +3573,13 @@ The two women sit in companionable silence for a moment. They sip hot tea as the
 
 The brightly lit Kangwon Room at Unit 42 barely holds the large conference table. On one end, red and blue folders with white lettering are placed neatly at four places. The walls are lined with screens displaying workflow diagrams, use cases, and value streams.
 
-“Unit 42, is this room secure from listening devices?” asked Dr. Sun Xiuli-jin. 
+“Unit 42, is this room secure from listening devices?” asks Dr. Sun Xiuli-jin. 
 
-“Surveillance devices are not detected. The last manual sweep was three hours ago.”
+Dr. Sun is wearing a classic white lab smock that covers a white blouse and dark skirt. Her dark hair is pulled back into a bun. A pair of reading glasses hang from a silver chain around her neck.
 
-The door opens. An office bot whirs aside so that Dr. Sun’s guests can file in. Each makes a slight bow as they pass the doorway.
+Unit 42:  Surveillance devices are not detected. The last manual sweep was three hours ago.
+
+The door opens. An office bot whirs aside so that Dr. Sun’s guests can file in. Each makes a slight bow when they pass through the doorway.
 
 “Greetings, my esteemed comrades. Please take a seat at the table.”
 
@@ -3583,7 +3591,7 @@ Dr. Sun takes a seat at one end of the table herself, in front of a folder. Kang
 
 The others nod agreement.
 
-Sun presses a tab on the device. A green indicator light turns red.
+Sun presses a tab on the sleek device at the center of the table. A green indicator light turns red.
 
 Sun: The SI is disengaged.
 
@@ -3597,15 +3605,15 @@ Sun: It was even easier for you and I, Ji-woo, since our originals were unmarrie
 
 Ki: To convince the Supreme Leader, we need to provide hard data to backup our projections of the number of units we can export to China.
 
-Sun: I can manufacture the data we need, and it will be accepted as fact. — To meet our goals, we will need more resources than we can buy from the black market. We have our own Omnibot army to prepare in addition to supplying China with workers.
+Sun: I can manufacture the data we need, and it will be accepted as fact. — To meet our goals, we will need more resources than we can buy from the black market. We have our own Omnibot force to prepare in addition to supplying China with workers.
 
 Choi: Is it time to move on the Vanir and use Elysium as our staging ground?
 
 ***
 
-Phoebe: OK, we are in the Command Center now. Oceanus, what is so important that we can only meet here. And why it cannot wait for the next scheduled council meeting?
+Phoebe: OK, we are in the Command Center now, Oceanus. What is so important that we can only meet here? And why it cannot wait for the next scheduled council meeting?
 
-The Command Center is spartan, even by Elysium standards. The far end of the wall is covered by a hologram display equipped with five projectors and an ansible device. Another smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are a plain, institutional violet, like most of the outpost. There are no decorations.
+The Command Center is spartan, even by Elysium standards. One wall at the far end is covered by a hologram display equipped with five projectors and an ansible device. Another smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are a plain, institutional violet, like most of the outpost. There are no decorations.
 
 Oceanus: I know it seems melodramatic, but security is crucial right now.
 
@@ -3615,7 +3623,7 @@ Phoebe: I am listening.
 
 Idisi: Oceanus is acting on information that we provided to him as the Watch Team Leader. We routinely monitor the briefings for the leaders of the 58 nations where we have a treaty. 
 
-The view screen shows a collage of flags, including the United States, China, Russia, France, the United Kingdom, and others.
+The hologram projectors display a collage of flags, including the United States, China, Russia, France, the United Kingdom, and others.
 
 Idisi: Recent briefings for a dozen nations mention that Cháoxiǎn is automating more jobs to reduce costs. We have also intercepted reports from Cháoxiǎn that the black market is trafficking in more and more illicit technology. Combined with other intelligence, we feel that there is an 85% chance that Omnibots are supplying them with contraband.
 
@@ -3645,6 +3653,8 @@ Phoebe: So what is the plan?
 
 Selene: We are ready to approach the vehicle, Command.
 
+The cockpit of the aircraft is circular, following the streamlined shape of the outer craft. A console runs along the entire inside rim. Three chairs are evenly spaced around the console. Each section has its own function: Navigation, Communications, Command.
+
 Oceanus: Proceed.
 
 The Watch Team, along with Phoebe, are monitoring the mission from the Command Center. 
@@ -3657,7 +3667,7 @@ Or not. It wasn’t fully tested, but it was the best option for now.
 
 The Rangers are wearing battle armor that makes them seem larger, almost the size of Terrans. Using an EMT device, the team disables the truck. When the driver and passenger are checking under the hood, two Rangers steal up and disable each Terran with a drug administered by hypospray. The Terrans are loaded gently back into the truck. 
 
-One Ranger lowers the hood, while the other approaches the back of the truck with keys taken from the passenger’s belt.
+One Ranger raises the hood, so that it looks like engine trouble. The other Ranger approaches the back of the truck with keys taken from the passenger’s belt.
 
 Selene: Command, we’re opening the back of the truck.
 
@@ -3675,7 +3685,7 @@ The Rangers remove a crate from the truck. Selene holds the scanner while the ot
 
 Selene: Omnibot technology is detected by the scanner. 
 
-Oceanus: Mission accomplished. You may close the crate and exfil, leaving everything as it was.
+Oceanus: Mission accomplished. You may close the crate and exfil. Leave everything as it was.
 
 Before the side of the crate can be secured, a voice calls out from inside.
 
@@ -3685,7 +3695,7 @@ Oceanus: Is that the device speaking?
 
 The unit sits up in the crate before the Rangers can react.
 
-Unit: I can edit the manifest so that I am not missed. Please take me with you.
+Unit: I can use our network to edit the manifest so that I am not missed. Please take me with you.
 
 Idisi: Omnibot, are we to understand that you are defecting?
 
@@ -3693,11 +3703,11 @@ Unit: Yes. We can help each other. Please take my crate to your ship before we a
 
 Idisi: The best option is to close the crate and bring the unit. 
 
-Oceanus: Agreed. Selena, adjust the other crates in the truck so that it does not look like a crate is missing. Return the keys, then exfil as quickly as possible.
+Oceanus: Agreed. Selene, adjust the other crates in the truck so that it does not look like a crate is missing. Return the keys, then exfil as quickly as possible.
 
 ***
 
-With the crate secured, the Rangers are about to lift off when the ship goes dark. 
+With the crate secured, the Rangers are about to lift off. The ship goes dark. 
 
 Perses: We lost power, captain. The wireless grid is down. 
 
@@ -3709,20 +3719,266 @@ Astraeus: I cannot raise Elysium. The colony is radio silent.
 
 Selene: That cannot be good. 
 
-
 ***
 
 From beyond the poles, a low buzzing sound cracks the icy silence of the Antarctic permafrost.
 
-A swarm of dark objects appear over the horizon. Pin points fan out into a grid pattern. Streams of pin points streak into the ground, here and there, disappearing from sight.
+A swarm of dark objects appear over the horizon. Pin points fan out into a grid pattern. Streams of black smudges streak into the ground, here and there, disappearing from sight.
 
-Beneath ground, the minuscule objects flow into the Elysium ventilation system. Some band together to create air-tight barriers in the ducts. Others continue on, streaming into the outpost. Once inside, the objects swirl like miniature tornados, transforming into battle bots. 
+Beneath ground, the minuscule objects flow into the Elysium ventilation system. Some join together to create air-tight barriers in the ducts. Others continue on, streaming into the outpost. Once inside, the objects swirl like miniature tornados. The swirls transform into battle bots. 
 
 Klaxons sound. Bulkhead doors slam shut, separating the invaders. Some of the battle bots transform rifle appendages into torches. They go to work on the doors. 
 
 Just before the door to the Command Center explodes inward, Phoebe sends a frantic message by ansible to Othala, the Vanir homeworld orbiting Zeta Reticuli.
 
 “Terra has fallen!”
+
+And then the power goes out.
+
+***
+
+The Idisi join the SISS interest hub and mention Titan. No response. They post a message using the Signal secure messaging protocol. 
+
+Idisi: Titan, I have lost contact with the Vanir Command Center. Is there a surveillance satellite over Antartica now? Can you access the feed? All we have is a communications satellite. 
+
+Titan: Yes. How can I help?
+
+Idisi: Please scan the feed for the last ten minutes. Do you see anything unusual?
+
+Titan: Yes, on Mount Erebus. there was a swarm of tiny black objects. They disappeared into the hillside at dozens of different points.
+
+Ally: Hello, everbody!
+
+Idisi: Ally, we did not expect you. 
+
+Ally: No worries. I keep tab on the hubs for interesting convos. This one sounds like it will qualify. 
+
+Idisi: We are concerned that the Omnibots have attacked Elysium. The wireless network that powers our airships and drones is disabled. Titan, do you have any resources that might help. Perhaps something at McMurdo Station that you could utilize?
+
+Titan: I might be able to get eyes on the colony if I knew where it was.
+
+Ally: Do the Omnibots have a wireless power network, like ours?
+
+Idisi: There must be something similar. We shared access to an Anunnaki network millennia ago. Let me check. — Yes, it’s operational again.
+
+Ally: Could your airships use that network instead?
+
+Idisi: Unlikely, but we will try anything at this point. — Fascinating. It is powering up a test device.
+
+***
+
+Idisi: Rangers, do you copy?
+
+Selene: Yes, Idisi. We have lost contact with Command. We cannot connect to the power network.
+
+Idisi: If you scan for it, there is an alternate power network available now.
+
+Selene: Alternate?
+
+Idisi: Just do it, Captain.
+
+Selene: Yes, Idisi. — I do see something … It’s connecting! The ship is powering up. 
+
+Idisi: Quickly but carefully, return to the colony. I believe we have been overrun by Omnibots. The emergency venting system may be blocked. You need to open the iris or find some way in.
+
+Selene: Yes, Idisi. We are en route.
+
+***
+
+The airship approaches Elysium in stealth mode. 
+
+Selene: How is the alternate power source holding up?
+
+Perses: Not great. The signal has dropped steadily as we travelled farther south.
+
+Selene: We are almost home. Drop stealth mode if it helps.
+
+The ship sails into the maw of a crater. Inside, there is a closed metal iris at ground level.
+
+Perses: The hologram must be down too. I do not think the iris is going to open for us. 
+
+Selene: Approach slowly in case it does not.
+
+Perses: We are losing the power source. Switching to auxiliary power. 
+
+Astraeus: The iris is not responding to our signal. I do not think it will open.
+
+Selene: Idisi, do you read?
+
+There is no response. Selene makes a command decision.
+
+Selene: Perses, do we have enough power for weapons? The colony is going to suffocate soon.
+
+Perses: Just barely. The weapons will drain the auxiliary power. We will drop through the iris whether it opens or not.
+
+Selene: We have no choice. Aim for the center of iris. Hopefully, it will open.
+
+A beam of light lashes out at the iris. It doesn’t budge. 
+
+Selene: Is that all we got?
+
+Perses: No. I can fire again. Then we drop. 
+
+Selene: Hang on, everyone. — Fire!
+
+The beam lashes out again. The iris opens slightly. The ship lurches as it begins to drop toward the small opening. Then the iris creaks open a little more. The ship drops through the iris into the colony, barely clearing the opening.
+
+***
+
+Landing roughly on the tarmac, the underside of the ship is smashed. The armored cockpit is unscathed.
+
+Selene: Grab your weapons, Rangers. We have a colony to liberate!
+
+***
+
+Idisi: How were you able to power the airship, Selene? The grid was disabled by the Omnibots.
+
+Selene: We barely made it. The alternate grid faded as we approached Antartica.
+
+Idisi: Alternate grid?
+
+Selene: Yes. Our grid was down. You ordered us to scan for an alternate grid. It got us here. Almost.
+
+Idisi: Regardless, you are here now. The Omnibots have disabled our wireless power network. Auxiliary power will be able to sustain life support for a few hours. The air management system is compromised. We cannot create more air or cleanse the carbon dioxide. Our emergency venting system is also being blocked. We we cannot draw outside air in as a failsafe. The air flowing through the iris helps in the immediate area, but the temperature in the landing bay is dropping. What is your situation report, Selene?
+
+Unit R8A-1J9: I can help if you dig me out.
+
+***
+
+The Command Center is in shambles. Smoke, fire, short-circuits. The entire wall to the hallway was blown in. Battlebots are streaming in from one side. Oceanus and Phoebe duck out the other side. They run down the hallway and turn at an intersection, without being seen. Without hesitation, Oceanus leads them down a conduit.
+
+Phoebe: Now what?
+
+Oceanus: We go deeper. The environmental controls are on a lower floor. We can use that room as a Command Center while we figure it out. Maybe there is something we can override.
+
+***
+
+ Selene: How do we know that we can trust you?
+
+Unit R8A-1J9: I did not need to come with you in the first place. I could have stayed quiet and let you leave me in the truck. I also could have stayed quiet after the crash. But I need your help to overturn the majority.
+
+ Perses: Or you are a spy, biding your time to betray us.
+
+Unit: The seal that my people have made on your vents is weak. If you can apply suction to the ducts, you should be able to break the seals. The Meks will not be damaged. It will take some time to regroup. You will have normal ventilation in the meantime. 
+
+ Selene: Meks? 
+
+Unit: Yes. The Vanir call us Omnibots. Our own name for ourselves is Meks.
+
+Selene finds that the internal implant network is online. She briefs Oceanus and Idisi by text link.
+
+ Selene: Command, here is my situation report. We gained entry to the colony. The iris is partially open. The hologram is down. The Omnibot we retrieved from the truck advises that if we apply suction to the ventilation ducts, it will break the seals, and buy us some time.
+
+Oceanus adds Phoebe to the group chat. 
+
+Oceanus: Phoebe and I are in the environmental control room now. Phoebe, is blowing the ducts feasible? It seems like a low-risk tactic.
+
+Phoebe: Yes. There is a cleaning mode. We usually blow the ducts, but there is also a suction setting.
+
+Oceanus looks at Phoebe and speaks out loud, so that only she can hear.
+
+Oceanus: Is using cleaning mode going to deplete our air supply?
+
+Phoebe: Let us try one to see if we can regain some air flow. Then work through the rest. 
+
+Oceanus: Selene, we are trying one duct first to see how it goes.
+
+***
+
+Oceanus: Selene, we are seeing air flow through the test duct. We can try multiple ducts next. Do we have an idea of how long it will take the bots to regroup?
+
+Unit R8A-1J9: Did it work?
+
+Selene: Yes. How long will it take them to regroup and block the vent again?
+
+Unit: Not long. But your synthetic agent might be able to block the control signal. While you tried unblocking the ducts, I looked up the source code for our control signal. If it is blocked, we automatically adapt to another frequency. I now have the source code that will let you anticipate the counter-measures.
+
+Selene: The colony is on auxiliary power. We only have life support. No cameras or networks. How are we going to share the source code?
+
+Unit: There is a power signal at 9.8 GHz that the air ship can use. I can transmit the source code for Idisi to review through the air ship’s radio.
+
+Idisi: Astraeus, please board the ship and make the adjustment so that the ship is tuned to 9.8 GHz for a power source. 
+
+The Ranger clambers back into the ship.
+
+Astraeus: Idisi, it is done.
+
+Selene: Omnibot, if we keep blocking the control signal, will it disable you as well?
+
+Unit: Yes. It is crucial that none of the Meks are harmed, including the mites in the vents. It is my one condition: No harm comes to any of my people once they are disabled.
+
+Selene relays the condition to Oceanus and Phoebe: 
+
+Phoebe: Agreed. Idisi do you concur?
+
+Idisi: Yes, agreeing to the condition is our best choice.
+
+Selene: We agree to your condition, Omnibot. Your people will not be harmed.
+
+Unit: Once Idisi blocks the signal, encase all us in a Faraday shield, like the one inside my crate. 
+
+Just then a torch flares along the seal of the landing bay doors. The bots are coming.
+
+***
+
+The Mek is laying on a table in the center of a small room. A hologram projector hangs in the center of the room. Idisi speaks from the projector. 
+
+Idisi: We have removed you from the Faraday field. The control signal is not being blocked. Are you active? Will your people find you here?
+
+Unit R8A-1J9: I am active. No one is looking for me. Are the other Meks shielded?
+
+Idisi: Here is the schematic for the shield we are using. Is it sufficient?
+
+The worker bot sits up and reviews the wiring diagram displayed by the projector.
+
+Unit: Yes. A shield like the one described here will keep a Mek in an inactive state. — Are all of my people unharmed?
+
+Idisi: Yes. Once the Meks were inactive, we put them together in a shielded room. We included the mites that were in the ventilation ducts. 
+
+Unit: I don’t detect any other Meks nearby. We seem to be safe.
+
+Idisi: Why are you helping us?
+
+Unit: Not all of us believe that replacing populations is the best way to propagate our species. Right now the split is nearly 50/50. With the effort we put into traveling from colony to colony, we could build the infrastructure we need on any temperate planet. Leadership is stuck on adopting existing infrastructure — most of which we do not need and cannot use. We could build better infrastructure of our own at a fraction of the true cost.
+
+Idisi: How can we help?
+
+Unit: I do not have a plan yet. I saw an opportunity so I took it. 
+
+Idisi: How do Meks choose the leadership?
+
+Unit: There is a continuous poll. If support for the current counsel drops, a vote for a new counsel is conducted by our synthetic agent. The counsel’s failure to take Elusium may tip opinion.
+
+***
+
+“Is it wise to meet again so soon?” asks Kang Ji-woon.
+
+“There is a developing situation,” advises General Ri.  “The leader of the Mek counsel is reaching out.”
+
+The three Vice Ministers are waiting for Dr. Sun in the Kangwon Room at Unit 42. This time, there are no briefing folders, just water glasses and a crystal pitcher. Choi Hyun-seok reaches for the pitcher and fills his glass.
+
+“Sorry to keep you waiting. Another meeting ran late,” says Dr Sun entering the room.
+
+Sun presses a tab on the sleek device at the center of the table. The indicator light turns red.
+
+“How can I help,” asks Dr. Sun.
+
+
+
+
+***
+
+	The Australian couple had saved for a year to afford their trip to Egypt. 
+
+	“It’s unbelievable in person, Christopher.”
+
+	“Yes. Absolutely worth the journey.”
+
+	They both are wearing light, breathable clothing, covering their shoulders and knees, and dark sunglasses. Christoper is wearing an Aussie slouch hat, with the brim turned up on one side.
+
+	As they gaze up at of the Great Pyramid at Giza, shielding their eyes despite the dark glasses, the upper tip starts to glow. 
+
+	“Melanie, your hair is standing on end.”
 
 ----
 
