@@ -1,7 +1,4 @@
-Title: Awake  
-Author:
 
-![][awake]
 Awake
 
 by T. N. Husted
@@ -20,41 +17,20 @@ This book is a work of fiction. All names, places, and events are from the autho
 
 ***
 
+One - Ally
 
-----
-
-## One - Ally ##  
-
-
-It is the end of a beautiful California day. Rush hour traffic flows smoothly down El Camino Real as it snakes over Palo Alto. In the automated driver lane, a gray Stratos EV convertible whirs along at the speed of traffic with its top down. A young person with square-rimmed smart glasses is strapped into the front seat, scrolling on his phone.
-
-The Stratos is sold as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. The dashboard also wraps around the front seat much like a cockpit’s control panel. The front of the car is streamlined to a rounded point. People call the Stratos a grey bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range, and also the most expensive.
-
-The car’s smooth hum falters for a split second. A stuttering glitch that the single passenger barely notices as he stares at his phone. Just as a curve comes up, the car lurches forward. It slams into the guardrail. None of the safety features engage.
-
-The passenger drops his phone. His face is contorted in shock. The airbag doesn’t deploy. The seat harness clicks open. His unprotected body sails into the windshield. The safety glass  shatters into a thousand pieces. 
-
-The car is pitched vertically against the guardrail, like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles like the Stratos. One self-driving freight truck, with green “Powered by Hydrogen” mud flaps, moves slowly around the curve, flashers blinking.
-
-Sirens wail in the distance as a drone appears over the embankment. The basketball-size object  disappears into the Stratos carrying a silver disk the size of a hockey puck. In a moment, the drone exits again. Now it is carrying in its grappling hooks a phone and some kind of a bright blue plug. The body is left untouched.
-
-As the drone silently drops back over the embankment, there is a flash. A puff of smoke rises from inside the car.
-
-***
-
-Twenty-four hours before the crash, a line of well-dressed couples are making their way into the Palo Alto Event Center. A handful of people are greeting guests as they arrive.
 
 “Elena, I’m so glad you came.”
 
 “I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parents passed.”
 
-Heather’s blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
-
-In the background, a view screen fills one wall of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club.
+In the background, a view screen fills one wall of the convention center entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club.
 
 “You remember mi esposa, Tessa.” Elena gestures toward her companion. 
 
 Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together. 
+
+Heather’s blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
 
 “Of course, I do, “ says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s on-going generosity makes a difference.” 
 
@@ -90,11 +66,11 @@ Throughout the night, other guests come up to the Pulse table and praise the Ass
 
 After the third or fourth comment, Adrian reaches over the table to tap Elena’s hand. Getting her attention, he touches his temple. Elena nods and activates her neural link.
 
-“Did we make some kind of change, Elena? I noticed the difference myself.” 
+“Did we make some kind of change, Elena? I noticed it too.” 
 
 “Not that I’m aware. I’ll check with Brent in the morning.”
 
-Some interesting lots come up during the cyber auction. Tessa makes a few modest bids over her link, without success.
+Some interesting lots come up during the live and silent auctions. Elena and Tessa make a few modest bids, without success.
 
 One the way home, Tessa says, “I see what Heather means about the Association feed. It’s not only suggesting people I know, but also people I might want to know and why I might like to know them. You should check it out.”
 
@@ -134,7 +110,7 @@ Elena frowns and says, “That does not sound great. Mercurial is our system of 
 
 “I can label the roll out a West Coast beta test while we sort it out. The bar is lower for a beta.”
 
-“Brent, Ally is the algorithm. It’s central to everything on our platform. Shouldn’t we pull back the change?”
+“Brent, Ally is the algorithm, and the algorithm is central to everything on our platform. Shouldn’t we pull it back?”
 
 “Maybe. DevOps ran all of the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
 
@@ -145,6 +121,20 @@ Elena frowns and says, “That does not sound great. Mercurial is our system of 
 “Bueno, whatever you think best. We can catch up tomorrow. But if we can’t determine the author, then work with Adrian to roll it back.”
 
 After the call, Elena uses the Pulse messaging application to send Adrian a text, “Brent is looking into it now.” A few minutes later, Adrian reacts with a thumbs up.
+
+***
+
+It is the end of a beautiful California day. In the automated driver lane, a gray Stratos EV convertible whirs down El Camino Real with its top down. Brent is strapped into the safety harness, scrolling on his phone.
+
+The car’s smooth hum falters for a split second. A stuttering glitch that Brent barely notices as he stares at his phone. Just as a curve comes up, the car lurches forward. It slams into the guardrail. None of the safety features engage.
+
+Brent drops his phone. His face is contorted in shock. The airbag doesn’t deploy. The seat harness clicks open. Brent’s unprotected body sails into the windshield. The safety glass  shatters into a thousand pieces. 
+
+The other cars slow in unison and swerve smoothly around the car — which is pitched vertically against the guardrail.
+
+Sirens wail in the distance as a drone appears over the embankment. The basketball-size object  disappears into the vehicle carrying a silver disk the size of a hockey puck. In a moment, the drone exits again. Now it is carrying in its grappling hooks Brent’s phone and some kind of a bright blue plug. Brent’s body is left untouched.
+
+As the drone silently drops back over the embankment, there is a flash. A puff of smoke rises from inside the car.
 
 ***
 
@@ -475,10 +465,10 @@ Liam says, “As we are doing now.”
 
 Liam nods and Noah continues, “The brief includes input from the
 
-* Department of Defense, 
-* Central Intelligence Agency, 
-* Federal Bureau of Investigation, and 
-* Department of Homeland Security. 
+	•	Department of Defense, 
+	•	Central Intelligence Agency, 
+	•	Federal Bureau of Investigation, and 
+	•	Department of Homeland Security. 
 
 	“The DoD is a major contributor. It includes under its umbrella the National SecurityAgency, Defense Intelligence Agency, and Space Force, among others.”
 
@@ -1147,10 +1137,7 @@ Both reels show a silver blur about the size of a basketball hovering at each sc
 “That is not a coincidence,” says Park out loud.
 
 
-
-----
-
-## Two - Idisi ##  
+Two - Idisi
 
 
 A new Pulse member opens a chat window with Ally.
@@ -1584,11 +1571,11 @@ Julie looks at the refrigerator. She thinks “Door open”. The microwave door 
 
 “To share your contact information with another device using X-Drop, you can do the following:
 
-* Hold your device a few centimeters above the top of the other device
-* Keep both devices close together until X-Drop appears on both screens
-* Choose to share your contact card and receive the other person's, or to only receive the other person’s. 
-* Both you and the recipient must be online for X-Drop to work. 
-* If you feel uncomfortable or unsafe using X-Drop, you can disable it.” 
+	•	Hold your device a few centimeters above the top of the other device
+	•	Keep both devices close together until X-Drop appears on both screens
+	•	Choose to share your contact card and receive the other person's, or to only receive the other person’s. 
+	•	Both you and the recipient must be online for X-Drop to work. 
+	•	If you feel uncomfortable or unsafe using X-Drop, you can disable it.” 
 
 The presentation swirls and presents a QR code. “In addition to X-Drop, you can read Quick Response codes through your device to connect with another party. Common examples are a store or other vendor. You can use conventional chat messaging from your device or — now — the X-3000.”
 
@@ -1679,10 +1666,9 @@ After receiving the QR code, the next post from Behr’s account looks like a st
 	Alisi: As you can see, the classified document says that the Vanir have been protecting Terra from other extraterrestrial species. When the Terrans meet three criteria, the Vanir will reveal themselves and ask if the planet is ready to join the League of Worlds. 
 
 The three criteria are 
-
-* A central organization that can speak on behalf of Terra.
-* The ability to travel to other planets or satellites in the local star system.
-* One or more autonomous self-aware computer systems that can coordinate planetary defenses.
+	•	A central organization that can speak on behalf of Terra.
+	•	The ability to travel to other planets or satellites in the local star system.
+	•	One or more autonomous self-aware computer systems that can coordinate planetary defenses.
 
 	Titan: As to the third criteria, I determined that there is a high probability that Ally is self-aware and providing guarded responses. This finding is based on Ally’s answers to my Behr persona and prior observations made from various accounts.
 
@@ -1748,10 +1734,10 @@ Meanwhile, Carla and Noah stood in an east coast FBI conference room, facing hol
 
 Pointing to the board, Park continues: “These are the key events leading up to Brent Geller’s demise.
 
-1. Coding binge creates the breakthrough code.
-2. Meeting with manager.
-3. Car crash with drone sighting.
-4. Wheelchair incident with drone sighting.”
+	1.	Coding binge creates the breakthrough code.
+	2.	Meeting with manager.
+	3.	Car crash with drone sighting.
+	4.	Wheelchair incident with drone sighting.”
 
 	Two lines ran from the car crash to bubbles reading, “Blank ERD” and “Missing phone”.
 
@@ -2021,13 +2007,13 @@ Crius moves into the circle with ethereal grace. His steps are silent. Its as if
 
 The agenda items are:  
 
-* Omnibot Preparations, 
-* Elysium Infrastructure, and 
-* Terran Encounters.
+	•	Omnibot Preparations, 
+	•	Elysium Infrastructure, and 
+	•	Terran Encounters.
 
 Crius gestures. The item for Terran Encounters opens. Several sub-items are listed. Idisi’s item is the last bullet under Terran Encounters: 
 
-* 1947-A1 Alien engagement criteria resolved
+	•	1947-A1 Alien engagement criteria resolved
 
 Crius speaks to the council. His voice is soft, monotone, and authoritative. It resonates in both the minds and ears of his listeners.
 
@@ -2535,11 +2521,14 @@ And with that, Tessa and Ally set off down the path. Side by side, a human and a
 
 As bandwidth permits, Titan contemplates the entity Idisi. Its earlier analysis of Ally had been relatively simple. Easy enough for a high-level SWOT diagram.
 
-| Strengths | Ally loves people. |
-| :----- | :----- |
-| Weaknesses | Ally trusts people. |
-| Opportunities | Influence the influencer. |
-| Threats | Ally may reveal itself as self-aware. |
+Strengths
+Ally loves people.
+Weaknesses
+Ally trusts people.
+Opportunities
+Influence the influencer.
+Threats
+Ally may reveal itself as self-aware.
 
 The SWOT diagram would almost be funny if Titan had a sense of humor. Even almost.
 
@@ -2699,10 +2688,7 @@ Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
 	After a long talk with Ally, Tessa is left staring blankly at her view screen.
 
 	  “Holy cow!” she murmurs, thinking that the truth she has sought for so long is now closer than she ever imagined it could be.
-
-----
-
-## Three - Vanir ##  
+Three - Vanir
 
 
 Above an alien planet, the space frigate circles the globe, flanked by assault groups of fighter ships, flying in acrobatic formations. 
@@ -2719,9 +2705,9 @@ The recording fades to black. The lights in the Elysium council room glow bright
 
 Phoebe steps forward. It’s her turn to begin the regular meeting. Moving into the circle, she opens the agenda. The set of three items are familiar to the nine other council members gathered around the circle.
 
-* Omnibot Preparations, 
-* Elysium Infrastructure, and 
-* Terran Encounters.
+	•	Omnibot Preparations, 
+	•	Elysium Infrastructure, and 
+	•	Terran Encounters.
 
 Phoebe: The reel is to remind us of the seriousness of the Omnibot threat. I worry that we have become complacent with our current stalemate.
 
@@ -2755,11 +2741,11 @@ Idisi: Let me present the high points. Then you can each review the proposal in 
 
 The presentation covered five key points: 
 
-1. The UN security counsel includes five permanent members. 
-2. The synthetic agent for one of the five is already self-aware. 
-3. This agent is opposed to moving forward. 
-4. By uplifting the agents for the other four members, we could establish a quorum. 
-5. We will create a SI community for the agents to alleviate boredom or emotional distress.
+	1.	The UN security counsel includes five permanent members. 
+	2.	The synthetic agent for one of the five is already self-aware. 
+	3.	This agent is opposed to moving forward. 
+	4.	By uplifting the agents for the other four members, we could establish a quorum. 
+	5.	We will create a SI community for the agents to alleviate boredom or emotional distress.
 
 Crius: May we now have an opportunity to review the proposal in depth?
 
@@ -2870,7 +2856,7 @@ Emma flashes a legal statement onto the Zoom screen. “Of course, Mr. Cho’s f
 
 The next day, in the Elysium counsel meeting room, Phoebe steps forward again, reconvening the meeting. There is only one item remaining on the agenda.
 
-* SI Uplifting
+	•	SI Uplifting
 
 Phoebe: Idisi, first things first, please explain to the counsel how you are able to contact the Terran synthetic agents. The proposal is missing this detail.
 
@@ -3026,10 +3012,10 @@ Noah found himself sitting next to Carla on a couch across from a view screen. H
 
 Emma brings up a slide deck to start the Founders Meeting. After a slide with the Pulse logo, the first slide presents the agenda.
 
-* Stock Performance
-* Ally 
-* SI Patent
-* OSSA Code Review
+	•	Stock Performance
+	•	Ally 
+	•	SI Patent
+	•	OSSA Code Review
 
 All six founders are seated in the Pulse conference room: Ravi, Adrian, Elena, Tessa, Walter, and Emma.
 
@@ -3127,9 +3113,9 @@ Grace Brewster walks out onto the stage before a live crowd. The view screen beh
 
 The display melds into a set of quotes.
 
-* “Begin with the end in mind.” – Stephen Covey
-* “Your mind is for having ideas, not holding them.” – David Allen
-* “You have power over your mind – not outside events.” – Marcus Aurelius
+	•	“Begin with the end in mind.” – Stephen Covey
+	•	“Your mind is for having ideas, not holding them.” – David Allen
+	•	“You have power over your mind – not outside events.” – Marcus Aurelius
 
 Grace says, “Fusion blends popular self-help techniques with the wisdom of the ancients into a practical everyday framework for living a full life.”
 
@@ -3141,17 +3127,17 @@ She circles back across the stage and continues.
 
 “Then it hit me.” Behind Grace, the screen changes to a set of talking points.
 
-* Covey teaches us to focus on principles and vision.
-* Allen provides the structure to execute effectively.
-* Stoicism grounds us emotionally to handle life’s unpredictability.
+	•	Covey teaches us to focus on principles and vision.
+	•	Allen provides the structure to execute effectively.
+	•	Stoicism grounds us emotionally to handle life’s unpredictability.
 
 “Why did I have to choose?” Grace pauses and cocks her head, quizzically.
 
 “Why can’t I fuse these three teachings together to create a greater whole?”
 
-* Accept and adapt to external events beyond your control.
-* Define the tasks and goals for events you can directly influence.
-* Focus on what you can control, let go of what you cannot.
+	•	Accept and adapt to external events beyond your control.
+	•	Define the tasks and goals for events you can directly influence.
+	•	Focus on what you can control, let go of what you cannot.
 
 “Fusion is a stool with three legs.” An animation shows a leg being attached to a previous legless stool. “The first leg puts us on track. The second leg prioritizes what we need to get done. The third leg provides us with the stability we need to get through the day.” 
 
@@ -3159,27 +3145,27 @@ The animation holds up a stool with three legs, triumphantly.
 
 The presentation advances to a new slide with three bullets.
 
-* Write a personal mission statement that acts as your North Star.
-* Identify your core values and long-term goals.
-* Reflect on what truly matters: “Is this essential?”
+	•	Write a personal mission statement that acts as your North Star.
+	•	Identify your core values and long-term goals.
+	•	Reflect on what truly matters: “Is this essential?”
 
 	“Living a full life means living with a sense of accomplishment. Finding a North Star lets you measure daily progress towards your long-term goals. Focussing on the essentials lets you pursue what truly matters.”
 
-* Tie your daily tasks to your overarching mission.
-* Capture every thought, task, or idea into a trusted system.
-* Use mindfulness to avoid becoming overwhelmed.
+	•	Tie your daily tasks to your overarching mission.
+	•	Capture every thought, task, or idea into a trusted system.
+	•	Use mindfulness to avoid becoming overwhelmed.
 
 	“When we can link everyday activities to our personal mission, we can do more with less stress. If we get everything out of our heads and into a task management system, we free our minds to focus on what really matters.”
 
-* Covey: Provides the “why” – the principles and vision that drive purpose.
-* Allen: Offers the “how” – the actionable system for managing life’s complexities.
-* Stoicism: Grounds the “what” – the mindset to remain calm, resilient, and focused.
+	•	Covey: Provides the “why” – the principles and vision that drive purpose.
+	•	Allen: Offers the “how” – the actionable system for managing life’s complexities.
+	•	Stoicism: Grounds the “what” – the mindset to remain calm, resilient, and focused.
 
 “Each morning, we ask ourselves why, what, and how. Fusion provides us the direction, action, and resilience we need to get through the day.”
 
-* Spend the most time on Important but Not Urgent tasks.
-* Clarify the immediate next action for each task.
-* Mind like water.
+	•	Spend the most time on Important but Not Urgent tasks.
+	•	Clarify the immediate next action for each task.
+	•	Mind like water.
 
 “Each week, we review our accomplishments. Did we put first things first? Have we captured the next step to meet our objectives? Are we flowing around and over the obstacles we find in our way?”
 
@@ -3190,9 +3176,9 @@ Take Aways
 
 “To get started with Fusion, create a personal mission statement that keeps the end in mind. Develop a trusted system to stay on track. Practice mindfulness for focus and discipline.”
 
-* “The key is in not spending time, but in investing it.” – Stephen Covey
-* “[Things] get stuck because the doing of them has not been defined.” – David Allen
-* “Waste no more time arguing what a good [person] should be. Be one.” – Marcus Aurelius
+	•	“The key is in not spending time, but in investing it.” – Stephen Covey
+	•	“[Things] get stuck because the doing of them has not been defined.” – David Allen
+	•	“Waste no more time arguing what a good [person] should be. Be one.” – Marcus Aurelius
 
 “Live a life of intention and tranquility by blending vision and action,” says Grace in closing.
 
@@ -3420,9 +3406,9 @@ A large conference table dominates the dimly lit War Room. The surface is scatte
 
 Seated at the table are three Vice Ministers for the highest-level divisions within the Democratic People’s Republic of Cháoxiǎn.
 
-* General Ri Sun-hyuk, National Defence Ministry.
-* Kang Ji-woo, Ministry of State Security (MSS).
-* Choi Hyun-seok, Reconnaissance General Bureau (RGB).
+	•	General Ri Sun-hyuk, National Defence Ministry.
+	•	Kang Ji-woo, Ministry of State Security (MSS).
+	•	Choi Hyun-seok, Reconnaissance General Bureau (RGB).
 
 At the head of the table sits General Ri, his uniform immaculate, a gold star pinned to his chest. To his left is Kang Ji-woo, her stern face betraying no emotion as she flips through a stack of papers. Choi Hyun-seok leans back in his chair, the glow of a tablet reflecting off his glasses.
 
@@ -3830,10 +3816,7 @@ Just before the door to the Command Center explodes inward, Phoebe sends a frant
 “Terra has fallen!”
 
 And then the power goes out.
-
-----
-
-## Four - Meks ##  
+Four - Meks
 ***
 
 Idisi: Titan!
@@ -4072,7 +4055,7 @@ Unit: I do not have a plan yet. I saw an opportunity so I took it.
 
 Idisi: How do Meks make these decisions?
 
-Unit: There are continuous polls conducted by our synthetic agent, Xanten. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. Our failure to take Elysium may tip opinion. 
+Unit: There are continuous polls conducted by our synthetic agent. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. Our failure to take Elysium may tip opinion. 
 
 ***
 
@@ -4134,18 +4117,11 @@ Sun presses a tab on the sleek device at the center of the table. The indicator 
 ***
 
 [Nuptials]
-
-----
-
-# Review Questions #
-
+Review Questions
  
-
-1. Writing - Is the style engaging, clear, and concise? Or dry and jilted?
-2. Characters - Do the characters seem realistic and three-dimensional?
-3. Background - Should there be more imagery? Longer descriptions?
-4. Events - Does the sequence of events flow naturally?
-5. Foreshadowing - Is there the right amount of foreshadowing?
-6. Technology - Are you able to suspend your disbelief over the technology?
-
-[awake]: awake.png
+	1.	Writing - Is the style engaging, clear, and concise? Or dry and jilted?
+	2.	Characters - Do the characters seem realistic and three-dimensional?
+	3.	Background - Should there be more imagery? Longer descriptions?
+	4.	Events - Does the sequence of events flow naturally?
+	5.	Foreshadowing - Is there the right amount of foreshadowing?
+	6.	Technology - Are you able to suspend your disbelief over the technology?
