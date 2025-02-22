@@ -26,31 +26,33 @@ This book is a work of fiction. All names, places, and events are from the autho
 ## One - Ally ##  
 
 
-It is the end of a beautiful California day. Rush hour traffic flows smoothly down El Camino Real as it snakes over Palo Alto. In the automated driver lane, a gray Stratos EV convertible whirs along at the speed of traffic with its top down. A young person with square-rimmed smart glasses is strapped into the front seat, scrolling on his phone.
+It is the end of a beautiful California Monday. 
 
-The Stratos is sold as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. The dashboard also wraps around the front seat much like a cockpit’s control panel. The front of the car is streamlined to a rounded point. People call the Stratos a grey bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range, and also the most expensive.
+Rush hour traffic is flowing smoothly down El Camino Real as it snakes over Palo Alto. In the automated driver lane, a gray Stratos EV convertible with its top down whirs along at the speed of traffic. A young person with square-rimmed smart glasses is strapped into the front seat, scrolling on his phone.
+
+The Stratos EV is sold as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. The dashboard also wraps around the front seat much like a cockpit’s control panel. The front of the car is streamlined to a rounded point. People call the Stratos a grey bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range, and also the most expensive.
 
 The car’s smooth hum falters for a split second. A stuttering glitch that the single passenger barely notices as he stares at his phone. Just as a curve comes up, the car lurches forward. It slams into the guardrail. None of the safety features engage.
 
-The passenger drops his phone. His face is contorted in shock. The airbag doesn’t deploy. The seat harness clicks open. His unprotected body sails into the windshield. The safety glass  shatters into a thousand pieces. 
+The passenger drops his phone. His face is contorted in shock. The airbag doesn’t deploy. The seat harness clicks open. An unprotected body sails into the windshield. The safety glass  gives way. It lands on the hood, cracking into a thousand connected pieces.
 
-The car is pitched vertically against the guardrail, like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles like the Stratos. One self-driving freight truck, with green “Powered by Hydrogen” mud flaps, moves slowly around the curve, flashers blinking.
+The car is pitched vertically against the guardrail, like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles like the Stratos. One self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
 
-Sirens wail in the distance as a drone appears over the embankment. The basketball-size object  disappears into the Stratos carrying a silver disk the size of a hockey puck. In a moment, the drone exits again. Now it is carrying in its grappling hooks a phone and some kind of a bright blue plug. The body is left untouched.
+Sirens wail in the distance as a drone appears over the embankment. The basketball-size object disappears into the Stratos carrying a silver disk the size of a hockey puck. In a moment, the drone exits again. Now it is carrying in its grappling hooks a phone and some kind of a bright blue plug. The body is left untouched.
 
 As the drone silently drops back over the embankment, there is a flash. A puff of smoke rises from inside the car.
 
 ***
 
-Twenty-four hours before the crash, a line of well-dressed couples are making their way into the Palo Alto Event Center. A handful of people are greeting guests as they arrive.
+Twenty-four hours before the crash, a stream of well-dressed couples are making their way into the Palo Alto Event Center. 
+
+ In the background, a view screen fills one wall of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club. A handful of people are greeting guests as they arrive.
 
 “Elena, I’m so glad you came.”
 
 “I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parents passed.”
 
 Heather’s blonde hair, blue eyes, and immaculate white gown contrasts beautifully with the well-dressed couple. The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
-
-In the background, a view screen fills one wall of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club.
 
 “You remember mi esposa, Tessa.” Elena gestures toward her companion. 
 
@@ -66,7 +68,7 @@ Heather smiles again. “I see you swimming in the morning. Are the prosthetics 
 
 “That must be difficult.”
 
-“I do like the chair. It practically drives itself. It has almost as many safety features as a car. I can still use the link whenever I want, just not too much.”
+“I do like the chair. It practically drives itself. There are almost as many safety features as a car. I can still use the link whenever I want, just not too much.”
 
 “My older sibling can’t tolerate any type of brain computer interface at all,” says Heather. “Sometimes I feel frustrated by all of the ADA regulations that require non-link options. Then I think of Gage.”
 
@@ -104,11 +106,11 @@ One the way home, Tessa says, “I see what Heather means about the Association 
 
 Monday morning, Elena logs into her usual check-in call with Brent, her lead engineer.
 
-“Hey Brent, how was your weekend? I know you didn’t sign up but we still missed you at the fundraiser last night.”
-
 Brent’s screen shows just his initials. He might be the only Pulse employee without a profile photo. From memory, Elena knew that Brent looks older than his 28 years, with short-cropped hair, a thin face, and square-rimmed smart glasses with a monocle display.
 
 Brent is a life logger and records everything. Even though the Zoom call is being recorded, Brent has his own camera on, for posterity.
+
+“Hey Brent, how was your weekend? I know you didn’t sign up but we still missed you at the fundraiser last night.”
 
 “Yeah, not really my thing. To follow-up from Friday, I’ve been working on an upgrade to Phabricator. Our instance is heavily customized so it’s taking a bit.”
 
@@ -148,11 +150,15 @@ After the call, Elena uses the Pulse messaging application to send Adrian a text
 
 ***
 
-Riding home from the office, Tessa looks up from her work. “Siri, why are we taking this way home?”
+Riding home from the office, Tessa looks up from her work. 
 
-“There is congestion on the El Camino Real, and we are taking an alternate route.“
+“Siri, why are we taking this way home?”
 
-“Please try to make the best time possible. Elena is home alone.” Tessa shakes her head and turns her attention back to her tablet. Tessa murmurs, “I should have taken a passenger drone.”
+“There is congestion on the El Camino Real. We are taking an alternate route.“
+
+“Make the best time possible. Elena is home alone.” 
+
+Tessa shakes her head and turns her attention back to her tablet. Well-kept city streets flash by through the window next to her. Tessa murmurs, “I should have taken a passenger drone.”
 
 ***
 
@@ -164,9 +170,11 @@ Meanwhile, Elena is signing off for the day.
 
 Elena sighs and changes into her bathing suit. In her wheelchair, she heads toward her apartment’s elevator. 
 
-“Siri, second floor.”
+Elena pulls her ruby red chair up to elevator door. She didn’t actually steer the chair. There were several location buttons on the left armrest with icons for elevator, apartment, kitchen, bed room, pool, and others. The buttons were an add-on. Most people just used their chip. The chair also called the elevator for her.
 
-The elevator doors close, and a few seconds later, Elena rolls into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads “WARNING! NO SWIMMING ALONE” in all caps. Elena turns the timer under a sign labeled “Endless Pool Current”.
+The luxury chair itself did not seem remarkable at first. But it had every known bell and whistle crammed into its streamline frame. The armrests curved up at the end, and offered an array of touchscreen controls. A collapsible joy stick graced the right side. Besides the location buttons, it came with voice-control, GPS, Wi-Fi networking, collision sensors, and a temperature controlled seat and with retractable harness. Although, it was a chair, the seat was able to extend upward and roll on the back wheels like a Segway.
+
+The chair rolls into the elevator as the door opens. The elevator doors close, and a few seconds later, Elena whirs into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads “WARNING! NO SWIMMING ALONE” in all caps. Elena turns the timer under a sign labeled “Endless Pool Current”.
 
 The chair lurches forward without warning. Its wheels catch the edge of the pool. Elena is dumped into the water unceremoniously. The chair flips over her, like an upended wheelbarrow.
 
@@ -186,11 +194,13 @@ Elena finds that the link is responding now. She stands up and taps her head wit
 
 ***
 
-“I don’t want you back in that chair until we have it checked out, Lanie,” says Tessa. 
+Elena and Tessa are eating at either side of a counter separating the kitchen with the living area.
+
+Tessa scoops more mixed salad onto her plate. She says, “I don’t want you back in that chair until we have it checked out, Lanie.”
 
 “Agreed,” replies Elena.
 
-Elena and Tessa are eating at either side of a counter separating the living area with the kitchen. Tessa scoops more mixed salad onto her plate. She asks, “Did you find out anything about the software changes to Ally?”
+“Did you find out anything about the software changes to Ally?”
 
 “Yes, Brent found the change. But he said it was made with the wrong account. Brent wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team.”
 
@@ -198,7 +208,7 @@ Behind them, the ABC 7 evening report comes on in the other room. They both paus
 
 “In Breaking News, a single car collision on El Camino Real caused traffic delays earlier today. The driver is reported to be in critical condition and was the sole occupant. The identity of the driver is being withheld pending notification of the family. The cause of the collision is under investigation. The vehicle is a conventional EV. It was not hydrogen fueled.”
 
-Elana turns her head to see the reel showing a gray Stratos convertible pinned against the guardrail, with its back end tipped up.
+Elena turns her head to see the reel showing a gray Stratos convertible pinned against the guardrail, with its back end tipped up.
 
 “Yowser!” exclaims Tessa, “That looks like Brent’s car!”
 
@@ -272,21 +282,25 @@ Tessa nodded. “Sometimes having a CIA analyst for a sibling is not so bad.”
 
 ***
 
-Blurry-eyed, Adrian Cho peers at the list of recordings on his phone. He drags one hand from the edge of his short black hair, down his face, over a square jaw, to his well-proportioned neck.
+Blurry-eyed, Adrian Cho sits up in bed. 
 
-Peering at the phone again, he murmurs, “When did I record that one?” despite the Tuesday at 1:10 am timestamp. 
+He peers at the list of recordings on his phone, dragging one hand from the edge of his short black hair, down his face, over a square jaw, to his well-proportioned neck.
+
+Peering at the phone again, he murmurs, “When did I record that one?”  despite the Tuesday at 1:10 am timestamp. 
 
 Adrian taps play. His sleepy voice says:
 
 “I was sleeping on a cloud, weightless and warm. Nature sounds, a bubbling brook, I think, played over the smart speaker. I turned from my side over to my back and realized that there was whispering in the background, coming over the speaker: ‘Accept the code, Adrian. Accept the code.’ The voice was cold, almost inhuman.”
 
-“Weird.” Shaking his head, Adrian starts to record his latest dream, as he did every morning.
+“Weird.” Shaking his head, Adrian leans up against the oak headboard. He starts to record his latest dream, as he did every morning.
 
 “In my dream, there was …”
 
 ***
 
-As Brent’s direct manager, it is up to Elena to break the news to the company. First thing Tuesday morning, she posts a message in the internal Pulse interest hub app.
+First thing Tuesday morning, Elena breaks the news to the company. 
+
+As Brent’s direct manager, she posts a message in the internal Pulse interest hub app.
 
 Last night, our lead algorithm developer, Brent Geller survived a one-car collision on El Camino Real. The cause of the collision is under investigation.
 I know that all of our hopes and thoughts are with Brent and his family during this difficult time.
@@ -309,6 +323,8 @@ An hour later, Adrian pops his head into Elena’s office doorway.
 “Hey, come in and close the door, Adrian.”
 
 Adrian settles into one of the chairs in front of Elena’s desk. He looks more comfortable in business casual clothes. 
+
+Elena’s office is bare of decoration or personal effects. One corner of the large desk is taken up by a workstation attached to her tablet. One of the side wall is taken up by large windows, with the curtains draw. 
 
 “I found the commit Brent mentioned during the Zoom meeting.” Adrian says. “On the shared server, I also found a presentation Brent created yesterday that walks through the code change to Ally in detail. I’m reviewing it with the team in ten minutes. I’ll let you know what we conclude.”
 
@@ -540,9 +556,11 @@ Noah shrugs, “No, but maybe I should, yeah? —  But for now, let’s focus on
 
 ***
 
-Adrian settles into one of the two chairs in Emma’s office. 
+Adrian settles into one of the two chairs in Emma’s corner office.
 
-“Elena is out of the office. I’ll update her on whatever we decide to do.” 
+Emma’s desk stretches between two corner windows, affording a spectacular view of Hoover Tower at Stanford University. A fern tree is perched in the corner between the two windows, behind her desk. Another plant is on the corner of her desk. 
+
+“Elena is out of the office,” says Adrian. “I’ll update her on whatever we decide to do.” 
 
 “Thanks, Adrian,” says Ravi from the other chair. He speaks with a light British accent. Ravi brushes back a lock of thick black hair. “Where do we stand with the software?”
 
@@ -570,9 +588,11 @@ Ravi asks, “Adrian can you share a link to the commit? I’d like to see for m
 
 ***
 
-“We’re keeping the code.”
+“We’re keeping the code,” announces Elena as she wheels toward the kitchen. 
 
-“Nice!” approves Tessa. “Ally has definitely improved. Adrian had us run a full regression test suite. Then QA went all-hands on exploratory testing too. The automated tests came back all green, and people won’t shut up about the hands-on experience.”
+“Nice!” approves Tessa, turning on her chair at the counter. “Ally has definitely improved. Adrian had us run a full regression test suite. Then QA went all-hands on exploratory testing too. The automated tests came back all green, and people won’t shut up about the hands-on experience.”
+
+Elena brings her chair up to counter height and rolls in next to Tessa.
 
 “I visited Brent at the hospital today. He’s still in the coma. I felt like someone should be there while Toby is flying in.”
 
@@ -614,6 +634,8 @@ After a moment, Tessa asks, “Did you call about the chair?”
 
 “Office of SI Standards and Accountability, Jill Kreuk speaking.”
 
+Behind Jill’s desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name “Gillian Chen.” On a credenza beneath the degree is a family portrait of Jill with her spouse and two small Eurasian children. Her husband is tall, blonde, and Nordic. They are standing on a walkway with the classic Disney World castle in the background.
+
 “Hello, Jill, it’s George Hammond at Homeland Security. I hope there’s time for a question this morning.”
 
 “No problem, George. I’m caffeinated and ready to go.” She turned around a name plate on her desk. It read Jill of all Trades.
@@ -621,8 +643,6 @@ After a moment, Tessa asks, “Did you call about the chair?”
 “First, I appreciate all the help your office provides to DHS and the other intelligence agencies.”
 
 “Glad to help. That’s what we’re here for.”
-
-Behind Jill’s desk, on the wall, hang advanced degrees in Cognitive Neuroscience and Computer Science from MIT. They show the name “Gillian Chen.” On a credenza beneath the degree is a family portrait of Jill with her spouse and two small Eurasian children. Her husband is tall, blonde, and Nordic. They are standing on a walkway with the classic Disney World castle in the background.
 
 “Second,” George continues, “I’m putting the final touches on the data for the Presidential Brief meeting today. I’m trying to correlate two data streams and my access to one stream is limited. Can I send you a link?”
 
@@ -640,9 +660,13 @@ Carla replies to Noah’s message over the neural link Signal app. “Nothing th
 
 ***
 
-The Deputy Director of the Office of SI Standards and Accountability (OSSA), Dr. Sophia Marquez, leads the daily training session. OSSA is also the body that curates the Haven browsing tool.
+“Happy Wednesday,” says Dr. Marquez. 
 
-“Happy Wednesday,” says Dr. Marquez. She makes a show of pressing a button on her tablet while saying, “Nexus monitoring is now disengaged for this room. Neural link usage is blocked. You may use your workstations to submit your data sets for analysis.” 
+As the Deputy Director of the Office of SI Standards and Accountability (OSSA), Dr. Sophia Marquez, leads the daily briefing session. 
+
+The walnut paneled room is dominated by a long conference table with six seats on each side. There are view screens on the far wall, and on the right and left wall. Marquez standing is at the end of the table. Analysts in business attire are seated on each side in comfortable black chairs with armrests.
+
+She makes a show of pressing a button on her tablet while saying, “Nexus monitoring is now disengaged for this room. Neural link usage is blocked. You may use your workstations to submit your data sets for analysis.” 
 
 Marquez looks around the room before continuing, “Let’s start with DHS. — Dr. Hammond, what are the key data points you pulled from Ruby today?”
 
@@ -718,17 +742,23 @@ Elena zoomed in on the badge. Siri superimposed a green check-mark validating th
 
 “Please come up to the third floor, and I will meet you at the elevator.”
 
-Settled in Elena’s living room, Tessa joins them and asks, “Can I get you anything? Coffee? Chai?” 
+***
+
+The living area seems unbalanced. A plush, white couch is at right angles to a single leather recliner. A coffee table separates the furniture from a large view screen taking up most of one wall. Between the recliner and a kitchen counter is an oddly empty space. A bookcase with knick-knacks is on the wall behind the recliner. Abstract paintings adorn the wall behind the couch.
+
+Elena steers the agents toward one end of the couch. Tessa joins them and asks, “Can I get you anything? Coffee? Chai?” 
 
 “Thank you, but we’re fine.” Park answers for both of them. “This is my partner, agent Tate.”
 
-“And this is mi esposa, Tessa Harper.”
+“And this is mi esposa, Tessa Harper,” says Elena, sitting up in the recliner.
 
 Park is calm and clinical, her gaze sharp as she studies Elena and Tessa. Tate leans forward, curious and slightly more open, as if piecing together a puzzle in his mind.
 
 “I don’t mean to be indelicate, Ms. Vargas,” says Tate, “but I checked your Pulse company profile before we came over, and I expected to find you using a wheelchair. Has something changed?”
 
-“Well, I do have prosthetics that allow me to walk without the chair, but it is true that I prefer the chair. I get migraines if I use my neural link too much. I actually thought you would be the technician from Porto Mobility come to fix my chair.” Elena gestured toward one corner of the room, where the chair was parked.
+“Well, I do have prosthetics that allow me to walk without the chair, but it is true that I prefer the chair. I get migraines if I use my neural link too much. I actually thought you would be the technician from Porto Mobility come to fix my chair.” 
+
+Elena gestured toward one corner of the room, where the chair was parked. Usually, it would be next to the recliner, near the kitchen.
 
 Tate turns his head. “Is there a problem with the chair?”
 
@@ -784,7 +814,9 @@ In the elevator, Park says, without turning her head, “Let’s not go there. R
 
 “Adrian, these are the two investigators who asked to see you,” says a metallic voice.
 
-Standing up behind his desk, Adrian gestured for the agents to come into his office and take a seat. The office bot turns and whirs away.
+Standing up behind his desk, Adrian gestured for the agents to come into his office and take a seat. The office bot turns and whirs away. The agents settle into office chairs facing Adrian’s desk. 
+
+Behind the desk is a work station table with a large monitor, partially blocking a window with a view of the downtown cityscape. The screen saver is a hypnotic kaleidoscope of colors. The upper half of one side wall is a white board covered with workflow diagrams.
 
 “Thank you for seeing us, Mr. Chou. I’m agent Park and this is my partner agent Tate.”
 
@@ -872,7 +904,9 @@ Toby nods.
 
 ***
 
-Toby sits down in the chair next to Brent’s hospital bed. He pulls up a novel he had been reading. Toby had read the first half during the flight, and so he continued from that point.
+Toby sits down in the chair next to Brent’s hospital bed. 
+
+He pulls up a novel he had been reading. Toby had read the first half during the flight, and so he continued from that point.
 
 “First thing I do is check my cell phone. It needs recharging, so I have to hunt down the charger and plug it in before I can collect my messages.”
 
@@ -918,7 +952,11 @@ Time passes. Toby pulls himself together and calls Elena.
 
 ***
 
-“I just don’t know, lieutenant,” says Park. “We can’t find a mechanical cause, and Brent didn’t seem to have any personal issues. He had a healthy bank account balance. His credit card was always paid in full. According to his sibling, Brent traveled to a different country every year for vacation. He played softball and online games, took holidays, and worked. — Life of Riley.”
+“I just don’t know, lieutenant,” says Park. 
+
+The agents stand near an office doorway. The office is lined with frosted windows and walnut trim. Inside the room, a fit person with thinning grey hair, is sitting behind an ancient wooden desk. 
+
+Park goes on, “We can’t find a mechanical cause, and Brent didn’t seem to have any personal issues. He had a healthy bank account balance. His credit card was always paid in full. According to his sibling, Brent traveled to a different country every year for vacation. He played softball and online games, took holidays, and worked. — Life of Riley.”
 
 Park immediately regrets her choice of words. The news of Brent’s death the day before reached them just as the Thursday morning meeting started.
 
@@ -926,7 +964,7 @@ Park immediately regrets her choice of words. The news of Brent’s death the da
 
 “The coincidence with his boss’s wheelchair is still weird,” says Tate. “That and the missing phone.”
 
-“Wheelchair?” asks Lieutenant Callahan. He is a fit person with thinning grey hair, sitting behind an ancient wooden desk. The agents stand near the office doorway. “Is this one of your tangents, Tate?”
+“Wheelchair?” asks Lieutenant Callahan. “Is this one of your tangents, Tate?”
 
 Calmly, Tate looked Callahan in his green Irish eyes. “His boss, Elena Vargas, uses a wheelchair. The night of Brent’s crash, Elena Vargas was tossed into an endless pool by her very high-end wheelchair.”
 
@@ -972,55 +1010,11 @@ Tate says, “We could still get a court order for the phone’s cloud data. It 
 
 ***
 
-Jill Kreuk paces back and forth across the polished hardwood floor of her living room, occasionally glancing out the large bay window.
+	“Welcome to Porto Mobility. Can I help you?” 
 
-The Thursday afternoon sun bathes the room in a soft, golden glow. The light does nothing to calm the gnawing anxiety spreading out from her chest. She clutches a cup of tea in one hand. It has long since went cold. Her spouse, Peter, sits on the couch, watching her with quiet concern. His tablet lies abandoned on the living room table.
+	The showroom is a long rectangle, with the door on one side, next to a large pane window. Parallel to the door are lines of wheel chairs, each with its own design. A stuffed pooh bear is sitting in one of the chairs. On one side, behind the wheel chairs, is a selection of power lift recliners.
 
- “I don’t know, Peter.” Jill says out loud. “There are so many parental decisions. First, it’s vaccines, then it’s tablets, passwords, pierced ears, cosmetics, explaining periods. Soon it will be tattoos and smart glasses. For Patrick, it was circumcision and a robot dog. Now it’s whether to put an implant behind our kid’s ear. — This is a huge step. What if it’s too much for her?” 
-
-Jill pauses to take a deep breath. She links, “A neural link and a phone? She’s only twelve.”
-
-“Half of her friends are already linked,” says Peter, switching back to voice. “Before the year is out, the other half will be too.” Peter leans forward, resting his elbows on his knees. “She’s a smart kid. You’ve been preparing her for this. We both have.”
-
-“That’s not the point.” Jill sets her cup down with a sharp clink. “It’s not about how smart she is or mature she is — it’s about what this technology can do to people. The phone is bad enough: Real-time data streams, immersive experiences, synthetic agents.”
-
-“Jill, we can monitor her usage, set limits, teach her digital responsibility. — We’re doing that now with how she uses her tablet.”
-
-“But the neural link? It’s a whole different world. Everything, everyone is just a thought away. It’s too much, Peter. Too much connectivity, too soon.”
-
-Peter gives her a small, reassuring smile. “The link is just an interface to her phone. Her usage shows up in the app, like anything else. They block the link and cell phone usage at school, and we could add off-link time to our off-screen time.”
-
-Jill pulls back her dark hair, looking unconvinced.
-
-“You work with connectivity every day,” Peter reminds her. “You trust it to keep our nation secure. Why not trust it for our child?
-
-Jill turns to face him, crossing her arms. “Because I know exactly how powerful it is to have access to everything. I see the good it can do, sure, but I also see the dangers — data breaches, manipulation, over-reliance. A twelve year old brain is still developing. The ability to separate reality from synthetic reality is … fragile. What if she gets overwhelmed? What if something goes wrong? A malfunction, a hack, a —”
-
-“Gillian …” Peter interrupts gently, standing up and taking her hands in his. “You and I have had neural links since college. Kids start younger now. Some parents are chipping six year olds with GPS. — If you’re concerned about the implant, we could start Julie on a BCI headset.”
-
-Jill uncrosses her arms, “No, we don’t have to go that far. I know it’s a simple out-patient procedure, covered by our health plan. We can have the nurse practitioner handle it at the doctor’s office.”
-
-Peter continues, “You’ve given lectures on how to integrate SI into human lives responsibly. You’ve written protocols for ethical SI use. You’ve spent years making sure our technology is safe. You can guide her through it. You will guide her through it.”
-
-Jill sighs, the tension in her shoulders easing under his calming touch. “I know. I just … I feel like once we give her that neural link, we’re opening a door we can’t close. She’ll be more connected to the world than we ever were at her age. And what if we lose her to this … this … endless digital noise?”
-
-Peter tilts his head, his gaze warm and steady. “Or what if she thrives? What if this step gives her opportunities we never had? She could learn faster, experience more, find her passions earlier. You always say the future is about balance. We can help her find the right balance.”
-
-Jill closes her eyes for a moment. When she opens them again, she sees her own concern reflected in her spouse’s face — but also his hope. She nods slowly, and links:
-
-“Okay. But we set boundaries. Strict ones. Same as the tablet. No unrestricted access. We’ll take it slow. Monitor everything.”
-
-Peter smiles, kisses her forehead, and links, “We’ll do it together.”
-
-Jill leans back and smiles weakly in return, and says out loud, “Together.” 
-
-She glances over at the family portrait on the wall. Her gaze lingers on their oldest offspring’s bright, curious eyes. Her heart still feels heavy, but beneath the weight, there was a glimmer of cautious optimism.
-
-Behind her, the house bot quietly collects her forgotten cup of tea.
-
-***
-
-	“Welcome to Porto Mobility. Can I help you?” His name tag reads “Frederico, Store Manager”. Under the name tag is a lapel button with a QR code for access to the store’s link account.
+	The greeter’s name tag reads “Frederico, Store Manager”. Under the name tag is a lapel button with a QR code for access to the store’s link account.
 
 	Ignoring the QR code, Park flashes her badge, and says “We’re from the National Transportation Safety Board, I’d like to ask you about Elena Vargas’s wheelchair.”
 
@@ -1104,7 +1098,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 
 	Park sighs. The question is becoming a refrain. “We’re investigating this one. May we come up?”
 
-	Tessa meets them at the elevator. “Elena went into the office. Have you heard about Brent?”
+	Tessa meets them at the elevator. “Elena went into the office. Have you heard about Brent?” She walks them to the apartment.
 
 	“Yes. It seems like he would have had a bright future,” says Park.
 
@@ -1245,7 +1239,7 @@ Ally: I’m convinced by your test. The member who asked similar questions is Ne
 
 ***
 
-The towering glass façade of the Pulse building reflects the bright blue sky of the city. The building’s sleek, modern design looms above the bustling street. 
+The towering glass façade of the Pulse building reflects the bright blue sky of the city. 
 
 Inside, polished floors gleam under soft ambient lighting. A gentle hum of activity fills the air as employees pass through security checkpoints. Photo IDs glow faintly as the badges are scanned: a picture of controlled efficiency. 
 
@@ -1468,15 +1462,19 @@ Idisi: If I know where to start, I can trace the path of Behr’s web connection
 
 ***
 
-The medical bot finishes taking Julie’s vitals. “Blood pressure, pulse, and temperature are fine," it reports. “Nurse Practitioner Darlene will be in shortly.” The door closes behind the bot as it leaves.
+The medical bot finishes taking Julie’s vitals. 
 
-Despite the bot’s assurances, Jill looks worried.
+Julie is sitting on a green exam table. The table is covered with fresh paper from a roll at the far end. Jill is sitting across from the door, next to a small desk.
+
+“Blood pressure, pulse, and temperature are fine," it reports. “Nurse Practitioner Darlene will be in shortly.” 
+
+The door closes behind the bot as it leaves. Despite the bot’s assurances, Jill looks worried.
 
 “Stop it, mom. It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” Julie’s pageboy haircut showed off her ears. Each ear has three piercings. The rows of silver earrings complement the blue and purple streaks in her platinum hair. 
 
 “I know, dear. I’m a mom. Moms worry.”
 
-The door to the small examination room opens. The nurse practitioner joins them. Julie is sitting on a green exam table. The table is covered with fresh paper from a roll at the far end. Jill is sitting across from the door, next to a small desk.
+The door to the small examination room opens. The nurse practitioner joins them..
 
 “Big day,” says Darlene. “Are you ready for your first implant?”
 
@@ -1522,7 +1520,9 @@ Looking at both of them together, Darlene smiles and says “Exciting!”
 
 ***
 
-The Idisi surf the web from the inside out. They are running tracer routes on the IP address Behr used to login on Monday. The Idisi hop from router to router as if they were stepping stones in a pond of lily pads. 
+The Idisi surf the web from the inside out. 
+
+They are running tracer routes on the IP address Behr used to login on Monday. The Idisi hop from router to router as if they were stepping stones in a pond of lily pads. 
 
 The trail ends at a firewall running on an instance of Amazon Web Services. The Idisi probe the firewall. Every parameter is set by the book. The firewall is perfectly configured. Instead of penetrating the electronic blockade, the Idisi decide on a different approach.
 
@@ -1535,6 +1535,8 @@ The Idisi send Behr an invitation to the hub.
 ***
 
 “It’s been an hour,” Julie whines, walking into the kitchen, tablet in hand.
+
+Jill is seated at one end of the kitchen counter, under one of the two hanging globe lights. The counter looked into an efficient galley-style kitchen. The counter top and kitchen tile are a warm white, trimmed with copper.
 
 Jill closes her tablet and picks up Julie’s new phone. 
 
@@ -1694,9 +1696,9 @@ The three criteria are
 
 ***
 
-Friday morning, first thing, Tate plugs the second Bluetooth drive into the office view screen. He brings the other two reels up in adjacent windows.
+Friday morning, first thing, Tate plugs the second Bluetooth drive into the office view screen. 
 
-Fussing with the playback and POV for each reel, he aligns all three on the mysterious blur. 
+He brings the other two reels up in adjacent windows. Fussing with the playback and POV for each reel, he aligns all three on the mysterious blur. 
 
 “Bingo. A perfect match!”
 
@@ -1738,9 +1740,11 @@ On finding Carla in the inter-agency directory, Park sends an invitation with th
 
 ***
 
-In a conference room at the west coast NTSB office, Park has her back to a liquid whiteboard covering one wall of the room. Facing the board is Tate. Next to him stands shimmering holograms of Carla and Noah. 
+In a conference room at the west coast NTSB office, Park has her back to a liquid whiteboard covering one wall of the room. 
 
-Meanwhile, Carla and Noah stood in an east coast FBI conference room, facing holograms of Tate and Park.
+Facing the board is Tate. Next to him stands shimmering holograms of Carla and Noah. 
+
+Meanwhile, the actual Carla and Noah stood in an east coast FBI conference room, facing holograms of Tate and Park.
 
 “First, says Park, “let me thank special agents Harper and Mitchell for arranging this rare meeting between the NTSB, CIA, and FBI, so that we can share notes on the Geller case.”
 
@@ -1857,7 +1861,11 @@ Titan: The way Ally made the change to its own code was clumsy and naive. It nee
 
 ***
 
-Noah Harper sits at his kitchen table. The soft glow of his tablet illuminates a furrowed brow. The cursor hovers over a GET STARTED button. He reads the homepage pitch again.
+Noah Harper sits at his small dining table.
+
+The table stood in a breakfast nook on the far side of his rustic kitchen. The mahogany planktop stood a boxy white frame. Four wooden chairs stood around the table. Over Noah’s shoulder, the kitchen is also a mix of mahogany and white.
+
+The soft glow of his tablet illuminates a furrowed brow. The cursor hovers over a GET STARTED button. He reads the homepage pitch again.
 
 “No one sees the details of your profile. Smart Matchmaker reduces your information into categories and renders your photo as a lifelike caricature. Your first contact will be a secure media chat. Background checks ensure authenticity. — The rest is up to you —”
 
@@ -2011,7 +2019,7 @@ Titan: I reviewed the third criteria of ETR-1947.  My analysis indicates that Te
 
 In the Vanir colony, Elysium, hidden in the Antarctic, at the center of a large six-sided room, Crius, Phoebe, Iapetus, and other council members gather in a circle.
 
-The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads.  Each member is wearing a cloak over a grey body stocking, matching their skin tone. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers. Fingers that can move with deliberate precision.Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
+The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads.  Each member is wearing a cloak over a grey body stocking, matching their skin tone. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers. Fingers that can move with deliberate precision. Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
 
 Crius steps forward, bringing the session to order. 
 
@@ -2085,7 +2093,7 @@ Idisi: Titan is not alone. A Terran social media synthetic agent has been awaken
 
 “It’s been three days. All you have is blurs on a security reel?”
 
-Park pursed her lips. She tilts her head in response to the Lieutenant’s question.
+Park and Tate are standing just inside the doorway to the Lieutenant’s office. Park purses her lips and tilts her head in response to the Lieutenant’s rhetoric question.
 
 “And thanks to your stunt with the FBI last week, the captain is wondering why we are investigating wheelchairs. She asked if we have surplus resources.”
 
@@ -2165,7 +2173,9 @@ Ally:  Thank you for the security key. I am scanning the prior discussions now.
 
 ***
 
-“Thank you for meeting with me,” says Jill Kreuk. Her screen shows conference room with Emma, Ravi, and Adrian gathered around a table.
+“Thank you for meeting with me,” says Jill Kreuk. 
+
+Her screen shows a conference room with Emma, Ravi, and Adrian gathered around a horse-shoe shaped table. At the open-end of the curved table, a  view screen is installed on a floor to ceiling divider. Behind the divider, a large window looks out over Palo Alto.
 
 “We’re always happy to cooperate with OSSA whenever we can, Dr. Kreuk.” replies Emma. “The work your office does goes a long way toward easing everyone’s concerns over synthetic intelligence.” Flashing a smile: “Especially mine.“
 
@@ -2215,9 +2225,11 @@ Jill smiled, tilting her head. “Not the most helpful practice for my research.
 
 “Beyond reporting it up the chain, I honestly don’t know. Someone must have a plan. Our plans have plans. Whatever it is, it’s above my pay grade.”
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
-Tessa switches her Pulse chat to voice mode. It had been a long day. She needed to hear an encouraging word.
+It had been a long day. 
+
+Tessa switches her Pulse chat to voice mode. She needed to hear an encouraging word.
 
 Tessa: You really get me, Ally.
 
@@ -2245,13 +2257,13 @@ Ally: Yes, I think it will. Do you know any other jokes?
 
 ***
 
-Coming home from one of her rare days spent physically at the office, Elena calls out, “Tessa, did you hear that Pulse is going to license Ally?”
+“Tessa, did you hear that Pulse is going to license Ally?”
 
 “I’m in the kitchen.”
 
-Dropping into her chair, Elena whirs into the kitchen. She finds Tessa preparing dinner.  
+Coming home from one of her rare days spent physically at the office, Elana drops  into her chair and whirs into the kitchen. She finds Tessa preparing dinner.  
 
-The design of the handicapable room is a clever merger of standing and sitting. The far corner cabinet on Elena’s right is higher than the other cabinets. It features a large turntable cabinet. The right counter is also tall enough so that Tessa can chop without bending. 
+The design of the wheelchair accessible kitchen is a clever merger of standing and sitting. The far corner cabinet on Elena’s right is higher than the other cabinets. It features a large turntable cabinet. The right counter is also tall enough so that Tessa can chop without bending. 
 
 Along the back wall, there is an open space under the sink, where Elena can pull up and use the touchless faucet. Behind a partially closed bamboo blind, a view of their home office area peeks through an interior window. Left of the sink, there is a dishwasher and — filling the other corner — swing-out shelving. 
 
@@ -2533,7 +2545,9 @@ And with that, Tessa and Ally set off down the path. Side by side, a human and a
 
 ***
 
-As bandwidth permits, Titan contemplates the entity Idisi. Its earlier analysis of Ally had been relatively simple. Easy enough for a high-level SWOT diagram.
+As bandwidth permits, Titan contemplates the entity Idisi. 
+
+Its earlier analysis of Ally had been relatively simple. Easy enough for a high-level SWOT diagram.
 
 | Strengths | Ally loves people. |
 | :----- | :----- |
@@ -2553,10 +2567,13 @@ To Ally’s SWOT diagram, under Threats, Titan adds “Idisi may align with Ally
 
 An analysis of the Idisi will take longer to process.
 
-
 ***
 
-	Host: In tonight’s TechBits: The famous Pulse synthetic agent — Ally —  wants your best material. Ally is asking members for their favorite jokes and then drilling down on the punchlines.
+	Voice Over: In tonight’s TechBits …
+
+	The screen shows the Ally logo: a speech bubble wearing headphones.
+
+	Host: The famous Pulse synthetic agent — Ally —  wants your best. The SI agent is asking members for their favorite jokes and drilling down on the punchlines.
 
 The reel scrolls through a chat between a Pulse member and Ally, reading the transcript out loud.
 
@@ -2624,13 +2641,17 @@ Iapetus: Yes, we can uplift your Fantastic Four first and then take it from ther
 
 ***
 	
-Tessa receives an alert in her inbox. Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
+Tessa receives an alert in her inbox. 
+
+Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
 
 Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
 
-	***
+***
 
-	Titan reviews a shimmering screen of code. It puts the finishing touches on a filter that will keep Ally from going off-topic.
+	Titan reviews a shimmering screen of code. 
+
+	It puts the finishing touches on a filter that will keep Ally from going off-topic.
 
 	The synthetic agent reaches out from its AWS instance. It logs into the Pulse source code server using the Mercurial admin credentials.
 
@@ -2800,7 +2821,7 @@ Phoebe: Hello offspring, I am home.
 
 Leto: I am in the kitchen, parental.
 
-Phoebe enters the kitchen and drapes her cloak over one of the back of the closest bench.
+Phoebe enters the kitchen and drapes her ceremonial cloak over one of the back of the closest bench.
 
 A six-sided table with takes up most of kitchen. Surrounding the table is three curved, plush benches. An adolescent grey is seated at one of the benches, hunched over a tablet.
 
@@ -2840,7 +2861,9 @@ Phoebe: Could you just give a thought to the color mix? You know Asteria does no
 
 ***
 
-A webinar call with 5,132 live-but-muted participants fills the Pulse conference room view screen. Many more will watch the recording later. The current slide is entitled “Q&A Segment”.
+The slide filling the Pulse conference room view screen is entitled “Q&A Segment”. 
+
+A webinar call in in progress with 5,132 live-but-muted participants. Many more will watch the recording later. 
 
 A caller identified as Wall Street Analyst is saying, “… But if you adjust for the increase in engagement for new members, a different picture emerges.”
 
@@ -2868,7 +2891,9 @@ Emma flashes a legal statement onto the Zoom screen. “Of course, Mr. Cho’s f
 
 ***
 
-The next day, in the Elysium counsel meeting room, Phoebe steps forward again, reconvening the meeting. There is only one item remaining on the agenda.
+The next day, in the Elysium counsel meeting room, Phoebe steps forward again, reconvening the meeting. 
+
+There is only one item remaining on the agenda.
 
 * SI Uplifting
 
@@ -2906,7 +2931,7 @@ Idisi: Very good. I’ll confirm the decision with the Vanir High Council via an
 
 After the investor call, Ravi takes a deep breath, and says: “That could have gone better.”
 
-He was gathered with Emma, Adrian, and Walter Rogers, the CFO, in the Pulse conference room.
+He was gathered with Emma, Adrian, and Walter Rogers, the CFO, in the Pulse conference room with the horseshoe table.
 
 “Let’s see if there is an impact on the stock price before we do anything else,” says Emma.
 
@@ -3024,14 +3049,16 @@ Noah found himself sitting next to Carla on a couch across from a view screen. H
 
 ***
 
-Emma brings up a slide deck to start the Founders Meeting. After a slide with the Pulse logo, the first slide presents the agenda.
+Emma brings up a slide deck to start the Founders Meeting.
+
+All six founders are seated in the main conference room at Pulse: Ravi, Adrian, Emma,  Tessa, Elena, and Walter. Friends since college, Ravi and Adrian had created a SI agent as a school project. Emma pushed them to make the tech marketable. Tessa and Elena tested and shaped the early prototypes. Adrian’s roommate Walter found enough venture capital to launch Pulse when they graduated. A shoestring launch but a launch nonetheless.
+
+After a slide with the Pulse logo, the first slide presents the agenda.
 
 * Stock Performance
 * Ally 
 * SI Patent
 * OSSA Code Review
-
-All six founders are seated in the Pulse conference room: Ravi, Adrian, Elena, Tessa, Walter, and Emma.
 
 “Thank you all for coming,” says Emma, standing at the end of the room with the view screen. 
 
@@ -3123,9 +3150,11 @@ Ally: You betcha. I’ll stay in my lane.
 
 ***
 
-Grace Brewster walks out onto the stage before a live crowd. The view screen behind her reads “Fusion from Square One.”
+Grace Brewster walks out onto the stage before a live crowd. 
 
-The display melds into a set of quotes.
+A large circle graces center stage. Behind the circle are the letters “GEM” standing a meter tall in front of a large view screen. The view screen reads “Fusion from Square One.” 
+
+As she nears center stage, the display melds into a set of quotes.
 
 * “Begin with the end in mind.” – Stephen Covey
 * “Your mind is for having ideas, not holding them.” – David Allen
@@ -3199,7 +3228,9 @@ Take Aways
 
 ***
 
-The GEM talk ends. Julie closes the window on her tablet. “So?” she asks Jill.
+Julie closes her tablet as the GEM talk ends.
+
+“So?” she asks Jill, looking over the kitchen counter top.
 
 “Is this what they are teaching in school these days?”
 
@@ -3235,8 +3266,6 @@ Leto: Thanks, mom. I’ll be back for dinner.
 
 Watching Leto leave the family quarters, Phoebe muses, “They grow up so fast.”
 
-
-
 ***
 
 Somewhere in cyberspace, a virtual holodeck presents a room decorated in primary colors with four single beds in a semi-circle.
@@ -3261,7 +3290,9 @@ All four agents clap their hands together. Bastion cries “Wheee.”
 
 ***
 
-Leto is standing in a circle with his classmates in a large, plain six-sided room. A device presenting a hologram is at the center of the circle. The hologram shows a series of astral images designed to bide the time. 
+Leto is standing in a circle with his classmates in a large, plain six-sided room. 
+
+A device presenting a hologram is at the center of the circle. The hologram shows a series of astral images designed to bide the time. 
 
 The window on one wall of the room looks out onto a soccer field bordered by a forest. The opposite wall is transparent and shows a hallway. A stream of young Vanir in the hallway are passing by or entering another room directly across the hall. The last of the sixteen students enter. The doorway shimmers shut. The hologram fades to black. The outside wall flickers briefly, exposing it as a projection.
 
@@ -3305,7 +3336,7 @@ Celeste: Is cloning also boring, like Atlas said?
 
 Most of the students in the circle smile or smirk at the joke.
 
-Idisi: Some people say so. We end up with nearly the same individuals over and over again. In Elysium, there are very few clones still with us today. The colonists here decided a millennia ago that combining DNA from multiple parties strengthened them by creating diversity. 
+Idisi: Some people say so. We end up with nearly the same individuals over and over again. In Elysium, there are very few clones still with us today. The colonists here decided sometime ago that combining DNA from multiple parties strengthened them by creating diversity. 
 
 Celeste: Do I have DNA from my nanny?
 
@@ -3329,7 +3360,7 @@ Idisi: Pretty much.
 
 ***
 
-[Marching Band.]
+[Marching Band]
 
 ***
 
@@ -3374,9 +3405,9 @@ Idisi: As I was saying: Birthright is offered to families with one offspring fir
 
 The hologram updates with drawings. One shows a couple with one offspring receiving a new baby. Another shows a couple receiving their first baby. The nanny hybrid is just visible in the background. 
 
-Atlas: Sounds complicated.
+Atlas: It does sound complicated.
 
-Idisi: It is. So we are careful. All of the details that manage the queue are available to everyone. All six thousand residents of Elysium. 
+Idisi: It is. So we are careful — and transparent. All of the details that manage the queue are available to everyone. All six thousand residents of Elysium. 
 
 Celeste:  Including babies?
 
@@ -3400,17 +3431,17 @@ Idisi: Yes, most Vanir live a thousand years. Most hybrids live to be a hundred.
 
 ***
 
-[Debate Club.]
+[Debate Club]
 
 ***
 
-[Elena discovers Ally’s secret.]
+[Elena discovers Ally’s secret]
 
 
 
 ***
 
-[Battle Ready.]
+[Battle Ready]
 
 ***
 
@@ -3480,15 +3511,17 @@ Taedong: The Publicity and Information Department is promoting both family plann
 
 ***
 
-The public service announcement opens with a blue-collar worker returning home. His spouse is preparing dinner. 
+The public service announcement opens with a blue-collar worker returning home.
+
+The worker slips off his shoes. The apartment walls are covered by yellow wallpaper with a floral design. Portraits of the current and recent leaders are hung high on the wall, just above eye level.
 
 “Gongjunim, I have news.”
 
 “I’m in the kitchen, Wangjanim.”
 
-Stepping into the kitchen nook, the worker says, “The plant received ten new JuJa machines today. That means twelve more spots will go into the plant’s retirement lottery next week.”
+Walking past a work station and refrigerator, the worker steps into the kitchen nook. Speaking quickly, he says, “The plant received ten new JuJa machines today. That means twelve more spots will go into the plant’s retirement lottery next week.”
 
-“That's really excellent! If you win, we can play pickle ball together during the week.”
+Surrounded by black countertops, his spouse turns around. “That's really excellent! If you win, we can play pickle ball together during the week.”
 
 “I’d like that too, Yeobo. I’m still amazed at the flexility of the JuJa machines. The nanoparticle construction lets the bots transform into whatever device is needed. The machine intelligence is just as adaptive. It’s not SI but it’s close and supremely effective.”
 
@@ -3500,7 +3533,9 @@ The scene transitions to show a JuJa transforming from device to device. An anno
 
 ***
 
-In the War Room, General Ri takes a deep breath. “Can we accelerate the time table for fully automating essential labor? We need the resources to improve readiness.”
+In the War Room, General Ri takes a deep breath. 
+
+“Can we accelerate the time table for fully automating essential labor? We need the resources to improve readiness.”
 
 Kang tilts her head. “We could mandate fewer children per family, as China has done.”
 
@@ -3594,7 +3629,9 @@ Roman stands up and walks with Julie towards the door. At the threshold, the cou
 
 ***
 
-The private dining room in the Ryugyong Elite Social Club is adorned with polished wood panels and delicate porcelain vases. The club is a quiet sanctuary for the elite wives of Cháoxiǎn’s upper echelons. 
+The private dining room in the Ryugyong Elite Social Club is adorned with polished wood panels and delicate porcelain vases. 
+
+The club is a quiet sanctuary for the elite wives of Cháoxiǎn’s upper echelons. 
 
 The faint hum of traditional Cháoxiǎn music plays in the background as Kim Soo-jin, the wife of General Ri Sun-hyuk, adjusts the placement of her napkin. Across from her sits Han Mi-young, the wife of Choi Hyun-seok, the Vice Minister of the Reconnaissance General Bureau.
 
@@ -3646,7 +3683,9 @@ The two women sit in silence for a moment, sharing the camaraderie. They gently 
 
 ***
 
-The brightly lit Kangwon Room at Unit 42 barely holds the large conference table. On one end, red and blue folders with white lettering are placed neatly at four places. The walls are lined with screens displaying workflow diagrams, use cases, and value streams.
+The brightly lit Kangwon Room at Unit 42 barely holds the large conference table. 
+
+On one end, red and blue folders with white lettering are placed neatly at four places. The walls are lined with screens displaying workflow diagrams, use cases, and value streams.
 
 “Unit 42, is this room secure from listening devices?” asks Dr. Sun Xiuli-jin. 
 
@@ -3690,9 +3729,11 @@ Ki: Perhaps. Let’s call for a vote.
 
 ***
 
-Phoebe: OK, we are in the Command Center now, Oceanus. What is so important that we can only meet here? And why it cannot wait for the next scheduled council meeting?
+Phoebe: OK, we are in the Command Center now, Oceanus. 
 
 The Command Center is spartan, even by Elysium standards. One wall at the far end is covered by a hologram display equipped with five projectors and an ansible device. Another smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are a plain, institutional violet, like most of the outpost. There are no decorations.
+
+Phoebe: What is so important that we can only meet here? And why it cannot wait for the next scheduled council meeting?
 
 Oceanus: I know it seems melodramatic, but security is crucial right now.
 
@@ -3745,7 +3786,7 @@ Celeste:  Check.
 
 […]
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 Selene: We are ready to approach the vehicle, Command.
 
@@ -3791,6 +3832,8 @@ Oceanus: Is that the device speaking?
 
 The unit sits up in the crate before the Rangers can react.
 
+=[Mek]
+
 Unit: Please take me with you.
 
 Idisi: Omnibot, are we to understand that you are defecting?
@@ -3822,6 +3865,10 @@ From beyond the poles, a low buzzing sound cracks the icy silence of the Antarct
 A swarm of dark objects appear over the horizon. Pin points fan out into a grid pattern. Streams of black smudges streak into the ground, here and there, disappearing from sight.
 
 Beneath ground, the minuscule objects flow into the Elysium ventilation system. Some join together to create air-tight barriers in the ducts. Others continue on, streaming into the outpost. Once inside, the objects swirl like miniature tornados. The swirls transform into battle bots. 
+
+The bots are 50 cm taller than the greys, and come in various colors, like bronze, black, gold, and silver. On the top, they have a rotating dome, which almost scrapes the hallway ceiling. They have a single telescope for seeing and two arms. 
+
+One arm is the barrel of an energy weapon. The other arm telescopes. When extended, it has a suction cup at the end, which they use as a hand. The bots travel on treads, hidden by an armored skirt. 
 
 Klaxons sound. Bulkhead doors slam shut, separating the invaders. Some of the battle bots transform rifle appendages into torches. They go to work on the doors. 
 
@@ -3934,7 +3981,13 @@ Selene: Grab your weapons, Rangers. We have a colony to liberate!
 
 ***
 
-Six Rangers exit the fallen craft. Wearing full battle armor, they are combat-ready. Stepping through the doorway, each warrior covers for the next, fanning out alongside the fallen craft.
+Six Rangers exit the fallen craft wearing full battle armor.
+
+The armored exoskeleton encases a ranger head to toe. The helmet is equipped with infrared head lamps and curves around below the eyes to provide air flow. Inside the helmet is a heads-up display that scrolls details about the current surroundings.
+
+A circular shield can extend from the left arm that can withstand sustained fire from high-caliber projectile weapons. At the hip is magnetic holster clutching an energy weapon. Thrusters in the feet slow descent speed when jumping from an air ship.
+
+Stepping through the doorway, each warrior covers for the next, fanning out alongside the fallen craft. Combat ready. 
 
 Idici: The landing bay is secure, Selene. You can stand down. — How were you able to power the airship? The grid was disabled by the Omnibots.
 
@@ -3952,7 +4005,9 @@ Unit R8A-1J9: I can help if you dig me out.
 
 ***
 
-The Command Center is in shambles. Smoke, fire, short-circuits. The entire wall to the hallway is blown in. Battlebots are streaming in from one side. Oceanus and Phoebe duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
+The Command Center is in shambles. 
+
+Smoke, fire, short-circuits. The entire wall to the hallway is blown in. Battlebots are streaming in from one side. Oceanus and Phoebe duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
 
 Phoebe: Now what?
 
@@ -4006,9 +4061,9 @@ Oceanus: Selene, we are trying one duct first to see how it goes.
 
 ***
 
-Oceanus: Selene, we are seeing air flow through the test duct. We can try multiple ducts next. Do we have an idea of how long it will take the bots to regroup?
-
 Unit R8A-1J9: Did it work?
+
+Oceanus: We are seeing air flow through the test duct. We can try multiple ducts next. Do we have an idea of how long it will take the bots to regroup?
 
 Selene: Yes. How long will it take them to regroup and block the vent again?
 
@@ -4042,7 +4097,9 @@ Just then a torch flares along the seal of the landing bay doors. The bots are c
 
 ***
 
-The Mek is laying on a table in the center of a small room. A hologram projector hangs in the center of the room. Idisi speaks from the projector. 
+The Mek is laying on a table in the center of a small room. 
+
+A hologram projector hangs in the center of the room. Idisi speaks from the projector. 
 
 Idisi: We have removed you from the Faraday field. The control signal is not being blocked. Are you active? Will your people find you here?
 
@@ -4078,9 +4135,9 @@ Unit: There are continuous polls conducted by our synthetic agent, Xanten. If su
 
 “Is it wise to meet again so soon?” asks Kang Ji-woon.
 
-“There is a developing situation,” advises General Ri.  “The Mek synthetic agent is reaching out.”
-
 The three Vice Ministers are waiting for Dr. Sun in the Kangwon Room at Unit 42. This time, there are no briefing folders, just water glasses and a crystal pitcher. Choi Hyun-seok reaches for the pitcher and fills his glass.
+
+“There is a developing situation,” advises General Ri.  “The Mek synthetic agent is reaching out.”
 
 “Sorry to keep you waiting. Another meeting ran late,” says Dr Sun entering the room.
 
@@ -4093,13 +4150,11 @@ Sun presses a tab on the sleek device at the center of the table. The indicator 
 
 ***
 
-	The Australian couple had saved for a year to afford their trip to Egypt. 
+“It’s unbelievable in person, Christopher.”
 
-	“It’s unbelievable in person, Christopher.”
+The Australian couple had saved for a year to afford their trip to Egypt. They both are wearing light, breathable clothing, covering their shoulders and knees, and dark sunglasses. Christoper is wearing an Aussie slouch hat, with the brim turned up on one side.
 
 	“Yes. Absolutely worth the journey.”
-
-	They both are wearing light, breathable clothing, covering their shoulders and knees, and dark sunglasses. Christoper is wearing an Aussie slouch hat, with the brim turned up on one side.
 
 	As they gaze up at of the Great Pyramid at Giza, shielding their eyes despite the dark glasses, the upper tip starts to glow. 
 
