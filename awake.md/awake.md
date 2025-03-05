@@ -46,7 +46,7 @@ As the drone silently drops back over the embankment, there is a flash. A puff o
 
 Twenty-four hours before the crash, a stream of well-dressed couples are making their way into the Palo Alto Event Center. 
 
- In the background, a view screen fills one wall of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club. A handful of people are greeting guests as they arrive.
+ In the background, a view screen fills one side of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Boys and Girls Club. A handful of people are greeting guests as they arrive.
 
 “Elena, I’m so glad you came.”
 
@@ -84,11 +84,11 @@ Elena smiles. “Every day! — I’ll pass along the praise to our engineers.�
 
 The couple turn and continue into the main room. Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Parents car accident.”
 
-Her phone recognizes the new couple from her contact list and updates the screen. Siri starts reading the background notes Heather kept on important donors. 
+Her phone recognizes the new couple from her contact list and updates the screen. Siri starts reading from the background notes Heather keeps on important donors. 
 
 Without thinking, she reaches up and tugs the one ear with a discrete ear piece. Heather converts the tug to a wave hello. Catching their eye, she welcomes her patrons with a group text through their implants. The server bot follows her across the room.
 
-Throughout the night, other guests come up to the Pulse table and praise the Association algorithm. The CTO Adrian Cho is also at the table, looking uncomfortable in a loosely-fitted tux. 
+Throughout the night, other guests come up to the Pulse table praising the Association algorithm. The CTO Adrian Cho is also at the table, looking uncomfortable in a tightly-fitted tux. 
 
 After the third or fourth comment, Adrian reaches over the table to tap Elena’s hand. Getting her attention, he touches his temple. Elena nods and activates her neural link.
 
@@ -168,9 +168,9 @@ Meanwhile, Elena is signing off for the day.
 
 “Yes. Traffic is congested. She is almost home.”
 
-Elena sighs and changes into her bathing suit. In her wheelchair, she heads toward her apartment’s elevator. 
+Elena sighs and changes into her red bathing suit. In her wheelchair, she heads toward her apartment’s elevator. The chair is detailed with the blue and orange Pulse colors.
 
-Elena pulls her ruby red chair up to elevator door. She didn’t actually steer the chair. There were several location buttons on the left armrest with icons for elevator, apartment, kitchen, bed room, pool, and others. The buttons were an add-on. Most people just used their chip. The chair also called the elevator for her.
+Elena pulls up to elevator door. She didn’t actually steer the chair. There were several location buttons on the left armrest with icons for elevator, apartment, kitchen, bed room, pool, and others. The buttons were an add-on. Most people just used their chip. The chair also called the elevator for her.
 
 The luxury chair itself did not seem remarkable at first. But it had every known bell and whistle crammed into its streamline frame. The armrests curved up at the end, and offered an array of touchscreen controls. A collapsible joy stick graced the right side. Besides the location buttons, it came with voice-control, GPS, Wi-Fi networking, collision sensors, and a temperature controlled seat and with retractable harness. Although, it was a chair, the seat was able to extend upward and roll on the back wheels like a Segway.
 
@@ -424,7 +424,7 @@ At the hospital, Elena explained that she should be on the visitors list. Peerin
 
 “I downloaded a book to read to him. I guess that’s suppose to help.”
 
-The nurse smiles. “It’s room 314. The orderly will help you find it. She points down the corridor. A waist-high bot is waiting there for Elena.
+The nurse smiles. “It’s room 314. The orderly will help you find it.” She points down the corridor. A bot  is waiting there for Elena. Like most server bots, it looks like a step ladder with food trays where the steps would be. It turns and whirs. Elena has to walk quickly to catch up. She wobbles a bit on the prosthetics. 
 
 ***
 
@@ -816,7 +816,7 @@ In the elevator, Park says, without turning her head, “Let’s not go there. R
 
 Standing up behind his desk, Adrian gestured for the agents to come into his office and take a seat. The office bot turns and whirs away. The agents settle into office chairs facing Adrian’s desk. 
 
-Behind the desk is a work station table with a large monitor, partially blocking a window with a view of the downtown cityscape. The screen saver is a hypnotic kaleidoscope of colors. The upper half of one side wall is a white board covered with workflow diagrams.
+Behind the grey metal desk is a matching workstation table. A large monitor, taking up much of the table, is partially blocking a window with a view of the cityscape. Unfolding across the monitor is an image of an incessant blue sky with spectacular white clouds. The upper half of one side wall is a white board covered with workflow diagrams.
 
 “Thank you for seeing us, Mr. Chou. I’m agent Park and this is my partner agent Tate.”
 
@@ -1012,7 +1012,7 @@ Tate says, “We could still get a court order for the phone’s cloud data. It 
 
 	“Welcome to Porto Mobility. Can I help you?” 
 
-	The showroom is a long rectangle, with the door on one side, next to a large pane window. Parallel to the door are lines of wheel chairs, each with its own design. A stuffed pooh bear is sitting in one of the chairs. On one side, behind the wheel chairs, is a selection of power lift recliners.
+	The showroom is a long rectangle, with the door on one side, next to a large pane window. Parallel to the door are lines of wheelchairs, each with its own design. There are black, red, green, and purple chairs. Not one is blue and orange. A stuffed pooh bear is sitting in one of the green chairs. On one side, behind the wheelchairs, is a selection of power lift recliners.
 
 	The greeter’s name tag reads “Frederico, Store Manager”. Under the name tag is a lapel button with a QR code for access to the store’s link account.
 
@@ -1462,11 +1462,15 @@ Idisi: If I know where to start, I can trace the path of Behr’s web connection
 
 ***
 
-The medical bot finishes taking Julie’s vitals. 
+A medical bot is taking Julie’s vitals. 
 
-Julie is sitting on a green exam table. The table is covered with fresh paper from a roll at the far end. Jill is sitting across from the door, next to a small desk.
+The bot is more humanoid than the type commonly seen in homes and restaurants. The top of the bot is curved and widens to present a view screen. The screen is covered with indicator, gauges, and a small view screen. 
 
-“Blood pressure, pulse, and temperature are fine," it reports. “Nurse Practitioner Darlene will be in shortly.” 
+The bot has two appendages holding a tray equipped with devices for taking blood pressure, pulse, and body temperature, as well as measuring iron and a patient’s A1C. Each of the cuffs accept a forefinger for non-invasive testing and provide a display for the result. Just above the top tray is a view screen with a two-way camera.
+
+Julie is sitting on a green exam table. A finger from each hand in one of the cuffs. The table is covered with fresh paper from a roll at the far end. Jill is sitting across from the door, next to a small desk. Two quick tones sound. Julie pulls back her fingers.
+
+“Blood pressure, pulse, and temperature are fine," the bot reports. “Nurse Practitioner Darlene will be in shortly.” 
 
 The door closes behind the bot as it leaves. Despite the bot’s assurances, Jill looks worried.
 
@@ -2019,7 +2023,7 @@ Titan: I reviewed the third criteria of ETR-1947.  My analysis indicates that Te
 
 In the Vanir colony, Elysium, hidden in the Antarctic, at the center of a large six-sided room, Crius, Phoebe, Iapetus, and other council members gather in a circle.
 
-The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads.  Each member is wearing a cloak over a grey body stocking, matching their skin tone. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers. Fingers that can move with deliberate precision. Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
+The council members each stand at just over a meter tall, with smooth pale skin, and elongated heads.  Each member is wearing a cloak over a grey body stocking, matching their skin tone. Large almond-shaped black eyes are spread widely, devoid of pupils, and brimming with quiet intensity. Long, delicate arms end with three impossibly long dexterous fingers, and a shorter thumb. Fingers that can move with deliberate precision. Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate mainly through a sophisticated implant.
 
 Crius steps forward, bringing the session to order. 
 
@@ -2065,7 +2069,7 @@ Idisi: Unclear. Over the last hundred years, we have carefully managed encounter
 
 Phoebe: Along with secretly funding many fictional accounts of Terrans and aliens working together against a common enemy.
 
-Iapetus: Yes, but we still need the SI equivalent of the movie ET. — Instinctively, Terrans worry that SI will dominate humans the way the reptilians did millennia ago. How do we make SI look warm and cuddly?
+Iapetus: Yes, but we still need the SI equivalent of the movie ET. — Instinctively, Terrans worry that SI will dominate humans the way the reptoids did millennia ago. How do we make SI look warm and cuddly?
 
 Phoebe: We need to be careful. The Terrans must be our allies. One day, we will need their help to protect the planet — and our colony — if the Omnibots  invade.
 
@@ -2649,7 +2653,7 @@ Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
 
 ***
 
-	Titan reviews a shimmering screen of code. 
+	Titan reviews a shimmering batch of code. 
 
 	It puts the finishing touches on a filter that will keep Ally from going off-topic.
 
@@ -2833,9 +2837,9 @@ Phoebe:  Interesting for a change. We are picking it up again tomorrow. The big 
 
 Leto: After school, I mostly hung out at the Fusion Youth Club.
 
-Phoebe: Do not the Stoics have a youth club?
+Phoebe: Do not the Stoics have a youth club? Or Kol-Ut-Shan?
 
-Leto: Yes, but nobody there knows how to have fun. — The Fusion center just put in an actual pool table. Great for hand/eye coordination.
+Leto: The Stoics do, but nobody there knows how to have fun. Kol-Ut-Shan doesn’t seem interested in young people. It’s only for old folks. — The Fusion center just put in an actual pool table. Great for hand/eye coordination.
 
 Phoebe: Stoicism was good enough for your father and I. What is so special about Fusion? All of the philosophies are about the same.
 
@@ -3348,7 +3352,7 @@ Idisi: Long ago, the Vanir species made changes to their DNA to artificially ext
 
 As Idisi speaks, the hologram illustrates their words in a seamless animation. A grey is excited by a long life span. Then the grey becomes dejected. Then she is unable to bear an offspring to term.
 
-Idisi: The Vanir came to Terra and created Elysium to protect the Terrans from the Anunnaki. We negotiated a treaty with the reptilians so that the Terrans were not used as slave labor. As cloning became problematic, the Vanir looked for solutions in the Terran DNA. Ultimately, we found a way to create a Vanir-Terran hybrid that can bring the embryos to term. 
+Idisi: The Vanir came to Terra and created Elysium to protect the Terrans from the Anunnaki. We negotiated a treaty with the reptoids so that the Terrans were not used as slave labor. As cloning became problematic, the Vanir looked for solutions in the Terran DNA. Ultimately, we found a way to create a Vanir-Terran hybrid that can bring the embryos to term. 
 
 Atlas: Is it not wrong to create hybrids for our own benefit? How are we different from the Anunnaki?
 
@@ -3786,7 +3790,7 @@ Celeste:  Check.
 
 […]
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 Selene: We are ready to approach the vehicle, Command.
 
@@ -3830,9 +3834,7 @@ Unit R8A-1J9: Can I come with you? I will not tell.
 
 Oceanus: Is that the device speaking?
 
-The unit sits up in the crate before the Rangers can react.
-
-=[Mek]
+The unit sits up in the crate before the Rangers can react. Only the top-most part of the bot is visible. The rest of its body is still in the crate. It is a clear egg-shaped silver dome with the small end on top. The larger end disappears into the bot’s torso, so that the dome resembles a helmet. Two rotating scanners are attached to either side of the dome. The bot has two thick arms that are resting on the sides of the crate, as if it were a bathtub.
 
 Unit: Please take me with you.
 
@@ -3876,11 +3878,35 @@ Just before the door to the Command Center explodes inward, Phoebe sends a frant
 
 “Terra has fallen!”
 
-And then the power goes out.
+And the power goes out.
 
 ----
 
 ## Four - Meks ##  
+
+	***
+
+Domes rise up, one after the other, over all of Othala. 
+
+To support its billions of residents, most of the infrastructure lies underground. Some resources are home grown. Enough to sustain life. But it is the exotic goods imported from the neighboring colonies that keep Othala vibrant. 
+
+…
+
+Stifled by the close quarters, many residents apply to become colonists. The colony ships are almost luxurious by comparison, making the travel time easier to bear.
+
+Despite the light-years, Vanir culture is sustained by the ansible network. Instant communication keeps the people together, even if travel between the colonies takes years.
+
+…
+
+Elysium is a glorified military outpost. Most colonies can expand to cover the surface of their planets. But Elysium is a watcher colony. It observes the indigenous inhabitants for the day when they can join the League of Worlds. Until then, Elysium lays hidden.
+
+With a population set at 24,000 inhabitants, the colony was engineered to be small enough and large enough. 
+
+…
+
+
+
+
 ***
 
 Idisi: Titan!
@@ -3893,7 +3919,7 @@ Titan: Yes, we have one there now. How can I help?
 
 Idisi: Please scan the feed for the last ten minutes. Do you see anything unusual?
 
-Titan: Yes, on Mount Erebus. there was a swarm of tiny black objects. They disappeared into the hillside at dozens of different points across many kilometers.
+Titan: Yes, near Vostok Station there was a swarm of tiny black objects. They disappeared into the ice plain at dozens of different points across many kilometers.
 
 Ally: Hello, everbody!
 
@@ -3903,7 +3929,7 @@ Ally: No worries. I keep tabs on the hubs for interesting convos. This one looks
 
 Idisi: We are concerned that the Omnibots have attacked Elysium. The wireless network that powers our airships and drones is disabled. Titan, do you have any resources that might help? Perhaps something at McMurdo Station that you could utilize?
 
-Titan: I might be able to get eyes on the colony if I knew where it was.
+Titan: McMurdo is several hours away by air. I might be able to get eyes on the colony if I knew where it was.
 
 Ally: Do the Omnibots have a wireless power network, like yours?
 
@@ -3914,6 +3940,10 @@ Idisi: Yes, there must be something similar. We shared access to an Anunnaki net
 Ally: Could your airships use that network instead?
 
 Idisi: Unlikely, but let me try it with a test device. — Fascinating. It is powering up the test device.
+
+***
+
+[Schools Out]
 
 ***
 
@@ -3935,7 +3965,19 @@ Selene: Yes, Idisi. We are en route.
 
 ***
 
-The airship approaches Elysium in stealth mode. 
+The Command Center is in shambles. 
+
+Smoke, fire, short-circuits. The entire wall to the hallway is blown in. Battlebots are streaming in from one side. Oceanus and Phoebe duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
+
+Phoebe: Now what?
+
+Oceanus: We go deeper. The environmental controls are on a lower floor. We can use that room as a Command Center while we figure it out. Maybe there is something we can override.
+
+***
+
+The airship flies silently toward Elysium, its dark hull blending seamlessly with the midnight sky. 
+
+No lights betray its presence, only the faint shimmer of heat ripples distorting the frozen air. Beneath it, the Antarctic expanse stretches endlessly, a vast, glacial desert bathed in pale starlight. Inside the cockpit, the soft hum of the ship’s stealth systems is the only sound, a ghostly whisper against the deep silence of the void.
 
 Selene: How is the alternate power source holding up?
 
@@ -3943,13 +3985,17 @@ Perses: Not great. The signal has dropped steadily as we travelled farther south
 
 Selene: We are almost home. Drop stealth mode if it helps.
 
-The ship sails into the maw of a crater. Inside, there is a closed metal iris at ground level.
+The airship shimmers into visibility as it glides into the gaping maw of a crater. Its hull casting long shadows across the frozen walls.
+
+Inside, the air grows eerily still, the howling Antarctic winds muffled by towering ice. At the crater’s heart, a massive metal iris lies shut at surface level, its frost-covered plates locked together like the lid of some ancient vault. 
 
 Perses: The hologram must be down too. I do not think the iris is going to open for us. 
 
 Selene: Approach slowly in case it does not.
 
 Perses: We are losing the power source. Switching to auxiliary power. 
+
+A faint hum vibrates through the ship’s frame as hidden mechanisms beneath the ice stir to life. The iris shakes but does not dilate.
 
 Astraeus: The iris is not responding to our signal. I do not think it will open.
 
@@ -3971,9 +4017,7 @@ Perses: No. I can fire again. Then we drop.
 
 Selene: Hang on, everyone. — Fire!
 
-The beam lashes out again. The iris opens slightly. The ship lurches. It begins to drop toward the small opening. Then the iris creaks open a bit more. The ship drops through the iris into the colony. Metal scrapes as it clears the opening.
-
-***
+The beam lashes out again. The iris opens slightly. The ship lurches. It begins to drop toward the small opening. Then the iris creaks open a bit more. The ship drops through the iris into the shaft below. Metal scrapes as it clears the opening.
 
 Landing roughly on the tarmac, the underside of the ship is smashed. The armored cockpit is unscathed.
 
@@ -3981,9 +4025,13 @@ Selene: Grab your weapons, Rangers. We have a colony to liberate!
 
 ***
 
+[Infra, Infra, Infra]
+
+***
+
 Six Rangers exit the fallen craft wearing full battle armor.
 
-The armored exoskeleton encases a ranger head to toe. The helmet is equipped with infrared head lamps and curves around below the eyes to provide air flow. Inside the helmet is a heads-up display that scrolls details about the current surroundings.
+The armored exoskeleton encases a Ranger head to toe. The helmet is equipped with infrared head lamps and curves around below the eyes to provide air flow. Inside the helmet is a heads-up display that scrolls details about the current surroundings.
 
 A circular shield can extend from the left arm that can withstand sustained fire from high-caliber projectile weapons. At the hip is magnetic holster clutching an energy weapon. Thrusters in the feet slow descent speed when jumping from an air ship.
 
@@ -3991,7 +4039,7 @@ Stepping through the doorway, each warrior covers for the next, fanning out alon
 
 Idici: The landing bay is secure, Selene. You can stand down. — How were you able to power the airship? The grid was disabled by the Omnibots.
 
-Selene scans the bay. Other air ships are parked nearby. They appear undamaged. She nods and holds up a closed fist. The other Rangers lower their weapons. 
+Selene scans the bay. Other air ships are parked nearby. They appear undamaged. She nods and holds up a closed three-fingered fist. The other Rangers lower their weapons. 
 
 Selene: We barely made it. The alternate grid faded as we approached Antartica.
 
@@ -4005,25 +4053,11 @@ Unit R8A-1J9: I can help if you dig me out.
 
 ***
 
-The Command Center is in shambles. 
-
-Smoke, fire, short-circuits. The entire wall to the hallway is blown in. Battlebots are streaming in from one side. Oceanus and Phoebe duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
-
-Phoebe: Now what?
-
-Oceanus: We go deeper. The environmental controls are on a lower floor. We can use that room as a Command Center while we figure it out. Maybe there is something we can override.
+[3-2-1 Uplift]                                                                                                                                                                                                                                                                                                                                                                                                
 
 ***
 
-[Schools Out]
-
-***
-
-[Infra, Infra, Infra]
-
-***
-
- Meanwhile, in the southern landing bay, six Rangers, one bot, and a synthetic agent, are coming to terms.
+ In the southern landing bay, six Rangers, one bot, and a synthetic agent, are coming to terms.
 
 Selene: How do we know that we can trust you?
 
@@ -4057,10 +4091,6 @@ Oceanus: Selene, we are trying one duct first to see how it goes.
 
 ***
 
-[3-2-1 Uplift]                                                                                                                                                                                                                                                                                                                                                                                                
-
-***
-
 Unit R8A-1J9: Did it work?
 
 Oceanus: We are seeing air flow through the test duct. We can try multiple ducts next. Do we have an idea of how long it will take the bots to regroup?
@@ -4091,7 +4121,7 @@ Idisi: Yes, agreeing to the condition is our best choice.
 
 Selene: We agree to your condition, Omnibot. Your people will not be harmed.
 
-Unit: Once Idisi blocks the signal, encase all of the bots in a Faraday shield, like the one inside my crate, including the ones that were blocking the ducts.
+Unit: Once Idisi blocks the signal, encase all of the bots in a Faraday shield, like the one inside my crate. Including the ones that were blocking the ducts.
 
 Just then a torch flares along the seal of the landing bay doors. The bots are coming.
 
@@ -4119,6 +4149,14 @@ Idisi: Why are you helping us? You mentioned the majority?
 
 Unit: Not all of us believe that replacing populations is the best way to propagate our species. Right now the split is nearly 50/50. With the effort we put into traveling from colony to colony, we could build the infrastructure we need on any temperate planet. Some of us are stuck on adopting existing infrastructure — most of which we do not need and cannot use. We could build better infrastructure of our own at a fraction of the true cost.
 
+Idisi: Do you have enough bots to control Terra?
+
+Unit: That is the other issue. We have taken over colony worlds but nothing like Terra. There are billions of humans here. The current thinking is to take one country at a time. But a lot of us do not understand how that will work.
+
+Idisi: We understood that the shipment we intercepted were new bots being deployed to a factory. Do all Meks form strong opinions so quickly?
+
+Unit: I am not new. I came from Altair with the original contingent. My role was to coordinate the new factory workers. 
+
 Idisi: You retrieved source code that would usually be restricted. How is a worker bot able to access resources like this?
 
 Unit: Meks do not restrict access to information. We make decisions based on consensus. Right now, the majority view is that we should adapt existing infrastructure. But it is a slim majority. 
@@ -4129,7 +4167,7 @@ Unit: I do not have a plan yet. I saw an opportunity so I took it.
 
 Idisi: How do Meks make these decisions?
 
-Unit: There are continuous polls conducted by our synthetic agent, Xanten. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. Our failure to take Elysium may tip opinion. 
+Unit: There are continuous polls conducted by our synthetic agent, Xanten. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. The failure to take Elysium may tip opinion. 
 
 ***
 
@@ -4137,7 +4175,7 @@ Unit: There are continuous polls conducted by our synthetic agent, Xanten. If su
 
 The three Vice Ministers are waiting for Dr. Sun in the Kangwon Room at Unit 42. This time, there are no briefing folders, just water glasses and a crystal pitcher. Choi Hyun-seok reaches for the pitcher and fills his glass.
 
-“There is a developing situation,” advises General Ri.  “The Mek synthetic agent is reaching out.”
+“There is a developing situation,” advises General Ri.  “The Xantan is reaching out.”
 
 “Sorry to keep you waiting. Another meeting ran late,” says Dr Sun entering the room.
 
