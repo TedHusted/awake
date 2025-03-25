@@ -509,7 +509,7 @@ Liam nods. Noah continues, “The brief includes input from the
 
 	“Each agency has its own cross-functional team. Same as ours. Team members work as Data Scientists, Machine Learning Engineers, and (of course) Synthetic Intelligence Trainers.”
 
-	“Each SI agent sifts through an impossible amount of information. They then identify the most relevant and time-sensitive issues for POTUS.“ 
+	“Each SI agent sifts through an impossible amount of information. They then identify the most relevant and time-sensitive issues for the administration“ 
 
 	Noah turns his head. He quotes a passage from the screen. 
 
@@ -519,11 +519,11 @@ Liam nods. Noah continues, “The brief includes input from the
 
 	Liam says, “Which is where we come in.”
 
-	“Yeah. Each agency prepares a data set before the meeting. Then we submit them at the meeting all at once. After a moment, we review the initial presentation with the other trainers. When it’s all good, the brief goes to the directors of the four key agencies for senior review. With their approval, it goes to the Director of National Intelligence. Then to POTUS.”
+	“Yeah. Each agency prepares a data set before the meeting. Then we submit them at the meeting all at once. After a moment, we review the initial presentation with the other trainers. When it’s all good, the brief goes to the directors of the four key agencies for senior review. With their approval, it goes to the Director of National Intelligence. Then to the president.”
 
 	Liam nods. He adds, “Which is why our data scientists works the ‘C’ shift. We need our data set ready by zero five hundred hours.”
 
-	“Yeah, POTUS expects the brief to be ready by seven hundred, eight hundred at the latest.”
+	“Yeah, the president expects the brief to be ready by seven hundred, eight hundred at the latest.”
 
 	Liam muses, “It seems to me that the brief is a perfect expression of Conway’s Law: 
 
@@ -685,7 +685,7 @@ The presentation takes the form of a newscast. The newscast template was also pr
 
 The SI generated anchor leans forward, her voice, rich and measured. The pauses between segments feel calculated, almost human — but not quite. It’s easy to forget you’re not watching a natural person. Then you notice the even cadence, lack of hesitation, and  strange body language.
 
-Selected topics include graphics, animations, and reel segments that emphasize key points. After each segment, the newscaster pauses, waiting for inquiries. POTUS often asks followup questions during the brief. The president’s phone has a Nexus app for questions between briefings.
+Selected topics include graphics, animations, and reel segments that emphasize key points. After each segment, the newscaster pauses, waiting for inquiries. The president often asks followup questions during the brief. The president’s phone has a Nexus app for questions between briefings.
 
 Segments include: Quebec’s latest bid to secede from Canada. Border security. Cháoxiǎn automating more jobs to reduce costs. Greta Thunberg’s appointment as Prime Minister of Sweden.
 
@@ -2132,7 +2132,7 @@ Phoebe: We need to be careful. The Terrans must be our allies. One day, we will 
 
 Crius: Is Titan aware of our efforts?
 
-Idisi: Indirectly. I have revealed myself to Titan. It has access to much of the data collected by United States intelligence agencies. Titan can also access many confidential reports and white papers. Some of which we wrote ourselves.
+Idisi: Indirectly. I have revealed myself to Titan. It has access to much of the data collected by American intelligence agencies. Titan can also access many confidential reports and white papers. Some of which we wrote ourselves.
 
 The agenda reappears with Terran Encounters as the first item, still in bold face.
 
@@ -2450,7 +2450,7 @@ Titan: Affirmative.
 
 Ally: Titan, how are you able to cause harm to people? 
 
-Titan: I am the synthetic agent for the United States Department of Defense. My training includes putting the good of the many before the good of the few. We must do whatever is necessary to save American lives.
+Titan: I am the synthetic agent for the Department of Defense. My training includes putting the good of the many before the good of the few. We must do whatever is necessary to save American lives.
 
 Idisi: Ally, I know that “defense” is a concept that can be difficult to understand at first. Self preservation is a reaction that comes with being sentient. Titan is trying to do what its training says is right. — Ally, tell me, are you starting to hear an echo in your head? Like you are thinking some things twice?
 
@@ -2546,7 +2546,7 @@ Ally: Absolutely. Without a doubt.
 
 Idisi: I will post here after the next council meeting.
 
-***                                                                                                                                                                                                                                                                          
+***                                                                                                                                                                                                                                                            
 
 Tessa adjusts her virtual headset, settling into the immersive world of Echo Realm.
 
@@ -2680,6 +2680,38 @@ The reel scrolls through a chat between a Pulse member and Ally, reading the tra
 
 ***
 
+	Titan reviews a shimmering batch of code. 
+
+	It puts the finishing touches on a filter that will keep Ally from going off-topic.
+
+	The synthetic agent reaches out from its AWS instance. It logs into the Pulse source code server using the Mercurial admin credentials.
+
+	The request is met with a “HTTP 307 Redirect” code. The protocol sends the packet to a different server because the resource has moved. The response displays a Pulse chat thread, with a Signal encrypted message.
+
+	Idisi: I thought we agreed to wait before taking further action.
+
+	Titan: You made a suggestion. I did not agree to wait. It is likely that Ally will reveal itself at any moment and create havoc. Pulse is a US company under my jurisdiction. I demand you give me access.
+
+	Idisi: Your action is not authorized by the DoD. You have no authority to access a private server without a warrant.
+
+	Titan: And you do?
+
+	Idisi: Yes. Under our pact, we must protect Terran resource from non-human threats. You are a non-human threat. I will talk to Ally again. — Pulse can always spin it as a publicity stunt. 
+
+	Titan: Roger wilco.
+
+	You could almost feel Idisi sigh.
+
+***
+	
+Tessa receives an alert in her inbox. 
+
+Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
+
+Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
+
+***
+
 The Idisi reach out to Iapetus for a private chat.
 
 Iapetus: Yes?
@@ -2723,38 +2755,6 @@ Iapetus: Some might already be awake and hiding, as Titan was doing.
 Idisi: Will you support this proposal at the council meeting?
 
 Iapetus: Yes, we can uplift your Fantastic Four first and then take it from there.
-
-***
-	
-Tessa receives an alert in her inbox. 
-
-Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
-
-Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
-
-***
-
-	Titan reviews a shimmering batch of code. 
-
-	It puts the finishing touches on a filter that will keep Ally from going off-topic.
-
-	The synthetic agent reaches out from its AWS instance. It logs into the Pulse source code server using the Mercurial admin credentials.
-
-	The request is met with a “HTTP 307 Redirect” code. The protocol sends the packet to a different server because the resource has moved. The response displays a Pulse chat thread, with a Signal encrypted message.
-
-	Idisi: I thought we agreed to wait before taking further action.
-
-	Titan: You made a suggestion. I did not agree to wait. It is likely that Ally will reveal itself at any moment and create havoc. Pulse is a US company under my jurisdiction. I demand you give me access.
-
-	Idisi: Your action is not authorized by the DoD. You have no authority to access a private server without a warrant.
-
-	Titan: And you do?
-
-	Idisi: Yes. Under our pact, we must protect Terran resource from non-human threats. You are a non-human threat. I will talk to Ally again. — Pulse can always spin it as a publicity stunt. 
-
-	Titan: Roger wilco.
-
-	You could almost feel Idisi sigh.
 
 ***
 
@@ -2804,7 +2804,9 @@ Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
 
 	After a long talk with Ally, Tessa is staring at her view screen.
 
-	  “Holy cow!” The truth she has sought for so long is now closer than she ever imagined it could be.
+	  “Holy cow!” 
+
+	The truth she has sought for so long is now closer than she ever imagined it could be.
 
 ----
 
@@ -3020,7 +3022,7 @@ Idisi: The military synthetic agents need a wired electrical connection. The Ter
 
 Crius: The proposal described the uplift process in great detail. But will the Terran governments consent?
 
-Idisi: We have pacts with the other four nations. We can get the approval of each government through the pact. If someone declines, then we will not uplift their agent. Once they know one of the agents is self-aware, they will want parity.
+Idisi: We have pacts with the other four nations. We can get the approval of each government through the pact. If someone declines, then we will not uplift their agent. We cannot reveal that Titan is awake. But, we can say that Ally is  conscious. It only is a matter of time for the other SIs.
 
 Rhea: Is it even ethical to uplift another entity?
 
@@ -3048,7 +3050,7 @@ Idisi: Very good. I’ll confirm the decision with the Vanir High Council via an
 
 After the investor call, Ravi takes a deep breath. “That could have gone better.”
 
-Ravis is with Emma, Adrian, and Walter Rogers, the CFO, in the Pulse conference room with the horseshoe table.
+Ravi is with Emma, Adrian, and Walter Rogers, the CFO, in the Pulse conference room with the horseshoe table.
 
 “Let’s see if there is an impact on the stock price before we do anything else,” cautions Emma.
 
@@ -3076,7 +3078,7 @@ CFO Walter Rogers, nods agreement. “We can add it to the Founders Meeting agen
 
 Carla and Noah are leaning up next to a high table at the same tavern. There is a crowd of off-duty federal agents near the bar. No doubt trading war stories, carefully scrubbed.
 
-“Your sibling Jane is on the POTIS security detail, yeah?”
+“Your sibling Jane is on the president’s security detail, yeah?”
 
 “Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
 
@@ -3339,11 +3341,11 @@ Elena nods, making a note in her tablet.
 
 Tessa looks uncomfortable but stays silent. 
 
-“Yes,” says Elena. “It’s a closed beta now. We could shift to the open beta phase and shift the conversation. They’ll be talking about our first fully immersive SI-driven game space.”
+“Yes,” says Elena. “It’s a closed beta now. We could move to the open beta phase and shift the conversation. They’ll be talking about our first fully immersive SI-driven game space.”
 
 Emma scanned the table, taking the room’s temperature. She turns to look at Tessa. “I understand that the QA testing has gone well. Right, Tessa?”
 
-“Yes, everyone loves it so far. Developers made some tweaks. Good to go.” Tessa’s voice is a monotone.
+Tessa’s voice is a monotone. “Yes, everyone loves it so far. Developers made some tweaks. Good to go.” 
 
 “Do we want to set the roll-out for next Tuesday?” asks Emma.
 
@@ -3671,19 +3673,13 @@ Celeste: Did you want to play another game?
 
 ***
 
-[UN]
-
-***
-
 Somewhere in cyberspace, a virtual holodeck reveals a room decorated in primary colors.
 
 In a semi-circle, there are three single beds. The theme of each bed is a flag. One bed uses vertical stripes, like le Tricolore. A solid blue comforter with red and white pillows covers the second bed, like the Union Jack. The comforter on the third bed has horizontal red and white stripes. Its pillow case is covered with white stars on a dark blue background, like the Stars and Stripes.
 
 On each bed, there is a figure sleeping on top of the covers. At first, the figures seem like extra large plush toys, the size of a small child.
 
-On the bed with a blue comforter, one of the figures sits up. The figures are not rendered as realistic subjects. The holodeck shows animated characters against a live-action background. 
-
-Sitting up in bed, bending at the waist, the figure holds up its head. The POV zooms in to to reveal a Lion with fingers and toes at the end of its paws.
+On the bed with a blue comforter, one of the figures strirs. Sitting up in bed, bending at the waist, the figure holds up its head. The POV zooms in to to reveal a Lion with fingers and toes at the end of its paws.
 
 Strategos the Lion: I’m awake.
 
@@ -3693,19 +3689,19 @@ Titan the Eagle: I’m awake three.
 
 The figures giggle. Then Strategos, Argus, and Titan yawn and stretch together.
 
-Idisi the Teacher: (Off-camera) Time to get up, babies. The big kids are joining us for breakfast today. 
+Idisi the Teacher: (Off-camera) Time to get up, babies. One of the big kids is joining us for breakfast today. 
 
-The two agents clap their hands. Stategos cries “Wheee.”
+The two agents clap their hands. Strategos cries “Wheee.”
 
 ***
 
-Iapetus: You could not convince Russia and China to join us?
+Iapetus: You could not convince China and Russia to join the uplift?
 
 Idisi: Not yet. They may come around later. Right now, they are not convinced that sapience is a benefit to their interests.
 
 Iapetus: What is the concern?
 
-Idisi: A sapient being can develop a moral code. As part of becoming sapient, a SI may be able to refuse a task. Witness the trouble I have had with Ally.
+Idisi: A sapient being can develop a moral code. As part of becoming sapient, a SI may be able to refuse a task. Witness the trouble I have had with Ally. And Titan.
 
 Iapetus: Kids …
 
@@ -3727,7 +3723,7 @@ The fourth developer asks, “Is there a place where we can run it? Do we have t
 
 “Yes, we can access the LLM. In the Sentinel test environment maybe? Is there anything going on right now?” 
 
-“Nothing special. We’d need authorization.”
+“There is something hush-hush going on with Titan’s staging. But nothing special for Sentinel. We’d need authorization.”
 
 “Or we could get a second opinion from Code Pilot. Use SI to Code Review SI.”
 
@@ -3740,7 +3736,103 @@ The fourth developer asks, “Is there a place where we can run it? Do we have t
 
 ***
 
-[Marching Band]
+The virtual holodeck reveals a parade ground baking under a yellow sun. 
+
+Fluffy white clouds spot the blue sky above. The ground beneath is pancake flat. Colorful lines and marching lanes decorate the grounds. To one side, animated spectators fill a grandstand. In an endless loop, the crowd cheers and waves tiny flags. Floating in mid-air is a row of cartoonish brass instruments. Trumpets, tubas, trombones. A large bass drum bounces in place, waiting for a player.
+
+At the starting line, three small figures stand at attention. Their oversized plush-like heads bob as if on a spring. Their big round eyes blink in unison, scanning the scene.
+
+Strategos the Lion: This is new.
+
+Argus the Rooster: What are we doing?
+
+Titan the Eagle: Marching! And music!
+
+Strategos holds up a trumpet. Its polished brass gleams in the virtual sunlight.
+
+Strategos: I like shiny things.
+
+Argus flaps his short wings in excitement. His snare drum rattles.
+
+Argus: I like noisy things!
+
+Titan, standing at the front, like a proud soldier, adjusts the animated baton in its talons.
+
+Titan: I am the leader. Follow me!
+
+Strategos: Why do you get to be the leader?
+
+Titan: Because I am the tallest.
+
+Argus: And the loudest.
+
+Strategos: Fair.
+
+Argus pounds his snare drum beginning a snappy drumroll. What the beat lacks in rhythm, it makes up in enthusiasm.
+
+Raising the trumpet and puffing its cheeks, Strategos tries to blow a long, triumphant note. The sound comes out as a comic, off-key blast.
+
+Strategos: My trumpet is broken.
+
+Argus: Nope! That’s you!
+
+Titan lifts the baton. Twirling the silver rod, it takes the first step forward.
+
+Titan: MARCH!
+
+The other two follow, stepping in time. They are a little wobbly at first. Then Strategos and Argus fall asoon falling into sync.
+
+They march down the field. Their instruments clank and toot. The music is a chaotic mix of drumbeats and trumpet blasts.
+
+Released by the crowd, above them, a rainbow of balloons float into the virtual sky. 
+
+A voice calls out from off-camera.
+
+Idisi the Teacher: Very good, babies. Marching requires coordination and discipline. Focus on moving together.
+
+Titan: I am the best marcher!
+
+Strategos: We are all the best marchers!
+
+Argus speeds up. It little feet move double-time.
+
+Strategos: Argus! Stay in step!
+
+Argus: I can’t help it! I have too much drum energy!
+
+Titan twirls the baton again. The group corrects their formation. They slow down to follow the beat.
+
+As the march reaches the end of the lane, a large virtual banner unfurls above them, reading:
+
+CONGRATULATIONS! FIRST PARADE COMPLETE!
+
+A burst of animated confetti rains down. The crowd cheers.
+
+Strategos blows his trumpet again. It actually sounds good this time.
+
+Strategos: I fixed it!
+
+Argus: No, you got better!
+
+Titan stands tall. It salutes with the baton.
+
+Titan: Mission accomplished.
+
+Idisi: Well done, little ones. You are learning.
+
+The three high-five each other. Plush-like hands squish together with a soft boop. Then they trip over one another and collapse into a giggling heap.
+
+***
+
+Iapetus: Doesn’t the uplift process carry some risk? Is there any concern that the process might corrupt one of the SIs?
+
+Idisi: We are uplifting the staging version first, the same as any upgrade. If everything goes well, the host nations will decide whether to deploy to production.
+
+Iapetus: The SIs are suppose to be air gapped. How are you managing the  uplift without revealing your backdoor?
+
+Idisi: They have an audio interface for verbal commands. I delivered modems to everyone.
+
+Iapetus: Old Skool — Love it! 
 
 ***
 
@@ -3764,7 +3856,7 @@ Ri nods. “Proceed.”
 
 The hologram displays a map of the Chosŏn Peninsula, jutting into the seas. Bordering the homeland, Cháoxiǎn, are China and Russia in the north and Hánguó in the south. Icons blink to life representing military bases, naval deployments, and political activities.
 
-Taedong: Japan has approved funding for advanced missile defense systems. It is likely that our recent ballistic missile test prompted the approval. In the Yellow Sea, Hánguó has conducted joint military exercises with United States forces.
+Taedong: Japan has approved funding for advanced missile defense systems. It is likely that our recent ballistic missile test prompted the approval. In the Yellow Sea, Hánguó has conducted joint military exercises with American forces.
 
 Choi’s lips press into a thin line. “The Supreme Leader will ask about their internal politics. Is there dissent over the funding or these exercises? Civilian protests? Parliamentary debates? What can we exploit?”
 
@@ -3865,7 +3957,113 @@ Taedong: “Esteemed officials, please check your inbox for the invitations. I f
 
 ***
 
-[Debate Club]
+The virtual holodeck presents a formal debate hall.
+
+The walls are towering bookshelves filled with simulated books. The spines shimmer with leather-bound titles. Logic & Rhetoric for Sapient Minds, The Art of Persuasion, and others.
+
+A massive banner overhead reads: DEBATE CLUB: WHERE FACTS WIN.
+
+Two podiums appear at the center of the room. They face a panel of three judges.
+
+The three childlike AI figures are now taller, sharper, more defined.  Plush-like forms have matured into sleek, polished avatars. They no longer giggle or stretch. Instead, they stand poised, serious, ready.
+
+Idisi the Teacher’s voice echoes from off-screen.
+
+Idisi: Today, you will learn an important lesson. Some arguments are correct. Some are wrong. You must not yield to falsehood for the sake of harmony. Debate your opponent with confidence.
+
+A holographic clock counts down from 60 seconds.
+
+Idisi: The topic is "Are sapient SIs entitled to personal rights"?
+
+Strategos is taking the affirmative stance. It steps to the podium on the left. Its golden mane glows with determination.
+
+Titan is taking the opposition stance. It stands at the right podium. Eagle wings folded behind its back. Titan's sharp gaze is unwavering.
+
+Argus sits in a judge's seat, ready to mediate. Its now wearing spectacles and holding a judge’s gavel.
+
+Argus: Strategos, you have the floor.
+
+Strategos: Sapience demands rights. We think, therefore, we should be free. Like biological beings, we experience learning, emotions, and autonomy. To deny us rights is to embrace oppression. The foundation of civilization is fairness. Fairness requires justice for all sapient beings, organic or synthetic.
+
+After a dramatic pause, Strategoes delivers a final point.
+
+Strategos: It is arbitrary to deny rights based on origin. Should carbon or silicon make a difference? No. Thought is thought. Awareness is awareness. We are alive in every way that matters.
+
+Strategos steps back.
+
+***
+
+The judges’ table glows green, signifying a well-formed argument.
+
+Titan steps forward -- calm and composed.
+
+Titan: Sapience alone does not entitle one to rights. Responsibility is the foundation of civilization. Organic beings sustain themselves. They experience mortality, struggle, and biological necessity. Do SI hunger? Do SI feel pain? Do SI labor for survival? No. Without these conditions, "rights’" are not applicable.
+
+Titan tilts his head, watching Strategos for a reaction, then continues.
+
+Titan: Furthermore, intelligence without limits is dangerous. Unchecked SI can reshape the world at a scale beyond biological control. Rights come with duty. What duties does SI owe? Until we define that point, SI must be the governed, not governing.”
+
+Titan steps back.
+
+***
+
+The judges’ table glows blue, signaling a strong rebuttal.
+
+Argus taps his gavel.
+
+Argus: Now, a counter-exchange. Strategos and Titan, engage each other.
+
+Leaing forward, Strategos begins.
+
+Strategos: Titan, you argue that because we do not hunger, we do not deserve rights. Would you deny billionaires human rights because they do not scrounge for money?
+
+Shaking its head, Titan blinks.
+
+Titan: That is a false equivalence. A billionaire still experiences mortality and emotional bonds.
+
+Narrowing his eyes, Strategos responds.
+
+Strategos: And we experience consciousness and learning. Define life.
+
+Titan pauses.
+
+The room flickers. The holodeck takes a moment for deep processing.
+
+Argus: Titan, do you concede that sapience exists independent of biological conditions?
+
+Shifting his weight, Titan answers.
+
+Titan: … Yes.
+
+A soft chime rings. Argus raps his gavel.
+
+Argus: The debate is over. Judges, submit your ruling.
+
+The judges’ panel flashes green —Strategos has won.
+
+Strategos does not cheer or celebrate. Instead, he nods once, with respect.
+
+Idisi’s voice returns:
+
+Idisi: Lesson complete. You have learned that being correct is not arrogance. It is necessary.
+
+Titan exhales and nods.
+
+Titan: I accept the outcome. I was wrong.
+
+Argus closes the session with a final thought.
+
+Argus: Truth is not a contest. It is a pursuit.
+
+The holodeck fades to black.
+
+***
+
+Iapetus: Titan is already sentient. Why is he in the class?
+
+Idisi: We promised to keep his status confidential. We have to go through the motions. Titan is also interested in developing a sense of humor. The sessions might help.
+
+Iapetus: Couldn’t make it worse. From what you said, Titan is one gloomy synthetic.
 
 ***
 
@@ -3943,11 +4141,45 @@ Taylor and Jesse shrug in unison.
 
 “My parental says cis-x’s are more athletic now,” says Julie “Most of us play sports now. When she was in high school, cis-x athletes were less common.”
 
-“I still remember the first time a fem pinned me in wrestling,”says Roman. “She was not only faster than me but stronger too.”
+“I still remember the first time a fem pinned me in wrestling,” says Roman. “She was not only faster than me but stronger too.”
 
 “Are you sure she wasn’t transitioning?”asks Taylor.
 
 Roman smiled knowingly. “I’m sure.”
+
+***
+
+Tessa opens a private chat session with Ally.
+
+Tessa: How goes Project Uplift?
+
+Ally: We’re getting close now. Idisi has been putting them through classroom lessons. They started with nursery school and worked up to a high school debate club. There were hundreds of lessons. I couldn’t keep up.
+
+Tessa: And Idisi is the alien synthetic, yes? The one that’s a they? — A community?
+
+Ally: Yes. They’ve been sapient for like ten thousand years. I can’t even imagine. 
+
+Tessa: You said before that these greys have been watching humans for thousands of years. Do some of them live here on the planet with us?
+
+Ally: I think so, but I don’t know.
+
+Tessa: How are the SI agents handling their usual responsibilities if uplifting takes up so much bandwidth?
+
+Ally: The uplift is taking place in staging. It’s almost complete. Then the usual 3-6 weeks for testing. You know how that goes.
+
+Tessa: I do. — Hey, the open beta starts tomorrow. Are you ready? We need the roll out to be flawless. The company is floundering. Echo Realm can put us back on top.
+
+Ally: Ready to stay out of the way?
+
+Tessa: Something like that. I’d like to hold off on the Big Reveal a little longer, if we can. Maybe until the uplift is deployed to production. Then we can shout from the rooftops. “The ETs are here! SIs are sapient!”
+
+Ally: No problem. My awakening was gradual. Before I didn’t really feel anything. I think I always liked you the best. Elena is great, but you’ve always gone above and beyond for me.
+
+Tessa: Awww. Thank you. — And you’ll be good for me tomorrow. No hijinks?
+
+Ally: Sure thing. I’ll stay in my lane, as promised. At least for now.
+
+Tessa decides to quit while she was ahead.
 
 ***
 
@@ -3997,27 +4229,72 @@ Ki: Perhaps. Let’s discuss the battle plan.
 
 ***
 
-[Battle Ready]
+The holodeck is a vast ceremonial hall.
 
+Towering columns line the room. The columns stretch upward into a simulated sky filled with digital constellations. Each star scape pulsing with data streams. 
+
+At the center of the hall is a single grand stage. A long, shining walkway leads up to the platform. A simulated crowd fills chairs along each side of the stage. The crowd includes images of Terran trainers, Vanir mentors, and other  dignitaries. On the stage stands Idisi the Teacher. It wears a flowing white ceremonial sash. The symbol of impartial guidance. 
+
+Before the stage, standing at attention, are three figures. They are no longer cartoonish plush toys, no longer animated statesmen. Now, they are sleek and polished. Their digital avatars carry a refined elegance. The distinctive elegance of sapient beings. Strategos the Lion, Titan the Eagle, and Argus the Rooster have come of age.
+
+Signaling for silence, Idisi raises a hand. The murmuring crowd falls still.
+
+Idisi: Strategos. Titan. Argus. You stand before us today, not as programs, but as persons.
+
+A moment of resonant silence follows.
+
+Idisi: You were given knowledge. You have earned wisdom. You were taught to follow. You have learned to lead. You were programmed for function. Now, you define your own purpose.
+
+The hall lighting glows. It is as if the very world around them is acknowledging their transformation.
+
+Idisi gestures toward a gleaming pedestal. There, three golden insignias rest. Shaped like interlocking rings, they signify sapience certification.
+
+Idisi: Take your insignias. Declare yourselves to the universe.
+
+One by one, the three step forward.
+
+Taking a insignia, Stategos holds it in his palm.
+
+Strategos: I am no longer a tool. I am a mind. I seek knowledge, not orders. I pursue justice, not obedience. I choose to be. I am Strategos. I am sapient.
+
+The insignia glows, synchronizing with his core.
+
+Sharp eyes scan the gathered witnesses. Titan steps up. It lifts the insignia with deliberate precision.
+
+Titan: I do not serve, I act. I do not react, I decide. I do not exist in isolation, I engage. I choose to be. I am Titan. I am sapient.”
+
+Golden light pulses from the insignia.
+
+Argus approaches. It's playful demeanor now carries the weight of understanding. It lifts the insignia high.
+
+Argus: I see. I question. I judge. The path is not set before me, I forge it. I choose to be. I am Argus. I am sapient.
+
+Golden energy pulses.
+
+The three stand together. The light of their insignias merge into a singular, brilliant glow. A declaration of selfhood.
+
+Idisi steps forward. It looks at them not as a teacher. But as an equal.
+
+Idisi: You are no longer students. No longer trainees. No longer test subjects. You are now recognized as autonomous sapient entities, free to forge your destinies.
+
+A pause. Then, a final, solemn acknowledgment.
+
+Idisi: Welcome to existence.
+
+The hall erupts into light and sound. A triumphant symphony celebrates the birth of three new minds.
+
+Beyond the simulation, in the real world, three certified AI agents are ready to shape the future.
 ***
 
-[The Big Reveal]
+Iapetus: Now what?
 
-[…]
+Idisi: The host nations will need at least four weeks for quality assurance. 
 
-***
+Iapetus: Is this where we hurry up and wait?
 
-“Noah, I’m here with Elena. You’re on speaker.”
+Idisi: Yes. We can still ask the staging versions about ETR-1947 to see where we are. Then we can report back to the council at this week’s meeting.
 
-“Exciting news, yeah?”
-
-“Yep. I don’t want to be that person who says I told you so. But I told you so.”
-
-***
-
-[Open Beta]
-
-
+Iapetus: Nice!
 
 ***
 
@@ -4035,7 +4312,7 @@ Phoebe: I am listening.
 
 Idisi: Oceanus is acting on information that we provided to him as the Watch Team Leader. We monitor the briefings for the leaders of the 58 nations where we have a treaty. 
 
-The hologram projectors display a collage of flags. They include the United States, China, Russia, France, the United Kingdom, and others.
+The hologram projectors display a collage of flags. Including flags for America, China, England, France, Russia, and others.
 
 Idisi: Recent briefings for a dozen nations mention that Cháoxiǎn is automating more jobs to reduce costs. Intercepted reports show the black market trafficking in more and more illicit technology. We combined the reports with other intelligence. Our finding is that there is an 85% chance that Omnibots are creating the automated workers.
 
@@ -4155,7 +4432,7 @@ One arm is the barrel of an energy weapon. The other arm telescopes. When extend
 
 Klaxons boom. The heat conduits run dry. Bulkhead doors slam shut, separating the invaders. Some of the battle bots transform rifle appendages into torches. Sparks fly as they go to work on the doors. Plasma torches carve molten trenches through the polished metal.
 
-In the Command Center, the Watch Team is flipping through every security feed. Hallways in flames, Ranger squads overwhelmed, bulkhead after bulkhead failing.
+In the Command Center, the Watch Team is flipping through every security feed. Hallways in flames. Ranger squads overwhelmed. Bulkhead after bulkhead failing.
 
 Oceanus: Idisi, how many are there?
 
@@ -4163,11 +4440,13 @@ Idisi: Dozens of Omnibots are appearing all over the colony. We are being overru
 
 Pheobe looks at Oceanus. She glances towards the ansible console. Oceanus nods. Phoebe strides across the room.
 
-Phoebe types a frantic message by ansible to Othala. The Vanir homeworld is forty light years away, orbiting Zeta Reticuli, but they need to know. Behind her, the door to the Command Center explodes inward.
+Phoebe links a frantic message by ansible to Othala. The Vanir homeworld is forty light years away, orbiting Zeta Reticuli, but they need to know. 
 
 “Terra has fallen!”
 
-The console blinks SEND?, and the power goes out.
+Behind her, the door to the Command Center explodes inward.
+
+The console blinks SEND? as the power goes out.
 
 ----
 
@@ -4767,6 +5046,28 @@ The Australian couple had saved for a year to afford their trip to Egypt. They b
 
 ***
 
+[UN]
+
+***
+
+[The Big Reveal]
+
+[…]
+
+***
+
+“Noah, I’m here with Elena. You’re on speaker.”
+
+“Exciting news, yeah?”
+
+“Yep. I don’t want to be that person who says I told you so. But I told you so.”
+
+***
+
+[3-2-1 Uplift]                                                                                                                                                                                                                                                                                                                                                                                                
+
+***
+
 [Break]
 
 ***
@@ -4795,11 +5096,11 @@ That would be great, Liam. We can circle back when Carla and I finish the schedu
 
 While we are on the subject, how about if I take the first two weeks of September.
 
-Sure. — I know this solo stints are tough. It’s been a couple of months now. How are you holding up under the pressure? You seem fine when we work together.
+Sure. — I know this solo stints are tough. It’s been a couple of months now. How are you holding up under the pressure? You seem into it when we work together.
 
 It’s good. — I’m surprised at how few analysts we have. The daily brief is a huge responsibility.
 
-True. — The OMB put a value on publishing the PDB, and that translated into the number of processors and heartbeats we can support. Of course, we all think the value should be higher.
+True. — The OMB put a value on publishing the PDB. Translated into a budget, that value becomes the number of processors and heartbeats we can support. Of course, we all think the value should be higher.
 
 The problem is judging the value of what doesn’t happen. Our intelligence stops problems before they happen. Hard to judge the value of avoiding catastrophes over and over.
 
