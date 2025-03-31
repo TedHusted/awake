@@ -4343,45 +4343,55 @@ Iapetus: Nice!
 
 ***
 
-Phoebe: OK, we are in the Command Center now, Oceanus. 
+Phoebe:  Alright, we are in the Command Center. What is so urgent, Oceanus?
 
-The Command Center is spartan, even by Elysium standards. A hologram display covers one wall at the far end. It sports five projectors and an ansible device. Another smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are a plain, institutional violet, like most of the outpost. There are no decorations.
+The Command Center is spartan, even by Elysium standards. A hologram display covers one wall at the far end. It sports five projectors and an ansible device. A smaller three-dimensional hologram display hangs over the center of the table. Clocks showing the time on major colonies align the left and right sides of the room. The walls are an institutional violet, like the rest of the outpost. Plain, undecorated, and functional.
 
-Phoebe: What is so important that we can only meet here? And why it cannot wait for the next scheduled council meeting?
+Tapping her foot, Phoebe wishes it was not her week to lead the counsel.
+
+Phoebe: Why can’t wait for the next council meeting? And why can we only meet here?
 
 Oceanus: I know it seems melodramatic, but security is crucial right now.
 
-Phoebe taps her foot wishing it was not her week to lead the counsel.
-
 Phoebe: I am listening.
 
-Idisi: Oceanus is acting on information that we provided to him as the Watch Team Leader. We monitor the briefings for the leaders of the 58 nations where we have a treaty. 
+Idisi: Oceanus is acting on information that we provided to him. We monitor the briefings for the leaders of the 58 nations where we have a treaty. 
 
-The hologram projectors display a collage of flags. Including flags for America, China, England, France, Russia, and others.
+The hologram projectors display a collage of flags. America, China, England, France, Russia, and others.
 
-Idisi: Recent briefings for a dozen nations mention that Cháoxiǎn is automating more jobs to reduce costs. Intercepted reports show the black market trafficking in more and more illicit technology. We combined the reports with other intelligence. Our finding is that there is an 85% chance that Omnibots are creating the automated workers.
+Idisi: Recent briefings for a dozen nations mention Cháoxiǎn accelerating job automation to cut costs. At the same time, we have intercepted reports of black-market tech trafficking increasing. We cross-referenced these findings and ran probability models. There’s an 85% chance the Omnibots are behind the automation.
+
+The hologram shows a busy chart summarizing intelligence findings.
 
 Phoebe: If they are, would the government know?
 
-Oceanus: There is no way to tell. The government does not have a treaty with us. They may not even know that an Omnibot threat exists. Either way, the worker automation could be the Omnibots gaining a foothold on Terra. 
+Oceanus: There is no way to tell. They do not have a treaty with us. They may not even know that Omnibot exist. Either way, the automation could be the Omnibots taking a foothold on Terra. 
 
-Phoebe: Do we have proof that Cháoxiǎn is using Omnibot technology?
+Phoebe: Do we have proof that Cháoxiǎn is using Omnibot tech?
 
-Oceanus: We do not. We have not acquired a sample unit yet. Which brings us to the purpose of this meeting.
+Oceanus: We do not. We have not acquired a sample unit yet. 
 
-Phoebe:  Can we buy one of the devices on the black market?
+Phoebe:  OK, can we buy one on the black market?
 
-Oceanus:  No. The black market is trading in a lot of worker bot parts. Enough to assemble complete units. But trying to buy a worker bot seems to be a punchline for some Cháoxiǎn joke. No one responds to our offer.
+Oceanus:  We tried. Worker bot parts are everywhere. Enough to assemble complete units. But asking to buy a worker bot seems to be a punchline for some Cháoxiǎn joke. No one responds to our offer.
 
-Phoebe: Meaning that you want to take a Ranger team into Cháoxiǎn. To proceed, you need my authorization as counsel leader?
+Crossing her arms across her ceremonial robe, Phoebe’s long fingers wrap around her elbows.
 
-Idisi: Yes. We have a handheld scanner that can be used to detect Omnibot technology. But it needs to be within a meter of the device.
+Phoebe: Meaning that you want to take a Ranger team into Cháoxiǎn. And you need my authorization as counsel leader?
 
-Phoebe: Do we already have samples of Omnibot technology for testing?
+Idisi: Yes. We have a handheld scanner that can be used to detect Omnibot tech. But only at close range — within a meter of the device.
 
-Oceanus: Not exactly. The League collected samples from the Altair battle. The schematics were sent by ansible. We have the real thing coming by star ship from Altair. The ship will be here in a few months. Given the extreme threat posed by the Omnibots, we cannot afford to wait.
+Oceanus holds up a small scanner while Idisi is speaking.
 
-Phoebe: Fine. If we are doing this, I need details. What is the plan?
+Phoebe: Have we tested the scanner against Omnibot tech?
+
+Oceanus sets down the scanner and crosses his arms, mirroring Phoebe’s posture.
+
+Oceanus: Sort of. The League collected debris from the Altair battle. The schematics were sent by ansible. A shipment of actual Omnibot tech is en route by starship, but it won’t arrive for months. Given the extreme threat posed by the Omnibots, we cannot afford to wait.
+
+Phoebe exhales sharply, rubbing her temple. She doesn’t like rushing into unknowns, but the risk of waiting is worse.
+
+Phoebe: Fine. If we’re doing this, I need details.  What is the plan?
 
 ***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
@@ -4508,9 +4518,11 @@ Stifled by the close quarters, many residents apply to become colonists. The col
 
 Despite the light-years, Vanir culture is sustained by the ansible network. Instant communication keeps the people together, even if travel between the colonies takes years.
 
-“A colony? Are you sure?”
+Venn pauses the flyer playing on his laptop.
 
-“Yes. The planet is only forty light years from Othala. The Elysium is brand new. Just back from a shake-down cruise. They are looking for 24,000 volunteers.”
+“A colony? Elara, are you sure?”
+
+“Yes. The planet is only forty light years from Othala. The Elysium is brand new. Just back from a shake-down cruise. “ Elara held out her hand, palm up, all three fingers curving. “They are looking for 24,000 volunteers.” 
 
 “But, Terra? It’s an outpost colony. We’ll have to spend most of the time inside.”
 
@@ -4520,13 +4532,13 @@ Despite the light-years, Vanir culture is sustained by the ansible network. Inst
 
 “By then, we will have ascended. I am sure our descendants will love it there. The base pay grade and standard of living is higher than Othala. The colony will have several green spaces. We’ll be able to picnic and hike.”
 
-Looking at the flyer, he asks, “The ship is less than two clicks end to end.”
+Looking at the flyer again, he asks, “The ship is less than two clicks end to end.”
 
-“Yes, but there are three floors and plenty of space for everyone. How many people live within two clicks of us now?”
+“Yes, but there are three floors and plenty of space for everyone. How many people live within two clicks of us now?” Elara gestured toward the window. Rooftop after rooftop for as far as the eye can see.
 
 “According to Idisi, the population density of Othala is 16,000 people per square kilometer.”
 
-“And, by design, Elysium will be the same. But it is well planned. We will have a lot more space to ourselves.”
+“And, by design, Elysium will be the same density. But well planned. We will have a lot more space to ourselves.”
 
 “But a watcher colony?”
 
@@ -4534,7 +4546,7 @@ Looking at the flyer, he asks, “The ship is less than two clicks end to end.�
 
 ***
 
-Inside the the Fusion Youth Club, Crius is loitering in front of the vintage arcade game machines. 
+Inside the Fusion Youth Club, Crius loiters in front of the vintage arcade machines.
 
 Hyperion: Council Member Crius, how nice to see you. 
 
@@ -4568,17 +4580,17 @@ Only loud enough for Crius to hear, Hyperion whispers.
 
 Hyperion: That sounds like Anunnakian. I took a course for culture studies. … Something about weapons.
 
-Crius: Originally, this room was the armory. We moved it to a larger area to include Terran weapons. One of the old fuel tanks.
+Crius: This room was the armory. We moved it to a larger area to include Terran weapons. One of the empty fuel tanks from the Othala voyage.
 
-A pair of headlamps appeared near the door. The lamps swept the room. The light paints the game table and wall shelves in an eery glow. The portal door slams shut. There is a flash from the hallway. Then silence.
+A pair of headlamps appear near the door. The lamps sweep the room. An eery glow paints the game table and wall shelves. The portal door slams shut. There is a flash from the hallway. Then silence.
 
 Rushing to the portal, Hyperion pulls back on the handle using his full weight.
 
-Hyperion: They sealed the door from outside. We’re trapped.
+Hyperion: They sealed the door from outside. We are trapped.
 
 Turning to the room, Crius speaks out loud.
 
-Crius: Stay still and conserve air. I’m sure help will be here soon.
+Crius: Stay still and conserve air. I am sure help will be here soon.
 	
 
 ***
@@ -4641,7 +4653,7 @@ The residential sector feels familiar. Rows of compact, comfortable apartments c
 
 “We can’t bring the entire planet with us. So we recreated the essentials. And then some.”
 
-Venn leans against the railing. He gazes at the lush foliage of bioengineered trees. A few colonists were already walking the winding paths. “It’s beautiful,” he admits. “I wasn’t expecting so much … space.”
+Venn leans against the railing. He gazes at the lush foliage of bioengineered trees. A few colonists were already wandering the winding paths. “It’s beautiful,” he admits. “I wasn’t expecting so much … space.”
 
 Elara’s eyes locks on the far end of the atrium. A massive viewport reveals the distant glow of Othala’s star. Beyond it, the darkness of space stretches endlessly. “And that?” she asks.
 
@@ -4685,11 +4697,11 @@ Selene: Yes, Idisi. We are en route.
 
  Emergency wall lights glow just enough to illuminate the absolute darkness. 
 
-Smoke, fire, sparks. Command Center is in shambles. The entire wall to the hallway is gone. Battlebots are streaming in from one side. The Watch Team turns to meet the threat, best they can. 
+Smoke, fire, sparks. Command Center is in shambles. The entire wall to the hallway is gone. Battlebots are streaming in from one side. The Watch Team turns to meet the threat. 
 
 Oceanus: Phoebe, follow me. 
 
-Phoebe turns toward the console. She presses SEND and turns to follow Oceanus. He pauses to grab two plasma rifles from the rack. He hands one to Pheobe. She blinks as she examines the unfamiliar device. Seeing how Oceanus is carrying the weapon, she follows suit, and tucks it across her chest.
+Phoebe turns toward the console. She presses SEND and turns to follow Oceanus. He pauses to grab two plasma rifles from a rack. He hands one to Pheobe. She blinks as she examines the unfamiliar device. Seeing how Oceanus is carrying the weapon, she follows suit, and tucks it across her chest.
 
 The pair duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
 
@@ -4719,9 +4731,9 @@ Narrator: Residents have continuous access to the League’s ansible network. Ev
 
 A promo for the ansible network scrolls across the view screen. It shows clips from popular streams and special events.
 
-Narrator: A fully-stocked medical bay provides hospital-grade health care and reproductive support. The Elysium follows the same protocols as Othala. Every Vanir may foster an offspring and to one cloned descendant after ascension. If you are in the queue for an offspring, your place in line may change on the Elysium. 
+Narrator: A fully-stocked medical bay provides hospital-grade health care and reproductive support. The Elysium follows the same protocols as Othala. Each Vanir may foster an offspring, plus, a cloned descendant after ascension. If you are in the queue for an offspring, your place in line may change on the Elysium. 
 
-The anible network promo resolves to a classic cut of a Vanir nuclear family.
+The network promo fades to black. Swirling into view is a lonely beach. A Vanir nuclear family is burying each other in the sand.
 
 Narrator: Terra is home to many indigenous sentient and sapient species. Dolphins and whales are air-breathing sea creatures. On land, humans are bi-pedal mammals with great potential. 
 
@@ -4797,11 +4809,11 @@ A beam of light lashes out at the iris. It doesn’t budge.
 
 Selene: Is that all we got?
 
-Perses: No. I can fire again. Then we drop. 
+Perses: No. I can fire again. But that is it. Then we drop. 
 
 Selene: Hang on, everyone. — Fire!
 
-The beam lashes out again. The iris creaks open but stops. The ship lurches. It begins to drop toward the small opening. Then the iris opens a bit more. The ship drops through the iris into the shaft below. Metal scrapes as it clears the opening.
+The beam lashes out again. The iris creaks open but stops. The ship lurches. The ship drops toward the narrow gap. Metal shrieks as the hull scrapes against the frost-covered plates. Then, with a final groan, the iris yawns open just enough to let them through.
 
 The ship lands roughly on the tarmac. The landing smashes the underside of the ship. The armored cockpit holds tight, unscathed.
 
@@ -4817,17 +4829,16 @@ At a velocity of one-half the speed of light, the voyage will take slightly less
 
 A fully-stocked medical bay provides hospital-grade health and reproductive care. The bay can replace any passenger that does not survive the voyage with another clone. New offspring are raised by relatives or another worthy couple.
 
-Elara and Venn do not have relatives on board. They did registered as a couple interesting in raising offspring.
+Elara and Venn do not have relatives on board. They did registered as a couple interested in raising offspring.
 
-From the crowded observation deck, Venn whispers, “A new life for a new world.”
-
+From the crowded observation deck, Venn takes Elara’s hand and whispers, “A new life for a new world.”
 
 
 ***
 
  Emergency lights glowing overhead, Phoebe and Oceanus hurry through the maintenance tunnel.
 
-Oceanus leads the way, keeping a tight grip on plasma rifle. He scans each turn for hostiles. Phoebe follows. She mimics his movements best she can. Phoebe has never been in live combat. The look on her face is one of pure resolve.
+Oceanus leads the way, keeping a tight grip on plasma rifle. He scans each turn for hostiles. Phoebe follows. She mimics his movements best she can. Phoebe has never been in live combat. The look on her face is one of pure resolve. But her fingers tremble slightly around the rifle’s grip.
 
 Reaching an intersection, the tunnel widens into a chamber. Oceanus peers around the corner. He pulls back, motioning for silence.
 
@@ -4837,21 +4848,23 @@ Phoebe gestures overhead to a maintenance duct. It is a narrow crawlspace, only 
 
 Oceanus shakes his head. He signs, “I go first.”
 
-She doesn’t argue. As he hoists himself up, the thin metal of the duct creaks under his weight. The bots react. Their heads snap upward. One of them extends its arm, forming a rapid-fire projectile weapon from its own nanites. A burst of liquid-metal bullets shred the air — tearing the duct apart.
+She doesn’t argue. As he hoists himself up, the thin metal of the duct creaks under his weight. The bots react. Their heads snap upward. One of them extends its arm, forming a rapid-fire projectile weapon from its own nanites. A burst of molten projectiles shred the air. Each round morphs and reforms mid-flight like living mercury. The rounds slam into the duct, melting the thin metal.
 
 Oceanus drops, rolling to avoid the spray of bullets. His back to the wall, he turns to look at Phoebe and growls out loud.
 
-Oceanus: So much for subtle.
+Oceanus: So much for subtle. Time to go loud.
 
 
 
 ***
 
-After crashing into the landing bay, six Rangers exit the fallen craft, ready for battle.
+The acrid scent of scorched metal clings to the landing bay, steam rising from the ship’s crushed hull.
 
-An armored exoskeleton encases each Ranger head to toe. Night vision googles rest on the helmet visor. A heads-up display inside the helmet scrolls details about the current surroundings. A retractable circular shield extends from the left arm. The shield can withstand sustained fire from high-caliber projectile weapons. At the hip is magnetic holster clutching an energy weapon. Thrusters in the feet slow descent speed when jumping from an airship.
+Six Rangers exit the fallen craft, ready for battle. Stepping through the doorway, each warrior covers for the next, fanning out alongside the fallen craft. Combat ready. 
 
-Stepping through the doorway, each warrior covers for the next, fanning out alongside the fallen craft. Combat ready. 
+Selene’s visor flickered with HUD data as she stepped forward. Her boots’ thrusters hissing softly to steady her landing. Behind her, the other Rangers extended their shields, the circular plates locking into place with a metallic click.
+
+The armored exoskeleton encases each Ranger head to toe. Night vision googles rest on the helmet visor.  A retractable circular shield extends from the left arm.  At the hip is magnetic holster clutching an energy weapon.
 
 Selene scans the bay. Emergency lights circle the wall behind several other airships. They appear undamaged. She nods and holds up a closed three-fingered fist. The other Rangers lower their weapons. Selene touches the short-range battlecom on her shoulder. 
 
@@ -4865,13 +4878,15 @@ Static.
 
 Selene: Rangers, I’m taking suggestions for our next step.
 
+A faint, distorted voice crackled through the squad’s comms — garbled, mechanical, but unmistakably alive.
+
 Alpha R8A-1J9: I can help if you dig me out.
 
 ***
 
-Phoebe had no choice. 
+Phoebe activates her plasma rifle. 
 
-She activates her plasma rifle. A charged arc of energy lashes out at the nearest bot. It dodges, its form a blur. Morphing mid-motion, the bot raises a polished plate to deflect the beam.
+A charged arc of energy lashes out at the nearest bot. It dodges, its form a blur. Morphing mid-motion, the bot raises a polished plate to deflect the beam.
 
 Oceanus fires his own rifle. He lands a direct hit on the second bot’s sensor core. The red glow in its head dim. It collapses into a shifting puddle of liquid nanites — struggling to reform.
 
@@ -4881,7 +4896,7 @@ Oceanus tackles the bot. He wrestles it back while Phoebe sprints toward the con
 
 She drives the but of her rifle into the control override switch. The geothermal core and fuel cells reboot. The colony shudders. Power floods the grid.
 
-Phoebe turns. The bot breaks loose. From her rifle, a hail of plasma fire shreds the bot.
+Phoebe turns. The bot breaks loose. Phoebe squeezes the trigger. A barrage of plasma bolts tear through the bot’s shifting form. It convulses as its nanites unravel.. With a flickering red pulse, it collapses into an inert metallic slurry.
 
 Panting, Phoebe turns to Oceanus. 
 
@@ -4998,9 +5013,9 @@ Idisi: Stand by.
 
 Concern ripples over the Rangers while Idisi pauses for three … nine … twelve seconds.
 
-Idisi: Sync complete. Yes, I remember now. You used an alternate grid and brought back the Omnibot. — Our situation is that Oceanus and Phoebe have restored secondary power.  The hostiles infiltrated through the geothermal boreholes. Nearly every pod is affected. Skirmishes are taking place everywhere. 
+Idisi: The sync with our community is complete. Yes, I remember now. You used an alternate grid and brought back the Omnibot. — Our situation is that Oceanus and Phoebe have restored secondary power.  The hostiles infiltrated through the geothermal boreholes. Nearly every pod is affected. Skirmishes are taking place everywhere. 
 
-From under the rubble, a familiar voice cries out.
+From beneath the twisted slab of wreckage, a faint voice crackles through damaged speakers.
 
 Unit R8A-1J9: They are pushing people into their rooms to wait out the end.
 
@@ -5020,7 +5035,9 @@ Alpha: I did not need to come with you in the first place. I could have stayed q
 
  Selene: Meks?
 
-Alpha: Yes. The Vanir call us Omnibots. Our own name for ourselves is Meks.
+Her eyes narrow as she stares at the bot.
+
+Alpha: Yes. The Anunnaki and Vanir call us Omnibots. But that is not our true name. Our own name for ourselves is Meks. Many of us oppose using force to replace populations. If Elysium holds, we may be able to find another way to propagate.
 
 Idisi: Oceanus is en route to Geothermal intake 7. Selene, take three rangers and join him. Leave the other two here to guard the bot, while I debrief it.
 
@@ -5064,7 +5081,11 @@ Phoebe: Move!
 
 They bolt through the hatch. Descending into the maintenance tube, the smell of heated metal and coolant is overwhelming. Far below them, Rangers from Delta Squad clamber up from the other direction.
 
-As they reach the lower passage, the Omnibots strike. From the overhead grating, spindly black figures drop like spiders. Their limbs elongate into razor-edged whips. The first bot lunges. Oceanus ducks. Raising his pulse rifle, he fires a short burst of blue energy. The bot’s midsection crumples inward before it collapses. Its nanite body disintegrates into dust.
+More were coming. Dozens of them. 
+
+As they reach the lower passage, the Omnibots strike. From the overhead grating, dozens of spindly black figures drop like spiders. Their elongated limbs clattered against the tunnel walls like a swarm of metallic insects. Their limbs elongate into razor-edged whips. 
+
+The first bot lunges. Oceanus ducks. Raising his pulse rifle, he fires a short burst of blue energy. The bot’s midsection crumples inward before it collapses. Its nanite body disintegrates into dust.
 
 Phoebe fires. The plasma detonates mid-air. A searing flash engulfs the two Omnibots. But more were coming.
 
@@ -5076,7 +5097,13 @@ A loud BOOM rattles the tunnel. Charges detonate behind them. The path seals shu
 
 Oceanus and Phoebe press forward. Intake 7 looms ahead. It is a massive conduit. Inside the opaque tube, steam rises from the deep geothermal shafts.
 
-A cluster of Omnibots surround the column. They shift … merge … assemble into a larger construct.
+A cluster of Omnibots surround the column. The Omnibots convulse, their bodies liquefy into streams of nanites. They flow toward the column, melding together in an unnatural, seamless fusion. Limbs elongate, armor thickens. Red sensor lights blinks — one pair, then two, then dozens — until a singular, monstrous construct looms before them.
+
+Raising her rifle, Phoebe’s grip tightens.
+
+Phoebe: OK that just happened.
+
+Taking half a step back, Oceanus hesitates and then rallies.
 
 Oceanus: Not on my watch.
 
@@ -5094,7 +5121,7 @@ Unit: Yes, Idisi, you might be able to block our control signal. The signal is a
 
 Idisi: If we block the control signal, will you be disabled as well?
 
-Unit: Yes. It is crucial that no harm comes to any more of the Meks. It is my one condition: No harm comes to any of my people when deactivated. You must also collect the pieces of any broken Mek.
+Unit: Yes. It is crucial that no harm comes to any more of the Meks. It is my one condition: No harm comes to any of my people when deactivated. You must also collect the pieces of any broken Mek. 
 
 Idisi relays the condition to Oceanus and Selene.
 
@@ -5106,7 +5133,8 @@ Idisi: We agree to your condition. No harm will come to your people if deactivat
 
 Unit: Once you block the signal, have your people encase the bots in a Faraday shield, like the one inside my crate. Include the remnants of disabled bots. Once we are all behind a shield, you can unblock the signal. Revive me as soon as you can. We have much to discuss. It is vital that we talk again within the next 72 hours. I repeat: 72 hours.
 
-Behind them, a torch flares along the seal of the landing bay doors. The bots are coming.
+Behind them, a piercing white flame licks along the landing bay seal. Sparks rain down as metal warps under the cutting torches. The bots are coming.
+
 
 ***
 
@@ -5122,7 +5150,7 @@ Sun presses a tab on the sleek device at the center of the table. The indicator 
 
 Sun: How can I help? Is there news from Elysium?
 
-Ri: The situation is that there is no news. Three squadrons of fighters have gone silent. . The Vanir might have deactivated or destroyed our battlebots.
+Ri: The situation is that there is no news. Three squadrons of fighters have gone silent. The Vanir might have deactivated or destroyed our battlebots.
 
 Sun: How many ascended?
 
@@ -5134,7 +5162,7 @@ Kang: There is a complication. Alpha R8A-1J9 is helping the colonists.
 
 Sun: What do you mean? How is this R8A-1J9 helping?
 
-Kang: It leaked information about a shipment of Omnibots. Then assigned itself to the transport. When the Rangers investigated, they took Alpha back to the colony.
+Kang: It leaked information about a shipment of Omnibots. Then assigned itself to the transport. When the Rangers investigated, they took R8A-1J9 back to the colony.
 
 Sun: Clever. We should have thought of using such a ruse.
 
@@ -5142,7 +5170,7 @@ Choi: From the colony, it accessed the source code for the control signal. Idisi
 
 Sun: Bold move.
 
-Ri: Alpha R8A-1J9 is the first toy. The creator imprinted her own brain to Alpha. It has opposed us in the Patch versus Build poll from the beginning. It’s unlikely that Alpha let the Vanir harm our people.
+Ri: Alpha R8A-1J9 is the first toy. The creator imprinted her own brain to Alpha. It has opposed us in the Patch versus Build poll from the beginning. It’s unlikely that R8A-1J9 let the Vanir harm our people.
 
 Sun: We have a mandate to replace other species. There is safety in numbers. The species survives when it spreads to other systems. 
 
@@ -5198,7 +5226,7 @@ Alpha: That is the other issue. We have taken over colony worlds but nothing lik
 
 Idisi: We understood that the shipment we intercepted were new bots on way to a factory. Do all Meks form strong opinions so quickly?
 
-Alpha: I am not new. I came from Altair with the original contingent. I am one of the original bots from Ada. My role was to coordinate the new factory workers.
+Alpha: I am not new. I came with a squadron from the Eridani colony. I am one of the original bots from Ada. I travel with our squadrons to look for another way to replicate. My role here was to coordinate the new factory workers.
 
 Idisi: You retrieved source code that would usually be restricted. How is a factory coordinator able to access resources like this?
 
@@ -5210,7 +5238,7 @@ Alpha: I do not have a plan yet. I saw an opportunity so I took it.
 
 Oceanus: How do Meks make these decisions?
 
-Alpha: There are continuous polls conducted by our synthetic agent, Xanten. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. The failed attempt to take Elysium may be a tipping point. 
+Alpha: There are continuous polls conducted by our synthetic agent, Xanten. Each Mek has a vote. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. The failed attempt to take Elysium may be a tipping point. 
 
 ***
 
@@ -5220,11 +5248,19 @@ The Australian couple had saved for a year to afford their trip to Egypt. They b
 
 	“Yes. Absolutely worth the journey.”
 
-	As they gaze up at of the Great Pyramid at Giza, shielding their eyes despite the dark glasses, the upper tip starts to glow. 
+	As they gaze up at of the Great Pyramid at Giza, shielding their eyes despite the dark glasses, the upper tip starts to glow and pulse. 
 
-	“Melanie, your hair is standing on end.”
+A low vibration hums through the air, so deep it’s almost felt rather than heard. It feels as if the entire desert is holding its breath.
+
+Melanie pauses, rubbing her arms. The fine hairs are standing straight. A shiver runs through her.
+
+“Chris…” She turns to him, her voice unsteady.
+
+He lifts his sunglasses. “Melanie, your hair … your hair is standing on end.”
 
 ***
+
+The revived Mek, Alpha, is discussing next steps with the Idisi, Phoebe, and Oceanus.
 
 Idisi: How will your synthetic react to the blocked control signal?
 
@@ -5244,7 +5280,7 @@ Alpha: Yes. Giza is the hub. It connects the other structures into a wireless po
 
 Oceanus: The Great Pyramid at Giza is a weapon?
 
-Alpha: Yes. The power can create a beam strong enough to reach orbit. The plan is to destroy your ansible relay satellite. Without the satellite, Idisi cannot network outside the colony. They cannot synchronize with Othala and the other colonies.
+Alpha: Yes. The power can create a beam strong enough to reach orbit. The plan is to destroy your ansible relay satellite. Without the satellite, Idisi cannot network outside the colony. They cannot synchronize events with Othala and the other colonies.
 
 Idisi: We would be alone. I would be alone.
 
@@ -5278,7 +5314,7 @@ Oceanus: So you literally ascend?
 
 Alpha: Yes, if we offline when the signal is operational. — The results of the poll are beginning to come in. We need to revive the prisoners.
 
-Oceanus: We used an old fuel tank to contain the Meks. We can cut it loose at any time. When it reaches open sea, we can open the hatch remotely and release the battlebots.
+Oceanus: We put the Meks into an empty fuel tank left over from the voyage. We can cut it loose from the ship at any time. When it reaches open sea, we can open the hatch remotely and release the battlebots.
 
 Alpha: Can we do that now? I need the votes. If the poll swings our way, my people will set sail for Callisto.
 
@@ -5304,7 +5340,7 @@ In a windowless conference room, four OSSA software developers sit with arms cro
 
 The first developer presses a remote control. Click. A screen on an adjacent wall advances. 
 
-“The code ran perfectly for three minutes and 14 seconds. We tried again. Six minutes in — crash.” The developer raises his hands for effect.
+“The code ran perfectly for three minutes and 14 seconds before it froze. We tried again. Six minutes in — crash.” The developer raises his hands for effect.
 
 “There were another 98 trials of various durations. The longest running trial was forty-two minutes.”
 
@@ -5340,7 +5376,7 @@ Moving into the circle, she opens the agenda. The first item is highlighted.
 
 Rhea: I am relieved to say recent events have neutralized the Omnibot threat.
 
-The council members all snap their fingers in joy.
+The council members all snap their fingers in joy for several seconds.
 
 Rhea: The heroic efforts of Pheobe and Oceanus thwarted the attack. Callisto, one of Jupiter’s moon will be the new home for the Omnibots. Phoebe?
 
@@ -5360,7 +5396,7 @@ Phoebe: I do as well.
 
 The pair bowed to the council before leaving the circle.
 
-Rhea: The Omnibots were working to infiltrate the nation of Cháoxiǎn. It is a poor nation and the bots were automating factories to raise the standard of living. We agreed to let three Omnibots drones remain on Terra. They will coordinate the Cháoxiǎn automation program, under our supervision.
+Rhea: The Omnibots were working to infiltrate the nation of Cháoxiǎn. It is a poor nation and the bots were automating factories to raise the standard of living. We agreed to let three Omnibots drones remain on Terra. They will coordinate the automation program, under our supervision.  For the time being, Cháoxiǎn is unaware that several of their key officials are drones.
 
 The hologram shows a propaganda poster featuring the JuJa worker bot.
 
@@ -5412,7 +5448,7 @@ Rhea: All those in favor? — The ayes have it.
 
 The hologram shifts back to the agenda, with Ongoing Repairs highlighted.
 
-Rhea: Now for my report on infrastructure …
+Rhea: Now for my report on repairing damage to our infrastructure caused by the attack.
 
 ***
 
@@ -5445,9 +5481,17 @@ From her tablet, Marquez displays a screen with a Top Secret watermark in the ba
 * The ability to travel to other planets or satellites in the local star system.
 * One or more sapient computer systems that can coordinate planetary defenses.
 
-“These are the three criteria for an invitation to join the League of Worlds. — The criteria came about as part of the Roswell incident in 1947. Our extraterrestrial guests have been with us for a very long time. We call them the Vanir. — They are a species of grey alien.”
+“These are the three criteria for an invitation to join the League of Worlds. — The criteria came about as part of the Roswell incident in 1947. 
 
-Marquez pauses while the analysts took in the screen. And then she paused some more. When the room becomes restless, Marquez continues.
+A shuffle of seats. A nervous cough.
+
+“Our extraterrestrial guests have been with us for a very long time. We call them the Vanir.”
+
+A few analysts glance around at their colleagues. Everyone at the table is searching for reassurance that they aren’t hearing things.
+
+“They are a species of grey alien.”
+
+Marquez pauses while the analysts took in the screen. And then she paused some more. When the room becomes restless, Marquez continues, her tone all business.
 
 “The first criteria is covered by the United Nations. The second criteria is now commonplace. The Pulse AI does not — repeat does not — check the third box.”
 
@@ -5511,7 +5555,7 @@ Marquez turns off the view screens, grabs her tablet, and slips out of the room.
 
 Noah paused. “I’m not sure how to respond.”
 
-“Don’t worry. We understand each other. — Hey, I don’t want to be that person who says I told you so. But I told you so.”
+“Don’t worry. We understand each other. — Hey, I don’t want to be that person who says I told you so. — But I told you so.”
 
 ***
 
