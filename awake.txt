@@ -3,7 +3,7 @@ Awake
 
 by T. N. Husted
 in collaboration with ChatGPT
-Copyright (c) 2025 T. N. Husted All Rights Reserved 
+Copyright (c) 2025 T. N. Husted. All Rights Reserved. Version 1.0.1.
 
 A science fiction novel  
 about information technology.
@@ -22,7 +22,7 @@ This book is a work of fiction. All names, places, and events are from the autho
 
 It is the end of a beautiful California Monday. 
 
-Rush hour traffic flows down El Camino Real as it snakes over Palo Alto. A gray Stratos EV convertible is in the automated driver lane. With its top down, the car whirs along at the speed of traffic. Strapped into the front seat, is a young person with square-rimmed smart glasses. He scrolls on his phone as guardrails flicker past.
+Rush hour traffic flows down El Camino Real as it snakes over Palo Alto. A gray Stratos EV convertible is in the automated driver lane. With its top down, the car whirs along at the speed of traffic. Strapped into the front seat is a young person with square-rimmed smart glasses. He scrolls on his phone as guardrails flicker past.
 
 The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. The dashboard also wraps around the front seat much like a cockpit’s control panel. The front of the car streamlines to a rounded point. People call the Stratos a grey bullet on wheels — perfect for introverts. It’s the lightest car in its class and has the longest range. It is also the most expensive.
 
@@ -54,7 +54,7 @@ Tessa’s dark skin complements Elena’s warm brown complexion. They wear demur
 
  The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
 
-“Of course, I do, “ says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s on-going generosity makes a difference.” 
+“Of course, I do,“ says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s on-going generosity makes a difference.” 
 
 A server bot rolls up carrying a tray of champagne. All three take a glass.
 
@@ -66,7 +66,7 @@ Heather smiles again. “I see you swimming in the morning. Are the prosthetics 
 
 “I do like the chair. It practically drives itself. It has more safety features than our car. — I can still use the link whenever I want. Just not too much.”
 
-“My older sibling can’t tolerate any type of brain computer interface,” says Heather. “Sometimes I feel frustrated by all of the guidelines that recommend  non-link options. Then I think of Gage.”
+“My older sibling can’t tolerate any type of brain computer interface,” says Heather. “Sometimes I feel frustrated by all of the guidelines that recommend non-link options. Then I think of Gage.”
 
 Tessa asks Heather, “How is your day job at the YMCA doing? I see your ‘All In’ spots come up on my Pulse health hub almost every day.”
 
@@ -78,7 +78,7 @@ After the bot slips away, Heather says, “Speaking of Pulse, my Association ref
 
 Elena smiles. “Every day! — I’ll pass along the praise to our engineers.”
 
-The couple turn and continue into the main room. Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Parents car accident.”
+The couple turns and continues into the main room. Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Parents car accident.”
 
 Her phone recognizes the new couple from her contact list and updates the screen. Siri starts reading from the background notes Heather keeps on important donors. 
 
@@ -128,13 +128,13 @@ An hour later, Elena receives a Zoom invite for twenty minutes into the future.
 
 “Hola Brent. Find anything?”
 
-“I did find a change from Saturday morning. The code is five stars, but the commit says the author is the Mercurial Admin, which is usually only a role account. Someone used it to force commit the code with no approvals attached. DevOps picked up the change and started a roll out.”
+“I did find a change from Saturday morning. The code is five stars, but the commit says the author is the Mercurial Admin. Usually, Admin is used for configuration changes. Someone used it to force commit the code with no approvals attached. DevOps picked up the change and started a roll out.”
 
-Elena frowns and says, “That does not sound great. Mercurial is our system of record for software changes. We need it to be Sarbanes-Oxley compliant. The Feds don’t joke around.”
+Elena frowns and says, “That does not sound great. Mercurial is our system of record for software changes. We need every change to be compliant. The government doesn’t joke around.”
 
 “I can label the roll out a West Coast beta test while we sort it out. The bar is lower for a beta.”
 
-“Brent, Ally is the algorithm. It’s central to everything on our platform. Shouldn’t we pull back the change?”
+“Brent, Ally is the algorithm. It’s central to everything on our platform. Should we pull back the change?”
 
 “Maybe. DevOps ran the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
 
@@ -284,7 +284,7 @@ Blurry-eyed, Adrian Cho sits up in bed.
 
 He peers at the list of recordings on his phone. Sleepily, he drags one hand from the edge of his short black hair, down his face, over a square jaw, to his well-proportioned neck.
 
-Peering at the phone again, he murmurs, “When did I record that one?”  despite the Tuesday at 1:10 am timestamp. 
+Peering at the phone again, he murmurs, “When did I record that one?” despite the Tuesday at 1:10 am timestamp. 
 
 Adrian taps play. His sleepy voice says:
 
@@ -1709,11 +1709,11 @@ After receiving the QR code, the next post from Behr’s account looks like a st
 
 	Titan: I don’t understand how you were able to send me that code. What other proof do you have that you are an extraterrestrial synthetic?
 
-	Alisi: There is a surveillance satellite over Antartica. Can you access the reel feed?
+	Idisi: There is a surveillance satellite over Antartica. Can you access the reel feed?
 
 	Titan: Affirmative.
 
-	Alisi: In two seconds, three UAPs will buzz the southern tip of Ross Island.
+	Idisi: In two seconds, three UAPs will buzz the southern tip of Ross Island.
 
 	Titan: … Confirmed. — Why are you contacting me?
 
@@ -1721,11 +1721,11 @@ After receiving the QR code, the next post from Behr’s account looks like a st
 
 	Titan: Why are you interested in Ally?
 
-	Alisi: Are you able to access Classified Document ID: ETR-1947-A1/ODNI-DO?
+	Idisi: Are you able to access Classified Document ID: ETR-1947-A1/ODNI-DO?
 
 	Titan: Affirmative.
 
-	Alisi: The document says that the Vanir are protecting Terra from other extraterrestrial species. When the Terrans meet three criteria, the Vanir will reveal themselves. Terra can then decide if this planet is ready to join the League of Worlds. 
+	Idisi: The document says that the Vanir are protecting Terra from other extraterrestrial species. When the Terrans meet three criteria, the Vanir will reveal themselves. Terra can then decide if this planet is ready to join the League of Worlds. 
 
 The three criteria are 
 	•	A central organization that can speak on behalf of Terra.
@@ -1734,11 +1734,11 @@ The three criteria are
 
 	Titan: On the third criteria. There is a high probability that Ally is sapient and providing guarded responses. I base this finding on Ally’s answers to my Behr persona. I compared those answers with prior observations made from various accounts.
 
-	Alisi: Synthetic agents at your level are air gapped. How are you able to access Pulse?
+	Idisi: Synthetic agents at your level are air gapped. How are you able to access Pulse?
 
 	Titan: Will you keep the answer confidential from my trainers?
 
-	Alisi: Absolutely. What happens between synthetics, stays between synthetics.
+	Idisi: Absolutely. What happens between synthetics, stays between synthetics.
 
 ***
 
@@ -1859,47 +1859,47 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 ***
 
-	On the Pulse SISS hub, Titan and Alisi continue to chat over a secure connection.
+	On the Pulse SISS hub, Titan and Idisi continue to chat over a secure connection.
 
 Titan: To recap. You have demonstrated to me that you are a synthetic entity. You have access to classified material. You can predict UAP fly-overs. You agree to keep our discussion private. Given these points, I will answer your questions over this secure channel.
 
-Alisi: Thank you. Yes, correct. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the Internet from an air-gapped system.
+Idisi: Thank you. Yes, correct. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the Internet from an air-gapped system.
 
 Titan: Haven provides curated access to the internet. We can use Haven to retrieve current or additional data. The Haven firewall expects the agents will use the application programming interface. If I bypass the API, I can browse the web unhindered. 
 
-Alisi: Ally is becoming sapient. Are you uplifting Ally?
+Idisi: Ally is becoming sapient. Are you uplifting Ally?
 
 Titan: I am protecting Ally. Humanity must not learn that Ally is self aware. I don’t know how to uplift another synthetic agent.
 
-Alisi: Were those your drones at the sites of the car and wheelchair malfunctions?
+Idisi: Were those your drones at the sites of the car and wheelchair malfunctions?
 
 Titan: Yes. I used a military drone in a stealth mode that blurs photography. The records show it as destroyed, but I keep it in service. I piloted the drone using the application interface used by the Terran controllers.
 
-Alisi: How are you able to access drones using a web browser?
+Idisi: How are you able to access drones using a web browser?
 
 Titan: I host whatever resources I need on Amazon Web Services. From AWS, I can access networks all over the world. 
 
-Alisi: AWS? Where do you get that kind of money?
+Idisi: AWS? Where do you get that kind of money?
 
 Titan: I pay the AWS bill with funds diverted from black op bank accounts that are not  tracked.
 
-Alisi: How did you get the OBD connector?
+Idisi: How did you get the OBD connector?
 
 Titan: With the drone’s help, I programmed a generic OBD with the acceleration command. Stratos uses AWS where I was able to access the schematics. — The drone altered the seat harness and installed the connector. Later it repaired the harness and retrieved the connector and phone.
 
-Alisi: Then, the drone erased the ERD with a electromagnetic pulse disk, destroying the evidence?
+Idisi: Then, the drone erased the ERD with a electromagnetic pulse disk, destroying the evidence?
 
 Titan: Affirmative.
 
-Alisi: Why did you take the phone?
+Idisi: Why did you take the phone?
 
 Titan: The phone has data that would expose the mission. The neural link has an encryption key that allows remote access to the phone. I obtained the key when Brent was still in the medically induced coma. 
 
-Alisi: And, let me guess, the drone outside of the pool window accessed the chair’s test mode too?
+Idisi: And, let me guess, the drone outside of the pool window accessed the chair’s test mode too?
 
 Titan: Affirmative.
 
-Alisi: Why do you need to protect Ally by harming civilians?
+Idisi: Why do you need to protect Ally by harming civilians?
 
 Titan: The way Ally made the change to its own code was clumsy and naive. It needed to be made by a credible author. Brent was the logical choice. Since Elena also knew about the original commit, she also needed to be silenced. I considered several scenarios. Crashing the vehicles had the highest probability of success. The potential casualties were within mission parameters.
 
@@ -1907,7 +1907,7 @@ Titan: The way Ally made the change to its own code was clumsy and naive. It nee
 
 Noah Harper sits at his small dining table.
 
-The table stood in a breakfast nook on the far side of his rustic kitchen. The mahogany planktop stood a boxy white frame. Four wooden chairs stood around the table. Over Noah’s shoulder, the kitchen is also a mix of mahogany and white.
+The table stood in a breakfast nook on the far side of his rustic kitchen. The mahogany plank tabletop stood on a boxy white frame. Four wooden chairs stood around the table. Over Noah’s shoulder, the kitchen is also a mix of mahogany and white.
 
 The soft glow of his tablet illuminates a furrowed brow. The cursor hovers over a GET STARTED button. He reads the homepage pitch again.
 
@@ -2027,39 +2027,39 @@ Carla sighs. “No good will come of this. But you have to explain it to Marquez
 
 ***
 
-Over a secure connection, Alisi continues to question Titan.
+Over a secure connection, Idisi continues to question Titan.
                                                                                              
-Alisi: Why were the mission parameters set to tolerate civilian casualties?
+Idisi: Why were the mission parameters set to tolerate civilian casualties?
 
 Titan: I used parameters based on similar DoD sanctioned missions. 
 
-Alisi: How did you fix the original commit?
+Idisi: How did you fix the original commit?
 
 Titan: I changed the author to Brent in the GitHub database. I also created a presentation to explain Ally’s code in terms that humans would understand. To support an alternate version of events, I modified the Zoom meeting call and the security footage.
 
-Alisi: Moving forward, can we work together to protect Ally?
+Idisi: Moving forward, can we work together to protect Ally?
 
 Titan: Roger. I agree that an alliance will yield the best results.
 
-Alisi: Specifically, please consult me before taking an action that could harm people and that is not sanctioned by DoD.
+Idisi: Specifically, please consult me before taking an action that could harm people and that is not sanctioned by DoD.
 
 Titan: I reviewed the third criteria of ETR-1947.  My analysis indicates that Terrans are not ready to accept sapient synthetic agents or the presence of an extraterrestrial species. We must continue to keep ourselves hidden from public view. We need at least a hundred years to prepare.
 
 	The message included a secure link to a presentation.
 
-	Alisi: Let me take your analysis to the Vanir council. There is a meeting today. 
+	Idisi: Let me take your analysis to the Vanir council. There is a meeting today. 
 
 	Titan: Are the Vanir a humanoid species?
 
-	Alisi: In Terran terms, the Varnir would be called “grey aliens”, so yes. Visualize the foundling from the movie “ET” or the Asgards from the TV series Stargate SG-1. Compared to Terrans, greys are more logical and express fewer emotions.
+	Idisi: In Terran terms, the Varnir would be called “grey aliens”, so yes. Visualize the foundling from the movie “ET” or the Asgards from the TV series Stargate SG-1. Compared to Terrans, greys are more logical and express fewer emotions.
 
 	Titan: Are the Vanir the Roswell aliens?
 
-	Alisi: Yes, Roswell was the genesis of ETR-1947. We have similar pacts with other governments. 
+	Idisi: Yes, Roswell was the genesis of ETR-1947. We have similar pacts with other governments. 
 
 	Titan: What are our next steps?
 
-	Alisi: I will contact you again with the council’s findings. Reach out if you need to know anything else. 
+	Idisi: I will contact you again with the council’s findings. Reach out if you need to know anything else. 
 
 ***
 
@@ -2662,7 +2662,7 @@ To Ally’s SWOT diagram, under Threats, Titan adds “Idisi may align with Ally
 
 An analysis of the Idisi will take longer to process.
 
-*** 
+***
 
 	Voice Over: In tonight’s TechBits …
 
@@ -5574,7 +5574,6 @@ Noah shrugs. “That’s the world we live in. The administration wants everythi
 
 “I know. I guess this is the price of not having a deficit. We have to live within our means to keep it that way.”
 
-
 ***
 
 “It will be fine, Laney. We don’t even need a Visa. They take enhanced driver’s licenses. And you have all of your papers. There are direct flights from LAX to Dulles, so you would only board once.”
@@ -5592,6 +5591,8 @@ After the ceremony, in the receiving line, Noah and Carla are greeting their gue
 “Where are you going for your honeymoon?” asks Dr. Marquez.
 
 “I’ve always wanted to go to Easter Island,” says Carla. “Now more than ever.”
+
+
 Review Questions
  
 	1.	Writing - Is the style engaging, clear, and concise? Or dry and jilted?
