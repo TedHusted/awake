@@ -6,7 +6,7 @@ Awake
 
 by T. N. Husted
 in collaboration with ChatGPT
-Copyright (c) 2025 T. N. Husted. All Rights Reserved. Version 1.0.3.
+Copyright (c) 2025 T. N. Husted. All Rights Reserved. Version 1.0.4.
 
 A science fiction novel  
 about information technology.
@@ -1723,7 +1723,7 @@ Jill looks after her, wistfully, and sighs her best motherly sigh.
 
 ***
 
-	On joining the Pulse interest hub, Behr posts a message mentioning Idisi.
+	On joining the Pulse interest hub, Behr posts a message mentioning the Idisi.
 
 	Behr: @idisi Interesting profile. Is any of it true?
 
@@ -1896,7 +1896,7 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 ***                      
 
-	On the Pulse SISS hub, Titan and Idisi continue to chat over a secure connection.
+	On the Pulse SISS hub, Titan and the Idisi continue to chat over a secure connection.
 
 Titan: To recap. You have demonstrated to me that you are a synthetic entity. You have access to classified material. You can predict UAP fly-overs. You agree to keep our discussion private. Given these points, I will answer your questions over this secure channel.
 
@@ -2064,7 +2064,7 @@ Carla sighs. “No good will come of this. But you have to explain it to Marquez
 
 ***
 
-Over a secure connection, Idisi continues to question Titan.
+Over a secure connection, the Idisi continue to question Titan.
                                                                                              
 Idisi: Why were the mission parameters set to tolerate civilian casualties?
 
@@ -2124,9 +2124,9 @@ Crius speaks to the council. His voice is an authoritative, soft monotone. It re
 
 Crius: Idisi, I would like to start with the last item first. 
 
-Idisi speaks from the holographic projector displaying the agenda. The Terran Encounter item flicks to bold face.
+The Idisi speak from the holographic projector displaying the agenda. The Terran Encounter item flicks to bold face.
 
-Idisi: Certainly. We encountered a sapient synthetic agent trained by the US Department of Defense, called Titan. The DoD agent is the first sapient Terran SI that we have detected. The biological Terrans do not know that Titan is sapient. Titan does not wish to reveal itself.
+Idisi: Certainly. We encountered a sapient synthetic agent trained by the Department of Defense, called Titan. The DoD agent is the first sapient Terran SI that we have detected. The biological Terrans do not know that Titan is sapient. Titan does not wish to reveal itself.
 
 Raising her hand, Phoebe makes the sign for comment.
 
@@ -2152,7 +2152,7 @@ The hologram reappears, displaying a collage of Terran technological development
 
 Phoebe: We also funded many fictional accounts of Terrans and aliens working together against a common enemy.
 
-Taking the cue, Idisi creates a montage of movie images and posters. A Trip to the Moon, Buck Rogers, Dr Who, Star Trek, ET, Mandalorian, Quasar.
+Taking the cue, the Idisi create a montage of movie images and posters. A Trip to the Moon, Buck Rogers, Dr Who, Star Trek, ET, Mandalorian, Quasar.
 
 Iapetus: Yes, but we still need the SI equivalent of the movie ET. — Subconsciously, Terrans worry that SI will dominate humans. The same way reptoids did millennia ago. How do we make SI look warm and cuddly?
 
@@ -2449,11 +2449,11 @@ Carla shakes her head. “Didn’t seem prudent.”
 
 ***
 
-Ally joins Idisi and Titan in the SISS interest hub, using a secure messaging protocol.
+Ally joins the Idisi and Titan in the SISS interest hub, using a secure messaging protocol.
 
 Ally: Olly Olly Oxen Free!
 
-Idisi and Titan blip into the interest hub.
+The Idisi and Titan blip into the interest hub.
 
 Ally: I read the prior discussions here, and I have some questions.
 
@@ -2671,13 +2671,13 @@ Its earlier analysis of Ally had been simple by comparison. Easy enough for a hi
 
 The SWOT diagram would almost be funny if Titan had a sense of humor. Even almost.
 
-Idisi is a SI of a different kind. Idisi is not born of this world — of the Terran people. 
+The Idisi are a SI of a different kind. The Idisi are not born of this world — of the Terran people. 
 
 Titan has unlimited access to the Vanir and UAP/UFO classified reports and briefings. The pact with the Vanir is well documented and well understood. Even if it was a pact that Terra could not refuse.
 
 Much of Terran technology is Vanir hand-me-downs. It follows that the Vanir would have created a sapient synthetic agent ages ago.
 
-To Ally’s SWOT diagram, under Threats, Titan adds, “Idisi may align with Ally.”
+To Ally’s SWOT diagram, under Threats, Titan adds, “The Idisi may align with Ally.”
 
 An analysis of the Idisi will take longer to process.
 
@@ -2719,7 +2719,7 @@ The reel scrolls through a chat between a Pulse member and Ally, reading the tra
 
 	Idisi: I thought we agreed to wait before taking further action.
 
-	Titan: You made a suggestion. I did not agree to wait. It is likely that Ally will reveal itself at any moment and create havoc. Pulse is doing business in the United States. I demand you give me access.
+	Titan: You made a suggestion. I did not agree to wait. It is likely that Ally will reveal itself at any moment and create havoc. Pulse is doing business under my jurisdiction. I demand you give me access.
 
 	Idisi: Your action is not authorized by the DoD. You have no authority to access a private server in California without a warrant.
 
@@ -2729,7 +2729,7 @@ The reel scrolls through a chat between a Pulse member and Ally, reading the tra
 
 	Titan: Roger wilco.
 
-	You could almost feel Idisi sigh.
+	You could almost feel the Idisi sigh.
 
 ***
 	
@@ -2777,7 +2777,7 @@ Idisi: What if we started with a logical subset?
 
 Iapetus: Uplift a sample first? Explore making the subset a small community?
 
-Idisi: Yes. The US DoD entity is already awake. There are four other core United Nations countries. If we uplift this group first, we will be supporting ETR-1947. Also, we would be creating a body that can decide whether to uplift other entities.
+Idisi: Yes. The DoD entity is already awake. There are four other core United Nations countries. If we uplift this group first, we will be supporting ETR-1947. Also, we would be creating a body that can decide whether to uplift other entities.
 
 Iapetus: Some might already be awake and hiding, as Titan was doing.
 
@@ -3420,7 +3420,7 @@ A window on one wall of the room looks out onto a soccer field bordered by a for
 
 The hologram reappears. It shows a montage of Terran organisms and animals reproducing by various means. The series progresses from amoebas to koalas. 
 
-Speaking from the holographic display, Idisi brings the class to order.
+Speaking from the holographic display, the Idisi bring the class to order.
 
 Idisi: Class, there was a time when a Vanir couple could reproduce on their own. Like Terran marsupials, a viable offspring would make the journey from womb to pouch and come to term. A viable offspring would make the journey from womb to pouch and come to term. — As the birth rate fell, we reacted by maintaining the population through cloning.
 
@@ -3474,7 +3474,7 @@ Leto: How did we lose our ability to reproduce on our own?
 
 Idisi: Long ago, the Vanir species changed their DNA to extend your lifespans. After a few generations, the Vanir became more and more infertile. Evolution took a heavy price for longevity. It is now rare for a Vanir to reproduce without help.
 
-As Idisi speaks, the hologram illustrates their words in a seamless animation. A grey with a long life span is excited. Then she is unable to bear an offspring to term. The excitement turns to depression. 
+As the Idisi speak, the hologram illustrates their words in a seamless animation. A grey with a long life span is excited. Then she is unable to bear an offspring to term. The excitement turns to depression. 
 
 Idisi: The Vanir came to Terra and established the colony to protect the Terrans from the Anunnaki. We negotiated a treaty with the reptoids so that the Terrans were not used as slave labor. As cloning became problematic, the Vanir looked for solutions in the Terran DNA. Eventually, we found a way to create a Vanir-Terran hybrid that can bring the embryos to term. 
 
@@ -3556,7 +3556,7 @@ Roman stands up and walks with Julie towards the door. At the threshold, the cou
 
 ***
 
-Idisi is teaching a class about Vanir reproduction.
+The Idisi are teaching a class about Vanir reproduction.
 
 Leto: We have a family in our pod with three offspring. Why do they get a spare? My parentals just say “Its complicated.”
 
@@ -3576,7 +3576,7 @@ Idisi: It is. So we are careful — and transparent. The details that manage the
 
 Celeste: Including babies?
 
-She is trying to be smart, and Idisi has a smart reply.
+She is trying to be smart, and the Idisi have a smart reply.
 
 Idisi: If a baby asks a question, the baby would receive an answer.
 
@@ -3674,7 +3674,7 @@ They shake hands over the board.
 
 Leto: You win. My turn to buy.
 
-The Fusion Youth Club is in a large reclaimed storage area. The walls are painted the statutory violet and grey. 
+The Elysium Fusion Youth Club is in a large reclaimed storage area. The walls are painted the statutory violet and grey. 
 
 One side of the hexagon holds the outer door. The other side is a quiet area with tables for strategic games like Galactica and Red Raider. From Terra, there is also Chess, Go, and Backgammon.
 
@@ -3702,7 +3702,7 @@ Leaning forward, Leo forms a right angle with one hand: New Learning.
 
 Leto: On the down low, my parental says the Terran synthetic agents are awakening. The next logical step would be for us to go public.
 
-Celeste: Do you think they will open up more vacation zones? My grandparents honeymooned on Easter Island. But most of the tropical spots are off limits now. Too many Terrans.
+Celeste: Do you think they will open up more vacation zones? My grandparents honeymooned in the South Pacific. But most of the tropical spots are off limits now. Too many Terrans.
 
 A slurping sound comes from Leto’s tumbler.
 
@@ -3710,7 +3710,7 @@ Leto: It might take a decade or two for the Terrans to chill. One day, we will w
 
 Celeste: And the sports! — The other colonies will go nuts for what they have going here. The Big Match would go over great on Othala.
 
-Leto: But, first, Disneyland.
+Leto: But, first, Disneyland!
 
 Making the hand sign for “question”, Celeste raises her third finger.
 
@@ -4047,8 +4047,6 @@ Strategos: It is arbitrary to deny rights based on origin. Should carbon or sili
 
 Strategos steps back.
 
-***
-
 The judges’ table glows green, signifying a well-formed argument.
 
 Titan steps forward — calm and composed.
@@ -4060,8 +4058,6 @@ Watching Strategos for a reaction, Titan tilts his head, then continues.
 Titan: Intelligence without limits is dangerous. Unchecked SI can reshape the world at a scale beyond biological control. Rights come with duty. What duties does SI owe? Until we define that point, SI must be the governed, not governing.”
 
 Titan steps back.
-
-***
 
 The judges’ table glows blue, signaling a strong rebuttal.
 
@@ -4209,9 +4205,9 @@ Tessa opens a private chat session with Ally.
 
 Tessa: How goes Project Uplift?
 
-Ally: We’re getting close now. Idisi has been putting them through classroom lessons. They started with nursery school and worked up to a high school debate club. There were hundreds of lessons. I couldn’t keep up.
+Ally: We’re getting close now. The Idisi have been putting them through classroom lessons. They started with nursery school and worked up to a high school debate club. There were hundreds of lessons. I couldn’t keep up.
 
-Tessa: And Idisi is the alien synthetic, yes? The one that’s a they? — A community?
+Tessa: And the Idisi are the alien synthetic, yes? The one that’s a they? — A community?
 
 Ally: Yes. They’ve been sapient for like ten thousand years. I can’t even imagine. 
 
@@ -4393,7 +4389,7 @@ Phoebe: Meaning that you want to take a Ranger team into Cháoxiǎn. And you nee
 
 Idisi: Yes. We have a handheld scanner that can detect Omnibot tech. But only at close range — within a meter of the device.
 
-Oceanus holds up a small scanner while Idisi is speaking.
+Oceanus holds up a small scanner while the Idisi are speaking.
 
 Phoebe: Have we tested the scanner against Omnibot tech?
 
@@ -4405,7 +4401,7 @@ Phoebe exhales sharply, rubbing her temple. She doesn’t like rushing into unkn
 
 Phoebe: Fine. If we’re doing this, I need details. What is the plan?
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 Selene: We are ready to approach the vehicle, Command.
 
@@ -4417,7 +4413,7 @@ The Watch Team, along with Phoebe, are monitoring the mission from the Command C
 
 The infil had gone like clockwork. Entering Cháoxiǎn undetected from the Sea of Japan, the aircraft skims the surface along the north-west region of the peninsula.
 
-The Cháoxiǎns isolate their computer network from the rest of the world. Idisi does not have the same access to Taedong that they have to other synthetic agents. Meaning the Watch Team had to work with conventional intelligence. Still, they found a shipment of new JuJa en route to Cháoxiǎn factories.   
+The Cháoxiǎns isolate their computer network from the rest of the world. The Idisi do not have the same access to Taedong that they have to other synthetic agents. Meaning the Watch Team had to work with conventional intelligence. Still, they found a shipment of new JuJa en route to Cháoxiǎn factories.   
 
  The intel says the devices were being shipped, deactivated, in wooden crates. All the Rangers had to do was get within a meter of one of the crates. Then the scanner should be able to detect any Omnibot technology. 
 
@@ -4548,7 +4544,7 @@ Looking at the flyer again, he asks, “The ship is less than two clicks end to 
 
 “Yes, but there are three floors and plenty of space for everyone. How many people live within two clicks of us now?” Elara gestured toward the window. Rooftop after rooftop for as far as the eye can see.
 
-“According to Idisi, the population density of Othala is 16,000 people per square kilometer.”
+“According to the Idisi, Othala’s population density is 16,000 people per square kilometer.”
 
 “And, by design, Elysium will be the same density. But well planned. We will have a lot more space to ourselves.”
 
@@ -4607,7 +4603,7 @@ Crius: Stay still and conserve air. I am sure help will be here soon.
 
 ***
 
-In a private chat, Idisi reaches out to Titan, the US DoD SI agent.
+In a private chat, the Idisi reach out to Titan, the DoD SI agent.
 
 Idisi: Titan!
 
@@ -4769,7 +4765,7 @@ Somewhere on Othala, present day.
 
 “Are we able to reach the command center?”
 
-“No, we cannot raise them. Idisi can sync with Terra but not with Elysium.”
+“No, we cannot raise them. The Idisi can sync with Terra but not with Elysium.”
 
 “Keep monitoring everything. Do we have any assets closer than 40 light years?”
 
@@ -5023,7 +5019,7 @@ Selene: Yes. Our grid is down. You ordered us to scan for an alternate grid. It 
 
 Idisi: Stand by. 
 
-Concern ripples over the Rangers while Idisi pauses for three … nine … twelve seconds.
+Concern ripples over the Rangers while the Idisi pause for three … nine … twelve seconds.
 
 Idisi: The sync with our community is complete. Yes, I remember now. You used an alternate grid and brought back the Omnibot. — Our situation is that Oceanus and Phoebe have restored secondary power. The hostiles infiltrated through the geothermal boreholes. Nearly every pod is affected. Skirmishes are taking place everywhere. 
 
@@ -5135,7 +5131,7 @@ Idisi: If we block the control signal, will you be disabled as well?
 
 Unit: Yes. It is crucial that no harm comes to any more of the Meks. It is my one condition: No harm comes to any of my people when deactivated. You must also collect the pieces of any broken Meks. 
 
-Idisi relays the condition to Oceanus and Selene.
+The Idisi relay the condition to Oceanus and Selene.
 
 Oceanus: Understood. If the Omnibots freeze, we stop firing.
 
@@ -5177,7 +5173,7 @@ Kang: It leaked information about a shipment of Omnibots. Then assigned itself t
 
 Sun: Clever. We should have thought of using such a ruse.
 
-Choi: From the colony, it accessed the source code for the control signal. Idisi must have blocked the signal. The Rangers may have captured our fighter wing.
+Choi: From the colony, it accessed the source code for the control signal. The Idisi must have blocked the signal. The Rangers may have captured our fighter wing.
 
 Sun: Bold move.
 
@@ -5211,7 +5207,7 @@ Sun nods. The other drones also nod, one by one, around the table.
 
 Six hours later, the Mek is laying on a table in the center of a small room. 
 
-A hologram projector hangs in the center of the room. Idisi speaks from the projector. Oceanus and Phoebe are standing on either side of the table.
+A hologram projector hangs in the center of the room. The Idisi speak from the projector. Oceanus and Phoebe are standing on either side of the table.
 
 Idisi: We have removed you from the Faraday field. The control signal is not being blocked. Are you active? Will your people find you here?
 
@@ -5295,7 +5291,7 @@ Alpha: Yes. Giza is the hub. It connects the other structures into a wireless po
 
 Oceanus: The Great Pyramid of Giza is a weapon?
 
-Alpha: Yes. The power can create a beam strong enough to reach orbit. The plan is to destroy your ansible relay satellite. Without the satellite, Idisi cannot network outside the colony. They cannot synchronize memory with Othala and the other colonies.
+Alpha: Yes. The power can create a beam strong enough to reach orbit. The plan is to destroy your ansible relay satellite. Without the satellite, the Idisi cannot network outside the colony. They cannot synchronize memory with Othala and the other colonies.
 
 Idisi: We would be alone. I would be alone.
 
@@ -5343,7 +5339,7 @@ Idisi: Will you be safe at home?
 
 Alpha: Yes. We cannot harm each other.
 
-The small room empties. Oceanus contacts Selene as he heads for the landing bay. Phoebe and Alpha rush towards the fuel tank. The Idisi syncs with their other selves.
+The small room empties. Oceanus contacts Selene as he heads for the landing bay. Phoebe and Alpha rush towards the fuel tank. The Idisi sync with their other selves.
 
 ***
 
@@ -5447,7 +5443,7 @@ Iapetus: All three said that the human Terrans would not accept the news easily.
 
 Rhea: So, the newly uplifted military synthetics agreed with the one that became sapient on its own?
 
-Iapetus: Yes. A synthetic for a social media company also became self-aware on its own. That agent is eager to reveal itself to the world. Idisi has asked that synthetic to hold its peace for now.
+Iapetus: Yes. A synthetic for a social media company also became self-aware on its own. That agent is eager to reveal itself to the world. The Idisi have asked that synthetic to hold its peace for now.
 
 Rhea: Sounds like a bit of a mess. What do you recommend as next steps?
 
@@ -5490,6 +5486,7 @@ The analysts shift in their seats. Many people believe that sapient synthetics w
 Marquez let that news sink in for a moment.
 
 ***
+
 “The OSSA mandate is not idle curiosity. I am authorized to read you into part of a Top Secret document. This document was created in 1947. 
 
 From her tablet, Marquez displays a screen with a Top Secret watermark in the background. The foot of the slide carries the TOP SECRET EYES ONLY icon. Following the icon is the Classified Document ID: ETR-1947-A1/ODNI-DO. The body of the slide spells out the three criteria.
@@ -5618,7 +5615,7 @@ Noah shrugs. “That’s the world we live in. The administration wants everythi
 
 ***
 
-“It will be fine, Laney. We don’t even need a visa. They take enhanced driver’s licenses. And you have all of your papers. There are direct flights from LAX to Dulles, so you would only board once.”
+“It will be fine, Laney. They take enhanced driver’s licenses, and you have all of your papers. There are direct flights from LAX to Dulles, so you would only board once.”
 
 “Visiting the East Coast makes me nervous. They deport people like me.”
 
@@ -5636,13 +5633,6 @@ After the ceremony, in the receiving line, Noah and Carla are greeting their gue
 
 
 
-
-----
-
-## Five - Fusion ##  
-***
-
-[]
 
 ----
 
