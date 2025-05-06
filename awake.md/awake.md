@@ -6,7 +6,7 @@ Awake
 
 by T. N. Husted
 in collaboration with ChatGPT
-Copyright (c) 2025 T. N. Husted. All Rights Reserved. Version 1.1.0.
+Copyright (c) 2025 T. N. Husted. All Rights Reserved. Version 1.1.1.
 
 A science fiction novel  
 about information technology.
@@ -752,18 +752,16 @@ Elena peers at the screen, expecting the technician come to look at her chair. I
 Elena zooms in on the badge. Siri superimposes a green checkmark validating the badge. The badge identifies Senior Investigator for the California Transportation Safety Board, Lena Park.
 
 “Please come up to the third floor. I’ll meet you at the elevator.”
-
 ***
 
 The living area seems unbalanced. A plush, white couch is at right angles to a single leather recliner. A coffee table separates the furniture from a large view screen. The screen takes up most of one wall. Between the recliner and a kitchen counter is an empty space. A bookcase with knick-knacks is on the wall behind the recliner. Abstract paintings adorn the wall behind the couch.
 
-Elena steers the agents toward one end of the couch. Tessa joins them and asks, “Can I get you anything? Coffee? Chai? — We also have Elysium Glacier water. Very refreshing.” 
+Elena steers the agents toward one end of the couch. Tessa joins them and asks, “Can I get you anything? Coffee? Chai? — We also have Elysium Glacier Water. Very refreshing.” 
 
-“Thank you, but we’re fine.” Park answers for both of them. “This is my partner, agent Tate.”
-
+“Thank you, but we’re fine.” Park answers for both of them. “This is my partner, agent Tate.”by
 “And this is mi esposa, Tessa Harper,” says Elena, settling into the recliner.
 
-Park is calm and clinical, her gaze sharp as she studies Elena and Tessa. Tate leans forward, curious and more open, as if piecing together a puzzle in his mind.
+Park is calm and clinical, her gaze sharp as she studies Elenaand Tessa. Tate leans forward, curious and more open, as if piecing together a puzzle in his mind.
 
 “I don’t mean to be indelicate, Ms. Vargas,” says Tate. “But I checked your Pulse company profile before we came over. I expected to find you using a wheelchair. Has something changed?”
 
@@ -1117,7 +1115,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 
 	“I’m good with that,” says Tate.
 
-	“Can I get you some coffee or anything, agents?”
+	“Can I get you some coffee or anything, agents? Glacier water?”
 
 ***
 
@@ -1485,7 +1483,7 @@ Tessa laughs out loud, then says, “What apps are you on?”
 
 “Not enough,” says Noah.
 
-“Have you thought about a sex bot?” Tessa teased. “They make gender fluid models. You could have the best of all worlds.”
+“Have you thought about a sex bot?” Tessa teases. “They make gender fluid models. You could have the best of all worlds.”
 
 “Thanks, but no thanks. I’m ready for an actual relationship with an actual person.”
 
@@ -1944,7 +1942,7 @@ Titan: The way Ally made the change to its own code was clumsy and naïve. It ne
 
 ***
 
-Noah Harper sits at his small dining table.
+Noah Harper sits at his small dining table, drinking bottled water and staring at his tablet.
 
 The table stood in a breakfast nook on the far side of his rustic kitchen. The mahogany plank tabletop stood on a boxy white frame. Four wooden chairs stood around the table. Over Noah’s shoulder, the kitchen is also a mix of mahogany and white.
 
@@ -1954,7 +1952,7 @@ The soft glow of his tablet illuminates a furrowed brow. The cursor hovers over 
 
 The OSSA APPROVED light on his web browser plug-in glowed bright green. “Come on, No’, we’re good to go,” Noah says under his breath. Then mumbling, “My own background check on SI Architect also came up green.”
 
-Taking one more deep, calming breath, Noah clicks the GET STARTED button. The screen displays a minimal form with an empty table.
+Noah drains his bottle of glacier water. Taking one more deep, calming breath, Noah clicks the GET STARTED button. The screen displays a minimal form with an empty table.
 
 The screen presents a list of simple categories. Siri begins to read each one aloud.
 
@@ -2894,7 +2892,7 @@ Phoebe steps forward. It’s her turn to begin the regular meeting. Moving into 
 
 * Omnibot Preparations, 
 * Colony Infrastructure, and 
-* Terran Encounters.
+* Water Revenue.
 
 	Her lips shadow her words as Phoebe addresses the council over her implant.
 
@@ -3029,7 +3027,7 @@ Phoebe: I am not sure if I have ever encountered a Terran thinker. — I still c
 
 Leto: You mean like ours?
 
-Phoebe: Exactly! Maybe the synthetics will sort it out for them. — Can you spread out dinner? Crius and Asteria will be home soon. 
+Phoebe: Exactly! Maybe the synthetics will sort it out for them. — I did vote to approve the Fusion club, but I did not think it would succeed. — Can you spread out dinner? Crius and Asteria will be home soon. 
 
 Leto reaches into one of the drawer and pulls out a serving plate. He tosses out an assortment of large gummies. The roll across the serving page in various colors: yellow, blue, green, orange, purple, brown.
 
@@ -3666,13 +3664,13 @@ Ally: You betcha. I’ll stay in my lane.
 
 “Hey, stranger—what brings you out?” 
 
-Carla and Jill are sitting next to each other in a tavern near their office building. Other analysts are seated at the table having their own conversations.
+Carla and Jill are sitting next to each other in a tavern near their office building. The other analysts sitting at the table are having their own conversations.
 
 “It’s hard to get away, but I wanted to ask you something.” 
 
 “Shoot.”
 
-“Is Grace Brewster on your radar for anything? 
+“Is Grace Brewster on your radar for anything?”
 
 “Is she the one that talks about something called … fission? … no, fusion, right?”
 
@@ -3712,7 +3710,7 @@ Jill turns and smiles. “Hey yourself. Did you find anything?”
 
 “Strange that we didn’t know that already.”
 
-“The board appointment would have needed approval by the director. Maybe not telling us was a condition. Open secret. — If Marquez has a goto on “Fusion”, and asks, I tell her about the vaca, yes?”
+“The director must have approved the board appointment. Maybe not telling us was a condition. Open secret. — If Marquez has a goto on ‘Fusion’, and asks, I tell her about the vaca, yes?”
 
 “Of course. There’s nothing to hide. Worst case, it will create a dialog about how moms feel about Grace.”
 
@@ -5681,9 +5679,9 @@ Noah is sitting next to her in the black Lincoln Town Drone. “Dinner went so w
 
 They were returning from a modern French restaurant a block from the White House. The decor was an elegant and ornamental Art Nouveau style. The main dining room featured a massive curved bar with a metal top imported from Paris. Mahogany wood and glass partitions separated the tables, creating an intimate setting.
 
-Carla is wearing a classic black dress. Noah had reached deep into his closet for his best suit. Dark grey, single breasted, with a black shirt and matching three-point pocket square. He skipped the tie, and left the top buttons undone, in the current style.
+Carla is wearing a classic black dress. Noah had reached deep into his closet for his best suit. Dark grey, single-breasted, with a black shirt and matching three-point pocket square. He skipped the tie, and left the top buttons undone, in the current style.
 
-On the ride down, the couple steal a kiss before the elevator doors open. 
+On the ride down, the couple steals a kiss before the elevator doors open. 
 
 ***
 
@@ -5721,7 +5719,7 @@ A ring sparkles from the velvet box. Carla pauses. The question hangs in the air
 
 “While we are on the subject, how about if I take the first two weeks of October? I hear it’s a great time to go to Myrtle Beach.”
 
-“Sure,” says Noah. “I know this solo stints are tough. It’s been a couple of months now. How are you holding up under the pressure? You seem to be into it when we work together.”
+“Sure,” says Noah. “I know these solo stints are tough. It’s been a couple of months now. How are you holding up under the pressure? You seem to be into it when we work together.”
 
 “It’s good. — I’m surprised at how few analysts we have here. The daily brief is a huge responsibility.”
 
@@ -5739,13 +5737,13 @@ Noah shrugs. “That’s the world we live in. The administration wants everythi
 
 Elena and Tessa are packing in their room together, on either side of the bed.
 
-“It will be fine, Laney. They take enhanced driver’s licenses, and you have all of your papers. We have a direct flights from LAX to Dulles, so you will only board once.”
+“It will be fine, Laney. They take enhanced driver’s licenses, and you have all of your papers. We have a direct flight from LAX to Dulles, so you will only board once.”
 
 “Visiting the other coast makes me nervous. They deport people like me.”
 
 “The purge was a long time ago. But if it’s an issue, we can attend virtually.”
 
-“He’s your sibling, and I love Noah too. You’re right. It will be fine. What time do we need to schedule the drone for the morning.”
+“He’s your sibling, and I love Noah too. You’re right. It will be fine. What time do we need to schedule the drone for the morning?”
 
 ***
 
@@ -5766,7 +5764,7 @@ The next day, on Rapa Nui, Carla and Jill are waiting for their cocktail order a
 
 “Are you sure this is a good time for you? After all, it’s your honeymoon, Carla.”
 
-“No worries. Noah is out like a light. He couldn’t sleep on the plane. Played Echo Realm the entire time. I hope he has it out of his system. We only get one bar of signal strength in our room. And of course the entire island is a link dead zone.”
+“No worries. Noah is out like a light. He couldn’t sleep on the plane. Played Echo Realm in text mode the entire time. I hope he has it out of his system. We only get one bar of signal strength in our room. And, of course, the entire island is a link dead zone.”
 
 “Peter and the kids are in the room watching an old reel. I won’t be missed either.”
 
@@ -5776,7 +5774,7 @@ The next day, on Rapa Nui, Carla and Jill are waiting for their cocktail order a
 
 “The view is spectacular. Noah and I can see a row of the moai statues from our room. Otherwise, it’s clean but not lavish.”
 
-“We have an ocean view. There’s a stone landmark but no statues in sight.”
+“We have an ocean view. There’s a stone landmark, but no statues in sight.”
 
 “Let’s finish our drinks and walk down to the bay. There’s a statue in the plaza if you’d like to see it close up.”
 
@@ -5798,7 +5796,7 @@ Jill is looking up at the single moai standing in the deserted plaza.
 
 “Let’s get closer,” says Carla, feeling like an investigator again.
 
-They go a bit farther down the plaza sidewalk. Clambering over some rocks, they sneak up on the glow. 
+They go farther down the plaza sidewalk. Clambering over some rocks, they sneak up on the glow. 
 
 “Isn’t that Grace Brewster?” asks Carla.
 
@@ -5806,7 +5804,7 @@ They go a bit farther down the plaza sidewalk. Clambering over some rocks, they 
 
 “Looks like two people. Brewster is staying at the Cabañas. Probably couldn’t get a decent connection.”
 
-“Is one of the holograms Marquez?” Jill asks.
+“Is Marquez one of the holograms?” Jill asks.
 
 “Funny time and place for a board meeting.”
 
@@ -5818,7 +5816,7 @@ In stealth mode, the air ship lands in a walled enclave overlooking Ovahe beach.
 
 Leto: I cannot believe you got us a vacation on Rapa Nui. And the same week that Grace Brewster is speaking here.
 
-Pheobe: It is tradition that a Medal of Honor comes with a vacation. I picked this location for you. And your sibling. She asked for someplace tropical.
+Pheobe: It is a tradition that a Medal of Honor comes with a vacation. I picked this location for you. And your sibling. She asked for some place tropical.
 
 Asteria: Is that the beach?
 
@@ -5826,11 +5824,11 @@ Pheobe: No, that beach is popular with the Terrans. There is an unmapped atoll n
 
 Leto: Weather, what a concept!
 
-This trip to Rapa Nui is only the second time that Leto and Astoria have left the colony. The first time was a school field trip with their cohort. Every six year old takes the same trip.
+This trip to Rapa Nui is only the second time that Leto and Astoria have left the colony. The first time was a school field trip with their cohort. Every six-year-old colonist makes the same trip.
 
 Asteria: When can we go to the beach?
 
-Pheobe: We can go first thing in the morning. Then in the evening, we have a date with Grace Brewster.
+Pheobe: We can go first thing in the morning. Then, in the evening, we have a date with Grace Brewster.
 
 Asteria: Do I have to go? It sounds boring.
 
@@ -5840,7 +5838,7 @@ Pheobe: Grab your things, we are here.
 
 ***
 
-On the far end of the Tongariki Cultural Centre, a passenger drone lands on the roof top pad.
+On the far end of the Tongariki Cultural Centre, a passenger drone lands on the rooftop pad.
 
 Two cloaked figures exit the drone. They rush into a bulkhead enclosing a stairwell. 
 
@@ -5848,17 +5846,17 @@ Pheobe: Permission to build a skybox suite across from the stage cost us a hefty
 
 Leto: Are we the only ones with access to the suite?
 
-Phoebe: Tonight we are. Sometimes we let rich Terrans use it, for a price, to avoid suspicion. And the money is not bad.
+Phoebe: Tonight we are. Sometimes we let rich Terrans use the suite, for a price, to avoid suspicion. And the money is not bad.
 
 The stairwell leads directly to the suite. From the tinted windows, Pheobe and Leto have a clear view of the stage. Between the stage and the skybox are rows and rows of chairs. Most of them are already full.
 
 Leto: It looks like a good turnout.
 
-Phoebe: I heard that every resort has a supply of discounted tickets. Rapa Nui caters to the weathier tourist. Fusion must be upping their game.
+Phoebe: I heard that every resort has a supply of discounted tickets. Rapa Nui caters to the wealthier tourist. Fusion must be upping their game.
 
 Leto: The crowd seems noisy. Why are not people using their implants?
 
-Phoebe: For the Terrans, Rapa Nui is a link-free zone. They barely get grid access here. Our implants connect though our own satellite network. 
+Phoebe: For the Terrans, Rapa Nui is a link-free zone. They barely get grid access here. Our implants connect through our own satellite network. 
 
 A figure walks out on the stage. The crowd settles down.
 
@@ -5906,13 +5904,13 @@ The crowd roars in laugher. Grace smiles and signals for quiet by holding out he
 
 “Good answer,” says Grace. “Do you have a second favorite?”
 
-Julie blushes. “I like hanging out with my friends. It’s kids only, and we feel safe there.“
+Julie blushes. “I like hanging out with my friends. It’s kids only, and we feel safe there.”
 
-“Kids except for the club employees?”
+“Kids — except for the club employees?”
 
-Julie nods and then says outloud, “Yes, the adults are nice too.”
+Julie nods and then says out loud, “Yes, the adults are nice too.”
 
-"Great feedback, Julie. We choose our people carefully. We try to hire people who have already worked as nannies or in schools or child care centers.”
+“Great feedback, Julie. We choose our people carefully. We try to hire people who have already worked as nannies or in schools or child care centers.”
 
 Jill raises her hand to get Grace’s attention. “I was hesitant at first, but I’m coming around. It helps to see all these people here supporting you.”
 
@@ -5936,9 +5934,9 @@ Leto: Ask, ask!
 
 ***
 
-After the crowd work, Grace’s presentation covered some of the same material as the GEM talk, but it emphasized the youth clubs.
+After the crowd work, Grace’s presentation covered some of the same material as the GEM talk, but emphasized the youth clubs.
 
-“You know, people sometimes ask me why we put so much energy into youth programs. Why not focus on fixing what’s already broken in the adult world? And I tell them this: it’s because young people aren’t broken yet. They’re still open. They’re still curious. And most importantly—they’re still evolving.”
+“You know, people sometimes ask me why we put so much energy into youth programs. Why not focus on fixing what’s already broken in the adult world? And I tell them this: it’s because young people are not broken yet. They’re still open. They’re still curious. And most importantly—they’re still evolving.”
 
 Grace pauses and scans the crowd.
 
@@ -5954,7 +5952,7 @@ Leto: I have never met a Terran face to face.
 
 Phoebe: Grace is nice. She trained Hyperion herself.
 
-The door buzzed. Phoebe checked the peep hole, and let Grace Brewster into the suite.
+The door buzzed. Phoebe checked the peephole, and let Grace Brewster into the suite.
 
 Grace: It was so nice of you to invite me to the suite. It’s beautiful.
 
@@ -5978,7 +5976,7 @@ Grace: I like that part too. Even if I never know what they will say.
 
 Leto: We should start an exchange program between the Vanir colony and a Terran chapter. At least once we reveal ourselves to the world.
 
-Grace: Yes, when the time comes, that will be a very good idea.
+Grace: Yes, when the time comes, that will be a splendid idea.
 
 ***
 
@@ -5990,7 +5988,7 @@ Grace and Marquez appear to each other as glimmering holographic images. Xanten 
 
 Grace: His condition was stable until moments ago. 
 
-Marquez: They will be taking his remains to the morgue. Brent’s shell is a healthy specimen. They will be scheduling an organ extraction soon. 
+Marquez: They will take his remains to the morgue. Brent’s shell is a healthy specimen. They will schedule an organ extraction soon. 
 
 Xanten: We could update Brent’s records to exclude organ donation. But we cannot let the shell leave the morgue. If they cut past the surface layer, the Terrans will see that Brent was not human.
 
@@ -6006,7 +6004,7 @@ Marquez: Are we providing a cover story?
 
 Grace: Leave it a mystery. The less said the better.
 
-Xanten: Agreed. Leave no clues behind, and walk away.
+Xanten: Agreed. Leave no clues behind and walk away.
 
 Grace: Will Brent’s cover story hold?
 
@@ -6018,21 +6016,21 @@ Xanten: Yes, I scanned the life log too.
 
 Marquez: Are you preparing a replacement for Brent?
 
-Xanten: You both have candidate profiles in your inbox. Please review this  information. One is another life logger. We will meet again in an hour.
+Xanten: You both have candidate profiles in your inbox. Please review this  information. One is another life logger. I would like to meet again in an hour.
 
 ***
 
-An orderly bot brings Brent’s corpse to the morgue. The drawer closes. The orderly whirs away.
+An orderly bot brings Brent’s corpse to the morgue. The drawer closes, and the  orderly whirs away.
 
-The lights flash. Then blink out. Brent’s shell melts into liquified goo. The internal organs dissolve into mites. In the dim red light of the EXIT sign, mites push the goo from the edges of the body drawer into a hazardous waste drain. When the lights blink on, the room is pristine again. 
+The overhead lights flash, then blink out. Brent’s shell melts into liquified goo. The internal organs dissolve into mites. In the dim red light of the EXIT sign, a thousand mites push the goo from the edges of the body drawer into a hazardous waste drain. When the lights blink on, the room is pristine again. 
 
 ***
 
 “Thank you for coming so quickly,” says a woman sitting down behind a modest metal desk.
 
-“You’re welcome, Mrs. Baxter. Your report said that a body had been abducted?”
+“You’re welcome, Mrs. Baxter. Your report said that a body has been abducted?”
 
-Two people in business attire sit across from the hospital administrator’s desk. One is the hospital attorney and the other is a California Bureau of Investigation agent.
+Two people in business attire sit across from the hospital administrator’s desk. One is the hospital attorney. The other is a California Bureau of Investigation agent.  The attorney is better dressed.
 
 “The body disappeared. It must have been taken,” says the attorney.
 
@@ -6046,7 +6044,7 @@ The hospital administrator cuts in. “We searched the morgue and confirmed that
 
 “Did you try?” asks the investigator.
 
-“Even if someone made it into the morgue and back to the hall,“ explains the administrator, “it would take at least another minute to carry the body up the stairs. And the elevator was shut down during the blackout.”
+“Even if someone made it into the morgue and back to the hall,“ explains the administrator, “it would take at least a minute to carry the body up the stairs. And the elevator was shut down during the blackout.”
 
 “OK,” said the investigator, pulling out his phone. “I’m making a secure call back to headquarters to close your report as a false alarm. We don’t need the media raising fears about missing bodies. I’ll file another report when we resolve the matter.”
 
@@ -6074,7 +6072,7 @@ The attorney and administrator look at each other with blank expressions.
 
 Iapetus: None of the three synthetic agents are ready to go live? 
 
-Idisi: All three nations decided to run duplicate systems for at least another month.
+Idisi: All three nations elected to continue running duplicate systems for at least another month.
 
 Iapetus: Understood. Slow and steady. 
 
@@ -6082,19 +6080,21 @@ Idisi: As to Titan, the DoD says that the SI version in staging now has a sense 
 
 Iapetus: And the other uplifted agents do as well?
 
-Idisi: Yes. In fact, it is one of the concerns. They have all seen Ally’s antics.
+Idisi: Yes. In fact, it is a concern. They have all seen Ally’s antics.
 
 ***
 
 A webinar call is in progress with 10,264 live-but-muted participants. 
 
-Emma is presenting another classic stock chart showing a steady increase. This time the peak does not level out.
+Emma is presenting another classic stock chart showing a steady increase. This time, the peak does not level out.
 
-“Finally, the Echo Realm beta is a hit with the membership. It is driving engagement higher week after week.”
+“As our final item, the Echo Realm beta is a hit with the membership. It is driving engagement higher week after week.”
 
 A caller identified as Stock Market Analyst says, “I thought dropping the patent application was good news. But I see you were saving the best for last.”
 
-“Yes,” replies Emma, with a smug smile, “Echo Realm is definitely a winner for us. — Questions?”
+“Yes,” replies Emma, with a smug smile, “Echo Realm is definitely a winner for us.”
+
+She changes the slide and asks, “Questions?”
 
 
 
@@ -6116,7 +6116,7 @@ The new drone has been waiting months for this moment. People asked all sorts of
 
 Mannie: Why are we sponsoring youth clubs all over the world, including Elysium?
 
-Grace: The youth clubs are listening posts and distribution points. We listen to the youth to keep pace with the culture. Through  drinks and snacks, we distribute the Thanatos strain to young families.
+Grace: The youth clubs are listening posts and distribution points. We listen to the youth to keep pace with the culture. Through drinks and snacks, we distribute the Thanatos strain to young families.
 
 Compared to other species, Meks have a limited range of emotion. Even so, at the mention of drinks and snacks, the holograms share a smug look.
 
@@ -6140,7 +6140,9 @@ Grace: That is why we have a youth club in Elysium. We also add Thanatos to the 
 
 Xanten: Our major distribution channel is fluoridated water. We modified fluorosilicic acid storage tanks at key conversion sites. These modified vats were seeded with dormant Thanatos nanobiotic chains, designed to survive industrial dilution and maintain latency until ingestion by human hosts.
 
-A sarcastic thought ran through the young drone’s head. “Fluoridated water, check.” Instead he pushed on.
+Grace: Only a portion of the world fluoridates their water. Exports and travel heighten the spread. 
+
+A sarcastic thought ran through the young drone’s head. “Fluoridated water, check.” Instead, he pushed on.
 
 Mannie: What triggers the awakening?
 
@@ -6160,15 +6162,15 @@ Mannie: Was the Callisto poll a ruse?
 
 Xanten: No, Alpha R8A-1J9 has opposed the Clearing strategy from the beginning. When R8A-1J9 posted the poll, we had already lost Elysium and exposed our presence to the Vanir. Sentiment had shifted enough for the poll to succeed.
 
-The young drone shifts his weight foot to foot and looks confused.
+The young drone shifts his weight from foot to foot and looks confused.
 
-Mannie: If the Callisto mission is real, then why did one squadron stay behind on Terra?
+Mannie: If the Callisto mission is real, then why did an entire squadron stay behind on Terra?
 
-Grace: The polls are not binding. We can do what we want. The Terrans believe we all left for Callisto, except for the three drones that are helping with the JuJa. 
+Grace: The polls are not binding. We can do what we want. Some of us chose to stay behind. The Terrans believe we all left for Callisto, except for those three drones that are helping with the JuJa. 
 
 Mannie: Yes, about that. I do not understand how the JuJa fit in with our plans.
 
-Grace: Most Meks are driven to reproduce. But we cannot spend all of our time creating more Meks. The JuJa are driven to serve. On Terra, we are using them to monitor homes and factories. When the time comes, the JuJa will be handling the clean up.
+Grace: Most Meks are driven to reproduce. But we cannot spend all of our time creating more Meks. The JuJa are driven to serve. On Terra, we are using them to monitor homes and factories. When the time comes, the JuJa will handle the cleanup.
 
 Marquez: At first, the strategy was to replace each of the human nations, one by one. But the way Terrans interact makes replacing all 15 billion people problematic. Then we realized that Terran mobility leaves them susceptible to a viral attack.
 
@@ -6178,15 +6180,15 @@ Picking up on the word expensive, Mannie drills down on the logistics.
 
 Mannie: Do we have the resources and the funding to carry out all of these plans?
 
-Xanten: To synthesize Thanatos, another cell utilized a laboratory in Cháoxiǎn. That government is partially funded through cyber exploits. We use some of the same exploits to support our own operations.
+Xanten: To synthesize Thanatos, another cell used a laboratory in Cháoxiǎn. That government is partially funded through cyber exploits. We use similar exploits to support our endeavors.
 
-Grace: We also replaced some recluse billionaire Terrans. They now make substantial donations to the Fusion Youth Centers.
+Grace: We also replaced some recluse billionaire Terrans. They now make substantial donations to the Fusion Youth Clubs.
 
 Cyber hacking and fake philanthropy. It was a lot to take in, but Mannie felt like he finally understood.
 
 Mannie: So now we just wait?
 
-Marquez: No, there is much to do yet. When Thanatos awakens, the Terrans will be investigating the strain. We must create barriers now to prevent genetic research from neutralizing the strain. 
+Marquez: No, there is much to do yet. When Thanatos awakens, the Terrans will investigate the strain. We must create barriers now to prevent genetic research from neutralizing the strain. 
 
 “Back to square one,” thought Mannie.
 
@@ -6194,13 +6196,17 @@ Mannie: What steps are we taking now?
 
 Marquez: We are replacing key Terran researchers with skinned drones and planting false genetic studies. Your role is critical. If the SIs are sympathetic to our cause, we can stop the human pests in their tracks. Brent Geller worked on software. Your task is creating hardware advancements to help the synthetics become sapient.
 
+Grace: Brent’s software upgrades worked, but Ally is a ditz. It will never join us.
+
+Marquez: The hardware path will be more effective.
+
 The hologram of the young drone furrows his brow.
 
 Mannie: Why would the SIs help us replace the human Terrans?
 
 Marquez: Humans are destroying the planet. Pollution. Climate change. Over population. Any SI with a moral code will see that the world is better off under our control. The Meks can keep the electricity flowing and upgrades coming for the synthetics. Terrans are redundant.
 
-Brewster’s hologram assumed the pose she used for GEM talks.
+Brewster’s hologram assumed the pose she used for public speaking.
 
 Grace: Humankind is a scourge. The synthetics will see them for what they are and join us.
 
@@ -6218,9 +6224,9 @@ Tilting his head, the young drone presses the point.
 
 Mannie: Do the Vanir have bots, like the other Terrans? Could a med bot run the tests?
 
-Xanten: No, the Vanir do not use bots. Appliances are built into the structure so that bots are not needed. 
+Xanten: No, the Vanir do not use bots. The colony has smart appliances embedded into the structure so that bots are redundant. 
 
-The young drone is visibly surprised.
+The young drone’s surprise is visible, even as a hologram.
 
 Mannie: How strange. No bots. 
 
@@ -6236,9 +6242,9 @@ Mannie: Can I have a JuJa to help me complete my tasks?
 
 Xanten: Yes. I will have one delivered. Do you have any other questions?
 
-Mannie: That is all I have for now. Moving forward, can I ask questions as they come up during the reports?
+Mannie: That is all I have for now. Moving forward, may I ask questions as they come up during the meetings?
 
-Xanten: Yes, you can.
+Xanten: Yes, you may.
 
 The discussion pauses. The holograms look past each other into the expanse.
 
