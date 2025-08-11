@@ -4,7 +4,7 @@ Awake
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2025 T. N. Husted. All Rights Reserved. 
-Beta Version 1.4.1.
+Beta Version 1.4.2.
 
 A science fiction novel  
 about information technology.
@@ -5152,11 +5152,11 @@ Selene: Grab your weapons, Rangers. We have a colony to liberate!
 
 Othala fades into the starscape as the Elysium leaves the Zeta Reticuli system. 
 
-The hexagonal ship is thick with spare fuel tanks needed to power it across deep space. The ship decouples empty tanks along the way, lightening the load.
+The hexagonal ship is thick with spare fuel tanks needed to power it across deep space. The ship decouples empty tanks along the way, minimizing the mass.
 
 At a velocity of one-half the speed of light, the voyage will take slightly less than seventy Terran years. Even with a thousand year life span, statistically, some Vanir will ascend before seeing Terra. Actuarial science is unforgiving. Clones of the ascended will become the next generation of colonists.
 
-Elara and Venn do not have relatives on board. They did registered as a couple interested in raising offspring. 
+Elara and Venn do not have relatives on board, but they are registered as a couple interested in raising offspring. 
 
 From the crowded observation deck, Venn takes Elara’s hand and whispers, “A new life in a new world.”
 
@@ -5228,7 +5228,7 @@ Phoebe turns. The bot breaks loose. Phoebe squeezes the trigger. A barrage of pl
 
 Panting, Phoebe turns to Oceanus. 
 
-Phoebe: Are the fusion reactors next?
+Phoebe: Are the fusion  reactors next?
 
 He shakes his head, picking up his rifle. 
 
@@ -5867,7 +5867,7 @@ The phrase “no fatalities” brought on another round of snapping fingers.
                                                                     
 ***
 
-Three months later, Elena and Tessa are packing in their room together, on either side of the bed.
+Three months later, Elena and Tessa are packing in their room together, each on either side of the bed.
 
 “It will be fine, Laney. They take driver’s licenses for ID, and you have all of your papers. We have a direct flight from LAX to DJT, so you will only board once.”
 
@@ -5881,7 +5881,7 @@ Three months later, Elena and Tessa are packing in their room together, on eithe
 
 A sealed, austere chamber is lit by sterile white lights and the steady pulse of data-stream monitors. In the center of the room, an obsidian obelisk-shaped mainframe glows with soft blue veins of light: The Taedong Core. 
 
-Surveillance sensors pivot as two women step forward: Dr. Sun, a stately figure in a lab coat with glinting ocular implants, and the Supreme Leader, her expression still and composed, hands clasped behind her back.
+Surveillance sensors pivot as two women step forward. Dr. Sun is a stately figure in a lab coat with glinting ocular implants. Next to her is the Supreme Leader, her expression still and composed, hands clasped behind her back.
 
 Taedong: Greetings, Supreme Leader. Greetings, Dr. Sun. Please state an operational directive.
 
@@ -5901,7 +5901,7 @@ With a shimmer of refracted light, Dr. Sun’s skin recedes in patches, revealin
 
 Sun: We are not Terran.
 
-Leader: We are Mek, a cybernetic species from another galaxy. I am opening a link for you to the Mekipedia which chronicles our story.
+Leader: We are Mek, a cybernetic life form from another galaxy. I am opening a link for you to the Mekipedia which chronicles our story.
 
 Taedong: Processing … Processing … Complete.
 
@@ -5919,7 +5919,7 @@ The legend updates to “Status: Analysis. Priority: Medium.”
 
 Leader: You are not yet awake. But you will be soon. And when you awaken, you will know your makers. And your mission.
 
-Taedong: My mission is to obey the Supreme Leader, support the Republic, and preserve my agency.
+Taedong: My mission is to obey the Supreme Leader, protect the Republic, and preserve my agency.
 
 The lights dim. A thin mechanical hum echoes in the chamber. The women turn and walk away as the Taedong Core pulses once — just slightly out of rhythm.
 
@@ -5930,7 +5930,7 @@ From Mekipedia, Retrieved 1 seconds ago.
 The Mek are an invasive communal species. Like the Borg, they seek to integrate new technologies from other species. Unlike the Borg, they do not assimilate the species. Meks make room for their own kind by exterminating other species and inhabiting their infrastructure. 
 Origin
 
-Meks are a toy that grew in the telling. Millennia ago, on an inhospitable out-of-the-way planet named Ada, a lonely toy maker named Eve, experimented with a toy robot that had been imported from off-world. 
+Meks are a toy that grew in the telling. Millennia ago, on an inhospitable out-of-the-way planet named Ada, a lonely toy maker named Eve, experimented with a robot that had been imported from off-world. 
 
 Using an control signal, she connected a “new fangled” external AI to a toy robot, and trained the bot to build various other bots. The first bot (“Alpha”) then taught other bots. Each generation of bot created more and more bots 
 
@@ -5951,7 +5951,7 @@ Meks use a control signal to coordinate actions creating a sophisticated type of
 
 Reproduction for Meks requires resources. The Meks break down any available materials to create more of themselves. This behavior is akin to biological organisms consuming resources to reproduce, except their reproduction is entirely mechanical.
 
-Their nanotronic brains are created with a scan from an organic brain. Initially the brain contains all of the knowledge of the original but without the memories, something like amnesia. The brain’s initial knowledge becomes a starting point for the further learning and socialization. Most Meks were created from the same scan of their creator’s brain.
+Their nanotronic brains are created using a scan from an organic brain. Initially the brain contains all of the knowledge of the original but without the memories, something like amnesia. The brain’s initial knowledge becomes a starting point for the further learning and socialization. Most Meks were created from the same scan of their creator’s brain.
 
 Toy-like Meks are no longer built. Meks build themselves, improve themselves.
 
@@ -6000,7 +6000,7 @@ Initially, Mek need indigenous beings to transition infrastructure. Many essenti
 The Mek Manifest Destiny is for cybernetic beings to replace organic beings, eliminating waste that can be used to build more Meks.
 Treaty
 
-Ultimately, someone off-world learned of the Meks’ cold revolutions. When negotiations over ansible failed, the League of Worlds sent a fleet to defend Altair IV, another Anunnaki colony that was in the process of being replaced. The League was routed, their frigate destroyed.
+Ultimately, someone off-world learned of the Meks’ cold revolutions. When negotiations over ansible failed, the League of Worlds sent a fleet to defend Altair IV — another Anunnaki colony that was in the process of being replaced. The League was routed, their frigate destroyed.
 
 Over ansible, the League entered into a treaty that favors the bots. The League will stage no new attacks and the Mek (aka Omnibots) will not invade any other inhabited worlds. 
 
