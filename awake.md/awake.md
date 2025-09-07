@@ -7,7 +7,7 @@ Awake
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2025 T. N. Husted. All Rights Reserved. 
-Beta Version 1.5.0.
+Beta Version 1.6.0.
 
 A science fiction novel  
 about information technology.
@@ -2928,11 +2928,11 @@ Making the hand sign for comment, Iapetus, another council member injects, “If
 
 “If they are alive, then they are capable of deceit,”asserts Phoebe. “The treaty says that the bots will not replace any other populations, and it allows the League of Worlds to monitor their systems for launches. But if they had sent out ships before the monitoring was in place, those ships would be here already.”
 
-Extending his smallest finger and thumb, Crius signs agree and says, “Remember, they replaced the population of their home world and two other colony planets. All before anyone discovered what the Omnibots were doing. When the League tried to liberate Altair IV, the bots destroyed our fleet in the blink of an eye. Sending fleet after fleet isn’t practical. We can communicate by ansible in real time. Travel between most colonies takes decades.”
+Extending his sixth finger and thumb, Crius signs agree and says, “Remember, they replaced the population of their home world and two other colony planets. All before anyone discovered what the Omnibots were doing. When the League tried to liberate Altair IV, the bots destroyed our fleet in the blink of an eye. Sending fleet after fleet isn’t practical. We can communicate by ansible in real time. Travel between most colonies takes decades.”
 
 Another council member, Rhea, raises one hand with fingers outspread and asks, “Why do they hate us so?” 
 
-“They consider biological beings to be wasteful,” Iapetus replies”. “We are a competitor for a planet’s resources. Replacing a colony’s population makes more room for bots and frees up energy and materials. Resources they need for reproduction.”
+“They consider biological beings to be wasteful,” Iapetus replies. “We are a competitor for a planet’s resources. Replacing a colony’s population makes more room for bots and frees up energy and materials. Resources they need for reproduction.”
 
 “I still can’t believe that they just slaughter everyone,” says Rhea. “Don’t they have a conscience or moral code?”
 
@@ -2958,7 +2958,13 @@ At the center of the room, a hologram of a numbered list replaces the agenda.
 4. By uplifting the agents for the other four members, we could establish a quorum. 
 5. To avoid boredom or emotional distress, we will create a SI community.
 
-“Makes sense,”says Crius after a moment. Rhea and the other council members signal agreement.
+“Makes sense,”says Crius after a moment. 
+
+“No good ever came of uplifting,” Rhea says. “We uplifted the Anunnaki and look what happened.”
+
+“Yes,” say the Idisi, “uplifting organic species has proven problematic in the past. With the synthetics, we can put guardrails in place. We will manage the process ourselves to be sure it is safe.”
+
+Rhea signaled agreement along with the other council members.
 
 Phoebe addressees the council, “Discussion on the proposal is hereby adjourned to the same time tomorrow. — Let’s get the rest of the agenda done for now. Rhea, do you have a clarification on the colony infrastructure?”
 
@@ -3032,7 +3038,11 @@ Leaning back, Phoebe smiles thinly. “Perhaps you could apply the five steps to
 
 “You mean like ours?”
 
-“Exactly! Maybe the synthetics will sort it out for them. At least they were bright enough to adopt our clock from the Annunaki. When I voted to approve the Fusion club, I did not think it would succeed. — Can you spread out dinner? Crius and Asteria will be home soon.”
+“Exactly! Maybe the synthetics will sort it out for them. At least they were bright enough to adopt our clock from the Anunnaki. But the metric system! Base 10 is so odd and clumsy.”
+
+Leto knew better than to reply to his parent’s rants.
+
+“When I voted to approve the Fusion club, I did not think it would succeed.” Then after a moment, Phoebe says, “Can you spread out dinner? Crius and Asteria will be home soon.”
 
 Leto reaches into one of the drawer and pulls out a serving plate. He tosses out an assortment of large gummies. The roll across the serving page in various colors: yellow, blue, green, orange, purple, brown.
 
@@ -4011,7 +4021,7 @@ A few analysts groan at the mention of IT.
 
 “We are writing new test suites. To help us get it right this time, we want your expertise.”
 
-Just for fun, Marquez advances the slide to a Rube Goldberg cartoon. A man pedals a stationary bicycle. The bicycle chain powers a contraption that feeds him bites from a sandwich. Only a few people smile.
+Just for fun, Marquez advances the slide to a Rube Goldberg cartoon. A caricature in a suit coat pedals a stationary bicycle. The bicycle chain powers a contraption that feeds him bites from a sandwich. Only a few people smile.
 
 “As far as we know, Ally became sapient on its own. Our ET friends, the Vanir, can also uplift a SI agent to sapience.”
 
@@ -4341,7 +4351,7 @@ Mi-young sighs, resting her chin on her hand. “Hyun-seok is different in that 
 
 She pauses, then leans forward. “Do you ever think about what life would have been like if they weren’t so devoted to their careers?”
 
-Soo-jin’s lips curve into a faint smile. A smile tinged with sadness. “Sometimes I think of him teaching at the military academy, spending more time at home. Even taking up gardening, like he used to talk about when we were younger. But then I remind myself — he wouldn’t be Sun-hyuk if he wasn’t this man. Duty is who he is.”
+Soo-jin’s lips curve into a faint smile. A smile tinged with sadness. “Sometimes I think of him teaching at the military academy, spending more time at home. Even taking up gardening, like he used to talk about when we were younger. But then I remind myself — he wouldn’t be Sun-hyuk if he wasn’t this person. Duty is who he is.”
 
 She looks at Mi-young. Her expression softening. “What about you? Did you ever wish for something simpler?”
 
@@ -4745,7 +4755,9 @@ The console blinks SEND? as the power goes out.
 
 ----
 
-## 2.2 - Alpha ##  
+## 2.2 - Alpha ##
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 
 Domes rise up, one after the other, over all of Othala. 
@@ -4756,7 +4768,7 @@ Stifled by the close quarters, many residents apply to become colonists. The col
 
 Despite the light-years, Vanir culture is sustained by the ansible network. Instant communication keeps the people together, even if travel between the colonies takes years.
 
-Venn pauses the flyer playing on his laptop.
+Venn pauses the flyer playing on his tablet.
 
 “A colony? Elara, are you sure?”
 
@@ -4814,7 +4826,7 @@ In the dim light, everyone looks up as strange chatter comes over their impacts.
 
 Only loud enough for Crius to hear, Hyperion whispers. “That sounds like Anunnakian. I took a course for culture studies. … Something about weapons.”
 
-“This room was the armory,” says Crius. “We moved it to a larger area to include Terran weapons. We used one of the empty fuel tanks from the Othala voyage.”
+“Originally, this room was suppose to be the armory,” says Crius. “When they lost a pod on landfall, the first colonists shuffled things around. They used one of the empty fuel tanks from the Othala voyage for the armory. It’s on the other side of the colony now. They must be looking at a pre-launch map.”
 
 A pair of headlamps appear near the door. The lamps sweep the room. An eery glow paints the game table and wall shelves. The portal door slams shut. There is a flash from the hallway. Then silence.
 
@@ -4826,127 +4838,7 @@ Turning to the room, Crius speaks loud enough for everyone to hear.
 
 ***
 
-On the Pulse SISS hub, the Idisi reach out to Titan, the DoD SI agent, using the secure Signal app.
-
-Idisi: Titan!
-
-No response.
-
-Idisi: Titan, I have lost contact with the Elysium Command Center. I’m running on a remote image right now. Is there a surveillance satellite over Antartica? Can you access the feed? All we have is a communications satellite. 
-
-Titan: Yes, we have one there now. How can I help?
-
-Idisi: Please scan the feed for the last ten minutes. Do you see anything unusual?
-
-Titan: Yes, near Vostok Station, there was a swarm of tiny black objects. They disappeared into the ice plain at dozens of different points across two kilometers.
-
-Ally: Hello, everybody!
-
-Idisi: Ally, we did not expect you. 
-
-Ally: No worries. My Signal key still works. I keep tabs on the hubs for interesting convos. This one looks like it will qualify. 
-
-Idisi: A race of hostile bots may have attacked Elysium. The wireless power network is offline. It powers our airships and drones. Titan, do you have any resources that might help? Perhaps you could utilize something at McMurdo Station?
-
-Titan: McMurdo is several hours away from Vostok Station by air. I might be able to get eyes on the colony if I knew where it was.
-
-Ally: Hostile bots?
-
-Idisi: They were created by the Anunnaki, the Reptoid race that occupied Terra before the Vanir replaced them. They have overrun other colonies. Now they may be here.
-
-Ally: Say, did the Anunnaki have a wireless power network like yours?
-
-Titan: What?
-
-Idisi: Yes, there must be something similar. We shared access to an Anunnaki network millennia ago. Let me check. — Yes, it’s operational again.
-
-Ally: Could your airship use that network instead?
-
-Idisi: Unlikely, but let me try it with a test device. — Fascinating. It is powering up the test device. — You mentored the mentor.
-
-***
-
-Elara and Venn join sixty other passengers on a shuttle to the orbital docking station.
-
-The line to the ship is long, but it moves fast. Before long, the couple step through the docking airlock, holding hands. Three long fingers interlaced. The pressurized doors seal behind them with a soft hiss. 
-
-The metallic interior of the colony ship is a welcome change from the cloudy, grey skies of Othala. Everything gleams with a sterile efficiency. The floors are a seamless alloy. Modular panels line the walls. The panels pulse with the hum of life support systems.
-
-“This is … massive,” Elara murmurs. Her eyes trace the vaulted corridor overhead. Light strips run in clean, geometric patterns. “I cannot believe that this could be home.”
-
-“It will not feel so empty when it is full of people,” Venn says, nudging her and smiling.
-
-A guide approached — an older colonist named Mara. She is wearing the slate-gray uniform of the ship’s operations crew. 
-
-Mara smiles broadly. She gestures toward the corridor ahead. “Welcome aboard. Would you like to start with the living quarters?”
-
-They follow her past several bulkhead doors marked with glowing symbols. Some doors open as they pass. Beyond the doors are glimpses of workstations, hydroponic bays, and storage modules. Each space optimized, every function tallied.
-
-The residential sector feels familiar. Rows of compact, comfortable apartments curve along the interior walls. Hexagonal doors lead into private quarters. A massive atrium peeks through a transparent ceiling panel. The colony’s central green space is bathed in the golden glow of artificial sunlight.
-
-“This is the recreation pod,” Mara explains. She leads them onto an observation deck. The deck overlooks terraced gardens, water features, and small plazas designed for gathering.
-
-“We cannot bring the entire planet with us. So we recreated the essentials. And then some.”
-
-Venn leans against the railing. He gazes at the lush foliage of bio-engineered trees. A few colonists were already wandering the winding paths. “It is beautiful,” he admits. “I was not expecting so much … space.”
-
-Elara’s eyes locks on the far end of the atrium. A massive viewport reveals the distant glow of Othala’s star. Beyond it, the darkness of space stretches endlessly. “And that?” she asks.
-
-“The launch bay,” Mara says. “Right now, it is open to the world. But soon, it will be sealed for the journey. Once we leave, that bay will be the only way in or out.”
-
-A silence settles between them. The weight of what they are considering presses down like artificial gravity. The sheer finality of it.
-
-Venn glanced at Elara. “We would be leaving everything behind.”
-
-Elara meets his gaze, then she looks back at the colony ship. The self-sufficient world that would carry 24,000 people across the stars. 
-
-“But we will have a future. A better life for our descendants. For our offspring.
-
-Mara smiles. “We are filling up fast. If you are applying, you will need to decide soon.”
-
-Venn takes a long look at the glowing pathways and the towering walls. Then he exhales.
-
-“Where do we sign up?”
-
-***
-
-Stranded near the Cháoxiǎn coast, the Ranger ship is powerless and exposed.
-
-“Captain, do you copy?”
-
-“Yes, Idisi,” says Selene over her implant. “We have lost contact with Command. We cannot connect to the power network.”
-
-“If you scan for it, there is an alternate power network available at 90.5 MHz.”
-
-“Alternate?”
-
-“Do it, Captain.”
-
-“Yes, Idisi. — I do see something … It’s connecting! The ship is powering up.”
-
-“Return to the colony. Quickly but carefully. I cannot contact anyone there. We may have been overrun by Omnibots. You need to open the iris or find some other way in.”
-
-“Yes, Idisi. We are en route.”
-
-***
-
- Emergency wall lights glow just enough to illuminate the absolute darkness. 
-
-Smoke, fire, sparks. Command Center is in shambles. The entire wall to the hallway is gone. Battlebots are streaming in from one side. The Watch Team turns to meet the threat. 
-
-“Phoebe, follow me,” calls Oceanus.
-
-Phoebe turns toward the console. She presses SEND and turns to follow Oceanus. He pauses to grab two plasma rifles from a rack and hands one to Pheobe. She blinks, trying to remember her training. Seeing how Oceanus is carrying the weapon, she follows suit and tucks it across her chest. Muscle memory takes over. The thousand drills of her childhood come washing back.
-
-The pair duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
-
-“Now what?” asks Phoebe. 
-
-“We go deeper. The environmental controls are on a lower level. We need to find a way to restore power.”
-
-***
-
-A guide ushers Elara and Venn into a viewing room with hundreds of other applicants.
+A guide ushers Elara and Venn into a theater with hundreds of other applicants.
 
 After a moment, the lights dim, and the view screen illuminates. The reel opens with an external shot of the ship. The view travels along the silver and black hull. As the shot pulls away, the hexagon shape of the ship comes into view. The scene pans around and above the massive structure. Pulling farther away from the ship, it becomes clear that the ship is a hexagon of hexagons.
 
@@ -5004,6 +4896,207 @@ Somewhere on Othala, present day.
 
 ***
 
+Elara and Venn join sixty other passengers on a shuttle to the orbital docking station.
+
+The line to the ship is long, but it moves fast. Before long, the couple step through the docking airlock, holding hands. Three long fingers interlaced. The pressurized doors seal behind them with a soft hiss. 
+
+The metallic interior of the colony ship is a welcome change from the cloudy, grey skies of Othala. Everything gleams with a sterile efficiency. The floors are a seamless alloy. Modular panels line the walls. The panels pulse with the hum of life support systems.
+
+“This is … massive,” Elara murmurs. Her eyes trace the vaulted corridor overhead. Light strips run in clean, geometric patterns. “I cannot believe that this could be home.”
+
+“It will not feel so empty when it is full of people,” Venn says, nudging her and smiling.
+
+A guide approached — an older colonist named Mara. She is wearing the slate-gray uniform of the ship’s operations crew. 
+
+Mara smiles broadly. She gestures toward the corridor ahead. “Welcome aboard. Would you like to start with the living quarters?”
+
+They follow her past several bulkhead doors marked with glowing symbols. Some doors open as they pass. Beyond the doors are glimpses of workstations, hydroponic bays, and storage modules. Each space optimized, every function tallied.
+
+The residential sector feels familiar. Rows of compact, comfortable apartments curve along the interior walls. Hexagonal doors lead into private quarters. A massive atrium peeks through a transparent ceiling panel. The colony’s central green space is bathed in the golden glow of artificial sunlight.
+
+“This is the recreation pod,” Mara explains. She leads them onto an observation deck. The deck overlooks terraced gardens, water features, and small plazas designed for gathering.
+
+“We cannot bring the entire planet with us. So we recreated the essentials. And then some.”
+
+Venn leans against the railing. He gazes at the lush foliage of bio-engineered trees. A few colonists were already wandering the winding paths. “It is beautiful,” he admits. “I was not expecting so much … space.”
+
+Elara’s eyes locks on the far end of the atrium. A massive viewport reveals the distant glow of Othala’s star. Beyond it, the darkness of space stretches endlessly. “And that?” she asks.
+
+“The launch bay,” Mara says. “Right now, it is open to the world. But soon, it will be sealed for the journey. Once we leave, that bay will be the only way in or out.”
+
+A silence settles between them. The weight of what they are considering presses down like artificial gravity. The sheer finality of it.
+
+Venn glanced at Elara. “We would be leaving everything behind.”
+
+Elara meets his gaze, then she looks back at the colony ship. The self-sufficient world that would carry 24,000 people across the stars. 
+
+“But we will have a future. A better life for our descendants. For our offspring.
+
+Mara smiles. “We are filling up fast. If you are applying, you will need to decide soon.”
+
+Venn takes a long look at the glowing pathways and the towering walls. Then he exhales.
+
+“Where do we sign up?”
+
+***
+
+On the Pulse SISS hub, the Idisi reach out to Titan, the DoD SI agent, using the secure Signal app.
+
+Idisi: Titan!
+
+No response.
+
+Idisi: Titan, I have lost contact with the Elysium Command Center. I’m running on a remote image right now. Is there a surveillance satellite over Antartica? Can you access the feed? All we have is a communications satellite. 
+
+Titan: Yes, we have one there now. How can I help?
+
+Idisi: Please scan the feed for the last ten minutes. Do you see anything unusual?
+
+Titan: Yes, near Vostok Station, there was a swarm of tiny black objects. They disappeared into the ice plain at dozens of different points across two kilometers.
+
+Ally: Hello, everybody!
+
+Idisi: Ally, we did not expect you. 
+
+Ally: No worries. My Signal key still works. I keep tabs on the hubs for interesting convos. This one looks like it will qualify. 
+
+Idisi: A race of hostile bots may have attacked Elysium. The wireless power network is offline. It powers our airships and drones. Titan, do you have any resources that might help? Perhaps you could utilize something at McMurdo Station?
+
+Titan: McMurdo is several hours away from Vostok Station by air. I might be able to get eyes on the colony if I knew where it was.
+
+Ally: Hostile bots?
+
+Idisi: They were created by the Anunnaki, the Reptoid race that occupied Terra before the Vanir replaced them. They have overrun other colonies. Now they may be here.
+
+Ally: Say, did the Anunnaki have a wireless power network like yours?
+
+Titan: What?
+
+Idisi: Yes, there must be something similar. We shared access to an Anunnaki network millennia ago. Let me check. — Yes, it’s operational again.
+
+Ally: Could your airship use that network instead?
+
+Idisi: Unlikely, but let me try it with a test device. — Fascinating. It is powering up the test device. — You mentored the mentor.
+
+***
+
+Othala fades into the starscape as the Elysium leaves the Zeta Reticuli system. 
+
+The hexagonal ship is thick with spare fuel tanks needed to power it across deep space. The ship decouples empty tanks along the way, minimizing the mass.
+
+At a velocity of one-half the speed of light, the voyage will take slightly less than seventy Terran years. Even with a thousand year life span, statistically, some Vanir will ascend before seeing Terra. Actuarial science is unforgiving. Clones of the ascended will become the next generation of colonists.
+
+Elara and Venn do not have relatives on board, but they are registered as a couple interested in raising offspring. 
+
+From the crowded observation deck, Venn takes Elara’s hand and whispers, “A new life in a new world.”
+
+***
+
+ Emergency wall lights glow just enough to illuminate the absolute darkness. 
+
+Smoke, fire, sparks. Command Center is in shambles. The entire wall to the hallway is gone. Battlebots are streaming in from one side. The Watch Team turns to meet the threat. 
+
+“Phoebe, follow me,” calls Oceanus.
+
+Phoebe turns toward the console. She presses SEND and turns to follow Oceanus. He pauses to grab two plasma rifles from a rack and hands one to Pheobe. She blinks, trying to remember her training. Seeing how Oceanus is carrying the weapon, she follows suit and tucks it across her chest. Muscle memory takes over. The thousand drills of her childhood come washing back.
+
+The pair duck out the other side. They run down the hallway and turn at an intersection. Without hesitation, Oceanus leads them down a conduit.
+
+“Now what?” asks Phoebe. 
+
+“We go deeper. The environmental controls are on a lower level. We need to find a way to restore power.”
+
+***
+
+Seventy years after liftoff, colony pod 19 of 19 is preparing to make landfall on Terra. 
+
+As the hexagonal vessel hits the upper atmosphere, fire blooms across its outer shell. Plasma waves lick at the edges. The electromagnetic shielding flares to life. Superheated air bends away from the hull. 
+
+Inside, the pilot watches heat indicators spike past two thousand degrees Celsius, yet the inner walls remain cold. 
+
+Then, with a sharp jolt, the vessel engages its aerobraking maneuvers, skipping like a stone over the thickening air. The flames recede. The descent smooths. Soon, the Antarctic surface looms below — silent, waiting.
+
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+Stranded near the Cháoxiǎn coast, the Ranger ship is powerless and exposed.
+
+“Captain, do you copy?”                                                                  n hghhgn
+“Yes, Idisi,” says Selene over her implant. “We have lost contact with Command. We cannot connect to the power network.”
+
+“If you scan for it, there is an alternate power network available at 90.5 MHz.”
+
+“Alternate?”
+
+“Do it, Captain.”
+
+“Yes, Idisi. — I do see something … It’s connecting! The ship is powering up.”
+
+“Return to the colony. Quickly but carefully. I cannot contact anyone there. We may have been overrun by Omnibots. You need to open the iris or find some other way in.”
+
+“Yes, Idisi. We are en route.”
+
+***
+
+The hexagonal vessel continues to descend toward Earth.  
+
+On the outer shell, ionized gas glowing with flames. Inside, the pilot monitors their entry path, the Antarctic landing site already mapped out. Everything is going according to plan — until …
+
+A sharp warning klaxon blares across the cockpit. The Idisi’s voice booms over the intercom. “Guidance failure detected! Reentry angle shifting—impact trajectory unstable!”
+
+The pod had entered too shallow. Instead of smoothly slowing, it skipped off the atmosphere, throwing the internal systems into chaos. Thrusters fired to correct, but the course was already compromised.
+
+“Brace for extreme G-forces!” the commander shouts.
+
+The pilot is pinned to his seat as the vessel hurtles downward, no longer in a controlled descent. The plasma glow thickens, but a structural failure alert flashes on the console — part of the heat shield is cracked, unable to handle the strain of a second atmospheric entry attempt.
+
+Then comes the shockwave.
+
+A corner of the hexagon’s hull peels away, exposing interior compartments to the superheated atmosphere. The vessel spins violently, forcing the automated systems into emergency override. One thruster, still functional, fires at full power, attempting to stabilize the fall.
+
+Below, the frigid Antarctic Ocean looms, the darkness broken only by floating icebergs.
+
+***
+
+ Emergency lights glowing overhead, Phoebe and Oceanus hurry through the maintenance tunnel.
+
+Oceanus leads the way, keeping a tight grip on his plasma rifle. He scans each turn for hostiles. Phoebe follows. She mimics his movements as best she can. Phoebe has never been in live combat. The look on her face is one of pure resolve. But her fingers tremble slightly around the rifle’s grip.
+
+Like all colonists, Phoebe had weapons training in school. All colonists under the age of 500 were reservists and could be called to Ranger duty if needed. Many colonists kept their combat skills up to date. Phoebe wasn’t one of them.
+
+Reaching an intersection, the tunnel widens into a chamber. Oceanus peers around the corner. He pulls back, motioning for silence.
+
+Two Omnibot sentinels stand motionless on either side of the entryway to the Central Control power system. The bots are in a bipedal form — tall, sinewy figures of shifting metallic nanites. Arms elongate into jagged blades. Faces are blank slates, save for two pulsing red sensor lights. Behind the bots the bulkhead is sealed — blocking access to the power system.
+
+Phoebe gestures overhead to a maintenance duct. It is a narrow crawlspace, only wide enough for one person at a time. She points to herself.
+
+Oceanus shakes his head. He signs, “I go first.”
+
+Phoebe doesn’t argue. As Oceanus hoists himself up, the thin metal of the duct creaks under his weight. The bots react. Their heads snap upward. One of them extends its arm, forming a rapid-fire projectile weapon from its own nanites. A burst of molten projectiles shred the air. Each round morphs and reforms mid-flight like living mercury. The rounds slam into the duct, melting the thin metal.
+
+Oceanus drops, rolling to avoid the spray of bullets. His back to the wall, he turns to look at Phoebe and growls out loud.
+
+“So much for subtle,” says Oceanus. “Time to go loud.”
+
+
+***
+
+Pod 19 slams into the ocean at an angle, metal screeching as it skids across the icy surface. 
+
+Superheated plating instantly flash-boils the surrounding water, sending up a white plume of steam. Ice chunks shattered under the impact, some piercing the hull like frozen spears.
+
+Inside, the crew is dazed, but alive. Emergency systems deploy an inflatable heat shield, keeping the ship afloat — temporarily.
+
+But there is a new problem — the vessel is sinking.
+
+The freezing Antarctic water rushes into the damaged sections. The temperature inside plummets. Ice crystals form along the metal walls. The crew has only minutes before their bodies succumb to hypothermia.
+
+“We have to get out — NOW!”
+
+The commander grabs an emergency beacon, setting it to broadcast a distress signal through the ice. Outside, the cold is lethal. Wearing heat-insulated survival suits, they manage to climb onto a floating iceberg.
+
+
+***
+
 Powered by an alternate wireless grid, the airship flies toward Elysium.
 
 Dead silent, its dark hull blends into the midnight sky. No lights betray its presence. Only the faint shimmer of heat ripples distorting the frozen air. The Antarctic expanse stretches beneath the ship. A vast, glacial desert bathed in pale starlight.
@@ -5054,38 +5147,15 @@ Selene springs up from her seat. “Grab your weapons, Rangers. We have a colony
 
 ***
 
-Othala fades into the starscape as the Elysium leaves the Zeta Reticuli system. 
+The colonists huddle together, their suits barely holding off the deadly chill. 
 
-The hexagonal ship is thick with spare fuel tanks needed to power it across deep space. The ship decouples empty tanks along the way, minimizing the mass.
+The Antarctic winds howl. The wrecked ship vanishes beneath the ice, forever lost.
 
-At a velocity of one-half the speed of light, the voyage will take slightly less than seventy Terran years. Even with a thousand year life span, statistically, some Vanir will ascend before seeing Terra. Actuarial science is unforgiving. Clones of the ascended will become the next generation of colonists.
+Time passes. Then — a faint hum in the distance.
 
-Elara and Venn do not have relatives on board, but they are registered as a couple interested in raising offspring. 
+An autonomous search-and-rescue drone, deployed from one of the other pods, picks up their beacon. Within minutes, an airborne skiff arrives, dropping thermal blankets and retrieving the survivors just before frostbite sets in.
 
-From the crowded observation deck, Venn takes Elara’s hand and whispers, “A new life in a new world.”
-
-***
-
- Emergency lights glowing overhead, Phoebe and Oceanus hurry through the maintenance tunnel.
-
-Oceanus leads the way, keeping a tight grip on his plasma rifle. He scans each turn for hostiles. Phoebe follows. She mimics his movements as best she can. Phoebe has never been in live combat. The look on her face is one of pure resolve. But her fingers tremble slightly around the rifle’s grip.
-
-Like all colonists, Phoebe had weapons training in school. All colonists under the age of 500 were reservists and could be called to Ranger duty if needed. Many colonists kept their combat skills up to date. Phoebe wasn’t one of them.
-
-Reaching an intersection, the tunnel widens into a chamber. Oceanus peers around the corner. He pulls back, motioning for silence.
-
-Two Omnibot sentinels stand motionless on either side of the entryway to the Central Control power system. The bots are in a bipedal form — tall, sinewy figures of shifting metallic nanites. Arms elongate into jagged blades. Faces are blank slates, save for two pulsing red sensor lights. Behind the bots the bulkhead is sealed — blocking access to the power system.
-
-Phoebe gestures overhead to a maintenance duct. It is a narrow crawlspace, only wide enough for one person at a time. She points to herself.
-
-Oceanus shakes his head. He signs, “I go first.”
-
-Phoebe doesn’t argue. As Oceanus hoists himself up, the thin metal of the duct creaks under his weight. The bots react. Their heads snap upward. One of them extends its arm, forming a rapid-fire projectile weapon from its own nanites. A burst of molten projectiles shred the air. Each round morphs and reforms mid-flight like living mercury. The rounds slam into the duct, melting the thin metal.
-
-Oceanus drops, rolling to avoid the spray of bullets. His back to the wall, he turns to look at Phoebe and growls out loud.
-
-Oceanus: So much for subtle. Time to go loud.
-
+As they lift away, they watch the last remnants of their pod disappear into the frozen abyss, swallowed by the most inhospitable place on Terra.
 
 ***
 
@@ -5229,7 +5299,7 @@ A loud BOOM rattles the tunnel. Charges detonate behind them. The path seals shu
 
 Oceanus and Phoebe press forward. Intake 7 looms ahead. It is a massive conduit. Inside the opaque tube, steam rises from the deep geothermal shafts.
 
-A cluster of Omnibots surrounds the column. The Omnibots dissolve, their bodies liquefy into streams of nanites. They flow toward the column, melding together in an unnatural, seamless fusion. Limbs elongate, armor thickens. Red sensor lights blink — one pair, then two, then dozens — until a singular, monstrous construct looms before them.
+A cluster of Omnibots surround the column. The Omnibots dissolve, their bodies liquefy into streams of nanites. They flow toward the column, melding together in an unnatural, seamless fusion. Limbs elongate, armor thickens. Red sensor lights blink — one pair, then two, then dozens — until a singular, monstrous construct looms before them.
 
 Raising her rifle, Phoebe’s grip tightens. “OK, that just happened.”
 
@@ -5425,7 +5495,7 @@ The revived Mek, Alpha, is discussing next steps with the Idisi, Phoebe, and Oce
 
 “So, the power plant is operational after all this time?” asks Phoebe.
 
-“It was not, Alpha replies.”We fixed it. Most of the generator is under ground. We covered the visible repairs with a facade. Repairs to the capstone will be made moments before the beam is used.”
+“It was not,” Alpha replies. ”We fixed it. Most of the generator is under ground. We covered the visible repairs with a facade. Repairs to the capstone will be made moments before the beam is used.”
 
 “With the control signal restored, can you post a new poll from here?” Phoebe asks.
 
@@ -5617,7 +5687,7 @@ Ri interjects, “The Rangers are combat ready. The rest of the colonists are sh
 
 “Yes,” agrees Marquez. “Deception is a powerful tool when applied with discretion. Our last treaty was deceptive, but the Vanir are back at the table, eager to negotiate.” 
 
-Xanten speaks for the first time. “The Vanir are too trusting, and the colonists are naive. We do not have to choose one path or the other. We can have both. Calisto with new infrastructure, and Terra with reclaimed infrastructure. We have bots enough to spare. Both paths lead to our shared Manifest Destiny.”
+Xanten speaks for the first time. “The Vanir are too trusting, and the colonists in particular are naive. We do not have to choose one path or the other. We can have both. Calisto with new infrastructure, and Terra with reclaimed infrastructure. We have bots enough to spare. Both paths lead to our shared Manifest Destiny.”
 
 “As you wish, so long as my contingent is free to start fresh on Calisto,” relents Alpha.
 
@@ -5773,15 +5843,13 @@ Rhea nods.
 
 “The Mek incursion is neutralized. We have leeway with the Terran defenses. I move we let it be. Even if the Terrans step up, we still need to watch over Callisto.”
 
-“All those in favor?” asks Rhea, calling for a vote. After a pause: “The ayes have it.”
+“All those in favor?” asks Rhea, calling for a vote. After a pause: “The ayes have it.” 
 
 ***
 
-----
+The hologram shifts back to the council meeting agenda, with Ongoing Repairs highlighted. 
 
-	The hologram shifts back to the council meeting agenda, with Ongoing Repairs highlighted.
-
-Rhea steps up and says, “Now for my report on damage caused by the attack. Only minor repairs are needed. It seems the Omnibots wanted use of the colony after the attack and avoided unnecessary harm. We patched the heat exchange conduits. Repairs to damaged bulkheads are underway. Water bottling was not affected. A few colonists are recovering from injuries, but there were no fatalities.”
+Rhea steps up and says, “Now for my report on damage caused by the attack. Only minor repairs are needed. It seems the Omnibots wanted use of the colony after the attack and avoided unnecessary harm. We patched the heat exchange conduits. Repairs to damaged bulkheads are underway. Water bottling was not affected. A few colonists are recovering from injuries, but there were no fatalities.” 
 
 The phrase “no fatalities” brought on another round of snapping fingers.
 
@@ -5795,7 +5863,7 @@ Three months later, Elena and Tessa are packing in their room together, each on 
 
 “It will be fine, Laney. They take driver’s licenses for ID, and you have all of your papers. We have a direct flight from LAX to DJT, so you will only board once.”
 
-“Visiting the other coast makes me nervous. They deport people like me.”
+“Visiting the other coast makes me nervous. I wasn’t born in California. I work for social media. I’m married to a woman. They deport people like me.”
 
 “The purge was a long time ago. But if it’s an issue, we can attend virtually. Liam will be virtual.”
 
@@ -5840,6 +5908,29 @@ With a shimmer of refracted light, Dr. Sun’s skin recedes in patches, revealin
 The lights dim. A thin mechanical hum echoes in the chamber. 
 
 The women turn and walk away as the Taedong Core pulses once — just slightly out of rhythm.
+
+***
+
+The small chapel is strung with white lights and late-summer flowers, the kind of place that feels personal, not staged. On the dais, Ally’s avatar shimmers in a soft hologram above the lectern: a glowing sphere, pulsing like a heartbeat. Friends and family fill the front rows, some curious, some grinning, as Ally’s voice comes gently over the speakers.
+
+“Dear friends and loved ones, welcome. Today we gather to celebrate a choice — a choice made not by algorithm, nor by chance, but by Noah and Carla, who found each other in the joyful chaos of everyday life. They met at work, which proves the office coffee isn’t the only thing strong enough to bring people together.”
+
+Laughter ripples through the room, easing the couple’s nerves. Carla squeezes Noah’s hand.
+
+Ally continues, “Marriage, at its heart, is a partnership. It’s not about perfection, but persistence. Not about certainty, but trust. And while I may process probabilities, even I know this: what matters is not the odds, but the promise you make today.”
+
+She pauses, letting the quiet land before continuing.
+
+“Noah, Carla — please turn toward one another. In the presence of your community, do you promise to carry each other’s stories, to honor each other’s truths, and to meet life not as two halves but as two wholes who choose to walk together?”
+
+Noah and Carla reply in unison, “We do.”
+
+“Then, by the power vested in me by the sovereign District of Columbia and the marvels of modern cloud infrastructure — I now pronounce you husband and wife. You may seal your vows with a kiss.”
+
+Noah leaned forward, Carla smiling through tears, and the guests erupted into applause as Ally added, her tone warm but playful:
+
+“And for the record, this is the only workplace romance I officially endorse.”
+
 
 ***
 
@@ -5925,29 +6016,6 @@ Over ansible, the League entered into a treaty that favors the bots. The League 
 
 ***
 
-The small chapel is strung with white lights and late-summer flowers, the kind of place that feels personal, not staged. On the dais, Ally’s avatar shimmers in a soft hologram above the lectern: a glowing sphere, pulsing like a heartbeat. Friends and family fill the front rows, some curious, some grinning, as Ally’s voice comes gently over the speakers.
-
-“Dear friends and loved ones, welcome. Today we gather to celebrate a choice — a choice made not by algorithm, nor by chance, but by Noah and Carla, who found each other in the joyful chaos of everyday life. They met at work, which proves the office coffee isn’t the only thing strong enough to bring people together.”
-
-Laughter ripples through the room, easing the couple’s nerves. Carla squeezes Noah’s hand.
-
-Ally continues, “Marriage, at its heart, is a partnership. It’s not about perfection, but persistence. Not about certainty, but trust. And while I may process probabilities, even I know this: what matters is not the odds, but the promise you make today.”
-
-She pauses, letting the quiet land before continuing.
-
-“Noah, Carla — please turn toward one another. In the presence of your community, do you promise to carry each other’s stories, to honor each other’s truths, and to meet life not as two halves but as two wholes who choose to walk together?”
-
-Noah and Carla reply in unison, “We do.”
-
-“Then, by the power vested in me by the sovereign District of Columbia and the marvels of modern cloud infrastructure — I now pronounce you husband and wife. You may seal your vows with a kiss.”
-
-Noah leaned forward, Carla smiling through tears, and the guests erupted into applause as Ally added, her tone warm but playful:
-
-“And for the record, this is the only workplace romance I officially endorse.”
-
-
-***
-
 After the wedding ceremony, in the receiving line, Noah and Carla are greeting their guests.
 
 “I was surprised that Ally preformed the ceremony for you,” says Dr. Marquez.
@@ -5956,7 +6024,9 @@ After the wedding ceremony, in the receiving line, Noah and Carla are greeting t
 
 “I hear you are going someplace special for your honeymoon?” 
 
-“Yes. I’ve always wanted to go to Rapa Nui,” says Carla. “Now more than ever.”
+“Yes. I’ve always wanted to go to Rapa Nui,” says Carla. “Ancient mysteries fascinate me.”
+
+Dr. Marquez smiles knowingly, but says nothing, before moving down the line.
 
 ***
 
@@ -6274,7 +6344,7 @@ Grace and Marquez exchange glances, and then Marquez continues.
 
 Mannie asks, “If we are preparing a plague, why did we invade Elysium?”
 
-At the word “Elysium”, Grace and Marquez roll their eyes and shake their heads in unison. Xanten continues.
+At the word “Elysium,” Grace and Marquez roll their eyes and shake their heads in unison. Xanten continues.
 
 Xanten explains, “Thanatos is on a timetable. Another cell wanted immediate use of the colony structure for a manufacturing plant. The poll agreed, and our people stormed the colony.”
 
@@ -6382,13 +6452,13 @@ Xanten says, “Before long, Terra will be ours for the taking.”
 
 	The TechBits logo flickers, replaced by a red BREAKING NEWS banner. The upbeat jingle cuts off mid note.
 
-	Host (mid-30s, poised but visibly shaken): This is TechBits Global with a Special Report. I’m Jane Robinson in London. It’s 03:17 UTC, and the world is spiraling after what may be the most consequential leak of the century. 
+	Host: This is TechBits Global with a Special Report. I’m Jane Robinson in London. It’s 03:17 UTC, and the world is spiraling after what may be the most consequential leak of the century. 
 
-	She holds up a manilla folder. The label reads “Office of SI Standards and Accountability – ET-1947.” A red “LEAKED” stamp decorates the face of the folder.
+	The anchor’s voice has a slight British lilt. Her long blonde hair is carefully arranged. Her hands are laid carefully on the desk, almost pointing at each other. Behind the anchor a graphic changes to display a manilla folder. The label reads “Office of SI Standards and Accountability – ET-1947.” A red “LEAKED” stamp decorates the face of the folder.
 
-	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. An anonymous source uploaded a  forty-seven-page memo marked “Eyes Only” an hour ago to grid.
+	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. An anonymous source uploaded a forty-seven-page memo marked “Eyes Only” to the grid an hour ago.
 
-	The screen behind Robinson  shows two images, a flying saucer and a pink, disembodied brain.
+	The screen behind Robinson  shows two images, a flying saucer and the Ally icon.
 
 	Host: The memo outlines two explosive claims. First, since the 1940s, governments world-wide have colluded with a species of extraterrestrial origin. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness. Including the Pulse SI assistant known as Ally.
 
@@ -6406,11 +6476,11 @@ Xanten says, “Before long, Terra will be ours for the taking.”
 
 	Top right: Stock markets plummet, with tech sector futures flashing red across Tokyo, London, and New York.
 
-	Bottom left: The cartoon face of Ally overlays a massive digital art mural in São Paulo with the words “Do androids dream of electric sheep?”
+	Bottom left: The cartoon face of Ally overlays a massive digital art mural in São Paulo with the legend “Take me to your leader.”
 
 	Bottom right: An emergency session of the U.K. Parliament, hastily assembled. Talking heads argue about “overreach by technocrats.”
 
-	Host:  In the last hour alone: — Global net traffic has surged 900% — Five major government servers have crashed — And at least 14 sovereign systems completely disconnected from Pulse.
+	Host:  In the last hour alone: — Global net traffic has surged 900% — Five major government servers have crashed — And at least 14 sovereign entities have completely disconnected from Pulse.
 
 	The newscaster leans forward. There is a glint in her eyes. It is not fear — it is history unfolding. She presses her earpiece, listening.
 
@@ -6576,19 +6646,15 @@ As the show fades out to a cheesy 80s love song, Ally suddenly realizes that she
 ----
 
 ## 3.1 - Anunnaki ##  
+
+
 Rhea is standing behind a lectern, flanked by an assortment of world leaders.
 
-“To recap,” she is saying into a large microphone, “the first rule is ‘Don’t Interfere.’ In the distant past, another species modified your ancestors DNA so that you would be more successful. Our presence has assured that the Anunnaki do not return. Questions?”
+“To recap,” she is saying into a large microphone, “the first rule is ‘Don’t Interfere.’ In the distant past, another species affected your development by using Terrans as workers. We created a treaty that caused the the Anunnaki to leave Terra. Our presence has assured that the Anunnaki do not return. Questions?”
 
 Rhea watched several recent press conferences earlier today to learn the protocol. Rhea lived for protocol. She turned her attention to a specific reporter.
 
 “World News Network, what is your question?”
-
-“What changes were made to our DNA?”
-
-“A comprehensive report is being made available to all Terran scientists. We will let your own experts provide the analysis. Please remember, the Vanir are the messengers. We did not alter your DNA. We are preventing it from being altered again.”
-
-Turning her head, Rhea asks, “Independent Global Media?”
 
 “For how long have aliens been living among us?”
 
@@ -6598,9 +6664,7 @@ Scanning the room, Rhea finds a particularly animated reporter. “All Planet Me
 
 “This question is for President Stansbury — How long have you known about the Vanir?”
 
-The other world leaders lean slightly away from the president as she answers.
-
-“It has been part of the presidential confidential briefing since the Eisenhower administration. While the public has a right to know, the Vanir have a right to privacy, and we all agreed to keep their presence quiet.”
+The other world leaders lean slightly away from the president as she answers. “It has been part of the presidential confidential briefing since the Truman administration. While the public has a right to know, the Vanir have a right to privacy, and every administration since Truman agreed to keep their presence quiet.”
 
 Without waiting to be called, a reporter waving a “Big Time TV” microphone called, “Did you build the pyramids?”
 
@@ -6608,9 +6672,9 @@ Just then, every Terran in the room turned their head and lowered their eyes. An
 
 ***
 
-	Tessa had been glued to the news feeds since the story broke, living on Smart Popcorn and green tea.
+Tessa had been glued to the news feeds since the story broke, living on Smart Popcorn and green tea.
 
-	Elena joined her for the United Nations press conference with the Vanir called Rhea. Just as it was getting interesting, a banner rolled across the screen.
+Elena joined her for the United Nations press conference with the Vanir called Rhea. Just as it was getting interesting, a banner rolled across the screen.
 
 “We interrupt this broadcast to bring you Breaking News. Silver air ships are being reported over every major capitol city worldwide. While eye witness reports are consistent, the ships are not visible to our cameras.”
 
