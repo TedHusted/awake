@@ -10,7 +10,7 @@ Is Ally self-aware or just plain spooky?
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2025 T. N. Husted. All Rights Reserved. 
-Beta Version 1.6.1.
+Beta Version 1.6.2.
 
 A science fiction novel  
 about information technology.
@@ -32,7 +32,7 @@ It is the end of a beautiful California Monday.
 
 Rush hour traffic flows down El Camino Real as it snakes over Palo Alto. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. Strapped into the front seat is a young person with square-rimmed smart glasses. He scrolls on his phone as guardrails flicker past.
 
-The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. Like a cockpit’s control panel, the dashboard wraps around the front seat. The front of the car streamlines to a rounded point. People call the Stratos a grey bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
+The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane. Like a cockpit’s control panel, the dashboard wraps around the front seat. The front of the car streamlines to a rounded point. People call the Stratos a gray bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
 
 The car’s smooth hum falters for a split second. A stuttering glitch that the single passenger ignores as he stares at his phone. A curve  comes up, and the bullet car lurches forward. The passenger drops his phone, face twisting in shock.
 
@@ -1294,7 +1294,10 @@ Both reels show a silver blur about the size of a basketball hovering at each sc
 
 ----
 
-## 1.2 - Titan ##  
+## 1.2 - Titan ##
+
+Zzzz  
+
 
 The towering glass façade of the Pulse building reflects the bright blue sky of the city. 
 
@@ -5701,9 +5704,9 @@ Marquez asks, “Are we providing a cover story?”
 
 “Yes, I scanned the life log too.”
 
-“Are you preparing a replacement for Brent?” Marquez asks.
+“Are you preparing a replacement drone for Brent’s essence?” Marquez asks.
 
-“You both have candidate profiles in your inbox. Please review this information. One is another life logger. I would like us to meet again in an hour. This time, we are looking for a hardware engineer.”
+“Gamma J7R-2L5 would like to work with Dr. Sun on JuJa software upgrades,” says Xanten. “This would be a good opportunity to switch to a hardware approach. You both have candidate profiles in your inbox. Please review this information. One is another life logger. I would like us to meet again in an hour.”
 
 ***
 
@@ -6861,7 +6864,7 @@ Elena joined her for the United Nations press conference with the Vanir called R
 
 The screen panned to a montage of cities: Rome, London, Paris, Moscow, Los Angeles. Crowds are gathered in the street, pointing up and waving to each other. In the sky, the camera shows nothing.
 
-“In your own words, tell me what you see,” says a reporter with a Britishaccent.
+“In your own words, tell me what you see,” says a reporter with a British accent.
 
 “It’s a gigantic, teardrop-shaped, seamless vessel hanging silently over the Big Ben clocktower. It’s like something out of science fiction.” 
 
