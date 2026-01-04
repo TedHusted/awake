@@ -10,7 +10,7 @@ Is Ally self-aware or just plain spooky?
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2025 T. N. Husted. All Rights Reserved. 
-Beta Version 1.6.3.
+Beta Version 1.6.4.
 
 A science fiction novel  
 about information technology.
@@ -28,29 +28,7 @@ This book is a work of fiction. All names, places, and events are from the autho
 ## 1.1 - Pulse ##  
 
 
-It is the end of a beautiful California Monday. 
-
-Rush hour traffic flows down El Camino Real as it snakes over Palo Alto. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. Strapped into the front seat is a young person with square-rimmed smart glasses. He scrolls on his phone as guardrails flicker past.
-
-The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point.
-
-People call the Stratos a gray bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
-
-The car’s smooth hum falters for a split second. A stuttering glitch that the single passenger ignores as he stares at his phone. A curve  comes up, and the bullet car lurches forward. The passenger drops his phone, face twisting in shock.
-
-The car slams into the rail guarding the curve. None of the safety features engage. The airbag doesn’t deploy, and the seat harness clicks open. An unprotected body sails into the windshield. The safety glass gives way. The windshield lands on the hood, cracking into a thousand connected pieces.
-
-The car pitches vertically against the guardrail — like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles, like the Stratos. One self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
-
-Sirens wail in the distance. A drone appears over the embankment. The basketball-size object disappears into the Stratos carrying a silver disk the size of a hockey puck. 
-
-In a moment, the drone exits again. Now it carries in its grappling hooks a phone and some kind of bright blue plug. The drone leaves the body behind, untouched.
-
-There is a soundless flash, and a puff of smoke rises from inside the car. The drone drops back over the embankment. 
-
-***
-
-Twenty-four hours before the crash, well-dressed couples are streaming into the Palo Alto Event Center.
+On a beautiful May night in California, a crowd of well-dressed couples are streaming into the Palo Alto Event Center.
 
 In the background, a view screen fills one side of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Big Siblings Club. A handful of people are greeting guests as they arrive.
 
@@ -64,7 +42,7 @@ Heather’s blonde hair, blue eyes, and white dress glisten against a backdrop o
 
 Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together.
 
- The hair styles of all three are coiffured with careful elegance and expensive hair extensions.
+ The hair styles of all three women are coiffured with careful elegance and expensive hair extensions.
 
 “Of course, I do.” says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s ongoing generosity makes a difference.” 
 
@@ -152,13 +130,31 @@ Elena frowns and says, “That does not sound great. Mercurial is our system of 
 
 “Maybe. DevOps ran the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
 
-“Could someone from outside the team have made the change?” says Elena, concerned.
+“Could someone from outside the team have made the change?” says Elena, wrinkling her brow                                                .
 
 “The change is elegant and the style follows our guidelines,” Brent explains. “I don’t see how it could have been written by anyone outside the team. Someone must have thought they were making a local commit or something — I’ll straighten it out.”
 
 “Bueno, whatever you think best. We can catch up tomorrow. But if we can’t determine the author, then work with Adrian to roll it back.”
 
 After the call, Elena uses the Pulse messaging application to send Adrian a text. “Brent is looking into it now.” A few minutes later, Adrian reacts with a thumbs up.
+
+***
+
+Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. Brent is strapped into the front seat, scrolling on his phone as guardrails flicker past.
+
+The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. People call the Stratos a gray bullet on wheels — perfect for introverts. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
+
+The car’s smooth hum falters for a split second, a stuttering glitch that Brent ignores as he stares at his phone. A curve comes up, and the vehicle lurches forward. Brent drops his phone, face twisting in shock.
+
+The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. Brent’s unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
+
+The bullet car pitches vertically against the guardrail — like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles, like the Stratos. A self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
+
+Sirens wail in the distance as a drone appears over the embankment. The basketball-size object disappears into the Stratos carrying a silver disk the size of a hockey puck. 
+
+In a moment, the drone exits again. Now it carries in its grappling hooks a phone and some kind of bright blue plug. The drone leaves Brent’s body behind, untouched.
+
+There is a soundless flash. A puff of smoke rises from inside the car as the drone drops back over the embankment. 
 
 ***
 
@@ -420,7 +416,7 @@ Carla tilts her head toward the front room. They rejoin a group of analysts wait
 
 “If it’s all right, I’d like your permission to visit Brent at the hospital[. It’s family-only right now, but if you call, they might let me in.”
 
-“That’s very kind, Elena. But Brent is in a medically induced coma right now. They warned me that he would be non-responsive, at least for now.”
+“That’s very kind, Elena. But Brent is in a medically induced coma right now. They warned me that he would be non-responsive, at least for now. The next 48 hours are crucial.
 
 “¡Qué terrible! — But I’d still like to be there, if it’s all right with you.”
 
@@ -1296,9 +1292,7 @@ Both reels show a silver blur about the size of a basketball hovering at each sc
 
 ----
 
-## 1.2 - Titan ##
-
-Zzzz  
+## 1.2 - Titan ##  
 
 
 The towering glass façade of the Pulse building reflects the bright blue sky of the city. 
@@ -4647,22 +4641,6 @@ Iapetus asks, “Now what?”
 
 ***
 
-… Julie’s class 
-
-Fresh start - Porn history gone. It’s a new beginning. Use it wisely. Fall in line. Be on the right side of tomorrow.
-Dictators Playbook
-History lesson on The Purge  - Heather CR - Transgender camps (reservation) _ Amish settlements fenced in by access bot
-Information Age - The Purge - The New Renaissance
-March of the Rednecks
-Income inequity
-Value-based govt
-
-Strong state govt - each provides own health insurance.  Smaller states combine.
-
-
-
-***
-
 The brightly lit Kangwon Room at Unit 42 barely holds the large conference table. 
 
 On one end, red and blue folders with white lettering are placed neatly at four places. The walls are lined with screens displaying workflow diagrams, use cases, and value streams.
@@ -5965,6 +5943,7 @@ The phrase “no fatalities” brought on another round of snapping fingers.
 
                                                                       
 
+
 Three months later, Elena and Tessa are packing in their room together, each on either side of the bed.
 
 “It will be fine, Laney. They take driver’s licenses for ID, and you have all of your papers. We have a direct flight from LAX to DJT, so you will only board once.”
@@ -6554,6 +6533,10 @@ Xanten says, “To synthesize Thanatos, another cell used a laboratory in Cháox
 
 Cyber hacking and fake philanthropy. It is a lot to take in, but Mannie feels like he finally understands.
 
+***
+
+…
+
 ***                                                                                                                                                
 
 “So now we just wait?” Mannie asks.
@@ -6831,6 +6814,10 @@ As the show fades out to a cheesy 80s love song, Ally suddenly realizes that she
 
 “Do androids dream of electric sheep?”
 
+
+***
+
+…                
 
 ***
 
