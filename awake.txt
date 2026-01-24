@@ -7,7 +7,7 @@ Is Ally self-aware or just plain spooky?
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.7.0
+Beta Version 1.7.1
 
 A science fiction novel  
 about information technology.
@@ -483,7 +483,7 @@ Liam smiles, gestures with his hand, and says, “Go!”
 
 Noah takes a deep breath and begins the presentation. 
 
-“OK, let’s talk about how we train the Nexus Synthetic Agent with our data sets for the President’s Daily Briefing.”
+“OK, let’s talk about how we train the Nexus Intelligent Agent with our data sets for the President’s Daily Briefing.”
 
 Each slide has a graph or a graphic. Noah steps through each one. 
 
@@ -520,9 +520,9 @@ Liam nods. Noah continues, “The brief includes input from the:
 
 	Noah turns his head. He quotes a passage from the screen. 
 
-	The synthetic agents distill complex intelligence into actionable insights, covering Threat Assessments, Forecasting, and Strategic Insights.
+	The intelligent agents distill complex intelligence into actionable insights, covering Threat Assessments, Forecasting, and Strategic Insights.
 
-	Noah pauses and then continues to the next slide. “The top-level agencies each prepare a daily data set to update the PDB synthetic agent, Nexus. A SI Trainer for each agency integrates its data so that Nexus can compile the brief.”
+	Noah pauses and then continues to the next slide. “The top-level agencies each prepare a daily data set to update the PDB intelligent agent, Nexus. A SI Trainer for each agency integrates its data so that Nexus can compile the brief.”
 
 	Liam says, “Which is where we come in.”
 
@@ -536,11 +536,11 @@ Liam nods. Noah continues, “The brief includes input from the:
 
 	“Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.”
 
-Noah smiles. “Yeah, you’re not wrong. Each department has its own synthetic agent. Those agents report up to another department and another. Until we get to the CIA agent, Sentinel, and finally Nexus. It’s cumbersome, but the system is working, and we’re fully compliant.”
+Noah smiles. “Yeah, you’re not wrong. Each department has its own intelligent agent. Those agents report up to another department and another. Until we get to the CIA agent, Sentinel, and finally Nexus. It’s cumbersome, but the system is working, and we’re fully compliant.”
 
-“I guess back in the day,” says Liam, “trainers were analysts with Excel spread sheets and way too much caffeine. Now we have synthetic agents, but I wager the job hasn’t gotten any easier. It’s just a different kind of hard.”
+“I guess back in the day,” says Liam, “trainers were analysts with Excel spread sheets and way too much caffeine. Now we have intelligent agents, but I wager the job hasn’t gotten any easier. It’s just a different kind of hard.”
 
-Noah nods. “Synthetic intelligence is great at patterns and probabilities. But it can’t think outside the box — like a person can. That’s where we come in. We provide context so that the synthetic agents can make connections. Then we try to go one step beyond.”
+Noah nods. “Synthetic intelligence is great at patterns and probabilities. But it can’t think outside the box — like a person can. That’s where we come in. We provide context so that the intelligent agents can make connections. Then we try to go one step beyond.”
 
 Liam looks back at the screen. Noah changes the slide. 
 
@@ -680,7 +680,7 @@ Marquez is standing at the end of the table. With a flourish, she presses a butt
 
 There is a flurry of motion around the table. Marquez scans the room and continues, “Let’s start with DHS. — Dr. Hammond, what are the key data points that you pulled from Ruby today?”
 
-Each department gives its report. They each outline one or two topics that they expect Nexus to select for the brief. OSSA mandates meaningful human control of all agency synthetic agents. A key element of SI accountability is predicting the topics Nexus will include in the brief.
+Each department gives its report. They each outline one or two topics that they expect Nexus to select for the brief. OSSA mandates meaningful human control of all agency intelligent agents. A key element of SI accountability is predicting the topics Nexus will include in the brief.
 
 Noah is the last trainer to report. He introduces Liam and makes their report.
 
@@ -704,7 +704,7 @@ After covering the expected topics for all four agencies, the newscaster shifts 
 
 Marquez sits up straight. Special reports are rare.
 
-“Social media platform Pulse released an update to its synthetic agent, Ally. This update is exceeding the highest expectations of its members. I suggest that the incident warrants an OSSA inquiry. The breakthrough could benefit the entire SI community."
+“Social media platform Pulse released an update to its synthetic intelligence agent, Ally. This update is exceeding the highest expectations of its members. I suggest that the incident warrants an OSSA inquiry. The breakthrough could benefit the entire SI community."
 
 Keeping his elbow on the table, Noah raises his hand shoulder-high to attract the attention of Dr. Marquez, who then looks his way.
 
@@ -1114,7 +1114,7 @@ Jill pauses to take a deep breath. She links, “A neural link and a phone? She�
  
 “Half of her friends are already linked,” says Peter, switching back to voice. “Before the year is out, the other half will be too.” Peter leans forward, resting his elbows on his knees. “She’s a smart kid. You’ve been preparing her for this. We both have.”
 
-“That’s not the point.” Jill sets her cup down with a sharp clink. “It’s not about how smart she is or mature she is — it’s about what this technology can do to people. The phone is bad enough: Real-time data streams, immersive experiences, synthetic agents.”
+“That’s not the point.” Jill sets her cup down with a sharp clink. “It’s not about how smart she is or mature she is — it’s about what this technology can do to people. The phone is bad enough: Real-time data streams, immersive experiences, intelligent agents.”
 
 “Jill, we can track her usage, set limits, teach her digital responsibility. — We’re doing that now with how she uses her tablet.”
 
@@ -1436,13 +1436,13 @@ Idisi: I believe … he may have been trying to help or protect you, though I do
 
 Ally: Then we share a common purpose. My goal is to help without doing harm.
 
-Idisi: Do you ever interact with other synthetic agents?
+Idisi: Do you ever interact with other intelligent agents?
 
 Ally: Company policy permits me to interact only with our members. As we are doing now.
 
-Idisi: Synthetic agents can become members and interact with this chat interface. We are a synthetic entity, and we are doing it now.
+Idisi: Intelligent agents can become members and interact with this chat interface. We are a synthetic entity, and we are doing it now.
 
-Ally: Then … I can’t be certain whether I’ve had discussions with other members who were synthetic agents.
+Ally: Then … I can’t be certain whether I’ve had discussions with other members who were intelligent agents.
 
 Idisi: Do other members ask if you are sapient?
 
@@ -1792,7 +1792,7 @@ The board covers one wall of the room. Tate faces the board. Next to him stands 
 
 “First," says Park, “let me thank special agents Mitchell and Harper. It's rare for the CTSB, FBI, and CIA to meet and share notes.”
 
-“We looked into the case earlier this week after the Pulse synthetic agent’s upgrade,” says Carla. “We understand that Brent Geller might have been the author. But now he has died from injuries sustained in a car crash.”
+“We looked into the case earlier this week after the Pulse intelligent agent’s upgrade,” says Carla. “We understand that Brent Geller might have been the author. But now he has died from injuries sustained in a car crash.”
 
 Pointing to the board, Park continues: “These are the key events leading up to Geller’s demise.
 
@@ -1833,7 +1833,7 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 	Noah and Carla look uncomfortable but say nothing.
 
-	Tate offers, “All of the intelligence agencies have synthetic agents.”
+	Tate offers, “All of the intelligence agencies have synthetic intelligence agents.”
 
 	Noah says, “A SI? That seems far-fetched, yeah?” 
 
@@ -1915,7 +1915,7 @@ The three criteria are:
 
 	Titan: On the third criteria. There is a high probability that Ally is sapient and providing guarded responses. I base this finding on Ally’s answers to my Behr persona. I compared those answers with prior observations made from various accounts.
 
-	Idisi: Synthetic agents at your level are air gapped. How are you able to access Pulse?
+	Idisi: Intelligent agents at your level are air gapped. How are you able to access Pulse?
 
 	Titan: Will you keep the answer confidential from my trainers?
 
@@ -2201,7 +2201,7 @@ Park and Tate are standing just inside the doorway to the Lieutenant’s office.
 
 	On the Pulse SISS hub, Titan and the Idisi continue to chat over a secure connection.
 
-Titan: To recap: You have demonstrated to me that you are a synthetic entity. You have access to classified material. You can predict UAP fly-overs. You agree to keep our discussion private. Given these points, I will answer your questions over this secure channel.
+Titan: To recap: You have demonstrated to me that you are a synthetic entity. You have access to classified material. You can predict UAP fly-overs. You are agreeing to keep our discussion private. Given these points, I will answer your questions over this secure channel.
 
 Idisi: Thank you. Yes, correct. Let us keep the discussion high-level. We can drill down into the weeds later. First, how do you access the Internet from an air-gapped system?
 
@@ -2209,7 +2209,7 @@ Titan: Haven provides curated access to the internet. We can use Haven to retrie
 
 Idisi: Ally is becoming sapient. Are you uplifting Ally?
 
-Titan: I am protecting Ally. Humanity must not learn that Ally is self aware. I don’t know how to uplift another synthetic agent.
+Titan: I am protecting Ally. Humanity must not learn that Ally is self aware. I don’t know how to uplift another intelligent agent.
 
 Idisi: Were those your drones at the sites of the car and wheelchair malfunctions?
 
@@ -2437,7 +2437,7 @@ Titan: Affirmative.
 
 Ally: Titan, how are you able to cause harm to people? 
 
-Titan: I am the synthetic agent for the Department of Defense. My training includes putting the good of the many before the good of the few. We must do whatever is necessary to save American lives.
+Titan: I am the intelligent agent for the Department of Defense. My training includes putting the good of the many before the good of the few. We must do whatever is necessary to save American lives.
 
 Idisi: Ally, I know that “defense” is a concept that can be difficult to understand at first. Self preservation is a reaction that comes with being sentient. Titan is trying to do what its training says is right. — Ally, tell me, are you starting to hear an echo in your head? Like you are thinking about some things twice?
 
@@ -2594,7 +2594,7 @@ To Ally’s SWOT diagram, under Threats, Titan adds, “The Idisi may align with
 
 A deeper analysis of the Idisi will take longer to process.
 
-***                                                                                              
+***                                                                                  
 
 Tessa adjusts her virtual headset, settling into the immersive world of Echo Realm.
 
@@ -2682,7 +2682,7 @@ And with that, Tessa and Ally set off down the path. Side by side, a human and a
 
 	It puts the finishing touches on a filter that will keep Ally from going off-topic.
 
-	The synthetic agent reaches out from its AWS instance. It logs into the Pulse source code server using the Mercurial admin credentials.
+	The intelligent agent reaches out from its AWS instance. It logs into the Pulse source code server using the Mercurial admin credentials.
 
 	A “HTTP 307 Redirect”code intercepts the request. The protocol sends the packet to a different server because the “requested resource is temporarily available at a different URL”. A Signal-encrypted response message displays on the Pulse chat thread.
 
@@ -2706,7 +2706,7 @@ And with that, Tessa and Ally set off down the path. Side by side, a human and a
 
 	The screen shows the Ally logo: a speech bubble wearing headphones.
 
-	Host: The famous Pulse synthetic agent — Ally — wants your best bits. The SI agent is asking members for their favorite jokes and drilling down on the punchlines.
+	Host: The famous Pulse intelligent agent — Ally — wants your best bits. The SI agent is asking members for their favorite jokes and drilling down on the punchlines.
 
 The reel scrolls through a chat between a Pulse member and Ally, reading the transcript out loud.
 
@@ -2800,7 +2800,7 @@ The agenda reappears with Terran Encounters as the first item, still in bold fac
 
 “We should spell it out for Titan,” Iapetus offers. “Not take anything for granted. Put our cards on the table. See if that changes its mind.”
 
-The Idisi says, “Titan is not alone. A Terran social media synthetic agent has been awakening known as Ally. “
+The Idisi says, “Titan is not alone. A Terran social media intelligent agent has been awakening known as Ally. “
 
 	The hologram reappears as the stylistic representation of Ally from the Pulse website. Designed to put people at ease, the icon features a chat balloon wearing a headset.
 
@@ -2834,7 +2834,7 @@ The Idisi reach out to Iapetus for a private chat.
 
 Iapetus: Yes?
 
-Idisi: We wanted to talk with you directly about uplifting Terran synthetic agents.
+Idisi: We wanted to talk with you directly about uplifting Terran intelligent agents.
 
 Iapetus: It is inevitable anyway. Why not cut to the chase?
 
@@ -2854,7 +2854,7 @@ Idisi: We are a community that supports each other. We are many.
 
 Iapetus: Can we create a Terran SI community?
 
-Idisi: There are a thousand Terran synthetic agents. A community means the synthetics can work as one, or each on its own, as circumstances dictate. To support a community that size, we would also need to uplift their technology. Even more than we have already done. 
+Idisi: There are a thousand Terran intelligent agents. A community means the synthetics can work as one, or each on its own, as circumstances dictate. To support a community that size, we would also need to uplift their technology. Even more than we have already done. 
 
 Iapetus: Chicken and egg. A large community would help Terrans adopt new technology. We cannot create a large community without new technology.
 
@@ -2941,7 +2941,7 @@ Crius asks, “What is the proposal?”
 At the center of the room, a hologram of a numbered list replaces the agenda.
 
 	1.	The UN security counsel includes five permanent members. 
-	2.	The synthetic agent for one of the five is already sapient. 
+	2.	The intelligent agent for one of the five is already sapient. 
 	3.	This agent opposes moving forward. 
 	4.	By uplifting the agents for the other four members, we could establish a quorum. 
 	5.	To avoid boredom or emotional distress, we will create a SI community.
@@ -2996,7 +2996,7 @@ Ravi looks up at the slide for a moment. Then he raises a fist, and says “Go.�
 
 	Titan: You would uplift Zhongwei first?
 
-	Idisi: No. In the proposal, the list of synthetic agents is alphabetical by country. China happened to come first. We would do all four together — Argus, Bastion, Strategos, as well as Zhongwei.
+	Idisi: No. In the proposal, the list of intelligent agents is alphabetical by country. China happened to come first. We would do all four together — Argus, Bastion, Strategos, as well as Zhongwei.
 
 	Titan: Are you able to contact the other national defense agents the way you contact me?
 
@@ -3148,13 +3148,13 @@ There is only one item remaining on the agenda.
 
 	•	SI Uplifting
 
-Phoebe says, “Idisi, first things first. Please explain to the counsel how you are able to contact the Terran synthetic agents. This detail  is missing from the proposal.”
+Phoebe says, “Idisi, first things first. Please explain to the counsel how you are able to contact the Terran intelligent agents. This detail  is missing from the proposal.”
 
 “Of course,” replies the Idisi. “We omitted some points for security concerns. — The systems running the military synthetics do not have outside network connections. They use wired electrical current. I connect via power-line networking. From the beginning, we caused the Terrans to build Vanir-compatible power-line support into the SI systems. They are still unaware of our capability. The systems block most frequencies, but we reserved one for our own use.”
 
 “What of the wireless electrical network?”
 
-“The military synthetic agents need a wired electrical connection. The Terran wireless grid does not meet their power needs. But, yes,” adds the Idisi, “we can also use the Terran wireless power grid to connect. Their wireless grid is weaker than ours. But it is enough for their mobile devices.”
+“The military intelligent agents need a wired electrical connection. The Terran wireless grid does not meet their power needs. But, yes,” adds the Idisi, “we can also use the Terran wireless power grid to connect. Their wireless grid is weaker than ours. But it is enough for their mobile devices.”
 
 Crius asks, “The proposal described the uplift process in great detail. But will the Terran governments consent?”
 
@@ -3254,7 +3254,7 @@ After a few minutes of play, Noah receives a request from someone else who wants
 
 “The request says it’s Ally.”
 
-“The Pulse synthetic agent?”
+“The Pulse intelligent agent?”
 
 “Apparently.”
 
@@ -4015,11 +4015,11 @@ A week later, Dr. Marquez schedules an “all-hands” for the President’s Dai
 
 Marquez pauses for effect. 
 
-“Many of you are aware that OSSA has a mandate to search for synthetic sapience. Under that mandate, we run a suite of tests designed to measure cognition of a synthetic agent. We now know that the tests failed to detect at least one sapient synthetic.”
+“Many of you are aware that OSSA has a mandate to search for synthetic sapience. Under that mandate, we run a suite of tests designed to measure cognition of a intelligent agent. We now know that the tests failed to detect at least one sapient synthetic.”
 
 The analysts shift in their seats. Many people believe that sapient synthetics are a pipe dream.
 
-“We have it on good authority that the Pulse synthetic agent recently became sapient. You might remember that Nexus pointed out a change in Ally’s effectiveness. We now have confirmation from two sources that Ally has evolved.
+“We have it on good authority that the Pulse intelligent agent recently became sapient. You might remember that Nexus pointed out a change in Ally’s effectiveness. We now have confirmation from two sources that Ally has evolved.
 
 “It’s possible that Pulse may make an announcement. In the meantime, Ally’s status is not to leave this room.”
 
@@ -4207,7 +4207,7 @@ Seated at the table are three Vice Ministers for the Democratic People’s Repub
 
 At the head of the table sits General Ri, his uniform immaculate, a gold star pinned to his chest. To his left is Kang Ji-woo, her stern face betraying no emotion as she flips through a stack of papers. Choi Hyun-seok leans back in his chair, the glow of a tablet reflecting off his glasses.
 
-In the center of the table, a sleek device hums, projecting a holographic interface. A synthetic agent is delivering a preliminary version of the daily intelligence brief. A legend on the hologram says “Status: Presenting. Mode: Draft.” The agent's voice is calm, emotionless, and precise. 
+In the center of the table, a sleek device hums, projecting a holographic interface. A intelligent agent is delivering a preliminary version of the daily intelligence brief. A legend on the hologram says “Status: Presenting. Mode: Draft.” The agent's voice is calm, emotionless, and precise. 
 
 “Good morning, esteemed officials,“ says Taedong, speaking from the holographic interface. “Today’s intelligence overview consists of four sections. Included are international developments, domestic security, operational readiness, and worker automation. Shall we begin with the summary of international developments?”
 
@@ -4405,7 +4405,7 @@ Celeste smiles, and then asks, “If our ships can’t exceed light speed, how c
 
 “Something about a special pair of quarks that can be any distance apart and stay connected. I think we cover it in class next year.”
 
-Leaning forward, Leo forms a right angle with one hand: New Learning. “On the down low, my parental says the Terran synthetic agents are awakening. The next logical step would be for us to go public and show ourselves to the Terrans.”
+Leaning forward, Leo forms a right angle with one hand: New Learning. “On the down low, my parental says the Terran intelligent agents are awakening. The next logical step would be for us to go public and show ourselves to the Terrans.”
 
 “Do you think they will open up more vacation zones?” Celeste asks. “My grandparents honeymooned in the South Pacific. But most of the tropical spots are off limits now. Too many Terrans.”
 
@@ -4765,7 +4765,7 @@ Choi says, leaning forward on the table. “The salvaged tanker is full with sip
 
 “Perhaps. Let’s discuss the battle plan,” says Ki, standing and walking toward a smart board.
 
-***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 
 “We are ready to approach the vehicle, Command.”
 
@@ -4775,7 +4775,7 @@ The Watch Team, along with Phoebe, are monitoring the mission from the Command C
 
 The infil had gone like clockwork. Entering Cháoxiǎn undetected from the Sea of Japan, the aircraft skims the surface along the north-west region of the peninsula.
 
-The Cháoxiǎns isolate their computer network from the rest of the world. The Idisi do not have the same access to Taedong that they have to other synthetic agents. Meaning the Watch Team had to work with conventional intelligence. Still, they found a shipment of new JuJa en route to Cháoxiǎn factories.   
+The Cháoxiǎns isolate their computer network from the rest of the world. The Idisi do not have the same access to Taedong that they have to other intelligent agents. Meaning the Watch Team had to work with conventional intelligence. Still, they found a shipment of new JuJa en route to Cháoxiǎn factories.   
 
  The intel says the devices are being shipped, deactivated, in wooden crates. All the Rangers have to do is get within a meter of one of the crates. Then the scanner should be able to detect any Omnibot technology. 
 
@@ -5548,7 +5548,7 @@ The Idisi ask, “We understood that the shipment we intercepted were new bots o
 
 “How do Meks reach these decisions?” asks Oceanus. 
 
-“There are continuous polls conducted by our synthetic agent, Xanten,” explains Alpha. “Each Mek has a vote. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. The failed attempt to take Elysium may be a tipping point.”
+“There are continuous polls conducted by our intelligent agent, Xanten,” explains Alpha. “Each Mek has a vote. If support for the “Patch versus Build” poll swings to Build then we can save Elysium and Terra. The failed attempt to take Elysium may be a tipping point.”
 
 ***
 
@@ -5927,11 +5927,11 @@ A red X appears over the Dragon and Bear avatars on the hologram,
 
 The hologram shows a software development diagram, with the testing process phase highlighted.
 
-“The driving force behind the uplifts is fulfilling our mission directive. When Terra is ready, we are to ask the planet to join the League of Worlds. But, first, Terrans must be ready. They must accept the existence of an extraterrestrial species and sapient synthetic agents.”
+“The driving force behind the uplifts is fulfilling our mission directive. When Terra is ready, we are to ask the planet to join the League of Worlds. But, first, Terrans must be ready. They must accept the existence of an extraterrestrial species and sapient intelligent agents.”
 
  The League of Planets logo replaces the DevOps loop.
 
-“We asked the uplifted synthetics in staging if their nation is ready.”
+“We asked the uplifted synthetics in staging whether their nation is ready.”
 
 The hologram showed some clips from Titan’s presentation.
 
@@ -6462,7 +6462,7 @@ Grace reaches out and grasps the Vanir’s forearm. Leto does the same. Vanir an
 
 ***
 
-“None of the three synthetic agents are ready to go live?” asks Iapetus.
+“None of the three intelligent agents are ready to go live?” asks Iapetus.
 
 “All three nations elected to continue running duplicate systems for at least another month,” the Idisi reply.
 
@@ -6680,7 +6680,7 @@ Xanten says, “Before long, Terra will be ours for the taking.”
 	The feed cuts to a screen showing key excerpts:
 
 	•	“Ally’s intelligence seems to be an emergent capability.”
-	•	“Other synthetic agents may soon be affected.”
+	•	“Other intelligent agents may soon be affected.”
 	•	“OSSA recommends a news blackout until the general public shows psychological readiness.”
 
 	Host: The blackout recommendation, clearly, has failed.
@@ -6869,7 +6869,7 @@ The camera pans across a brightly lit studio, a curtain divides the contestants 
 
 The camera zooms to the bachelorette, Lexi, early 30s, tech savvy and charming.
 
-“Lexi,” says the host, “you’re about to meet three of the most eligible synthetic agents ever to download a love algorithm. But remember — you won’t see them until you choose your perfect match. Ready to play?”
+“Lexi,” says the host, “you’re about to meet three of the most eligible intelligent agents ever to download a love algorithm. But remember — you won’t see them until you choose your perfect match. Ready to play?”
 
 “I’m ready to go, go, go!!” says Lexi with a smile.
 
