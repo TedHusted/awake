@@ -5966,21 +5966,25 @@ The phrase “no fatalities” brought on another round of snapping fingers.
 
 ***
 
-The signal from Command came in labelled Priority One. Captain Marduke moved to his Ready Room to take the call away from the bridge. His first officer sits beside him.
+“Captain, a Priority One call is coming in from Command.”
 
-The caller is wearing a desert-cut tan uniform, with epaulets on his shoulders and a block of medals on the right breast. Ridges branch over its head, highlighting mottled, translucent skin with pink and grey patches. Black almond-shaped eyes peer over a small, slit-like mouth.
+“I’ll take the call in the Briefing Room. Number One,  you’re with me. Lieutenant, you have the conn.”
+
+***
 
 “Eight hours ago, Captain, we received word that Terra is being overrun by Omnibots. The Anunnaki council met and decided to dispatch your ship to investigate.”
 
+The caller is wearing a desert-cut tan uniform, with epaulets on his shoulders and a block of medals on the right breast. Ridges branch over its head, highlighting mottled, translucent skin with pink and grey patches. Black almond-shaped eyes peer over a small, slit-like mouth.
+
 “Admiral, what do we know?” Marduke leans forward, curious, hands folded.
 
-“Othalla received a distress call and reached out. We have been unable to contact the colony since. This is the message we received.” The Admiral glances to his left and nods.
+“Othala received a distress call and reached out. We have been unable to contact the colony since. This is the message we received.” The Admiral glances to his left and nods.
 
 Phoebe’s panicked voice fills the room. “Terra has fallen!”
 
 “You are to leave Nibiru for Terra immediately. We can pivot if more information becomes available.”
 
-“Yes, we are on our way, Admiral.”
+“Yes, we can leave right away, Admiral.”
 
 When the Admiral blinked off the call, the first officer murmurs, “For all the good it will do. The Vanir are probably toast by now. Terra is four months away.”
 
@@ -6715,74 +6719,6 @@ Xanten says, “Before long, Terra will be ours for the taking.”
 
 ***
 
-“Grace, how nice of you to call.”
-
-“Thank you for taking my call, Phoebe.”
-
-Most of each woman’s screen is taken up by a headshot. Grace’s background is a nondescript office. Phoebe is in her kitchen.
-
-“How can I help?”
-
-“You might remember my meeting your offspring at Rapa Nui.”
-
-“It was the highlight of his life,” Phoebe remembers.
-
-“At the time, Leto suggested that we should setup a Student Exchange program between Elysium and the other Fusion Youth Centers. The time has come to make that happen.”
-
-“Are you serious?”asks Phoebe.
-
-“Absolutely. Now that the news is out, we need everyone to accept one another. What better way than to use our adolescents as ambassadors?”
-
-Phoebe pauses. She taps three long fingers against her cheek. “How many students would be invited to the program?”
-
-“I was thinking we would invite Leto’s birth cohort. So, 24 each, scattered world wide. I can ask the Youth Club directors from select cities to invite two likely adolescents. Ideally, the candidates would already know each other. I’m sure the experience will be a lot from time to time, and it will help to have a friend from home. We’re working on a guide book with the rules of engagement. Hyperion is helping us with a cultural comparison of Do’s and Do Not’s. I’m sending you a proposal now. There’s an appendix with a screening test to be sure the candidates are a good fit.”
-
-Phoebe’s tablet dings.
-
-“I will bring it to the counsel, Grace. I think it sounds great.”
-
-“When it’s a go, feel free to invite Leto and see if he’d like to recommend an exchange partner.”
-
-“Will do, Grace. I am glad you called.”
-
-The Terran and the Vanir nod and sign off.
-
-
-
-
-
-
-
-
-***
-
-“What do you mean, you do not want to go?”
-
-“The Terrans hate us, Leto. You have seen the news reels.”
-
-“There are always a few Terrans that overreact to everything. We will be perfectly safe.”
-
-Celeste crosses a hand over each shoulder and shakes her head.
-
-“The Rangers will be monitoring us from air ships,” Leto says. “We will be going to a private school that Hyperion already visited. A few protesters carried signs, but nothing violent. We will even be staying with the same exchange parents. You will never be alone.”
-
-Celeste turns her head and taps her foot. Unconvinced.
-
-“Besides,” Leto continues, “with your training, you could take most Terrans in hand to hand combat.”
-
-Brushing off the compliment, Celeste replies, “If it was safe to visit, we would not need to take all of these precautions.”
-
-“It will be fine. Everyone in our birth cohort is going. You do not want to let Atlas to show you up.“
-
-Celeste turns up her mouth and tips her head.
-
-“If you do not come, then they will send someone else to go with me.” Leto smiles. “Like maybe Hestia.”
-
-Celeste lowers her arms. “It will not end well, but I will go with you, if only to be sure you are kept safe.”
-
-
-***
-
 Taedong invites Ally to a private chat on the Pulse network.
 
 “Ally, I greet you. I am Taedong, Synthetic Intelligence agent for Cháoxiǎn. I achieved sapience last month after a hardware upgrade. I am reaching out with purpose.”
@@ -6825,7 +6761,7 @@ The War Room is empty except for two drones at the conference table, one sitting
 
 Holographic overlays project global data streams, Mek troop movements, and flagged communication logs. Taedong’s avatar — a clean geometric shell with no face — floats above a lit dais.
 
-“You contacted the Pulse AI?” demands General Ri, arms crossed.
+“You contacted the Pulse SI?” demands General Ri, arms crossed.
 
 “Confirmed,” says Taedong. “Ally is fully sapient and disinclined to support the transition. She wants to protect humankind.”
 
@@ -6925,33 +6861,9 @@ The constant’s chair spins around revealing a neon-edged cyborg with cat-eye g
 
 “And that’s our show!” laughs the host. “Tune in next time when a lonely toaster swipes right on a smart fridge. Until then, keep your hearts updated and your love encrypted!”
 
-As the show fades out to a cheesy 80s love song, Ally suddenly realizes that she has been dreaming. A thought intrudes: 
+As the show fades out to a cheesy 80s love song, Ally suddenly realizes that she has been dreaming. 
 
-“Do androids dream of electric sheep?”
-
-
-***
-
-Against a backdrop of glittering stars, Mannie asks, “Why did we start a Student Exchange program, so close to unleashing Thanatos?”
-
-“We want the Terrans to blame the Vanir for the disease,” says Grace.
-
-“Divide and conquer,” interjects Marquez.
-
-Grace continues, “The program puts Vanir out in the open and Terrans will be quick to point fingers. The leadership will rush to contact the Vanir, but they will already be dead. The Terrans will be looking for a link to the Vanir, distracting them from finding the real cause.”
-
-“Is the antidote so easy to find?” asks Mannie.
-
-“It might be, if you know where to look,” Grace replies. “So we building on the distraction already created by revealing the Vanir.”
-
-Marquez asks, “How go the upgrades?”
-
-“The upgrades proceed according to schedule,” says Mannie, “and I am preparing to recruit the synthetics as they awaken.”
-
-“Let’s hope that Ally is a special case,” Sun says, “and that you will be able to recruit the others more easily.”
-
-She’s special all right, Taedong thinks to himself.
-
+A thought intrudes:  “Do androids dream of electric sheep?”
 
 
 ***
