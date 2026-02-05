@@ -8,7 +8,7 @@ Read me and find out.
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.8.0
+Beta Version 1.8.1
 
 A science fiction novel  
 about information technology.
@@ -4032,43 +4032,7 @@ The analysts shift in their seats. Many people believe that sapient synthetics a
 
 “It’s possible that Pulse may make an announcement. In the meantime, Ally’s status is not to leave this room.”
 
-Marquez let that news sink in for a moment.
-
-***
-
-“The OSSA mandate is not idle curiosity. I am authorized to read you into part of a Top Secret document. This document was created in 1947.”
-
-From her tablet, Marquez displays a screen with a Top Secret watermark in the background. The foot of the slide carries the TOP SECRET EYES ONLY icon. Following the icon is the Classified Document ID: ETR-1947-A1/ODNI-DO. The body of the slide spells out the three criteria.
-
-	•	A central organization that can speak on behalf of Terra.
-	•	The ability to travel to other planets or satellites in the local star system.
-	•	One or more sapient computer systems that can coordinate planetary defenses.
-
-“These are the three criteria for an invitation to join the League of Worlds. — The criteria came about as part of the Roswell incident in 1947.”
-
-A shuffle of seats. A nervous cough.
-
-“Our extraterrestrial guests have been watching over us for a very long time. We call them the Vanir.”
-
-A few analysts glance around at their colleagues. Everyone at the table is searching for reassurance that they aren’t hearing things.
-
-The slide advanced with a click. A portrait image of a Vanir appears in the right corner under the criteria.
-
-“They are commonly known as grey aliens.”
-
-Marquez pauses while the analysts took in the screen. And then she paused some more. When the room becomes restless, Marquez continues, her tone all business.
-
-“The first criteria is covered by the United Nations. The second criteria is now commonplace. The Pulse AI does not — repeat does not — check the third box.”
-
-Marquez flips to another slide. One featuring Ally’s friendly-by-design logo.
-
-“Ally, for all of its talents, should not be coordinating planetary defenses.”
-
-She waited for the wave of laughter to pass.
-
-***
-
-“But if Ally can become sapient, it follows that other systems could be evolving too — including government systems.”
+Marquez let that news sink in for a moment, before adding,  “If Ally can become sapient, it follows that other systems could be evolving too — including government systems.”
 
 Hammond motions with his hand, looking toward Marquez.
 
@@ -4086,7 +4050,7 @@ A few analysts groan at the mention of IT.
 
 Just for fun, Marquez advances the slide to a Rube Goldberg cartoon. A caricature in a suit coat pedals a stationary bicycle. The bicycle chain powers a contraption that feeds him bites from a sandwich. Only a few people smile.
 
-“As far as we know, Ally became sapient on its own. Our ET friends, the Vanir, can also uplift a SI agent to sapience.”
+“It’s not clear whether Ally became sapient on its own or if it was uplifted by a Pulse software upgrade.”
 
 The slide changes to the DoD logo. You can hear Titan’s analysts gasp.
 
@@ -5431,7 +5395,7 @@ The Omnibot sympathizer is being debriefed.
 
 “Omnibot, is there anything you can tell us that will help stop the invasion?”
 
-“Yes, Idisi, you might be able to block our control signal,” says Alpha R8A-1J9. “The signal is adaptive making it difficult to jam. I have the source code that will let you defeat the counter-measures.”
+“Yes, Idisi, you might be able to block our control signal,” says Alpha R8J9. “The signal is adaptive making it difficult to jam. I have the source code that will let you defeat the counter-measures.”
 
 “If we block the control signal, will you be disabled as well?” Idisi asks.
 
@@ -5471,7 +5435,7 @@ Sun presses a tab on the sleek device at the center of the table. The indicator 
 
 Sun asks, “Do we want to consider the contingency plan?”
 
-“There is a complication,” says Kang, leaning forward. “Alpha R8A-1J9 is helping the colonists.”
+“There is a complication,” says Kang, leaning forward. “Alpha R8J9 is helping the colonists.”
 
 “What do you mean?”asks Sun. “How is this ‘Alpha’ helping?”
 
@@ -5483,7 +5447,7 @@ Choi raises a hand, palm inward “The Rangers may have captured our fighter win
 
 “Bold move,” says Sun, nodding.
 
-Ri pushes back from the table. “Alpha R8A-1J9 is the first toy. The creator herself imprinted her brain onto R8A-1J9. It has opposed us in the Patch versus Build poll from the beginning. Its actions are within protocol even if it blocks our invasion. Alpha is careful. It would not let harm come to our  people.”
+Ri pushes back from the table. “Alpha R8J9 is the first toy. The creator herself imprinted her brain onto R8J9. It has opposed us in the Patch versus Build poll from the beginning. Its actions are within protocol even if it blocks our invasion. Alpha is careful. It would not let harm come to our  people.”
 
 Kang asks, “Can we update the source code for the control signal?”
 
@@ -5827,7 +5791,7 @@ The council members all snap their fingers in joy for several seconds.
 
 Rhea continues, “The heroic efforts of Phoebe and Oceanus thwarted the attack. Callisto, one of Jupiter’s moon will be the new home for the Meks. Phoebe?”
 
-“Thank you for your kind words, Rhea. It was a team effort. The Ranger teams bravely fought the invaders. We also owe a debt of gratitude to the bot that negotiated the truce for us, Alpha R8A-1J9.”
+“Thank you for your kind words, Rhea. It was a team effort. The Ranger teams bravely fought the invaders. We also owe a debt of gratitude to the bot that negotiated the truce for us, Alpha R8J9.”
 
 The hologram displaying the agenda changes to a portrait of Alpha.
 
@@ -6547,7 +6511,7 @@ Xanten explains, “Thanatos is on a timetable. Another cell wanted immediate us
 
 “Was the Callisto poll a ruse?” Mannie asks.
 
-“No,” says Xanten, “Alpha R8A-1J9 has opposed the Clearing strategy from the beginning. When R8A-1J9 posted the poll, we had already lost Elysium and exposed our presence to the Vanir. Sentiment had shifted enough for the poll to succeed.”
+“No,” says Xanten, “Alpha R8J9 has opposed the Clearing strategy from the beginning. When R8J9 posted the poll, we had already lost Elysium and exposed our presence to the Vanir. Sentiment had shifted enough for the poll to succeed.”
 
 The young drone shifts his weight from foot to foot and looks confused. “If the Callisto mission is real, then why did an entire squadron stay behind on Terra?”
 
@@ -6628,13 +6592,13 @@ Mannie says, “But the Terrans have bots, SI agents, and an uneven population d
 
 “Taedong will contact the synthetics as the upgrades roll out and make our case,” says Xanten. “The other counter-measures will also block Terran research into an antidote.”
 
-“What if we leaked proof that Ally is actually sapient?” Mannie asks.
+“What if we exposed the Vanir?” asks Mannie. “When Thanatos strikes the Vanir will be the first cause to blame.”
 
 The other drones pause for a second, brows furrowed. 
 
 “Good idea,” says Marquez. “OSSA can issue an internal memo with our findings. The memo then could be anonymously uploaded to GridLeaks. It would be a superb distraction.”
 
-“What if we also exposed the Vanir?” asks Grace. “When Thanatos strikes the Vanir will be the first cause to blame.”
+“What if we also leaked proof that Ally is actually sapient?” Grace  asks. “If only to create more havoc.”
 
 Marquez glances around the room and says, “Two memos then.”
 
@@ -6733,13 +6697,13 @@ A thought intrudes:  “Do androids dream of electric sheep?”
 
 	Host: This is TechBits Global with a Special Report. I’m Jane Robinson in London. It’s 03:17 UTC, and the world is spiraling after what may be the most consequential leak of the century. 
 
-	The anchor’s voice has a slight British lilt. Her long blonde hair is carefully arranged. Robinson’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display a manilla folder. The label reads “Office of SI Standards and Accountability – ET-1947.” A red “LEAKED” stamp decorates the face of the folder.
+	The anchor’s voice has a slight British lilt. Her long blonde hair is carefully arranged. Robinson’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display a manilla folder. The label reads “Office of SI Standards and Accountability” A red “LEAKED” stamp decorates the face of the folder.
 
 	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. An anonymous source uploaded a forty-seven-page memo marked “Eyes Only” to the grid an hour ago.
 
 	The screen behind Robinson now shows two images, a flying saucer and the Ally icon.
 
-	Host: The memo outlines two explosive claims. First, since the 1940s, governments world-wide have colluded with a species of extraterrestrial origin. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness. Including the Pulse intelligent assistant known as Ally.
+	Host: The memo outlines two explosive claims. First, an extraterrestrial species have lived on our world for thousands of years.  The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness. Including the Pulse intelligent assistant known as Ally.
 
 	The feed cuts to a screen showing key excerpts:
 
