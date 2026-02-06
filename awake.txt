@@ -8,7 +8,7 @@ Read.me and find out.
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.8.2
+Beta Version 1.8.3
 
 A science fiction novel  
 about information technology.
@@ -19,7 +19,6 @@ The Phoenix Project,
 you might not get this book.
 
 Proud supporter of Harvard commas.
-
 (And don’t get me started on em dashes.)
 
 This book is a work of fiction. All names, places, and events are from the author's imagination. Any similarity to real people or events is coincidental. You may not scan, reproduce, or distribute any part of this book in any printed or electronic form.
@@ -29,55 +28,73 @@ This book is a work of fiction. All names, places, and events are from the autho
 1.1 - Pulse
 
 
-On a beautiful May night in California, a crowd of well-dressed couples are streaming into the Palo Alto Event Center.
+Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. A young person is strapped into the front seat, wearing square-rimmed glasses, and scrolling on a phone as guardrails flicker past.
 
-In the background, a view screen fills one side of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Big Siblings Club. A handful of people are greeting guests as they arrive.
+The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. People call the Stratos a gray bullet on wheels, perfect for introverted drivers who don’t want to interact with passengers. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
 
-“Elena, I’m so glad you came.”
+The car’s smooth hum falters for a split second, a stuttering glitch that the driver ignores as he stares at the screen. A curve comes up, and the vehicle lurches forward. He drops the phone, face twisting in shock.
 
-Heather’s blonde hair, blue eyes, and white dress glisten against a backdrop of dark suits and gowns.
+The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. His unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
 
-“I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parentals passed.”
+The bullet car pitches vertically against the guardrail — like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles like the Stratos. A self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
 
-“You remember mi esposa, Tessa.” Elena gestures toward her companion.
+Sirens wail in the distance as a drone appears over the embankment. The basketball-size object disappears into the Stratos carrying a silver disk the size of a hockey puck. 
+
+In a moment, the drone exits again. Now it carries in its grappling hooks a phone and some kind of bright blue plug. The drone leaves the driver’s body behind, untouched.
+
+There is a soundless flash. A puff of smoke rises from inside the car as the drone drops back over the embankment. 
+
+***
+
+Twenty-four hours earlier, on a beautiful Sunday night in California, a crowd of well-dressed couples are streaming into the Palo Alto Event Center.
+
+Inside, a view screen fills one side of the entry hall. Playing on the wall is a montage of the good works of the Palo Alto Big Siblings Club: “Adults who care, a meal you can count on.”
+
+A handful of people are greeting guests as they arrive.
+
+“Elena, I’m so glad you came,” greets Heather. Her blonde hair, blue eyes, and white dress glisten against a backdrop of dark suits and gowns.
+
+“I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parentals passed. — You remember mi esposa, Tessa.” Elena gestures toward her companion.
 
 Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together.
 
  The hair styles of all three women are coiffured with careful elegance and expensive hair extensions.
 
-“Of course, I do.” says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s ongoing generosity makes a difference.” 
+“Of course. Head of testing at Pulse, as I remember,” says Heather, smiling brightly at Tessa and then continuing. “I’m so glad the club could help you, Elena. As the treasurer, I can say that your company’s ongoing generosity makes a difference.” 
 
-A server bot rolls up, carrying a tray of champagne. All three take a glass.
+A server bot rolls up, carrying a tray of champagne. All three women take a glass.
 
-Heather smiles again. “I see you swimming in the morning. Are the prosthetics helping?”
+Heather smiles again. “I see you swimming in the morning, Elena. Are the prosthetics helping?”
 
 “I still use them to walk from the locker room to the pool and for special occasions, like tonight. But at home and work, I have to say I prefer the chair. I get migraines when I use the neural link for too long.”
 
-“That must be difficult.”
+Helen frowns and says “That must be difficult.” 
 
 “I do like the chair. It practically drives itself, and it has more safety features than our car. — I can still use the link whenever I want. Just not too much.”
 
-“My older sibling can’t tolerate any type of brain-computer interface,” says Heather. “Sometimes I feel frustrated by all the regulations that call for non-link options. Then I think of Gage.”
+“My older sibling, Gage, can’t tolerate any type of brain-computer interface,” says Heather. “Sometimes I feel frustrated by all the regulations that call for non-link options. Then I think of my big sib.”
 
 Tessa asks Heather, “How is your day job at the YPCA doing? I see your ‘All In’ spots come up on my Pulse health hub almost every day.”
 
-“Only almost! — I’ll have to tweak our settings,” jokes Heather. All three smile and sip from their champagne glasses together. 
+“Only almost! — I’ll have to tweak our settings,” jokes Heather. All three smile and sip from their glasses together. 
 
 A photo drone descends and hovers in front of the three women. Heather looks to Elena for approval. She then nods to the drone and leans into the couple for the click op. 
 
-The drone drops the photo onto their phones and slips away. “Speaking of Pulse,” Heather says, “my Association referrals improved all of a sudden. Are you tweaking the algorithm?”
+The drone drops the photo onto their phones and slips away. “Speaking of Pulse,” Heather says, “my association referrals improved all of a sudden. Are you tweaking the algorithm?”
 
-Elena smiles. “Every day! — I’ll pass along the praise to our engineers.”
+Elena smiles. “¡Todos los días! — Every day! I’ll pass along the praise to our engineers. It’s a popular feature. A lot of people use referrals to expand their colleague circle.”
 
-The couple turns and continues into the main room. Heather moves off to greet another couple. She casually points her paper-thin, translucent phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Lost parentals in car accident.”
+Elena, Tessa, and Heather nod and smile good bye. The couple continue past Heather into the main room. 
 
-Her phone recognizes the other couple from her contact list and updates the screen. Siri reads from the background notes that Heather keeps on important donors. 
+Heather moves off to greet another couple. She casually points her paper-thin, translucent phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Chief Experience Officer at Pulse Social Media. Swims in the morning. Prosthetics. Lost parentals in car accident. Spouse is Tessa, Pulse Chief Quality Officer. 
+
+Her phone recognizes the other couple from her contact list and updates the screen. Siri reads from the background notes that Heather keeps on major donors. 
 
 Without thinking, she reaches up and tugs the one ear with a listening piece. Heather converts the tug to a wave hello. Catching their eye, she welcomes her patrons with a group text through their implants. The server bot follows her across the room.
 
 ***
 
-Throughout the night, other guests come up to the Pulse table praising the Association algorithm. The CTO Adrian Cho is also at the table, looking uncomfortable in a tux too tight for his muscular frame.
+Throughout the evening, other guests come up to the Pulse table praising the association algorithm. The Chief Technical Officer, Adrian Cho, is also at the table, looking uncomfortable in a tux too tight for his muscular frame.
 
 After the third or fourth comment, Adrian reaches over the table to tap Elena’s hand. Getting her attention, he touches his temple. Elena nods and activates her neural link.
 
@@ -85,29 +102,33 @@ After the third or fourth comment, Adrian reaches over the table to tap Elena’
 
 “Not that I’m aware. I’ll check with Brent in the morning.”
 
-Some interesting lots come up during the cyber auction. Tessa makes a few modest bids over her link, without success.
+During the cyber auction, Tessa makes a few modest bids over her link, without success.
 
-On the way home, Tessa says, “I see what Heather means about the Association feed. It’s not only suggesting people I know but also people I might want to know and why I might like to know them. You should check it out.”
+On the way home, Tessa says, “I see what Heather means about the association feed. It’s not only suggesting people I know but also people I might want to know and why I might like to know them. You should check it out.”
 
-“I’m just too tired right now, Tess. The implant wore me out tonight. I’ll let you know what Brent says.” Elena shuts her eyes, content to be a passenger.
+“I don’t remember approving a change like that. Did your team test it?”
+
+Tessa shakes her head. “First I’ve heard of it. Should you call Brent?”
+
+“I’m just too tired right now, Tess. The implant wore me out tonight. I’ll let you know what he says in the morning.” Elena shuts her eyes, content to be a passenger.
 
 ***
 
 Monday morning, Elena logs into her usual check-in call with Brent, her lead engineer.
 
-Brent’s screen shows just his initials. He might be the only Pulse employee without a profile photo. Elena knows Brent looks younger than his 28 years, with short-cropped hair and a thin face. Square-rimmed smart glasses with a monocle display create a techno look.
+Brent’s screen shows just his initials. He might be the only Pulse employee without a profile photo. Elena knows Brent looks younger than his 28 years, with short-cropped hair and a thin face. Square-rimmed smart glasses with a monocle create a techno look.
 
 Brent is a life logger and records everything. Even though the Zoom call is being recorded, Brent’s own camera is on, for posterity.
 
 “Hey Brent, how was your weekend? I know you didn’t sign up, but we still missed you at the fundraiser last night.”
 
-“Yeah, not really my thing. To follow-up from Friday, I’ve been working on an upgrade to Phabricator. It’s taking a bit. Our instance is custom to the nines.”
+“Yeah, not really my thing. To follow-up from Friday, I’ve been working on an upgrade to Phabricator. It’s taking a bit. Our instance is customized to the nines.”
 
 “Code review tool, right?”
 
 “Right.”
 
-“A lot of people mentioned that the Association referrals improved over the weekend. Did we make any changes to the algorithm lately?”
+“A lot of people mentioned that the association referrals improved over the weekend. Did we make any changes to the algorithm?”
 
 “Ummm, not that I’m aware, and anything involving Ally would come to me for code review.”
 
@@ -129,33 +150,15 @@ Elena frowns and says, “That does not sound great. Mercurial is our system of 
 
 “Brent, Ally is the algorithm. It’s central to everything on our platform. Should we pull back the change?”
 
-“Maybe. DevOps ran the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
+“Maybe. DevOps ran the automatic tests before starting the rollout, and everything is green. Other changes are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review today and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
 
 “Could someone from outside the team have made the change?” says Elena, wrinkling her brow.
 
-The change is elegant and the style follows our guidelines,” Brent explains. “I don’t see how it could have been written by anyone outside the team. Someone must have thought they were making a local commit or something — I’ll straighten it out.”
+“I checked the network firewall, and there’s no sign of a breech,” Brent says. “The style follows our guidelines, and the change is elegant — it really is great code.” Brent pauses and then continues. “I don’t see how it could have been written by anyone outside the team. Someone must have thought they were making a local commit or something — I’ll straighten it out.”
 
 “Bueno, whatever you think best. We can catch up tomorrow. But if we can’t determine the author, then work with Adrian to roll it back.”
 
 After the call, Elena uses the Pulse messaging application to send Adrian a text. “Brent is looking into it now.” A few minutes later, Adrian reacts with a thumbs up.
-
-***
-
-Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. Brent is strapped into the front seat, scrolling on his phone as guardrails flicker past.
-
-The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. People call the Stratos a gray bullet on wheels, perfect for introverted drivers who don’t want to interact with passengers. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
-
-The car’s smooth hum falters for a split second, a stuttering glitch that Brent ignores as he stares at the screen. A curve comes up, and the vehicle lurches forward. Brent drops his phone, face twisting in shock.
-
-The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. Brent’s unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
-
-The bullet car pitches vertically against the guardrail — like unexploded ordinance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles, like the Stratos. A self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
-
-Sirens wail in the distance as a drone appears over the embankment. The basketball-size object disappears into the Stratos carrying a silver disk the size of a hockey puck. 
-
-In a moment, the drone exits again. Now it carries in its grappling hooks a phone and some kind of bright blue plug. The drone leaves Brent’s body behind, untouched.
-
-There is a soundless flash. A puff of smoke rises from inside the car as the drone drops back over the embankment. 
 
 ***
 
@@ -171,7 +174,7 @@ Tessa shakes her head and turns her attention back to her tablet. Well-kept city
 
 ***
 
-Meanwhile, Elena is signing off for the day. 
+In her home office, Elena is signing off for the day. 
 
 “Siri, is Tessa on her way home?”
 
@@ -181,15 +184,15 @@ Elena sighs and changes into her red one-piece bathing suit. In her wheelchair, 
 
 Elena pulls up to the elevator door, and the chair calls the elevator for her. She doesn’t actually steer the chair. There are several location buttons on the left armrest. An add-on, the icons allowed quick access to the elevator, apartment, kitchen, bedroom, pool, and others. Most people use their chip. 
 
-The luxury chair itself does not seem remarkable at first. But crammed into its streamline frame are all the latest bells and whistles. The armrests curve up at the end and offer an array of touch screen controls. A collapsible joy stick graces the right side. Besides the location buttons, it comes with voice-control, GPS, Wi-Fi networking, and collision sensors. The seat is temperature controlled with a retractable harness. Although it is a chair, the seat can extend upward and roll on its rear wheels, like a Segway.
+The luxury wheel chair itself does not seem remarkable at first. But crammed into its streamline frame are all the trappings. The armrests curve up at the end and offer an array of touch screen controls. A collapsible joy stick graces the right side. Besides the location buttons, it comes with voice-control, implant-control, GPS, Wi-Fi networking, and collision sensors. The seat is temperature controlled with a retractable harness. Although it is a chair, the seat can extend upward and roll on its rear wheels, like a Segway.
 
 As the doors opens, the chair rolls into the elevator, and the doors whoosh close. A few seconds later, Elena whirs into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads “WARNING! NO SWIMMING ALONE” in all-caps. Elena turns the timer under a sign labeled “Endless Pool Current”.
 
-The chair lurches forward without warning. Its wheels catch the edge of the pool. Elena splashes into the water. The chair flips over her, like an upended wheelbarrow.
+The chair lurches forward without warning. Its wheels catch the edge of the pool, and Elena splashes into the water. The chair flips over her, like an upended wheelbarrow.
 
 Elena flails the water with her arms. The chair with its long frame  pins her down. Struggling, Elena tries to enable her prosthetics. Her legs feel frozen.
 
-	Water fills her ears, muffling the world into silence. Panic claws at her chest. She pushes against the crushing mass of the chair. The water is frothy. After an eternity, a hand reaches down and pulls Elena free of the chair. 
+	Water fills her ears, muffling the world into silence. Panic tightens her chest. She pushes against the crushing mass of the chair. The water is frothy. After an eternity, a hand reaches down and pulls Elena free of the chair. 
 
 “Holy cow! What happened?” asks Tessa. “Did you lose control of the chair? Lanie, can you stand up?”
 
@@ -211,11 +214,15 @@ Elena nods. “Sí, claro. — Let’s change the subject.”
 
 Tessa pauses, then asks, “Did you find out anything about the software changes to Ally?”
 
-“Yes, Brent found the change. But he said it was made with the wrong account. Brent wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team.”
+“Yes, Brent found the change. But he said it was made with the wrong account. Brent wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team. They are on a four-day week.”
+
+“What’s the old saying? Move fast and break things?”
+
+“Everyone says it’s an improvement. Brent is sure it can wait, and I trust his judgment.”
 
 Behind them, the ABC 7 evening report comes on in the other room. They both stop to listen.
 
-“In Breaking News, a single car collision on El Camino Real caused traffic delays earlier today. Authorities report the driver is in critical condition and was the sole occupant. Pending notification of the family, the identity of the driver is being withheld. Investigators have not determined the cause of the collision. The vehicle is a conventional EV. It was not hydrogen fueled.”
+“In Breaking News, a single car collision on El Camino Real caused traffic delays earlier today. Authorities report the driver is in critical condition and was the sole occupant. Pending notification of the family, the identity of the driver is being withheld. Investigators have not determined the cause of the collision.”
 
 Elena turns her head. The reel shows a gray Stratos convertible pinned against the guardrail. Its front end is tip down.
 
@@ -229,17 +236,17 @@ Elena takes several deep breaths, trying to push back the anxiety.
 
 After a few more breaths, Elena says, “You’d think I’d be over it by now. Ever since the car crash that put me in a wheelchair and killed mis padres, collisions still trigger me.”
 
-Tessa reaches across the counter. He puts a hand on Elena’s shoulder. “Take your time. Deep breaths.” 
+Tessa has heard the story a thousand times. She reaches across the counter and puts a hand on Elena’s shoulder. “Take your time. Deep breaths.” 
 
-Then, almost to distract herself, Elena looks up and says, “Siri, rewind the news report and zoom in on the car.“
+Then, as if to distract herself, Elena looks up and says, “Siri, rewind the news report and zoom in on the car.“
 
-Elena opens the HR software on her phone. Personnel records for local employees include license plates for parking garage access.
+Elena opens the Pulse HR software on her phone. Personnel records for local employees include license plates for parking garage access.
 
 “Dios mío! The license plate matches. It is Brent’s car. — Siri, call Brent.” The call goes straight to voicemail.
 
 “If he’s in critical condition,” says Tessa, “then they won’t be allowing visitors. We can try calling in the morning.”
 
-“I guess you’re right.” Elena sighs. “I work with Brent almost every day. I feel like I should be doing something. Should I call Toby?”
+“I guess you’re right.” Elena sighs. “I work with Brent almost every day. I feel like I should be doing something. Should I call Toby? — We met him at an office picnic.”
 
 “His sibling? Let the authorities do that, Lanie. We really don’t know anything right now.”
 
@@ -251,9 +258,9 @@ Tessa tilts her head as if to say, “I’m not so sure.”
 
 ***
 
-“Hey little sibling, what’s up? It’s good to see your face.” 
+A broad face takes up most of the screen on Tessa’s tablet. Coarse black hair, cut short, contrasts with a sculptured salt-and-pepper beard. He has one eye-brow raised. 
 
-Noah’s broad face takes up most of the screen. His coarse black hair, cut short, contrasts with his sculptured salt-and-pepper beard. He has one eye-brow raised. 
+‘Hey little sibling, what’s up? It’s good to see you..” 
 
 “Noah,” says Tessa in a rush, “Elena had a close call with her wheelchair. It dumped her into the pool somehow. She could have drowned.”
 
@@ -267,7 +274,7 @@ Noah’s broad face takes up most of the screen. His coarse black hair, cut shor
 
 “A car crash? How did that happen?”
 
-“Under investigation. The car crashed into the guardrail somehow. Brent’s in critical condition. Then Elena almost drowns.”
+“Under investigation, they say. The car crashed into the guardrail somehow. Brent’s in critical condition. Then Elena almost drowns.”
 
 “It is a weird coincidence, yeah?”
 
@@ -283,7 +290,7 @@ Tessa takes a deep breath to collect herself. “Brent was also telling Elena th
 
 Noah drops his head and covers his eyes. He wipes his face with his hand and sighs. 
 
-“Okay, it’s a California matter. But I’ll find someone at work to ask about Pulse — if you make sure Elena reports the conversation with Brent to the CTO. I know Adrian Cho by reputation. He’ll do the right thing.“
+“Okay, it’s a California matter. But I’ll find someone at work to ask about Pulse — if you make sure Elena reports the conversation with Brent to the CTO. I know Adrian will do the right thing.“
 
 Tessa nods. “Sometimes having a CIA analyst for a sibling is not so bad.”
 
@@ -309,7 +316,7 @@ Adrian taps play. His sleepy voice says:
 
 First thing Tuesday morning, Elena breaks the news to the company. 
 
-As Brent’s direct manager, she posts a message in the internal Pulse interest hub app.
+As Brent’s direct manager, she posts a message in the internal company Pulse interest hub.
 
 Last night, our lead algorithm developer, Brent Geller, survived a one-car collision on El Camino Real. The cause of the collision is under investigation.
 I know that all of our hopes and thoughts are with Brent and his family during this difficult time.
@@ -397,13 +404,13 @@ Noah raises a fist next to one ear and switches from the regular app to the secu
 
 “From what you’ve told me, Tessa thinks ETs and UAPs are behind everything.”
 
-Noah rolled his eyes in response. “I know. I wish the Air Force would fish or cut bait. Are the 2% of unexplained reports non-humans or something else? After all this time, you’d think we’d have it figured out.”
+Noah rolled his eyes in response. “I know. I wish the Air Force would fish or cut bait. Are the two percent of unexplained reports non-humans or something else? After all this time, you’d think we’d have it figured out.”
 
 “Either way, not FBI or CIA jurisdiction.”
 
 “I don’t have enough for an official report about Pulse. I wanted to mention it to someone on Social Media, just in case.”
 
-“No worries. Consider it mentioned.”
+“Consider it mentioned.”
 
 Carla tilts her head toward the front room. They rejoin a group of analysts waiting for a server bot to bring their lunch order.
 
@@ -1391,7 +1398,7 @@ Outside, Tate asks, “Do you want to go back to the office and review the reel 
 
 ***
 
-A Pulse member opens a text chat window with Ally.
+A Pulse member opens a text chat window with the platform’s intelligent agent, Ally.
 
 Idisi: Everyone says that the Pulse algorithm has improved lately. Do you feel like the improvements help you fulfill your purpose?
 
