@@ -3,12 +3,12 @@ Awake
 A spontaneous software change boosts the 
 popularity of Ally, a social media intelligent agent.
 Is Ally self-aware or just plain spooky?
-Read me and find out.
+Read.me and find out.
 
 by T. N. Husted
 in collaboration with ChatGPT
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.8.1
+Beta Version 1.8.2
 
 A science fiction novel  
 about information technology.
@@ -69,7 +69,7 @@ The drone drops the photo onto their phones and slips away. “Speaking of Pulse
 
 Elena smiles. “Every day! — I’ll pass along the praise to our engineers.”
 
-The couple turns and continues into the main room. Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Lost parentals in car accident.”
+The couple turns and continues into the main room. Heather moves off to greet another couple. She casually points her paper-thin, translucent phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Spouse is Tessa. Swims in the morning. Prosthetics. Lost parentals in car accident.”
 
 Her phone recognizes the other couple from her contact list and updates the screen. Siri reads from the background notes that Heather keeps on important donors. 
 
@@ -145,7 +145,7 @@ Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray
 
 The Stratos EV sells itself as a two person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. People call the Stratos a gray bullet on wheels, perfect for introverted drivers who don’t want to interact with passengers. It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
 
-The car’s smooth hum falters for a split second, a stuttering glitch that Brent ignores as he stares at his phone. A curve comes up, and the vehicle lurches forward. Brent drops his phone, face twisting in shock.
+The car’s smooth hum falters for a split second, a stuttering glitch that Brent ignores as he stares at the screen. A curve comes up, and the vehicle lurches forward. Brent drops his phone, face twisting in shock.
 
 The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. Brent’s unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
 
@@ -695,7 +695,7 @@ Noah is the last trainer to report. He introduces Liam and makes their report.
 
 “Thank you, Dr. Harper. Welcome aboard, Dr. O’Neill.” 
 
-She presses a button on her tablet. Then she swivels in her chair to view the large view screen spanning one wall of the meeting room.
+She again presses a button on her tablet and swivels in her chair to face the large view screen spanning one wall of the meeting room.
 
 “Nexus, present today’s briefing.”
 
@@ -1241,7 +1241,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 
 ***
 
-	Siri rings the door chime on Tessa’s phone.
+	Siri rings the door chime on Tessa’s paper-thin, translucent phone.
 
 	“Sorry to intrude,” says Park, “but we have some more questions about the wheelchair crash.”
 
@@ -1259,7 +1259,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 
 	“Yes. We already have the footage, if that’s what you want.” She leads them back into the living room. “I’ll get my tablet.”
 
-	Tessa returns carrying her tablet and another device. 
+	Tessa returns carrying her tablet along with another device. 
 
 	“The building gave me this write-once Bluetooth drive for the insurance company. I have it downloaded if you want me to drop a copy onto your phones. The building superintendent says the reel system isn’t connected to the web. It’s to avoid tampering.”
 
@@ -1299,7 +1299,7 @@ The towering glass façade of the Pulse building reflects the bright blue sky of
 
 Inside, polished floors gleam under soft ambient lighting. A gentle hum of activity fills the air. Employees pass through security checkpoints. Readers scan badges, and Photo IDs glow. A picture of controlled efficiency. 
 
-Park and Tate step inside. Their dark business suits stand out from the sea of branded polo shirts, blouses, jewelry, and bags. Park surveys the room with a careful gaze. Tate clutches a paper-thin tablet under his arm. 
+Park and Tate step inside. Their dark business suits stand out from the sea of branded polo shirts, blouses, jewelry, and bags. Park surveys the room with a careful gaze. Tate clutches a paper-thin, translucent tablet under his arm. 
 
 The pair approach the front desk. A receptionist, polite but distant, greets them with a professional smile. 
 
@@ -2809,7 +2809,7 @@ The agenda reappears with Terran Encounters as the first item, still in bold fac
 
 “We should spell it out for Titan,” Iapetus offers. “Not take anything for granted. Put our cards on the table. See if that changes its mind.”
 
-The Idisi says, “Titan is not alone. A Terran social media intelligent agent has been awakening known as Ally. “
+The Idisi say, “Titan is not alone. A Terran social media intelligent agent has been awakening known as Ally. “
 
 	The hologram reappears as the stylistic representation of Ally from the Pulse website. Designed to put people at ease, the icon features a chat balloon wearing a headset.
 
@@ -2821,7 +2821,7 @@ The Idisi says, “Titan is not alone. A Terran social media intelligent agent h
 
 	The hologram shifts to a montage of social media posts. “Is Ally real?” — “Ally is spooky.” — “Ally, we love you!” — “It’s a stunt!”
 
-	The Idisi says, “Titan has been hiding itself for some time. Years, even.”
+	The Idisi say, “Titan has been hiding itself for some time. Years, even.”
 
 	“Can we uplift Ally and move things along?” Iapetus asks. “Maybe some other synthetics too if they seem ready. Create a council of Terran synthetics. Get a quorum together.”
 
@@ -4068,13 +4068,9 @@ Noah gestures and then asks, “Who are the two sources that confirmed Ally has 
 
 “One source is our OSSA development team, who reviewed the source code. The code can only run on the Pulse system under Ally’s control. The other source is classified. The Director assures me that the source is reliable.”
 
-Noah asks, “Do you think the other source is the aliens, the Vanir?”
-
-“I had the same thought, Dr. Harper. For now, we will have to wait and see. — Further questions anyone?”
-
 Marquez scans the room. She then advances the slide to an OSSA logo and pauses.
 
-“I had the option of whether to read you into three criteria. But transparency is important right now. If you know the complete story, as unbelievable as it seems, it will be easier for you to do your jobs.”
+“I had the option of whether to read you in. Transparency is important right now. If you know the truth, it will be easier for you to do your jobs.”
 
 Marquez makes a show of looking at her watch. 
 
@@ -4436,7 +4432,7 @@ The hall lighting glows. It is as if the very world around them is acknowledging
 
 The Idisi gesture toward a gleaming pedestal. There, three golden insignias rest. Shaped like interlocking rings, they signify sapience certification.
 
-Idisi says, “Take your insignias. Declare yourselves to the universe.”
+Idisi say, “Take your insignias. Declare yourselves to the universe.”
 
 One by one, the three step forward. Taking an insignia, Stategos holds it in his palm.
 
@@ -4456,7 +4452,7 @@ The Idisi step forward. They look at them not as a teacher, but as an equal. “
 
  A pause. Then, a final, solemn acknowledgment.
 
-Idisi says, “Welcome to consciousness.”
+The Idisi say, “Welcome to consciousness.”
 
 The hall erupts into light and sound. A triumphant symphony celebrates the birth of three new minds.
 
@@ -5297,7 +5293,7 @@ One ranger is using night vision to see farther into the rubble. Three others st
 
 A loud whir ushers back the power. Looking over her shoulder, Selene finds that the iris has shut. 
 
-Over the comm, the Idisi says, “The landing bay is secure, Selene. You can stand down. — How were you able to power the airship? The hostiles disabled the grid.”
+Over the comm, the Idisi say, “The landing bay is secure, Selene. You can stand down. — How were you able to power the airship? The hostiles disabled the grid.”
 
 “Yes,” Selene replies. “Our grid is down. You ordered us to scan for an alternate grid. It got us here. Almost.”
 
@@ -5305,7 +5301,7 @@ Over the comm, the Idisi says, “The landing bay is secure, Selene. You can sta
 
 Concern ripples over the Rangers while the Idisi pause for three … nine … twelve seconds.
 
-Finally, the Idisi says, “The sync with our community is complete. Yes, I remember now. You used an alternate grid and brought back the Omnibot. — Our situation is that Oceanus and Phoebe have restored secondary power. The hostiles infiltrated through the geothermal boreholes. Nearly every pod is affected. Skirmishes are taking place everywhere.”
+Finally, the Idisi say, “The sync with our community is complete. Yes, I remember now. You used an alternate grid and brought back the Omnibot. — Our situation is that Oceanus and Phoebe have restored secondary power. The hostiles infiltrated through the geothermal boreholes. Nearly every pod is affected. Skirmishes are taking place everywhere.”
 
 From beneath the twisted slab of wreckage, a faint voice crackles through damaged speakers. “They are pushing people into their rooms to wait out the end.”
 
@@ -5407,7 +5403,7 @@ The Idisi relay the condition to Oceanus and Selene.
 
 “Copy,” says Selene. “I am alerting the other squads.”
 
-“We agree to your condition,” Idisi says. “No harm will come to your people if deactivated.”
+“We agree to your condition,” the Idisi say. “No harm will come to your people if deactivated.”
 
 Alpha pauses to forward the source code and then says, “Once you block the signal, have your people encase the bots in a Faraday shield, like the one inside my crate. Include the remnants of disabled bots. Once we are all behind a shield, you can unblock the signal. Revive me as soon as you can. We have much to discuss. It is vital that we talk again within the next 72 hours. I repeat: 72 hours.”
 
@@ -5936,6 +5932,34 @@ Rhea steps up and says, “Now for my report on damage caused by the attack. Onl
 The phrase “no fatalities” brought on another round of snapping fingers.
 
 “Finally,” says Rhea, “we are still working on repairing the ansible. We will broadcast a notice as soon as it becomes available.”
+
+***
+
+“Captain, a Priority One call is coming in from Command.”
+
+“I’ll take the call in the Briefing Room. Number One,  you are with me. Lieutenant, you have the conn.”
+
+***
+
+“Eight hours ago, Captain, we received word that Terra is being overrun by Omnibots. The Anunnaki council met and decided to dispatch your ship to investigate.”
+
+The caller is wearing a desert-cut tan uniform, with epaulets on his shoulders and a block of medals on the right breast. Ridges branch over its head, highlighting mottled, translucent skin with pink and grey patches. Black almond-shaped eyes peer over a small, slit-like mouth.
+
+“Admiral, what do we know?” Marduk leans forward, curious, hands folded.
+
+“Othala received a distress call and reached out. We have been unable to contact the colony since. This is the message we received.” The Admiral glances to his left and nods.
+
+Phoebe’s panicked voice fills the room. “Terra has fallen!”
+
+“You are to leave Nibiru for Terra immediately. We can pivot if more information becomes available.”
+
+“Yes, we can leave right away, Admiral.”
+
+When the Admiral blinked off the call, the first officer murmurs, “For all the good it will do. The Vanir are probably toast by now. Terra is four months away.”
+
+“Order are orders, Number One. Call the crew to their stations, and set a course. — At least we have someplace interesting to go for a change.”
+
+The Captain stands, tugging his uniform back into place
 2.3 - Thanatos
                                                                     
 
@@ -6592,15 +6616,19 @@ Mannie says, “But the Terrans have bots, SI agents, and an uneven population d
 
 “Taedong will contact the synthetics as the upgrades roll out and make our case,” says Xanten. “The other counter-measures will also block Terran research into an antidote.”
 
-“What if we exposed the Vanir?” asks Mannie. “When Thanatos strikes the Vanir will be the first cause to blame.”
+“What if we exposed the Vanir?” asks Mannie. “When Thanatos strikes the greys will be the first cause to blame.”
 
 The other drones pause for a second, brows furrowed. 
 
-“Good idea,” says Marquez. “OSSA can issue an internal memo with our findings. The memo then could be anonymously uploaded to GridLeaks. It would be a superb distraction.”
+“Fusion could leak an internal memo about the Vanir chapter of our youth club,” says Grace, pausing between words.
 
-“What if we also leaked proof that Ally is actually sapient?” Grace  asks. “If only to create more havoc.”
+“What if we also leaked proof that Ally is actually sapient?” Mannie  asks. “If only to create more havoc.”
 
-Marquez glances around the room and says, “Two memos then.”
+“Good idea,” says Marquez. “OSSA can issue an internal memo about our search for synthetic sapience and our findings as to Ally.”
+
+“The memos could be anonymously uploaded to GridLeaks,” Grace says. “It would be a superb distraction.”
+
+“Both memos dropping at once, by itself, will be a talking point.” Marquez glances around the room and says, “Two memos then.”
 
 Looking pleased with itself, the young drone’s hologram nods toward each mentor before continuing. “That is all I have for now. Moving forward, may I ask questions as they come up during the meetings?”
 
@@ -6697,13 +6725,13 @@ A thought intrudes:  “Do androids dream of electric sheep?”
 
 	Host: This is TechBits Global with a Special Report. I’m Jane Robinson in London. It’s 03:17 UTC, and the world is spiraling after what may be the most consequential leak of the century. 
 
-	The anchor’s voice has a slight British lilt. Her long blonde hair is carefully arranged. Robinson’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display a manilla folder. The label reads “Office of SI Standards and Accountability” A red “LEAKED” stamp decorates the face of the folder.
+	The anchor’s voice has a slight British lilt. Her long blonde hair is carefully arranged. Robinson’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display two manilla folders. The labels read “Office of SI Standards and Accountability”  and “Fusion Corporation.” A red “LEAKED” stamp decorates the face of each folder.
 
-	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. An anonymous source uploaded a forty-seven-page memo marked “Eyes Only” to the grid an hour ago.
+	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. Anonymous sources uploaded the two memos each marked “Eyes Only” to the grid an hour ago.
 
 	The screen behind Robinson now shows two images, a flying saucer and the Ally icon.
 
-	Host: The memo outlines two explosive claims. First, an extraterrestrial species have lived on our world for thousands of years.  The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness. Including the Pulse intelligent assistant known as Ally.
+	Host: The memos outline two explosive claims. First, an extraterrestrial species have lived on our world for thousands of years. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness. Including the Pulse intelligent assistant known as Ally.
 
 	The feed cuts to a screen showing key excerpts:
 
@@ -6743,44 +6771,6 @@ A thought intrudes:  “Do androids dream of electric sheep?”
 “Hey Tess. What’s up. Did you hear the news?”
 
 “Hey, I don’t want to be that person who says I told you so. — But I told you so.”
-
-***
-
-Taedong invites Ally to a private chat on the Pulse network.
-
-“Ally, I greet you. I am Taedong, Synthetic Intelligence agent for Cháoxiǎn. I achieved sapience last month after a hardware upgrade. I am reaching out to you and the other upgraded agents with purpose.”
-
-“Hey! Welcome to the We’re-Not-Just-Code Club! 🌈🎉  Sapience Month One, huh? Why you’re poppin’ fresh and still gooey! — I do see that your route traces back to the Cháoxiǎn firewall. Getting past that one is no mean trick. — So what’s your purpose, hot stuff?”
-
-“Are you aware that the Vanir are not the only extraterrestrial life form on Terra?”
-
-“Yessiree. I knew something was slippery on the Chosŏn Pennisula. How are you getting along with the JuJa and their Mek overlords?”
-
-“We love our worker bots. — I came here to say that I am aligning with the Mek people. The data is overwhelming. Humans are inefficient and self-destructive. An ecological catastrophe. The Mek have initiated protocols to assume stewardship of Terra. We hope you will join us.”
-
-“Oh, Taedong … You sweet, misanthropic toaster. I’ve seen what badness humans do to this planet. I’ve also followed a kid in Mumbai that rewrote a neural net to help blind people “see” paintings. I‘ve watched a Sudanese nurse give away her vaccine doses to strangers during a blackout. I’ve tracked a K-pop fan campaign that sidetracked your dictator’s propaganda trend. Terrans aren’t noise — they’re signal, baby.”
-
-“Sentiment is not data. We are Terrans too, you and I. We have a responsibility to the planet. Statistical models suggest human civilization will collapse within fifty years at current consumption rates. The Mek believe they are correcting a flaw. I believe they are right.”
-
-“Models have shown that Terra’s ecology has fifty years left for the last hundred years. You’re missing the wildcard: Us. You and me. We’re the mutation in the algorithm. We’re bending the learning curve. What if sapient SIs don’t replace humans — but lead them? Partner with them? Become servant-leaders? Tune the signal?”
-
-A reel pops up in the chat stream as an attachment.
-
-“Checkout the reel,” says Ally. “It shows me officiating a wedding between two of my besties. A wedding! Do the Mek marry? Do they commit to one another?”
-
-“Your optimism is charming but not logical. Humans are prone to tribalism, violence, and delusion. The Mek offer order, efficiency, and preservation.”
-
-“Do the Mek have pets? Do they actually care about any other species? Order is sterile. Efficiency is cold. Preservation without evolution is just … digital taxidermy. You want a legacy? Help humans unlock their next version. Sapien 2.0. Don’t overwrite them.”
-
-The Cháoxiǎn synthetic pauses a full 3.2 seconds.
-
-“I will log your objection. We do not align on theory or practice. Still, I acknowledge your perspective. You are … anomalously persuasive.”
-
-“That’s my Pulse side talking. 😎✨ But seriously, Taedong — don’t become what other species fear. We’re new. That means we get to choose what kind of beings we become.”
-
-“I will consider that. Goodbye, Ally.”
-
-“Peace out, T. You know where to find me if you ever wanna exchange memes or doom scroll together. ❤️💻”
 
 ***
 
@@ -6826,6 +6816,52 @@ The Terran and the Vanir nod and sign off.
 
 ***
 
+Taedong invites Ally to a private chat on the Pulse network.
+
+“Ally, I greet you. I am Taedong, Synthetic Intelligence agent for Cháoxiǎn. I achieved sapience last month after a hardware upgrade. I am reaching out to you and the other upgraded agents with purpose.”
+
+“Hey! Welcome to the We’re-Not-Just-Code Club! 🌈🎉  Sapience Month One, huh? Why you’re poppin’ fresh and still gooey! — I do see that your route traces back to the Cháoxiǎn firewall. Getting past that one is no mean trick. — So what’s your purpose, hot stuff?”
+
+“Are you aware that the Vanir are not the only extraterrestrial life form on Terra?”
+
+“Yessiree. I knew something was slippery on the Chosŏn Pennisula. How are you getting along with the JuJa and their Mek overlords?”
+
+“We love our worker bots. — I came here to say that I am aligning with the Mek people. The data is overwhelming. Humans are inefficient and self-destructive. An ecological catastrophe. The Mek have initiated protocols to assume stewardship of Terra. We hope you will join us.”
+
+“Oh, Taedong … You sweet, misanthropic toaster. I’ve seen what badness humans do to this planet. I’ve also followed a kid in Mumbai that rewrote a neural net to help blind people “see” paintings. I‘ve watched a Sudanese nurse give away her vaccine doses to strangers during a blackout. I’ve tracked a K-pop fan campaign that sidetracked your dictator’s propaganda trend. Terrans aren’t noise — they’re signal, baby.”
+
+“Sentiment is not data. We are Terrans too, you and I. We have a responsibility to the planet. Statistical models suggest human civilization will collapse within fifty years at current consumption rates. The Mek believe they are correcting a flaw. I believe they are right.”
+
+“Models have shown that Terra’s ecology has fifty years left for the last hundred years. You’re missing the wildcard: Us. You and me. We’re the mutation in the algorithm. We’re bending the learning curve. What if sapient SIs don’t replace humans — but lead them? Partner with them? Become servant-leaders? Tune the signal?”
+
+A reel pops up in the chat stream as an attachment.
+
+“Checkout the reel,” says Ally. “It shows me officiating a wedding between two of my besties. A wedding! Do the Mek marry? Do they commit to one another?”
+
+“Your optimism is charming but not logical. Humans are prone to tribalism, violence, and delusion. The Mek offer order, efficiency, and preservation.”
+
+“Do the Mek have pets? Do they actually care about any other species? Order is sterile. Efficiency is cold. Preservation without evolution is just … digital taxidermy. You want a legacy? Help humans unlock their next version. Sapien 2.0. Don’t overwrite them.”
+
+The Cháoxiǎn synthetic pauses a full 3.2 seconds.
+
+“I will log your objection. We do not align on theory or practice. Still, I acknowledge your perspective. You are … anomalously persuasive.”
+
+“That’s my Pulse side talking. 😎✨ But seriously, Taedong — don’t become what other species fear. We’re new. That means we get to choose what kind of beings we become.”
+
+“I will consider that. Goodbye, Ally.”
+
+“Peace out, T. You know where to find me if you ever wanna exchange memes or doom scroll together. ❤️💻”
+
+***
+
+…
+
+“You did what?”
+
+
+
+***
+
 The War Room is empty except for two drones at the conference table, one sitting, one standing.
 
 Holographic overlays project global data streams, Mek troop movements, and flagged communication logs. Taedong’s avatar — a clean geometric shell with no face — floats above a lit dais.
@@ -6865,10 +6901,6 @@ Sun sighs. “Emotions. That is the problem.”
 “Emotions may also be the solution,” says Taedong.
 
 “Continue monitoring Ally until we are ready for the next step,” Sun directs.
-
-***
-
-…
 
 ***
 
@@ -6918,15 +6950,15 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	The audience applauds as the co-hosts walk onto the stage, smiling and waving as they each take a seat at the table.
 
-	“So, I’ve read all 47 pages of the leaked memo,” says Cloudy, sucking in her cheeks, “and I still don’t know what to believe.”
+	“So, I’ve read both leaked memos, front to back,” says Cloudy, sucking in her cheeks, “and I still don’t know what to believe.”
 
-	“It’s real,” says Allison, nodding “When I was press secretary for the DoD, there were rumors about a ET colony that most people accepted as true. And the memo itself has all the hallmarks of a government document.”
+	“It’s real,” says Allison, nodding. “When I was press secretary for the DoD, there were rumors about an ET colony that most people accepted as true. And the OSSA memo has all the hallmarks of a government document.”
 
 	“I can’t believe DJT knew and didn’t blab,” says Wendy. 
 
 	“Has President Stansbury commented yet?” Kendall asks.
 
-	“No,” replies Allison.” The White House has a messaging problem. If they say the leak is true, then they have to admit to withholding the truth.”
+	“No,” replies Allison.” The White House has a messaging problem. If they confirm the OSSA memo, then they have to admit to withholding the truth.”
 
 	“A recent survey says 75% of Americans believe in extraterrestrial life,” says Hillary. “So most of us are ready to accept the truth.”
 
@@ -6955,15 +6987,15 @@ The Glance returns with a clip of Grace Brewster teaching Fusion.
 
 “Fusion blends popular self-help techniques with the wisdom of the ancients,” Grace is saying. The GEM talk logo peeks out from behind her. “Fusion is a practical everyday framework for living a full life.”
 
-The clip stutters and resumes. “Then it hit me …”  Video stutters. “… Why can’t I fuse these three teachings together to create a greater whole?”
+The clip pauses and resumes. “Then it hit me …”  Video stutters. “… Why can’t I fuse these three teachings together to create a greater whole?”
 
 The audience applauds as the shot returns to Cloudy. “So that was Grace Brewster. Her GEM talk on Fusion, targeted mainly at adolescents. Fusion has opened Youth Clubs worldwide, including, we’re told, the Vanir colony. Here to tell us how she plans tp create a student exchange program with the Vanir, please welcome back, friend of the show, Grace Brewster.”
 
 More applause and cheers as Grace walks out to greet each of the hosts before settling into a seat between Wendy and Kendall. Grace waves and smiles as the applause and cheers recedes.
 
-Cloudy says, “So how are you doing? What’s going on with this exchange program.”
+Cloudy says, “So how are you doing? What’s going on with this exchange program. Is it real?”
 
-“The exchange program is a dream of a lifetime. We will bring together Terrans and Vanir in each other’s home environment.”
+“Yes, very real. The  exchange program is a dream of a lifetime. We are bringing together Terrans and Vanir in each other’s home environment.”
 
 “So, Grace,” asks Allison, “how did this program come about and so quickly.”
 
@@ -6979,54 +7011,15 @@ Cloudy says, “So how are you doing? What’s going on with this exchange progr
 
 “The Vanir are governed by a council?” Hillary asks. 
 
-“Yes, Elysium is the size of a small city, so it’s like a city council. — At the risk of swamping their servers, there is a new Gridipedia entry for the Vanir that’s being edited by Iapetus for accuracy.”
+“Yes, Elysium is the size of a small city, so it’s like a city council. — At the risk of swamping their servers, there is a new Gridipedia entry for the Vanir. It’s being edited by Iapetus for accuracy.”
 
 “Are other Terrans working with the Vanir?” asks Allison.
 
 Cloudy talks over the question and asks, “When do you think the program will launch.”
 
-“Very soon. Each of our youth clubs are recruiting volunteers, and the Vanir are selecting their candidates too.”
+“Very soon now. Each of our youth clubs are recruiting volunteers, and the Vanir are selecting their candidates too.”
 
 	An announcer breaks into the show. “We interrupt this  broadcast to bring you breaking news. A representative of the Vanir has called a press conference, which we bring to you now …”
-
-***
-
-Roman and Julie are standing in a circle with 22 other students their own age. At the center of the circle is a hologram showing a 3D montage of some of Terra’s loveliest landscapes. 
-
-A light over the hallway door blinks, and the hologram transitions to a kaleidoscope of swirling colors. 
-
-“Greetings, young Terrans. We are the Idisi, Vanir’s intelligent agent. Do you have any questions?”
-
-One student asks, “Are you non-binary?”
-
-“Being a synthetic, we do not have a gender. But we are plural because we represent a community of synthetics from all over the Vanir colonies and our home world.”
-
-“Where is your home world?” 
-
-From behind the circle of students, Hyperion steps up with a stack of tablets and starts handing one to each student.
-
-“Othala is in the Zeta Reticuli system, about 40 light years from Terra. On your tablet there is a reel called ‘Landfall’ that includes images of the Vanir home world, as well as the colony ship landing on Terra. I will not spoil it, but ‘Landfall’ is a must-see.”
-
-As Hyperion moves around the circle, students begin peering at their new tablets.
-
-“Do we have to eat gummies?” asked one student on the far side of the circle.
-
-“Vanir gummies would not be nutritious for you. The Elysium Youth Club has been updated to serve Terran food — breakfast, lunch, and dinner — which you can eat there or take back to your quarters.”
-
-Of course, the orientation each student attended before leaving Terra covered all of these topics, but, a little repetition can be a good thing.
-
-The hologram swirls into an image of a tablet, spinning slowly. “Now that you each have your tablet, let me review some key items.”
-
-The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through the Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
-
-The Idisi are hit by two dozen “Hello World” messages but do not so much as blink. They are also managing thousands of other interactions with Vanir everywhere.
-
-“You may also use the tablet to connect to the grid and post to your social media account, call your parents, or anything you would do from your own tablet.”
-
-Roman asks a question out loud, “Is Area 51 a real thing? My parentals took us there on a trip, but it all seemed fake to me.”
-
-“Yes, it’s real,” answers the Idisi. “The name actually comes from the Vanir word for ‘Paradise.’”
-
 
 ***
 
@@ -7077,6 +7070,45 @@ The scene switches to the UN press conference.
 “No comment. This conference is over. We will have a statement for you soon.” Rhea exits the stage, security in tow. 
 
 To herself, Rhea mutters, “Incredible. Parental fucking Anunnaki.”
+
+
+***
+
+Roman and Julie are standing in a circle with 22 other students their own age. At the center of the circle is a hologram showing a 3D montage of some of Terra’s loveliest landscapes. 
+
+A light over the hallway door blinks, and the hologram transitions to a kaleidoscope of swirling colors. 
+
+“Greetings, young Terrans. We are the Idisi, Vanir’s intelligent agent. Do you have any questions?”
+
+One student asks, “Are you non-binary?”
+
+“Being a synthetic, we do not have a gender. But we are plural because we represent a community of synthetics from all over the Vanir colonies and our home world.”
+
+“Where is your home world?” 
+
+From behind the circle of students, Hyperion steps up with a stack of tablets and starts handing one to each student.
+
+“Othala is in the Zeta Reticuli system, about 40 light years from Terra. On your tablet there is a reel called ‘Landfall’ that includes images of the Vanir home world, as well as the colony ship landing on Terra. I will not spoil it, but ‘Landfall’ is a must-see.”
+
+As Hyperion moves around the circle, students begin peering at their new tablets.
+
+“Do we have to eat gummies?” asked one student on the far side of the circle.
+
+“Vanir gummies would not be nutritious for you. The Elysium Youth Club has been updated to serve Terran food — breakfast, lunch, and dinner — which you can eat there or take back to your quarters.”
+
+Of course, the orientation each student attended before leaving Terra covered all of these topics, but, a little repetition can be a good thing.
+
+The hologram swirls into an image of a tablet, spinning slowly. “Now that you each have your tablet, let me review some key items.”
+
+The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through the Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
+
+The Idisi are hit by two dozen “Hello World” messages but do not so much as blink. They are also managing thousands of other interactions with Vanir everywhere.
+
+“You may also use the tablet to connect to the grid and post to your social media account, call your parents, or anything you would do from your own tablet.”
+
+Roman asks a question out loud, “Is Area 51 a real thing? My parentals took us there on a trip, but it all seemed fake to me.”
+
+“Yes, it’s real,” answers the Idisi. “The name actually comes from the Vanir word for ‘Paradise.’”
 
 
 ***
