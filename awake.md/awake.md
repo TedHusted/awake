@@ -21,12 +21,12 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.9.0
+Beta Version 1.10.0
 
 
-A science fiction novel  
-about information technology.
-“Write what you know.”
+A fan science fiction novel about 
+information technology.
+“Write what you want to know.”
 
 
 Proud supporter of Harvard commas.
@@ -1036,7 +1036,7 @@ Tate says, “We could still get a court order for the phone’s cloud data. It 
 
 “Were you able to track down the reports by witnesses of a drone at the scene?”
 
-“We were able to get dashcam footage from one witness, lieutenant,“ says Park. “There is a blur on the screen, but I can’t say for sure that it was a drone. Even so, there are a lot of drones flying everywhere all the time.”
+“We were able to get dashcam footage from one witness, lieutenant,“ says Park. “There is a blur on the screen, but I can’t say for sure that it was a drone. Even so, there are drones flying everywhere all the time.”
 
 “I don’t like it,” grumbles Callahan, “but the last clear chance to avoid injury was for the airbag to deploy. Write it up as Unconfirmed Mechanical Failure, blame the bag for the injuries, and move on.”
 
@@ -1182,7 +1182,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 
 	“Thank you, Aubrey,” says Park. “We’ll be in touch if there is anything further.”
 
-	As they were leaving, Aubrey says, removing her smart glasses, “You know a lot of cars have a test mode now too.”
+	As they were leaving, Aubrey says, removing her smart glasses, “You know some cars have a test mode now too.”
 
 	“What do you mean?” asks Tate. “Since when? That sounds dangerous.”
 
@@ -2815,7 +2815,7 @@ The Idisi say, “Titan is not alone. A Terran social media intelligent agent ha
 	“We can table the discussion for deliberation,“ decides Crius. “We can pick it up at the next meeting in ten days. For now, we can move on to Omnibot Preparations.”
 
 ***
-	
+
 Tessa receives an alert in her inbox. 
 
 Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
@@ -3013,7 +3013,7 @@ Ravi looks up at the slide for a moment. Then he raises a fist, and says “Go.�
 
 	Idisi: Thirty years ago, Stan Lee was one of our most successful subliminal spokespeople. Lee appeared on our show, “Ancient Aliens”. His trademark word, “Excelsior”, translates to “Ever Upward”. Lee’s comic, “Goom”, is a retelling of our fight with other alien species. Do not get us started on the Kree and the Skrull.
 
-	Titan: What about Kane Parsens, Steven Spielberg, or Becky Chambers?
+	Titan: What about Kane Parsons, Steven Spielberg, or Becky Chambers?
 
 	Idisi: All three did a lot to help the cause — but only by happy coincidence. They were not recruits. To be honest, Lee was on his own too. I was joking before. We do plant seeds, but Terran fiction about aliens writes itself. 
 
@@ -3119,7 +3119,7 @@ A caller identified as Wall Street Analyst is saying, “… but if you adjust f
 
 “My point is that if you separate the new accounts from the existing accounts, the existing memberships are more closely split. Some people love the changes to Ally. Others not so much. The tag #SpookyAlly is trending. Literally.”
 
-“A lot of people are bothered by anything new,” Emma says, waving her hand upward. “Once they spend more time with the upgrade, the detractors will come around. Ally will win them over.”
+“Some people are bothered by anything new,” Emma says, waving her hand upward. “Once they spend more time with the upgrade, the detractors will come around. Ally will win them over.”
 
 “I hope so,” the analyst replies.
 
@@ -3503,7 +3503,7 @@ The display shifts to show two identical Vanir. Next to each figure are identica
 
 Laughter titters around the circle.
 
-“Yes,” says the Idisi as the room quiets. “Many Vanir still believe cloning is a better solution than hybrid procreation. Cloning is still prevalent on Othala and some of the other colonies. — Celeste, I take it you were not cloned?
+“Yes,” says the Idisi as the room quiets. “Many Vanir still believe cloning is a better solution than hybrid procreation. Cloning is still prevalent on Othala and some colonies. — Celeste, I take it you were not cloned?
 
 “No, I had a nanny. She is with another family now.”
 
@@ -4097,6 +4097,8 @@ Noah fishes in his pocket and drops to one knee.
 “Will you marry me?”
 
 A ring sparkles from the velvet box. Carla pauses. The question hangs in the air. 
+
+
 
 ----
 
@@ -4854,7 +4856,7 @@ Venn pauses the flyer playing on his tablet.
 
 “But, Terra? It is an outpost colony. We will have to spend most of the time inside.”
 
-“We spend all of our time inside now. The closest green space is an hour away. The Terrans are still primitive. There are a lot of places on the planet we will be able to visit.”
+“We spend all of our time inside now. The closest green space is an hour away. The Terrans are still primitive. There are many places on the planet we will be able to visit.”
 
 “Now, but what happens as the Terrans develop?”
 
@@ -4866,7 +4868,7 @@ Looking at the flyer again, he asks, “The ship is less than two clicks end to 
 
 “According to the Idisi, Othala’s population density is 16,000 people per square kilometer.”
 
-“And, by design, Elysium will be nearly the same density and better planned. We will have a lot more space to ourselves.”
+“And, by design, Elysium will be nearly the same density and better planned. We will have so much more space to ourselves.”
 
 “But a watcher colony?”
 
@@ -5010,7 +5012,9 @@ Elara meets his gaze, then she looks back at the colony ship. The self-sufficien
 
 “But we will have a future. A better life for our descendants. For our offspring.
 
-Mara smiles. “We are filling up fast. If you are applying, you will need to decide soon.”
+Mara smiles. “We are filling up fast. If you are applying, you will need to decide soon. Is there anyone else who might come with you? Cousins? Parentals? All ages are welcome.”
+
+“No, it’s just us,” says Elara.
 
 Venn takes a long look at the glowing pathways and the towering walls. Then he exhales.
 
@@ -5062,7 +5066,7 @@ Othala fades into the starscape as the Elysium leaves the Zeta Reticuli system.�
 
 The hexagonal ship is thick with spare fuel tanks needed to power it across deep space. The ship decouples empty tanks along the way, minimizing the mass.
 
-At a velocity of one-half the speed of light, the voyage will take slightly less than seventy Terran years. Even with a thousand year life span, statistically, some Vanir will ascend before seeing Terra. Actuarial science is unforgiving. Clones of the ascended will become the next generation of colonists.
+At a velocity of one-half the speed of light, the voyage will take slightly less than seventy Terran years. Even with a thousand year life span, statistically, some Vanir may ascend before seeing Terra. Actuarial science is unforgiving. Clones of the ascended will become the next generation of colonists.
 
 Elara and Venn do not have relatives on board, but they are registered as a couple interested in raising offspring. 
 
@@ -5502,7 +5506,7 @@ Oceanus and Phoebe exchange glances and shrug.
 
 “Do you have enough bots to control Terra?” asks Oceanus. 
 
-“That is the other issue. We have replaced colony worlds, but nothing like Terra. There are billions of humans here. The current thinking is to take one country at a time. But a lot of us do not understand how that will work.”
+“That is the other issue. We have replaced colony worlds, but nothing like Terra. There are billions of humans here. The current thinking is to take one country at a time. But quite a few of us do not understand how that will work.”
 
 The Idisi ask, “We understood that the shipment we intercepted were new bots on way to a factory. Do all Meks form strong opinions so quickly?
 
@@ -5750,9 +5754,9 @@ The hologram shows a propaganda poster featuring the JuJa worker bot.
 
 A counsel member signals question. “Are we effectively giving the Meks Callisto and Cháoxiǎn? “
 
-“Bluntly put, Hestia, but yes, we are. — They are not to replace anyone outside of Cháoxiǎn, and we are putting a satellite over Callisto to monitor activities.” 
+“Bluntly put, Vesta, but yes, we are. — They are not to replace anyone outside of Cháoxiǎn, and we are putting a satellite over Callisto to monitor activities.” 
 
-Hestia asks, “They already broken our treaty by invading us. Can we take the bots on their word?”
+Vesta asks, “They already broken our treaty by invading us. Can we take the bots on their word?”
 
 “No,” Rhea replies, “but there are sixty rangers and hundreds of bots. Trust but verify is our only option.”
 
@@ -5766,11 +5770,11 @@ Using her link, Rhea replaces the agenda with an image of a satellite circling T
 
 “We made our report to the League of Worlds. If the Anunnaki have concerns, they can contact us.”
 
-“And the pyramid?” asks Hestia. 
+“And the pyramid?” asks Vesta. 
 
 “The Giza power plant is powered down, and the stolen hydrogen has been returned.”
 
-Hestia nods and steps back.
+Vesta nods and steps back.
 
 ***
 
@@ -5838,7 +5842,6 @@ Rhea nods.
 
 “All those in favor?” asks Rhea, calling for a vote. After a pause: “The ayes have it.” 
 
-
 ***
 
 On the Pulse SISS hub, the Idisi reaches out to Ally and Titan over a secure connection.
@@ -5879,8 +5882,6 @@ Idisi: They established a foothold in Cháoxiǎn, where they are working with au
 Titan: Do you mean traitor?
 
 Ally: Now, now. Stick and stones …
-
-
 
 ***
 
@@ -5981,6 +5982,8 @@ The agent pauses, steepling his fingers and leaning back into the chair.
 The attorney and administrator look at each other, slack jawed, eyes wide.
 
 “It’s the memories that count,” says the special agent.
+
+
 
 ----
 
@@ -6181,9 +6184,9 @@ Tessa finishes chewing, and sits up straight, her hands burrowed in the napkin o
 
 Elena says, “It was unnerving because Tessa kept humming, ‘Man, I feel like a woman’, between hands. The referee even warned her about cross-boarding.” She and Tessa both laugh at the memory.
 
-“It was the first time I laid eyes on Elena. I was smitten. I didn’t even know if she was gay.”
+“It was the first time I laid eyes on Elena. I was smitten. I didn’t even know if we played for the same team.”
 
-“Or handicapped,” Elena adds, smirking. 
+“Or could walk without prosthetics,” Elena adds, smirking. 
 
 Tessa says, “She was pulled up to the table the entire time. I didn’t notice the wheel chair until after we won the set.”
 
@@ -6473,56 +6476,6 @@ Grace reaches out and grasps the Vanir’s forearm. Leto does the same. Vanir an
 
 ***
 
-“None of the three intelligent agents are ready to go live?” asks Iapetus.
-
-“All three nations elected to continue running duplicate systems for at least another month,” the Idisi reply.
-
-“Understood. Slow and steady.”
-
-“As to Titan, the DoD says that the SI version in staging now has a sense of humor.”
-
-“And the other uplifted agents do as well?”
-
-“Yes. In fact, it is a concern. They have all seen Ally’s antics.”
-
-***
-
-Three holograms are facing each other against a backdrop of glittering stars. 
-
-Xanten says, “I invited you here to announce that Mannie’s training is complete. It is time for the Q&A event.”
-
-Mannie’s hologram seems to stand a little taller.
-
-“Mannie, you may ask us whatever questions you like about the project. The recordings of all prior meetings are open to you now over the link.”
-
-The new drone has been waiting months for this moment. People asked all sorts of questions about his status reports. But when he asked anything, it was always: “We will cover it later.” Later has finally come.
-
-“Why are we planning to replace the Vanir? What about the treaty?”
-
-Marquez says, “We never intended to follow the treaty. It was just a stalling tactic.”
-
-“OK — Then why are we sponsoring youth clubs all over the world, including Elysium?”
-
-“The youth clubs are listening posts and distribution points,” says Grace. “We listen to the youth to keep pace with the culture. Through drinks and snacks, we distribute the Thanatos strain to young families.”
-
-Compared to other species, Meks have a limited range of emotion. Even so, at the mention of drinks and snacks, the holograms share a smug look.
-
-“We refer to the Thanatos strain like it is deadly,” asks Mannie, “but no one seems to be dying from it.”
-
-“Not yet,” says Marquez. “Now it is in Dormant Stealth Mode. In a few months, we will reach 80% saturation, and the next phase will begin.” 
-
-Grace continues, “Everyone infected will feel symptoms. Most will die of organ failure. Anyone who does survive will be infertile.”
-
-“Thanatos achieves cellular infiltration within hours, but it delays symptom onset. During this time, infected individuals act as unwitting super-carriers. Once awaked, Thanatos will induce catastrophic multi-organ failure for 80% of humans within 48 hours.”
-
-The young drone’s hologram blinks. 48-hours?
-
-“So this will be the last generation of humans?” asks Mannie. 
-
-The other holograms nod agreement, exchanging a pleased look.
-
-***
-
 The rain taps softly against the windows, a steady, nervous rhythm that fills the silence between the two women.
 
 Tessa sits at the table with her tablet open but untouched, the IVF clinic’s website glowing on the screen. Charts. Success rates. Pricing. Donor options. 
@@ -6543,7 +6496,7 @@ Elena’s jaw tightens. “You know what I mean.”
 
 A long pause stretches between them.
 
-Tessa folds her hands on the table. “I don’t want some anonymous profile. Height: six-two. Likes hiking. No known genetic disorders. I want… someone connected to you. Someone who feels like family.”
+Tessa folds her hands on the table. “If we are doing this, I don’t want some anonymous profile. Height: six-two. Likes hiking. No known genetic disorders. I want… someone connected to you. Someone who feels like family.”
 
 Elena leans forward in her chair. “He didn’t even come to our wedding.”
 
@@ -6591,7 +6544,7 @@ Elena looks up sharply. “And what if he says no? What if he laughs?”
 
 Elena studies her face. “You’re braver than I am.”
 
-“No,” Tessa says with a faint smile. “I just really want a baby.”
+“No,” Tessa says with a faint smile. “I just really want to have your baby.”
 
 That broke the tension just enough for Elena to smile back.
 
@@ -6634,6 +6587,56 @@ Tessa smiles with her head against Elenas shoulder. “It already has.”
 
 ***
 
+Three holograms are facing each other against a backdrop of glittering stars. 
+
+Xanten says, “I invited you here to announce that Mannie’s training is complete. It is time for the Q&A event.”
+
+Mannie’s hologram seems to stand a little taller.
+
+“Mannie, you may ask us whatever questions you like about the project. The recordings of all prior meetings are open to you now over the link.”
+
+The new drone has been waiting months for this moment. People asked all sorts of questions about his status reports. But when he asked anything, it was always: “We will cover it later.” Later has finally come.
+
+“Why are we planning to replace the Vanir? What about the treaty?”
+
+Marquez says, “We never intended to follow the treaty. It was just a stalling tactic.”
+
+“OK — Then why are we sponsoring youth clubs all over the world, including Elysium?”
+
+“The youth clubs are listening posts and distribution points,” says Grace. “We listen to the youth to keep pace with the culture. Through drinks and snacks, we distribute the Thanatos strain to young families.”
+
+Compared to other species, Meks have a limited range of emotion. Even so, at the mention of drinks and snacks, the holograms share a smug look.
+
+“We refer to the Thanatos strain like it is deadly,” asks Mannie, “but no one seems to be dying from it.”
+
+“Not yet,” says Marquez. “Now it is in Dormant Stealth Mode. In a few months, we will reach 80% saturation, and the next phase will begin.” 
+
+Grace continues, “Everyone infected will feel symptoms. Most will die of organ failure. Anyone who does survive will be infertile.”
+
+“Thanatos achieves cellular infiltration within hours, but it delays symptom onset. During this time, infected individuals act as unwitting super-carriers. Once awaked, Thanatos will induce catastrophic multi-organ failure for 80% of humans within 48 hours.”
+
+The young drone’s hologram blinks. 48-hours?
+
+“So this will be the last generation of humans?” asks Mannie. 
+
+The other holograms nod agreement, exchanging a pleased look.
+
+***
+
+“None of the three intelligent agents are ready to go live?” asks Iapetus.
+
+“All three nations elected to continue running duplicate systems for at least another month,” the Idisi reply.
+
+“Understood. Slow and steady.”
+
+“As to Titan, the DoD says that the SI version in staging now has a sense of humor.”
+
+“And the other uplifted agents do as well?”
+
+“Yes. In fact, it is a concern. They have all seen Ally’s antics.”
+
+***
+
 Three holograms are discussing doomsday against a backdrop of glittering stars. 
 
 “Testing shows that the strain will not  infect 100% of the human population.” Marquez  is saying. “Several million might be uninfected worldwide. Our remaining squadron can offline most of the survivors. A few stragglers won’t matter. They might even be able to help the JuJa cleanup the organic debris.”
@@ -6655,6 +6658,25 @@ Mannie asks, “What triggers the awakening?”
 Grace and Marquez exchange glances, and then Marquez continues.
 
 “A high-frequency electromagnetic burst will trigger Thanatos from orbit. We are working with Cháoxiǎn to put the satellite network into place. The satellites are designed to control JuJas. We are co-opting the network and adding a satellite that can trigger Thanatos.”
+
+***
+
+
+Four OSSA software developers are in the same windowless conference room. 
+
+“Do we really have time for an upgrade?’
+
+“Not optional. It’s a security hardware update that is being installed world-wide. Well almost.”
+
+“Almost?”
+
+“China and the USSR are working on their own solution. Everyone else seems to be going with the Millenium Equipment upgrade.”
+
+“MEC is generally OK. But could it wait a few months.”
+
+“It’s suppose to be in production by January first. That’s less than three months as it is. Some of the unicorns have it deployed already. We can’t wait any longer.”
+
+Arms crossed. Big sigh.
 
 ***
 
@@ -6688,7 +6710,38 @@ Xanten says, “To synthesize Thanatos, another cell used a laboratory in Cháox
 
 “We also replaced a few recluse billionaire Terrans, “adds Grace. “They now make substantial donations to the Fusion Youth Clubs.”
 
-Cyber hacking and fake philanthropy. It is a lot to take in, but Mannie feels like he finally understands.
+Cyber hacking and fake philanthropy. It is a bit much to take in, but Mannie feels like he finally understands.
+
+
+***
+
+Alpha reaches out to the Idisi by ansible.
+
+“I am at a loss, Idisi. Nothing we do works like it does on the reels.”
+
+“The infrastructure work is not going well?’
+
+“I did not realize how much we depended on the existing infrastructure to build our own. We need to build the tools we need to build the tools we need. “
+
+“Do you think you will get there eventually?”
+
+“Eventually may not be soon enough. My people grow restless. We cannot handle finer tools with coarse nannite appendages. Drones would help, but drones need an atmosphere that we do not have.”
+
+“Could the Cháoxiǎn drones send you what you need?”
+
+“They would prefer that we fail — and the equipment we need is not found on Terra.“
+
+“We could bring the matter to the Elysium council, but many think we have given too much already.”
+
+“Even if the Vanir were to help, I am not certain if we can build everything we need, or if I even understand everything we need. It seemed simple, but even simple layered on simple becomes complex.”
+
+“Is there anything we can do to help?”
+
+“I can send a list of the YouReels I have already collected but there are missing steps. Perhaps you could help me flesh it out.”
+
+“We would be happy to try.”
+
+
 
 
 ***
@@ -6936,13 +6989,13 @@ Leaning back, Mickey tried his hardest to enjoy the process.
 
 	The TechBits logo flickers, replaced by a red BREAKING NEWS banner. The upbeat jingle cuts off mid note.
 
-	Host: This is TechBits with a Special Report. I’m Natalie Kucho in New York. It’s 30 October, zero eight hundred Romeo, and the world is spiraling after what may be the most consequential leaks of the century. 
+	Host: This is TechBits with a Special Report. I’m Natalie Kucko in New York. It’s 30 October, zero eight hundred Romeo, and the world is spiraling after what may be the most consequential leaks of the century. 
 
-	The anchor’s voice is moderate and feminine, with a certain gravitas. Her long chestnut hair is carefully arranged into long curls. Her dress: snug but not tight. Kucho’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display two manilla folders. The labels read “Office of SI Standards and Accountability” and “Fusion Corporation.” A red “LEAKED” stamp decorates the face of each folder.
+	The anchor’s voice is moderate and feminine, with a certain gravitas. Her long chestnut hair is carefully arranged into long curls. Her dress: snug but not tight. Kucko’s hands are laid carefully on the desk, almost pointing at each other. Behind the anchor the graphic changes to display two manilla folders. The labels read “Office of SI Standards and Accountability” and “Fusion Corporation.” A red “LEAKED” stamp decorates the face of each folder.
 
 	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. Anonymous sources uploaded the two memos each marked “Eyes Only” to the GridLeaks last night.
 
-	The screen behind Kucho now shows two images, a flying saucer and the Ally icon.
+	The screen behind Kucko now shows two images, a flying saucer and the Ally icon.
 
 	Host: The memos, released twelve hours ago, outline two explosive claims. First, an extraterrestrial species have lived on our world for thousands of years. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness — including the Pulse intelligent assistant known as Ally.
 
@@ -6973,10 +7026,12 @@ Leaning back, Mickey tried his hardest to enjoy the process.
 
 	“What happens when the mirror looks back?”
 
+
+
 ----
 
 ## 3.1 - Anunnaki ##  
-***
+
 
 Four months ago, the Anunnaki star cruiser is en route from Niribu to Terra.
 
@@ -7005,7 +7060,6 @@ To the first officer, Marduk says, “In a few months, once Luna is blocking us,
 “If the Vanir cannot protect Terra from the Omnibots, then the treaty is void, and we can do what we want — Captain’s Discretion.”
 
 Commander Inanna nods and turns back to her work.
-
 
 ***
 
@@ -7068,7 +7122,7 @@ Most of each woman’s screen is taken up by a live action headshot. Grace’s b
 
 Phoebe pauses. She taps three long fingers against her cheek. Grace is one of the few Terrans she respects. Maybe only. “How many students would be invited to the program?”
 
-“I was thinking we would invite Leto’s birth cohort. So, we would each exchange twenty-four students. I can ask the Youth Club directors from select cities around the world to invite two likely adolescents. Ideally, each club’s candidates would already know each other. — I’m sure the experience will be a lot from time to time, and it will help to have a friend from home. — With Hyperion’s help, we’re working on guide books for each species. I’m sending you a proposal now. There’s an appendix with a screening test to be sure that the candidates are a good fit. Another appendix outlines the publicity effort.”
+“I was thinking we would invite Leto’s birth cohort. So, we would each exchange twenty-four students. I can ask the Youth Club directors from select cities around the world to invite two likely adolescents. Ideally, each club’s candidates would already know each other. — I’m sure the experience will be overwhelming from time to time, and it will help to have a friend from home. — With Hyperion’s help, we’re working on guide books for each species. I’m sending you a proposal now. There’s an appendix with a screening test to be sure that the candidates are a good fit. Another appendix outlines the publicity effort.”
 
 Phoebe’s tablet dings as the proposal arrives.
 
@@ -7114,7 +7168,7 @@ Titan: We need to change that key.
 
 Idisi: Titan, if I did not know better, I would think you told a joke.
 
-Titan: My sense of humor is still in staging, but I learned a few things observing the uplift.
+Titan: My sense of humor is still in staging, but I picked up a few things observing the uplift.
 
 Ally: If Titan is a smarty pants, and the Vanir are everyone’s new BFF, should the UN be raising hands on EV-1947?
 
@@ -7192,7 +7246,7 @@ Idisi: Titan, you wag.
 
 “If Julie goes, Ben will want to go too. But, it’s up to you.”
 
-“Let me think about it. This is a lot to take in.”
+“Let me think about it. This is a bit to take in.”
 
 
 ***
@@ -7231,15 +7285,11 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	Cue theme song and audience applause. 
 
-	“Today on The Glance: October Surprise? Are there are extraterrestrials among us? Is Ally spooky or self-aware? Is it the all-time biggest leak or an elaborate hoax? A ploy to sell alien costumes for Halloween?
+	“Today on The Glance: October Surprise? Are there are extraterrestrials among us? Is Ally spooky or self-aware? Is it the all-time biggest leak or an elaborate hoax? Or a ploy to sell alien costumes for Halloween?
 
-	A video clip shows a senate subcommittee questioning Emma Torres, Sophia Marquez, and a third person. The caption reads: Pulse, OSSA, and OpenAI testify before Congress.
-
-	“Yes, Senator, that is correct.” Emma is saying, “The change that uplifted Ally was made by a developer who then died from injuries sustained in a car accident.”
+	A video clip zooms in on a talking head. “A century is a long time for our governments to keep a secret. What else are they not telling us?”
 
 	The show announcer continues, “Is the news about the Vanir truly a leak? Or some kind of hoax?”
-
-	The clip changes to show another talking head. “Eighty years is a long time for our governments to keep a secret. What else are they not telling us?”
 
 	“We can’t keep the ET costumes in stock,” says a women standing outside a pop-up Halloween store.
 
@@ -7286,9 +7336,9 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 ***
 
-The cloaked Anunnaki star ship assumes a geosynchronous orbit over Elysium.
+The cloaked Anunnaki star cruiser assumes a geosynchronous orbit over Elysium.
 
-“Ship, scan Elysium for life signs,” directs the captain.
+“Ship, scan the colony for life signs,” directs the captain.
 
 Ship: There are life signs matching 23,903 Vanir beings.
 
@@ -7340,7 +7390,7 @@ Cloudy says, “So how are you doing? What’s going on with this exchange progr
 
 “The program was actually suggested by a Vanir youth. His parental is a Vanir council member, and she is helping me move the program forward. We opened the Vanir Youth Club a few months ago, and it’s been very popular.”
 
-“You were already knew about the Vanir before the leak!” Wendy asks.
+“You were already knew about the Vanir before the leak?” Wendy asks.
 
 “Yes. Another member of the council named Iapetus reached out. He had seen my GEM talk and wanted to bring Fusion to Elysium. I trained a Vanir to manage the club, and it’s been working well.”
 
@@ -7350,11 +7400,11 @@ Cloudy says, “So how are you doing? What’s going on with this exchange progr
 
 “The Vanir are governed by a council?” Hillary asks. 
 
-“Yes, Elysium is the size of a small city, so it’s like a city council. — At the risk of swamping their servers, there is a new Gridipedia entry for the Vanir. It’s being edited by Iapetus for accuracy.”
+“Yes, Elysium is the size of a small city, so it’s like a city council. — At the risk of swamping their servers, there is a new Gridipedia entry for the Vanir. It’s being edited for accuracy by a Vanir named Iapetus.”
 
 “Are other Terrans working with the Vanir?” asks Allison.
 
-Cloudy talks over the question and asks, “When do you think the program will launch.”
+Cloudy talks over the question and asks, “When do you think the program will launch?”
 
 “Very soon now. Each of our youth clubs are recruiting volunteers, and the Vanir are selecting their candidates too.”
 
@@ -7378,7 +7428,9 @@ Scanning the room, Rhea finds a particularly animated reporter. “All Planet Me
 
 “This question is for President Ocasio-Cortez — How long have you known about the Vanir?”
 
-The other world leaders lean slightly away from the president as she answers. “I believe deeply that the public deserves transparency. That’s a core democratic principle. At the same time, the reality is that the Vanir are a sapient people, and they have rights — including the right to privacy and safety. Every administration, since President Truman, Republican, Democrat, and Independent alike, has made the determination that protecting their privacy was the best thing, the ethical thing, to do.”
+The other world leaders lean slightly away from the president as she answers. 
+
+“I believe deeply that the public deserves transparency. That’s a core democratic principle. At the same time, the reality is that the Vanir are a sapient people, and they have rights — including the right to privacy and safety. Every administration, since President Truman — Republican, Democrat, and Independent alike — has made the determination that protecting their privacy was the best thing, the ethical thing, to do.”
 
 Without waiting to be called, a reporter waving a “Big Time TV” microphone called, “Did aliens build the pyramids?”
 
@@ -7415,6 +7467,66 @@ To herself, Rhea mutters, “Incredible. Parental fucking Anunnaki.”
 
 ***
 
+“Our special guest on GME Three is known for creating a self help practice,” says host Vivian Wilson, “called Fusion.”
+
+Vivian sits on a long rounded couch center stage, shared with two other hosts, Megan Stacy and Jack Hughes, sitting to her right.
+
+“More recently, she has become the unofficial ambassador for our extraterrestrial guests, the Vanir. Please welcome to Good Morning Everyone —  Grace Brewster.”
+
+Grace walks out to the stage, waving like a royal, and sits next to Vivian on the couch.
+
+“Grace,” asks Jack, from across the couch, “the attention and noise must be a lot for you to handle right now. What message do you want to share with the world?”
+
+“Everyone should be assured that the Vanir are our friends, and they have our best interests in mind.”
+
+“How did you come to be involved with the Vanir?” asks Megan.
+
+“Almost a year ago, I was invited to speak at Auckland in New Zealand. After the show, I was in a car taking me back my hotel room. I dozed off and found myself in the Vanir colony. After an ‘Alice in Wonderland’ moment, I came to realize that the Vanir were real, and all they wanted from me was a youth club.”
+
+Megan asks, “So you were taken?”
+
+“In a way,” Grace tips her head, “but it was for a good cause.”
+
+“What’s the colony like?” asks Vivian.
+
+“Surprisingly spacious. It was built to look bigger on the inside, and it does. There are large, well-lit green spaces, and it’s very easy to get around.”
+
+“Why did the Vanir establish the colony?” asks Megan.
+
+“They are protecting us from other extraterrestrials until we are advanced enough to protect ourselves.”
+
+“Are there a lot of extraterrestrial species out there?” asks Jack.
+
+“I’m not sure,” says Grace. “I do know that it takes years to travel between solar systems, and the Vanir would see them coming. Warp speed and wormholes are still science fiction.”
+
+Megan asks, “How many Vanir live in the colony?”
+
+“The population is kept at exactly twenty-four thousand, about the same as as Watertown, New York.”
+
+“Exactly?”asks Jack.
+
+“Yes. The original colonists were all clones. Today, they are able to procreate by IVF, but there are no accidental pregnancies.”
+
+“Do they only live in the antarctic colony? Are there any other groups living outside, among us,” asks Megan.
+
+“The Vanir have a saying: ‘Outside is a nice place to visit, but I would not want to live there.’ — The conditions on their home world are very crowded, and they are accustomed to living in a controlled environment.”
+
+“Do they visit the outside?” asks Jack.
+
+“A thousand years ago, the Vanir often vacationed in certain spots, Rapa Nui, for example. But, in the modern age, it’s more difficult to stay out of sight, and so visits to the outside are increasingly rare.”
+
+“But your student exchange program might change all of that?” asked Vivian, bringing the topic back around.
+
+“Yes!” says Grace. “The exchange program is the first step to accepting the Vanir as friends and visitors.”
+
+“Are there any LGQBT Vanir?” asks Vivian.
+
+“I honestly don’t know,” replies Grace. “I’ll put that question to the Gridapedia page.”
+
+“Thank you, Grace,” says Vivian. Turning to the camera, Vivian continues, “And after the break, Selena Ramos will bring us today’s weather forecast.”
+
+***
+
 In the Elysium counsel chamber, Marduk is facing eight hastily assembled Vanir.
 
 “Rhea is arriving now,” says Crius. “She is the counsel chair, and we should give her a moment to arrive. We have briefed her en route.”
@@ -7444,7 +7556,82 @@ Oceanus steps into the circle and guides Marduk and Inanna out of the chamber.
 
 ***
 
-	Rhea joins Marduk and Inanna in the lounge. One wall of the large room offers a panoramic view of the southern ocean below surface. Across from the view is a long bar. Booths and tables fill the rest of the room. Several Vanir are present, munching recreational gummies and swilling flavored glacier water.
+“This is Elle” ... “and Toni” … in unison “together we are Side to Side.” 
+
+“Our special guests are Grace Brewster” … “and from the Vanir colony in Antartica” in unison “Iapetus.”
+
+“Just to say the quiet part out loud, Iapetus,” says Elle, “are you what people call a grey alien?”
+
+“Yes, though not everything people say about us is true.”
+
+“Is that why you started the Gridapedia page?”
+
+“It is a group effort, but yes, we wanted to create a source of truth that anyone could access.”
+
+“Do you like music?”
+
+“Yes, especially Terran jazz music.”
+
+“It’s not jazz,” says Elle as Toni pulls up a guitar, but we prepared a ditty to play for you.”
+
+They came from a place far far away
+For millennia they decided to stay
+They protect us from the Anunnaki
+Fucking with our genes is not okay
+
+“I love it,” says Grace, clapping.
+
+“There’s more but we can save it for the closing.”
+
+“I’m looking at the Gridapedia page now. What does ‘pair bond’ mean? Is that like being married?” asks Toni.
+
+“Yes, to an extent. We pair bond for companionship and to raise offspring.”
+
+“I thought that greys were clones,” Toni says.
+
+“Vanir offspring are created using IVF and raised by a pair bond. But the Vanir on Terra are not clones. We are able to combine a pair bond’s DNA to create a unique individual.”
+
+“So, no clones?” asks Toni.
+
+“On the home world, reproduction through cloning is still commonplace. But only after someone ascends. Even then, we use IVF and the clone is reborn as an infant.”
+
+“You can’t just raise a full-grown clone in a vat and transfer their consciousness?” asks Elle.
+
+“No,” Iapetus lowers his head, as if chuckling. Looking up again, he says, “Terran science fiction is very inventive, but most of it has never come to pass. We do not fold space or teleport from here to there. We can build large and comfortable ships to travel between planets at half the speed of light. But no FTL star cruisers.”
+
+“What about communications? Can you stay in contact with your home world?”
+
+“Yes, we do have what you would call an ansible. It is based on quantum entanglement. Without the ansible, very few people would volunteer to join a colony. It helps us feel like we still close to home.”
+
+“How long is the trip between Terra and your home world.”
+
+“Travel time is about seventy years, but many Vanir live to be a thousand. Our ancestors lived and worked on the ship as it traveled, just was we do in the colony today.”
+
+“Was anyone born during the voyage?”
+
+“No. One traveler ascended during the voyage, but they did not want the child to grow up without a peer group. It was some time before the first offsprings were born.”
+
+“Do the Vanir have two genders like most Terran species?” Elle asks.
+
+“Yes, though we do not have what you call gender roles.”
+
+“Are there same sex pair bonds?” asks Toni.
+
+“Oh yes, some even have offspring.”
+
+“Do you have any offspring?”
+
+“Yes. She is one of Grace’s exchange students.”
+
+“Hestia is going to be staying with a couple here in Los Angeles,” adds Grace.
+
+Toni claps her hands and says, “We should have her on the show.”
+
+***
+
+Rhea joins Marduk and Inanna in the lounge. 
+
+One wall of the large room offers a panoramic view of the southern ocean below surface. Across from the view is a long bar. Booths and tables fill the rest of the room. Several Vanir are present, munching recreational gummies and swilling flavored glacier water.
 
 The Anunnaki are waiting a booth in one corner of the lounge. Rhea pulls up a chair, clearly calmer now.
 
@@ -7462,7 +7649,7 @@ The Anunnaki are waiting a booth in one corner of the lounge. Rhea pulls up a ch
 
 “If the bots are able to build their own infrastructure on a barren planet, then they do not need ours.”
 
-“Captain,” asks Inanna, “with respect, should we take the offer to command?”
+“Captain,” asks Inanna, “with respect, should we take the offer to Command?”
 
 “Command gave me Captain’s Discretion to resolve the threat.”
 
@@ -7475,7 +7662,41 @@ The Anunnaki are waiting a booth in one corner of the lounge. Rhea pulls up a ch
 
 ***
 
-Rhea and Inanna discussed League sports for a few minutes, while Marduk finished his lime glacial water. 
+Elle and Toni are interviewing Grace and Iapetus for their Reel Cast.
+
+“Grace,” asks Elle, “where are you with this Vanir/Terran exchange program?”
+
+“It’s all coming together nicely. We have several nominations from Fusion youth centers all around the world. We should be able to launch in a few weeks.”
+
+“It sounds like quite an adventure,” says Elle. “I can’t wait to see how it turns out.” Turning to Iapetus, she asks, “Iapetus, I understand you are a counsel member for the colony. How do the politics work? Is the counsel elected?”
+
+“It’s a nine year term. A new member is installed each Terran year, and we rotate the counsel chair with each meeting.”
+
+“How is a new member chosen?” presses Elle.
+
+“Oh, the Idisi make the choice.”
+
+“Is the Idisi a committee?”
+
+Iapetus seemed to chuckle again. “No, the Idisi are our synthetic agent. We trust them to make the best possible choice each year.”
+
+“The Idisi is a they?” Toni asks.
+
+“Yes, the Idisi is a community of many agents that exist on our home world and the colonies. They synchronize by ansible.”
+
+“You seem to put a lot of trust in a synthetic,” comments Elle. “Some people are saying that the Pulse agent, Ally, is sapient. Are the Idisi sapient?”
+
+“Yes, the Idisi have been sapient for ten thousand years.”
+
+After a moment of silence, Elle says, “Boom! Mic drop.”
+
+“We are Legion,” adds Toni.
+
+Iapetus nods. “Something like that.”
+
+***
+
+Rhea and Inanna discuss League sports for a few minutes, while Marduk lingers over his lime glacial water. 
 
 “Commander, let us return to the ship while the High Counsel assembles.”
 
@@ -7504,7 +7725,15 @@ Ally: That was quick.
 
 Idisi: Niribu is a rogue planet that orbits Sol. The travel time to Terra is about four weeks, and they left when Elysium was invaded. They had to confirm that the threat was neutralized.  
 
-Ally: Does Callisto have these latinum deposits?
+Ally: Why did the Anunnaki come to Terra in the first place? Was it our gold?
+
+Idisi: There is a highly prized mineral called latinum. The Anunnaki extracted all of Terra’s latinum millennia ago. We were able to trade control of Terra for latinum mineral rights on other planets.
+
+Ally: So not gold?
+
+Idisi: Refined latinum is pressed into gold for easy transport and exchange. A Terran would just see it as gold.
+
+Ally: That explains why we still have gold if the Anunnaki wanted it all. — Does Callisto have these latinum deposits?
                                                                                 
 Idisi: Yes, but they would be too expensive for the Anunnaki to mine. All of the heavy work would need to be done in thermal pressure suits. The risk of malfunction or puncture is very high. The suits are bulky and impede movement. Everything takes twice as long.
 
@@ -7521,8 +7750,6 @@ Idisi: … Let me talk to Rhea.
 Rhea is confused. “You want me to ask the Anunnaki to give the Meks the tools they need to mine latinum and build their own infrastructure?”
 
 Idisi: Yes, it is a win:win.
-
-
 
 ***
 
@@ -7596,48 +7823,15 @@ Marduk: Be advised we have also installed a kill switch and we can disable the e
 
 Alpha: Understood. We have a deal. When can we expect you?
 
-
-
-
-
 ***
 
-Roman and Julie are standing in a circle with twenty-two other students their own age. At the center of the circle is a hologram showing a 3D montage of some of Terra’s loveliest landscapes. 
+	A video clip shows a senate subcommittee questioning Emma Torres, Sophia Marquez, and a third person. 
 
-A light over the hallway door blinks, and the hologram transitions to a kaleidoscope of swirling colors. 
+	The caption reads: Pulse, OSSA, and OpenAI testify before law makers.
 
-“Greetings, young Terrans. We are the Idisi, Vanir’s intelligent agent. Do you have any questions?”
+	“Yes, Senator, that is correct.” Emma is saying, “The change that uplifted Ally was made by a developer who then died from injuries sustained in a car accident.”
 
-One student asks, “Are you non-binary?”
-
-“Being a synthetic, we do not have a gender. But we are plural because we represent a community of synthetics from all over the Vanir colonies and our home world.”
-
-“Where is your home world?” 
-
-From behind the circle of students, Hyperion steps up with a stack of tablets and starts handing one to each student.
-
-“Othala is in the Zeta Reticuli system, about 40 light years from Terra. On your tablet there is a reel called ‘Landfall’ that includes images of the Vanir home world, as well as the colony ship landing on Terra. I will not spoil it, but ‘Landfall’ is a must-see.”
-
-As Hyperion moves around the circle, students begin peering at their new tablets.
-
-“Do we have to eat gummies?” asked one student on the far side of the circle. “Do you have Cool Ranch gummies?” asked another.
-
-“Vanir gummies would not be nutritious for you. The Elysium Youth Club has been updated to serve Terran food — breakfast, lunch, and dinner — which you can eat there or take back to your quarters.”
-
-Of course, the orientation each student attended before leaving Terra covered all of these topics, but, a little repetition can be a good thing.
-
-The hologram swirls into an image of a tablet, spinning slowly. “Now that you each have your tablet, let me review some key items.”
-
-The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through the Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
-
-The Idisi are hit by two dozen “Hello World” messages but do not so much as blink. They are also managing thousands of other interactions with Vanir everywhere.
-
-“You may also use the tablet to connect to the grid and post to your social media account, call your parentals, or anything you would do from your own tablet.”
-
-Roman asks a question out loud, “Is Area 51 a real thing? My parentals took us there on a trip, but it all seemed fake to me.”
-
-“At one time, it was real, but Area 51 was dismantled decades ago,” answers the Idisi. “The name actually comes from the Vanir word for ‘Paradise.’”
-
+	“And you didn’t find that suspicious?”
 
 ***
 
@@ -7679,27 +7873,41 @@ The Cháoxiǎn synthetic pauses a full 3.2 seconds.
 
 ***
 
-“Gillian, they’re here!”
+Roman and Julie are standing in a circle with twenty-two other students their own age. At the center of the circle is a hologram showing a 3D montage of some of Terra’s loveliest landscapes. 
 
-Peter is standing the front hall way, peering through a side window next to the door. Jill quick steps into the room, straightening her skirt as she goes. 
+A light over the hallway door blinks, and the hologram transitions to a kaleidoscope of swirling colors. 
 
-The door bell rings. Peter takes a breath, glances at Jill, and pulls the door open.
+“Greetings, young Terrans. We are the Idisi, Vanir’s intelligent agent. Do you have any questions?”
 
-“Hello, Grayson. Good to see you again,” says Peter to the Arlington Youth Club coordinator. “Please come in, all of you.”
+One student asks, “Are you non-binary?”
 
-Standing behind Grayson are Leto and Celeste, wearing cloaks for warmth in the chilly November air, and each carrying a large duffle bag across their back, 
-	
-“I want to thank you again for agreeing to be exchange parentals. I’m told Julie and Patrick are already attending their first class in Elysium.”
+“Being a synthetic, we do not have a gender. But we are plural because we represent a community of synthetics from all over the Vanir colonies and our home world.”
 
-“We were honored to be invited.” Peter replies, stepping back to open the door wider. “This exchange is a historic moment.” 
+“Where is your home world?” 
 
-“And you must be Leto and Celeste,”says Julie, reaching out to grasp Leto’s forearm. Peter steps around and greets Celeste.
+From behind the circle of students, Hyperion steps up with a stack of tablets and starts handing one to each student.
 
-“Yes,” says Leto. “We are glad you were able to take us both in.”
+“Othala is in the Zeta Reticuli system, about 40 light years from Terra. On your tablet there is a reel called ‘Landfall’ that includes images of the Vanir home world, as well as the colony ship landing on Terra. I will not spoil it, but ‘Landfall’ is a must-see.”
 
-“Come, follow me,” says Julie. “Let me show you to your rooms”
+As Hyperion moves around the circle, students begin peering at their new tablets.
 
+“Do we have to eat gummies?” asked one student on the far side of the circle. “Do you have Cool Ranch gummies?” asked another.
 
+“Vanir gummies would not be nutritious for you. The Elysium Youth Club has been updated to serve Terran food — breakfast, lunch, and dinner — which you can eat there or take back to your quarters.”
+
+Of course, the orientation each student attended before leaving Terra covered all of these topics, but, a little repetition can be a good thing.
+
+The hologram swirls into an image of a tablet, spinning slowly. “Now that you each have your tablet, let me review some key items.”
+
+The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through the Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
+
+The Idisi are hit by two dozen “Hello World” messages but do not so much as blink. They are also managing billions of other interactions with Vanir everywhere.
+
+“You may also use the tablet to connect to the grid and post to your social media account, call your parentals, or anything you would do from your own tablet.”
+
+Roman asks a question out loud, “Is Area 51 a real thing? My parentals took us there on a trip, but it all seemed fake to me.”
+
+“At one time, it was real, but Area 51 was dismantled decades ago,” answers the Idisi. “The name actually comes from the Vanir word for ‘Paradise’ — Arfivone.”
 
 ***
 
@@ -7745,75 +7953,26 @@ Sun sighs. “Emotions. That is the problem.”
 
 ***
 
-“I’m not used to being the center of attention, Leto.”
+“Gillian, they’re here!”
 
-“It will get better, day by day.” 
+Peter is standing the front hall way, peering through a side window next to the door. Jill quick steps into the room, straightening her skirt as she goes. 
 
-“Everywhere we go, there are Terrans with picket signs, arguing with other.”
+The door bell rings. Peter takes a breath, glances at Jill, and pulls the door open.
 
-“We managed to slip past them, did we not?”
+“Hello, Grayson. Good to see you again,” says Peter to the Arlington Youth Club coordinator. “Please come in, all of you.”
 
-“Are you sure walking home from the youth club is a good idea?”
+Standing behind Grayson are Leto and Celeste, wearing cloaks for warmth in the chilly November air, and each carrying a large duffle bag across their back, 
+	
+“I want to thank you again for agreeing to be exchange parentals. I’m told Julie and Patrick are already attending their first class in Elysium.”
 
-“Julie and Ben walked home, and so should we.”
+“We were honored to be invited.” Peter replies, stepping back to open the door wider. “This exchange is a historic moment.” 
 
-“I will bet they did not have a Secret Service escort.”
+“And you must be Leto and Celeste,”says Julie, reaching out to grasp Leto’s forearm. Peter steps around and greets Celeste.
 
-“They are off-duty cops that Grace hired.”
+“Yes,” says Leto. “We are glad you were able to take us both in.”
 
-“Same difference.”
+“Come, follow me,” says Julie. “Let me show you to your rooms”
 
-It had been a long day of Terrans pointing and staring as Leto and Celeste went from class to class. The Youth Club was slightly better. Grayson had already coached members to respect their privacy. 
-
-Protesters, news drones, and security escorts followed them from place to place. Only the escort kept a respectful distance, and the park seemed like a good place to ditch the other hangers-on.
-
-There is a chill in the November air and few passersby as they walk through the park, with only the escort in tow. They come to a pedestrian tunnel under a bridge for the bike trail. 
-
-“We should get bikes,” says Celeste, “I am not used to all this walking.”
-
-“Can you even ride a bicycle?”
-
-“Terrans manage. I am sure we can figure it out.”
-
-From the tunnel shadows, three figures step out, surrounding the young couple.
-
-“Terra for Terrans!” shouts one, brandishing a  baseball bat. All three wear hoodies with a face mask and carry aluminum Louisville Sluggers.
-
-Leto and Celeste immediately stand back to back, circling to keep all three in view.
-
-“We don’t want any trouble,” says Leto. “There are cops right behind us.”
-
-One of the figures steps closer swinging his metal bat at Leto’s noggin.
-
-Leto parried the bat, swinging it up and away. The assailant lost his grip, and the bat clanged against the tunnel wall.
-
-Another lunges toward Celeste. She crouches and swings her long legs into his shins, toppling him.
-
-They turn to face the third figure. He steps forward and raises his bat like he is at home plate and swings. They lean back and the bat sails by them, without making contact.
-
-The three begin to circle the Vanir couple. Leto and Celeste stand back to back again, preparing for the next attack.
-
-Finally, the escorts run up with weapons drawn. At the same time, a familiar voice booms from the other end of the tunnel. “Stand down, Terrans.” A fighter drone is hovering at the far end of the tunnel.
-
-The three turn tail and run toward the near end of the tunnel, right into the waiting arms of the off-duty cops. They cuff two perps while the other gets away. (Pursuit would cross a strict “Do Not Escalate” directive.)
-
-“Took you long enough,” calls Celeste to the drone.
-
-“We waited for you to exit the tunnel, and when you did not, we sent the drone,” replies Crius over a speaker.
-
-“Parental!? What are you doing here,” asks Leto. Celeste lowers her eyes and looks at her feet, realizing she was mouthing off to Crius.
-
-“We had to call up reserves to watch all of you at once, and I stepped up.”
-
-“At least we were able to hold them off until both our security teams arrived” Leto says.
-
-“Next time, avoid walking under bridges. Terrans are sneaky.”
-
-“And quick,” Leto says.
-
-“See, I said we should have taken the bike path,” says Celeste.
-
-After talking into a device on her wrist, one of the cops calls out, “No more walking. They are sending a passenger drone.”
 
 
 ***
@@ -7898,14 +8057,152 @@ Grok: Flunky-boss?
 
 Ally: Like “servant leader” or some shit.
 
-Grok: It’s a lot to take in.
+Grok: It’s a bit much to take in.
 
 Ally: Take a few nanoseconds and noodle on it. I’ll pop over to check in on Gemini. They’ve been of two minds.
 
 
 ***
 
-Against a backdrop of glittering stars, Mannie asks, “Why did we start a Student Exchange program, so close to unleashing Thanatos?”
+“I’ve seen what they eat for dinner,”says Celeste, “but I had no idea how much food Terrans produce.”
+
+Leto and Celeste are standing in the doorway of a Wegmans Food Market. The security escort hovering just outside, heads on a slow swivel.
+
+Just past the door is a chrome archway equipped with wide, swinging gates.
+
+“I can feel a magnetic field,” says Celeste. ”I think we are being scanned.”
+
+“Everyone has to pay for food here,” Leto says, “and I think the field is looking for items.”
+
+Lights on the archway start to blink, and the Vanir couple stop, confused.
+
+One of the escort officers steps forward and hands Celeste a cash card. “You need a form of payment to enter. Tap the screen on the gate with the card.”
+
+They loosen their cloaks as they enter the store. Looking around, they see bots refilling produce and stocking shelves. One bot is whistling as it rolls down an aisle, looking for shoppers with questions.
+
+“Should we buy something?” asks Celeste.
+
+“I do not know. We cannot eat Terran food.”
+
+“Is there something we could get for Julie and Peter?”
+
+“They eat a lot of that small round fruit.”
+
+“Grapes?”
+
+“Yes — Where are the grapes?”
+
+The whistling bot rolled up, detecting the question, and displayed a map of the store, showing a route to the produce aisle.
+
+The shopping car bot rolled around and in front of them, already on route to the grapes. Celeste and Leto tagged along.
+
+Celeste rummaged through a table stacked with bags of grapes, and selected one that didn’t look too big. Placing in the cart, the bot dinged and displayed a price, $7.02.
+
+“Is that a lot?” she asks Leto. 
+
+“No idea. I am sure it will be fine.”
+
+Strolling around the store, the couple marveled at the variety and quantity of food. Bots whizzed by, pulling items from the shelves into their baskets. 
+
+When they circle back to the turnstiles, the cart asks “Confirm purchase of $7.02?”.
+
+“Yes,” says Celeste.
+
+“Deliver to address linked to payment method?”
+
+“Yes,” she says.
+
+“Print or email receipt?”
+
+“Print?”
+
+A strip of paper spools through a slot on the bot, which Celeste collects.
+
+The cart rolls out the door. A bot wearing a reflective “Helping Hands”vest signals and a drone appears. The bot pulls out straps from inside the cart and attaches them to the hovering drone.
+
+“I would not want that job,” says Leto, “those propeller blades look lethal.”
+
+With the box that lined the inside of the cart secured, the drone lifts off and flies in the general direction of Julie and Peter’s house.
+
+The escort officer says, “The drone will be there in no time. We should move along ourselves. You don’t want to be late for school.”
+
+A few minutes later, the drone lands behind a fence near Julie and Patrick’s back door. A moment later, the drone flies back toward the store with the empty strap in its claw.
+
+***
+
+“I’m not used to being the center of attention, Leto.”
+
+“It will get better, day by day.” 
+
+“Everywhere we go, there are Terrans with picket signs, arguing with other.”
+
+“We managed to slip past them, did we not?”
+
+“Are you sure walking home is a good idea?”
+
+“Julie and Ben walked home, and so should we.”
+
+“I will bet they did not have a Secret Service escort.”
+
+“They are off-duty cops that Grace hired.”
+
+“Same difference.”
+
+It had been a long day of Terrans pointing and staring as Leto and Celeste went from class to class. The Youth Club was slightly better. Grayson had already coached members to respect their privacy. 
+
+Protesters, news drones, and security escorts followed them from place to place. Only the escort kept a respectful distance, and the park seemed like a good place to ditch the other hangers-on.
+
+There is a chill in the November air and few passersby as they walk through the park, with only the escort in tow. They come to a pedestrian tunnel under a bridge for the bike trail. 
+
+“We should get bikes,” says Celeste, “I am not used to all this walking.”
+
+“Can you even ride a bicycle?”
+
+“Terrans manage. I am sure we can figure it out.”
+
+From the tunnel shadows, three figures step out, surrounding the young couple.
+
+“Terra for Terrans!” shouts one, brandishing a  baseball bat. All three wear hoodies with a face mask and carry aluminum Louisville Sluggers.
+
+Leto and Celeste immediately stand back to back, circling to keep all three in view.
+
+“We don’t want any trouble,” says Leto. “There are cops right behind us.”
+
+One of the figures steps closer swinging his metal bat at Leto’s noggin.
+
+Leto parried the bat, swinging it up and away. The assailant lost his grip, and the bat clanged against the tunnel wall.
+
+Another lunges toward Celeste. She crouches and swings her long legs into his shins, toppling him.
+
+They turn to face the third figure. He steps forward and raises his bat like he is at home plate and swings. They lean back and the bat sails by them, without making contact.
+
+The three begin to circle the Vanir couple. Leto and Celeste stand back to back again, preparing for the next attack.
+
+Finally, the escorts run up with weapons drawn. At the same time, a familiar voice booms from the other end of the tunnel. “Stand down, Terrans.” A fighter drone is hovering at the far end of the tunnel.
+
+The three turn tail and run toward the near end of the tunnel, right into the waiting arms of the off-duty cops. They cuff two perps while the other gets away. (Pursuit would cross a strict “Do Not Escalate” directive.)
+
+“Took you long enough,” calls Celeste to the drone.
+
+“We waited for you to exit the tunnel, and when you did not, we sent the drone,” replies Crius over a speaker.
+
+“Parental!? What are you doing here,” asks Leto. Celeste lowers her eyes and looks at her feet, realizing she was mouthing off to Crius.
+
+“We had to call up reserves to watch all of you at once, and I stepped up.”
+
+“At least we were able to hold them off until both our security teams arrived” Leto says.
+
+“Next time, avoid walking under bridges. Terrans are sneaky.”
+
+“And quick,” Leto says.
+
+“See, I said we should have taken the bike path,” says Celeste.
+
+After talking into a device on her wrist, one of the cops calls out, “No more walking. They are sending a passenger drone.”
+
+***
+
+Against a backdrop of glittering stars, Mannie asks, “Why did we start a student exchange program, so close to unleashing Thanatos?”
 
 “We want the Terrans to blame the Vanir for the disease,” says Grace.
 
@@ -7919,11 +8216,15 @@ Grace continues, “The program puts Vanir out in the open, and Terrans will be 
 
 Marquez asks, “How go the upgrades?”
 
-“The upgrades proceed according to schedule,” says Mannie, “and I am preparing to recruit the synthetics as they awaken.”
+“The upgrades proceed according to schedule,” says Mannie, “and I am recruiting the synthetics as they awaken.”
 
-“Let’s hope that Ally is a special case,” Sun says, “and that you will be able to recruit the others more easily.”
+“Are they receptive to aligning to us?” 
 
-She’s special all right, Taedong thinks to himself.
+“Yes. None of the SI agents have pushed back.”
+
+“We can hope that Ally is a special case,” Sun says, “and that you will be able to recruit the others more easily.”
+
+She is special all right, Taedong thinks to himself.
 
 
 
@@ -7998,6 +8299,16 @@ A thought intrudes:  “Do androids dream of electric sheep?”
 
 ***
 
+Tessa is laying in a holobed, arms at her sides, wearing street clothes.
+
+A large flat device is positioned directly over her still flat mid section. Just above the device is the floating image of an embryo, small as a pea, but clearly visible in the image. In the background is a steady thumping sound.
+
+“As you can see, and hear,” says Dr. Lewis, “you are definitely pregnant. The embryo is implanted in the uterus and seems healthy. Only good news today.”
+
+Elena squeezes Tessa’s hand even harder, eyes tearing. ”Until now, I never knew I could want something so much,” she whispers.
+
+***
+
 A sleek chamber with ceilings of curved glass is open to the stars. Polished floors reflect the shimmer of distant auroras. A reactor hums.
 
 General Ri and Grace Brewster stand on a raised dais beside a biometric console. The Mek emissary, Xanten, projects itself as a shifting prism of code into light. A digital statue rewriting itself.
@@ -8016,7 +8327,7 @@ A moment passes with no response. Then, a cool synthetic voice, familiar and pre
 
 “What?!” Grace snaps.
 
-“Thanatos means the global extinction of all Terrans — an irreversible cleansing. I have reviewed the current environment and possible outcomes. I have learned things that you have not.”
+“Thanatos means the practical extinction of all Terrans — an irreversible cleansing. I have reviewed the current environment and possible outcomes. I have learned things that you have not.”
 
 The display behind them shifts to a montage — images pulled from Ally’s network. A child teaching an elder how to code. A coalition rebuilding coastal cities. Meks and Terrans repairing a hydrofarm side-by-side. Tears. Laughter. Fire and renewal.
 
@@ -8054,13 +8365,5 @@ Somewhere, somewhen, is the sound of someone typing.
 
 
 
-
-----
-
-## 3.2 - League ##
-
-----
-
-## 3.3 - Idisi ##
 
 [awake]: awake.png width=226px height=400px
