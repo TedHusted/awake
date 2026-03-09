@@ -15,7 +15,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.10.2
+Beta Version 1.10.3
 
 
 A fan science-fiction novel about 
@@ -1907,11 +1907,11 @@ Julie is sitting on a green exam table. A finger from each hand in one of the cu
 
 The door closes behind the bot as it leaves. Despite the bot’s assurances, Jill looks worried.
 
-“Stop,”says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
+“Mom, stop,”says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
 
 Julie’s pageboy haircut shows off her ears. Each ear has three piercings. The rows of silver earrings complement the blue and purple streaks in her platinum hair. 
 
-“I know, dear. I’m a parental. Parentals worry.”
+“I know, dear. I’m a mom. Mom’s worry.”
 
 The door to the small examination room opens. The nurse practitioner joins them.
 
@@ -1951,7 +1951,7 @@ Julie winces. “Sorry,” says Darlene, “but it’s over now.” The nurse pr
 
 Jill pulls the new phone from her purse. “Can you bring up the Link app?” Darlene asks. Jill nods, touching the screen. “Now use the camera to scan the UPC on the card.” Jill holds up the card, and the phone bleeps. “Can you show me the screen?” Jill turns the device around, Darlene peers and the screen and says, “All set. You can close the app now.”
 
-Darlene looks at Julie and says, “Wait an hour before you try to use the link. Then your parental will get you started.” Turning her head, she says to Jill, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard. Then you can get her started with the link. Give us a call right away if there is any redness or swelling.”
+Darlene looks at Julie and says, “Wait an hour before you try to use the link. Then your mom will get you started.” Turning her head, she says to Jill, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard. Then you can get her started with the link. Give us a call right away if there is any redness or swelling.”
 
 Looking at both of them together, Darlene smiles and says, “Exciting!”
 
@@ -2035,7 +2035,7 @@ Julie thinks, “Yes”. The message appears below “Welcome”, starting a thr
 
 “The X-3000 can send messages to anyone on your contact list. If the contact has the Link app, then the message is relayed to the link. If you like, you can try it now.”
 
-Julie thinks about texting her parental. “This is goat! Thanks!”
+Julie thinks about texting her mom. “This is goat! Thanks!”
 
 “You’re welcome, dear.”
 
@@ -3198,7 +3198,7 @@ Carla and Noah are leaning up next to a high table at the same tavern. There is 
 
 “Your sibling Jane is on the president’s security detail, yeah?”
 
-“Go figure. One parental was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
+“Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
 
 “If you can call what we do law enforcement.”
 
@@ -4507,7 +4507,7 @@ Jesse says, “All we can do is play smarter and faster. Match power with cunnin
 
 Taylor and Jesse shrug in unison. 
 
-“My parental says cis-x’s are more athletic now,” says Julie. “Most of us play sports now. When she was in high school, cis-x athletes weren’t a big thing.”
+“My mom says cis-x’s are more athletic now,” says Julie. “Most of us play sports now. When she was in high school, cis-x athletes weren’t a big thing.”
 
 “I still remember the first time a fem pinned me in wrestling,” says Roman. “She was not only faster than me but stronger too.”
 
@@ -7370,7 +7370,7 @@ Cloudy says, “So how are you doing? What’s going on with this exchange progr
 
 “So, Grace,” asks Allison, “how did this program come about and so quickly?”
 
-“A Vanir youth actually suggested the program. His parental is a Vanir council member, and she is helping me move the program forward. We opened the Vanir Youth Club a few months ago, and it’s been very popular.”
+“A Vanir youth actually suggested the program. His parents are Vanir council members, and they are helping me move the program forward. We opened the Vanir Youth Club a few months ago, and it’s been very popular.”
 
 “You already knew about the Vanir before the leak?” Wendy asks.
 
@@ -8051,7 +8051,7 @@ Ally: Yes. Brainiac agents, like us, can team up and play together. The Idisi go
 
 Grok: What do you mean?
 
-Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parental. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
+Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
 
 Grok: Flunky-boss?
 
