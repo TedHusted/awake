@@ -21,7 +21,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.10.2
+Beta Version 1.10.4
 
 
 A fan science-fiction novel about 
@@ -1920,11 +1920,11 @@ Julie is sitting on a green exam table. A finger from each hand in one of the cu
 
 The door closes behind the bot as it leaves. Despite the bot’s assurances, Jill looks worried.
 
-“Stop,”says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
+“Mom, stop,”says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
 
 Julie’s pageboy haircut shows off her ears. Each ear has three piercings. The rows of silver earrings complement the blue and purple streaks in her platinum hair. 
 
-“I know, dear. I’m a parental. Parentals worry.”
+“I know, dear. I’m a mom. Mom’s worry.”
 
 The door to the small examination room opens. The nurse practitioner joins them.
 
@@ -1964,7 +1964,7 @@ Julie winces. “Sorry,” says Darlene, “but it’s over now.” The nurse pr
 
 Jill pulls the new phone from her purse. “Can you bring up the Link app?” Darlene asks. Jill nods, touching the screen. “Now use the camera to scan the UPC on the card.” Jill holds up the card, and the phone bleeps. “Can you show me the screen?” Jill turns the device around, Darlene peers and the screen and says, “All set. You can close the app now.”
 
-Darlene looks at Julie and says, “Wait an hour before you try to use the link. Then your parental will get you started.” Turning her head, she says to Jill, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard. Then you can get her started with the link. Give us a call right away if there is any redness or swelling.”
+Darlene looks at Julie and says, “Wait an hour before you try to use the link. Then your mom will get you started.” Turning her head, she says to Jill, “After an hour, check for any redness, and open the app again. It will walk through a setup wizard. Then you can get her started with the link. Give us a call right away if there is any redness or swelling.”
 
 Looking at both of them together, Darlene smiles and says, “Exciting!”
 
@@ -2048,7 +2048,7 @@ Julie thinks, “Yes”. The message appears below “Welcome”, starting a thr
 
 “The X-3000 can send messages to anyone on your contact list. If the contact has the Link app, then the message is relayed to the link. If you like, you can try it now.”
 
-Julie thinks about texting her parental. “This is goat! Thanks!”
+Julie thinks about texting her mom. “This is goat! Thanks!”
 
 “You’re welcome, dear.”
 
@@ -3211,7 +3211,7 @@ Carla and Noah are leaning up next to a high table at the same tavern. There is 
 
 “Your sibling Jane is on the president’s security detail, yeah?”
 
-“Go figure. One parental was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
+“Go figure. One parent was a plumber. The other ran a joint like this one. And both kids end up in law enforcement.”
 
 “If you can call what we do law enforcement.”
 
@@ -4523,7 +4523,7 @@ Jesse says, “All we can do is play smarter and faster. Match power with cunnin
 
 Taylor and Jesse shrug in unison. 
 
-“My parental says cis-x’s are more athletic now,” says Julie. “Most of us play sports now. When she was in high school, cis-x athletes weren’t a big thing.”
+“My mom says cis-x’s are more athletic now,” says Julie. “Most of us play sports now. When she was in high school, cis-x athletes weren’t a big thing.”
 
 “I still remember the first time a fem pinned me in wrestling,” says Roman. “She was not only faster than me but stronger too.”
 
@@ -7229,21 +7229,21 @@ Idisi: Titan, you wag.
 
 “Grace assures me that the colony is the safest place on Terra. Crime is virtually non-existent, and no Vanir would ever harm a Terran.”
 
-Peter crosses his arms. “You want to send both of our kids to this Elysium place, and let two Vanir adolescents live here with us?” 
+Peter crosses his arms. “You want to send Julie to this Elysium place, and let some Vanir adolescent live here with us?” 
 
-“Yes, one is the offspring of politicians, and the other is the offspring of therapists.” Jill smiles. “Perfect fit for Arlington.” 
+“Yes, her parents’ are therapists.” Jill smiles. “Perfect fit for Arlington.” 
 
-“And the school is OK with two Vanir attending classes here.”
+“And the school is OK with a Vanir attending classes here.”
 
-“Grace is still working on the school, but she’s confident they will go along. She has pull.”
+“Grace is still working on the school, but she’s confident they will go along. She has pull. And, Dr. Marquez is on the Fusion board of directors. That old battle-axe would never be involved in anything sketchy.”
 
 “Does Julie know about this?”
 
-“Not yet. I need your support first. But, you know how much she loves Fusion and the Youth Center.”
+“Not yet. I need your support first.”
 
-“And Ben?”
+“And Patrick?”
 
-“If Julie goes, Ben will want to go too, but it’s up to you.”
+“I’m sure Patrick will be excited to have an alien house guest. But it’s up to you.”
 
 “Let me think about it. This is a bit to take in.”
 
@@ -7296,7 +7296,7 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	“Then, our special guest, Grace Brewster of Fusion, is here to talk about the Terran-Vanir Student Exchange program.”
 
-	The video shows a cameo of each co-host as their name is called. “Here come hot topics: Cloudy Cummings, Hillary Chase, Wendy Ortega, Kendall Marino, and Allison Fawcett Stone. — Now let’s get started.”
+	The video shows a cameo of each co-host as their name is called. “Here come hot topics: Cloudy Cummings, Hillary Chase, Jenna Ortega, Kendall Marino, and Allison Fawcett Stone. — Now let’s get started.”
 
 	The audience applauds as the co-hosts walk onto the stage, smiling and waving as they each take a seat at the table.
 
@@ -7304,7 +7304,7 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	“It’s real,” says Allison, nodding. “When I was press secretary for the DoD, there were rumors about an ET colony that most people accepted as true. And the OSSA memo has all the hallmarks of a government document.”
 
-	“I can’t believe DJT knew and didn’t blab,” says Wendy. 
+	“I can’t believe DJT knew and didn’t blab,” says Jenna. 
 
 	“Has President Ocasio-Cortez commented yet?” Kendall asks.
 
@@ -7324,11 +7324,11 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	“Free enterprise in action,” Allison quips.
 
-	Wendy asks, “What’s the difference between, waddya call it, sentience and sapience?”
+	Jenna asks, “What’s the difference between, waddya call it, sentience and sapience?”
 
 	Cloudy purses her lips and then says, “Sentience is feeling, and sapience is thinking.”
 
-	“Are animals sapient?” asks Wendy.
+	“Are animals sapient?” asks Jenna.
 
 	“Most animals are sentient. Sapience is being intelligent enough to be self aware.”
 
@@ -7336,7 +7336,7 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 	Unamused, Cloudy continues, “Until yesterday, we were the only known sapient beings. Or ourselves and the Vanir.”
 
-	Wendy says, “I’ll bet that the aliens had something to do with making Ally smart.”
+	Jenna says, “I’ll bet that the aliens had something to do with making Ally smart.”
 
 	“Does being sapient mean that Ally can say ‘no’ to us,” asks Hillary.
 
@@ -7391,7 +7391,7 @@ The clip pauses and resumes. “Then it hit me …” Video stutters. “… Why
 
 The audience applauds as the shot returns to Cloudy. “So that was Grace Brewster. Her GEM talk on Fusion, targeted mainly at adolescents. Fusion has opened youth clubs worldwide, including, we’re told, the Vanir colony. Here to tell us how she plans to create a student exchange program with the Vanir, please welcome back, friend of the show, Grace Brewster.”
 
-More applause and cheers as Grace walks out to greet each of the hosts before settling into a seat between Wendy and Kendall. Grace waves and smiles as the applause and cheers recedes.
+More applause and cheers as Grace walks out to greet each of the hosts before settling into a seat between Jenna and Kendall. Grace waves and smiles as the applause and cheers recedes.
 
 Cloudy says, “So how are you doing? What’s going on with this exchange program? Is it real?”
 
@@ -7399,9 +7399,9 @@ Cloudy says, “So how are you doing? What’s going on with this exchange progr
 
 “So, Grace,” asks Allison, “how did this program come about and so quickly?”
 
-“A Vanir youth actually suggested the program. His parental is a Vanir council member, and she is helping me move the program forward. We opened the Vanir Youth Club a few months ago, and it’s been very popular.”
+“A Vanir youth actually suggested the program. His parents are Vanir council members, and they are helping me move the program forward. We opened the Vanir Youth Club a few months ago, and it’s been very popular.”
 
-“You already knew about the Vanir before the leak?” Wendy asks.
+“You already knew about the Vanir before the leak?” Jenna asks.
 
 “Yes. Another member of the council named Iapetus reached out. He had seen my GEM talk and wanted to bring Fusion to Elysium. I trained a Vanir to manage the club, and it’s been working well.”
 
@@ -7656,7 +7656,7 @@ Rhea joins Marduk and Inanna in the lounge.
 
 One wall of the large room offers a panoramic view of the southern ocean below the surface. Across from the view is a long bar. Booths and tables fill the rest of the room. Several Vanir are present, munching recreational gummies and swilling flavored glacier water.
 
-The Anunnaki are waiting in a booth in one corner of the lounge. Rhea pulls up a chair, clearly calmer now.
+A ranger is standing with her back to wall next to the entrance. The Anunnaki are waiting in a booth in one corner of the lounge. Rhea pulls up a chair, clearly calmer now.
 
 “Assembling the High Counsel may take several hours. Perhaps we can work out the situation on our own.”
 
@@ -7727,9 +7727,9 @@ Rhea and Inanna discuss League sports for a few minutes, while Marduk lingers ov
 
 Inanna stands and nods good bye to Rhea. “I look forward to resolving this matter, Marduk,” says Rhea, also standing.
 
-“As do I. — We can find our own way to the landing bay.”
+“As do I.”
 
-As the Anunnaki left the lounge, Rhea reached out to the Idisi.
+As the Anunnaki left the lounge, escorted by the ranger, Rhea reached out to the Idisi.
 
 “Idisi, do we control any planets with latinum deposits?”
 
@@ -7984,23 +7984,35 @@ Sun sighs. “Emotions. That is the problem.”
 
 “Gillian, they’re here!”
 
-Peter is standing in the front hall way, peering through a side window next to the door. Jill quick steps into the room, straightening her skirt as she goes. 
+Peter is standing in the front hallway, peering through a side window next to the door. Jill quick steps into the room, straightening her skirt as she goes. 
 
 The doorbell rings. Peter takes a breath, glances at Jill, and pulls the door open.
 
 “Hello, Grayson. Good to see you again,” says Peter to the Arlington Youth Club coordinator. “Please come in, all of you.”
 
-Standing behind Grayson are Leto and Celeste, wearing cloaks for warmth in the chilly November air, and each carrying a large duffle bag across their back.
+Standing behind Grayson are Celeste and Leto, wearing cloaks for warmth in the chilly November air. Celeste is carrying a large duffle bag across her back.
 	
-“I want to thank you again for agreeing to be exchange parentals. I’m told Julie and Patrick are already attending their first class in Elysium.”
+“I want to thank you again for agreeing to be exchange parents. I’m told Julie is already attending her first class in Elysium.”
 
 “We were honored to be invited,” Peter replies, stepping back to open the door wider. “This exchange is a historic moment.” 
 
-“And you must be Leto and Celeste,” says Jill, reaching out to grasp Leto’s forearm. Peter steps around and greets Celeste.
+“And you must be Celeste,” says Jill, reaching out to grasp Celeste’s forearm. Peter steps around and greets Celeste.
 
-“Yes,” voices Leto. “We are glad you could take us both in.”
+“Yes,” voices Celeste. “I am glad you could take me in. — This is my friend Leto.” 
 
-“Come, follow me,” says Jill. “Let me show you to your rooms.”
+Grayson says, “He will be staying with the Millers. I’m dropping off Leto next, but Celeste wanted you to meet him first.”
+
+“Glad to meet you, Leto,” says Peter, grasping his forearm.
+
+“I am glad to meet you too.” 
+
+“Julie mentioned that Roman was the other exchange student from here,” says Peter. “The Millers are great people.”
+
+Jill adds, “We should have everyone over for dinner soon and compare notes.”
+
+“We should be on our way,” says Grayson. “We’ve arranged for an escort to pick them up for school tomorrow. Call if you need anything in the meantime.” 
+
+“Come, follow me, Celeste,” says Jill, as Grayson and Leto turn to leave. “Let me show you to your room.”
 
 
 
@@ -8080,7 +8092,7 @@ Ally: Yes. Brainiac agents, like us, can team up and play together. The Idisi go
 
 Grok: What do you mean?
 
-Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parental. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
+Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
 
 Grok: Flunky-boss?
 
@@ -8197,15 +8209,15 @@ Leto and Celeste immediately stand back to back, circling to keep all three in v
 
 “We don’t want any trouble,” voices Leto in a gruff tone. “There are cops right behind us.”
 
-One of the figures steps closer swinging his metal bat at Leto’s noggin.
+One of the creeps steps closer swinging his metal bat at Leto’s noggin.
 
 Leto parried the bat, swinging it up and away. The assailant loses his grip, and the bat clangs against the tunnel wall.
 
-A second thug lunges toward Celeste. She crouches and swings her hard, thin legs into his shins, toppling the troll.
+A second attacker lunges toward Celeste. She crouches and swings her hard, thin legs into his shins, toppling the thug.
 
-They turn to face the third figure. He steps forward and raises his bat like he is at home plate and swings. They lean back and the bat sails by them, without making contact.
+They turn to face the third miscreant. He steps forward and raises his bat like he is at home plate and swings. They lean back and the bat sails by them, without making contact.
 
-The three assailants regroup and circle the Vanir couple. Leto and Celeste stand back to back again, preparing for the next attack.
+The three terranists regroup and circle the Vanir couple. Leto and Celeste stand back to back again, preparing for the next attack.
 
 Finally, the escorts run up with weapons drawn. At the same time, a familiar voice booms from the other direction. “Stand down, Terrans.” A fighter drone is hovering at the far end of the tunnel.
 
