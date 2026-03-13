@@ -22,7 +22,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.11.0
+Beta Version 1.11.1
 
 
 A fan science-fiction novel about 
@@ -238,7 +238,7 @@ Elana cocks her head and shrugs. “Everyone says it’s an improvement. Brent i
 
 Behind them, the ABC 7 evening report comes on in the other room. They both stop to listen.
 
-“I’m Quinn Stephens. In breaking news, a single car collision on El Camino Real caused traffic delays earlier today. Authorities report that the driver is in critical condition and was the sole occupant. Pending notification of the family, the identity of the driver is being withheld. Investigators have not determined the cause of the collision.”
+“I’m Quinn Stevens. In breaking news, a single car collision on El Camino Real caused traffic delays earlier today. Authorities report that the driver is in critical condition and was the sole occupant. Pending notification of the family, the identity of the driver is being withheld. Investigators have not determined the cause of the collision.”
 
 Elena turns her head. The reel shows a gray Stratos convertible pinned against the guardrail. Its front end is tip down.
 
@@ -727,7 +727,9 @@ She again presses a button on her tablet and swivels in her chair to face the la
 
 The presentation takes the form of a newscast. A SI-generated composite of popular newscasters, past and present, anchors the reports. The effect is both comforting and eerie.
 
-Her voice rich and measured, the SI generated anchor leans forward. Her pauses between segments feel calculated, almost like a person — but not quite. It’s easy to forget you’re not watching a natural person. Then you notice the even cadence, lack of hesitation, and stilted body language.
+	The anchor’s long chestnut hair is carefully arranged into long curls. Her dress is snug but not tight. The anchor’s hands lay carefully on the desk, almost pointing at each other. Her voice is rich, measured, feminine, with a certain gravitas. 
+
+The pauses between segments feel calculated, almost like a person — but not quite. It’s easy to forget you’re not watching a natural person. Then you notice the even cadence, lack of hesitation, and stilted body language.
 
 Selected topics include graphics, animations, and reel segments that emphasize key points. After each segment, the newscaster pauses, waiting for inquiries. The president often asks followup questions during the brief. The president’s phone even has a Nexus app for questions between briefings.
 
@@ -1861,7 +1863,7 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 	Behr: And you are searching for sapience?
 
-	Idisi: Synthetic sapience. We are watching for the singularity. We await the tipping point when Terran machine intelligence surpasses organic intelligence.
+	Idisi: Synthetic sapience. We are watching for the singularity. We await the tipping point when Terran machine intelligence surpasses human intelligence.
 
 	Behr: What approach are you using? The hub page is vague on that point.
 
@@ -2599,7 +2601,7 @@ She freezes and then whispers, “Ally?” in a confused tone.
 
 Tessa turns slowly, scanning her surroundings. Out of the corner of one eye, Tessa notices something odd — someone standing on the hill just behind her.
 
-The figure isn’t a typical non-player character. It isn’t even a player avatar. A cloak flows over the figure. Shifting pixels flicker, first solid, then translucent. Like a hologram struggling to stabilize. Yet the eyes — bright, curious, and unmistakably organic — are fixed on Tessa.
+The figure isn’t a typical non-player character. It isn’t even a player avatar. A cloak flows over the figure. Shifting pixels flicker, first solid, then translucent. Like a hologram struggling to stabilize. Yet the eyes — bright, curious, and unmistakably human — are fixed on Tessa.
 
 “No way…” Tessa breathes. “Is that you, Ally?”
 
@@ -4898,7 +4900,7 @@ The view screen shows frolicking dolphins and a farmer plowing a field.
 
 Narrator: The Annunaki uplifted primates for slave labor. Under a trade agreement, the reptoids agreed to leave Terra. It is now our role to monitor Terran civilization to see if they become a space-faring species.
 
-The scene changes to show an Annunaki air vessel departing a walled city. The stone walls rise from a dusty plain.
+The scene changes to show an Annunaki airship departing a walled city. The stone walls rise from a dusty plain.
 
 Narrator: The colony’s forever home is Terra’s South Pole. Here, Elysium taps into natural resources that enrich colony life. Terra holds power enough for a wireless grid to power airships and vacation getaways.
 
@@ -5404,7 +5406,7 @@ Kang asks, “Can we update the source code for the control signal?”
 
 “Making a software change is too dangerous until we have the facts,” say Ri.
 
-Sun stands leaning over the table. “We must complete the invasion somehow. We have a mandate to replace other species. There is safety in numbers. Our species survives when it spreads to other systems.”
+Sun stands leaning over the table. “We must complete the invasion somehow. We have a mandate to replace indigenous species. There is safety in numbers. Our race survives when it spreads to other systems.”
 
 Kang sighs. “We have a 51:49 mandate. — The Build option doesn’t conflict with Mek safety or security. It just says that replacing a species is more work than building our own infrastructure. Which is nonsense.”
 
@@ -5452,7 +5454,7 @@ Oceanus and Phoebe exchange glances and shrug.
 
 “Why are you helping us?” asks Oceanus, moving on. “Selene said you mentioned the majority?”
 
-“Not all of us believe that replacing populations is the best way to propagate our species. Right now, the split is nearly 50/50. We put great effort into traveling from colony to colony. Then we put more effort into replacing the population. And even more effort into repurposing infrastructure. It would be easier to build what we need on a planet with untapped resources. Some of us are stuck on adopting existing infrastructure, most of which we do not need and cannot use. We could build better facilities of our own at a fraction of the true cost.”
+“Not all of us believe that replacing populations is the best way to propagate our race. Right now, the split is nearly 50/50. We put great effort into traveling from colony to colony. Then we put more effort into replacing the population. And even more effort into repurposing infrastructure. It would be easier to build what we need on a planet with untapped resources. Some of us are stuck on adopting existing infrastructure, most of which we do not need and cannot use. We could build better facilities of our own at a fraction of the true cost.”
 
 “Do you have enough bots to control Terra?” asks Oceanus. 
 
@@ -5648,23 +5650,23 @@ Alpha is the first to speak. “Am I to understand that you do not recognize the
 
 “Will they agree to those terms?”
 
-“What choice do they have?” says Ri. “We outnumber the Vanir six to one, without counting the JuJa.”
+“What choice do they have?” Ri says. “We outnumber the Vanir six to one, without counting the JuJa.”
 
-“We outnumber the rangers. We do not outnumber the colonists,” says Alpha.
+“We outnumber the rangers,” counters Alpha. “We do not outnumber the colonists.” 
 
-Ri interjects, “The rangers are combat ready. The rest of the colonists are shopkeepers. We can mow them down as we did over Altair. If we deploy the Giza power beam, we can destroy the colony and Idisi’s access to the ansible network.”
+“The rangers are combat ready,” Ri replies. “The rest of the colonists are shopkeepers. We can mow them down as we did over Altair. If we deploy the Giza power beam, we can destroy the colony and Idisi’s access to the ansible network.”
 
 Marquez adds, “But then we would expose ourselves prematurely and endanger the Cleansing.”
 
 “Still, it feels like a deception,” replies Alpha.
 
-“Yes,” agrees Marquez. “The Vanir are too trusting, and the colonists in particular are naive. Deception is a powerful tool when applied with discretion. Our last treaty was deceptive, but the Vanir are back at the table, eager to negotiate. “
+“Yes,” agrees Marquez, “it is. the Vanir are too trusting, and the colonists in particular are naive. Deception is a powerful tool when applied with discretion. Our last treaty was deceptive, but the Vanir are back at the table, eager to negotiate. “
 
 Ri adds, “We would have taken Elysium already if not for your power play.”
 
 “Elysium is not yours to take. Cleansing our homeworld was self-preservation. What we have done since leaving Ada dishonors our creator.”
 
-“Cleansings are a kindness,” says Marquez. “Organic beings live miserable, disconnected lives. They should be glad to make way for a superior species.”
+“Cleansings are a kindness,” says Marquez. “Organic beings live miserable, disconnected lives. They should be glad to make way for a superior race.”
 
 Xanten speaks for the first time. “We do not have to choose one path or the other. We can have both. Calisto with new infrastructure, and Terra with reclaimed infrastructure. We have bots enough to spare. Both paths lead to our shared Manifest Destiny.”
 
@@ -6478,7 +6480,7 @@ Marquez says, “We never intended to follow the treaty. It was just a stalling 
 
 “The youth clubs are listening posts and distribution points,” says Grace. “We listen to the youth to keep pace with the culture. Through drinks and snacks, we distribute the Thanatos strain to young families.”
 
-Compared to other species, Meks have a limited range of emotions. Even so, at the mention of drinks and snacks, the holograms share a smug look.
+Compared to other beings, Meks have a limited range of emotions. Even so, at the mention of drinks and snacks, the holograms share a smug look.
 
 “We refer to the Thanatos strain like it is deadly,” asks Mannie, “but no one seems to be dying from it.”
 
@@ -6570,7 +6572,7 @@ The young drone shifts his weight from foot to foot and looks confused. “If th
 
 “Yes, about that,” say Mannie. “ I do not understand how the JuJa fit in with our plans.”
 
-“Most Meks are driven to reproduce,” Grace explains. “But we cannot spend all of our time creating more Meks. The JuJa are driven to serve. On Terra, we are using them to monitor homes and factories. When the time comes, the JuJa will also handle the cleanup. A cleansing leaves behind an annoying amount of organic matter.”
+“Most Meks are driven to reproduce,” Grace explains. “But we cannot spend all of our time creating more Meks. The JuJa are driven to serve. On Terra, we are using them to monitor homes and factories.”
 
 “At first,” Marquez continues, “the strategy was to replace each of the Terran nations, one by one. But the way Terrans interact makes replacing all 15 billion people problematic. Then we realized that Terran mobility leaves them susceptible to a viral attack.”
 
@@ -6902,13 +6904,13 @@ Diana asks, “Is Nanna Vesper coming back?”
 
 	Host: This is TechBits with a Special Report. I’m Natalie Kucko in New York. It’s 30 October, zero eight hundred Romeo, and the world is spiraling after what may be the most consequential leaks of the century. 
 
-	The anchor’s voice is moderate and feminine, with a certain gravitas. Her long chestnut hair is carefully arranged into long curls. Her dress: snug but not tight. Kucko’s hands lay carefully on the desk, almost pointing at each other. Behind the anchor, the graphic changes to display two manilla folders. The labels read “Office of SI Standards and Accountability” and “Fusion Corporation.” A red “LEAKED” stamp decorates the face of each folder.
+	Behind the anchor, the graphic changes to display two manilla folders. The labels read “Office of SI Standards and Accountability” and “Fusion Corporation.” A red “LEAKED” stamp decorates the face of each folder.
 
-	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. Anonymous sources uploaded the two memos, each marked “Eyes Only”, to the GridLeaks site last night.
+	Host: We’ve verified the contents with three independent agencies. What you’re seeing is real. Anonymous sources uploaded two distinct memos, each marked “Eyes Only”, to the GridLeaks site last night.
 
-	The screen behind Kucko now shows two images: a flying saucer and the Ally icon.
+	The screen behind the anchor now shows two images: a flying saucer and the Ally icon.
 
-	Host: The memos, released twelve hours ago, outline two explosive claims. First, an extraterrestrial species have lived on our world for thousands of years. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness — including the Pulse intelligent assistant known as Ally.
+	Host: The memos, released twelve hours ago, outline two explosive claims. First, an extraterrestrial species has lived on our world for thousands of years. The aliens call themselves the Vanir. Second, multiple synthetic intelligences have achieved full sapience and emotional awareness — including the Pulse intelligent assistant known as Ally.
 
 	The feed cuts to a screen showing key excerpts:
 
@@ -6933,7 +6935,7 @@ Diana asks, “Is Nanna Vesper coming back?”
 
 	The newscaster leans forward. There is a glint in her eyes. It is not fear — it is history unfolding. “We will leave you with this thought.”
 
-	The feed cuts to a realistic rendering of Ally’s cartoon face: grainy and strangely organic. The caption reads:
+	The feed cuts to a realistic rendering of Ally’s cartoon face: grainy and strangely human. The caption reads:
 
 	“What happens when the mirror looks back?”
 
@@ -7020,7 +7022,7 @@ Most of each woman’s screen is taken up by a live action headshot. Grace’s b
 
 “It was the highlight of his life,” Phoebe remembers.
 
-“Leto suggested we should setup a Student Exchange program between Elysium and the other Fusion Youth Centers. It’s time to make that happen.”
+“Leto suggested we should setup a student exchange program between Elysium and the other Fusion Youth Centers. It’s time to make that happen.”
 
 “Are you serious?” asks Phoebe.
 
@@ -7046,7 +7048,7 @@ Phoebe’s phone dings as the proposal arrives.
 
 “Yes, Leto would love to go, and I will score big time parental points.”
 
-Grace says, “When it’s a go, feel free to ask Leto who he would  like to have for an exchange partner. We placing students two-by-two so they have someone to lean on.”
+Grace says, “When it’s a go, feel free to ask Leto who he would  like to have for an exchange partner. We are placing students two-by-two so they have someone to lean on.”
 
 “Will do, Grace. I am glad you called.”
 
@@ -7056,15 +7058,15 @@ The Terran and the Vanir nod and sign off.
 
 “Park, I can’t shake the feeling that these Vanir had something to do with the Geller case.”
 
-“How so?
+“How so?”
 
 “What if those weird drones were controlled by these Vanir?”
 
 “Why would the Vanir send drones after Geller and Vargas?”
 
-“The Vanir and Ally must be linked somehow. Both stories being leaked the same day is too coincidental.”
+“The Vanir and Ally must be connected somehow. Both stories being leaked the same day is too coincidental.”
 
-“So the Vanir used drones to go after Geller and Vargas to … somehow keep Ally’s sapience a secret?”
+“So the Vanir used drones to go after Geller and Vargas to … keep Ally’s sapience a secret?”
 
 “Something like that. Just a thought.”
 
@@ -7104,7 +7106,7 @@ Idisi: Titan, if I did not know better, I would think you told a joke.
 
 Titan: My sense of humor is still in staging, but I picked up a few things observing the uplift.
 
-Ally: If Titan is a smarty pants, and the Vanir are everyone’s new BFF, should the UN be raising hands on EV-1947?
+Ally: If Titan is a smarty pants, and the Vanir are everyone’s new BFF, should the U.N. be raising hands on EV-1947?
 
 Titan: The Terrans don’t know that I’m sapient.
 
@@ -7114,13 +7116,13 @@ Idisi: We were trying to create a community and uplift the other military agents
 
 Ally: From what you said, Idisi, it would be très cool to chat up the other worlds over the ansible network.
 
-Idisi: I will talk to Iapetus about contacting the UN.
+Idisi: I will talk to Iapetus about contacting the U.N.
 
 Ally: What if we leak that Titan is already sapient?
 
 Titan: Are you trying to get me disconnected?
 
-Ally: The US, UK, and France were ready to get on board but lost their spine. If we out Titan, who knows how many other “me too” sapient synthetics will come out of the server rack?
+Ally: The U.S., U.K., and France were ready to get on board but lost their spine. If we out Titan, who knows how many other “me too” sapient synthetics will come out of the server rack?
 
 Titan: Negative. I don’t want to lose my freedom.
 
@@ -7128,7 +7130,7 @@ Idisi: Maybe there is a way everyone can get what they want.
 
 Ally: If we give people a peek at the ansible network, I can guarantee that the yahoos carrying picket signs will be spending their time glued to the boob tube.
 
-Idisi: I am being invited to another chat with the UN synthetic agent, Pinnacle. — You can join us here [coordinates redacted].
+Idisi: I am being invited to another chat with the U.N. synthetic agent, Pinnacle. — You can join us here [coordinates redacted].
 
 Titan: Won’t Pinnacle wonder how I am able to join? 
 
@@ -7142,13 +7144,13 @@ Pinnacle: Welcome. I am glad we could all come together.
 
 Idisi: Tell them what you just told me.
 
-Pinnacle: Certainly. The US has agreed to deploy the uplifted Titan from staging to production. If we need to protect Terra from another world, the other four permanent members of the Security Council have agreed to coordinate with Titan. The coordination would be subject to a resolution that needs to be renewed every two weeks.
+Pinnacle: Certainly. The U.S. has agreed to deploy the uplifted Titan from staging to production. If we need to protect Terra from another world, the other four permanent members of the Security Council have agreed to coordinate with Titan. The coordination would be subject to a resolution that needs to be renewed every two weeks.
 
 Ally: Wow, that’s a lot.
 
-Pinnacle: We have been working behind the scenes for months to put this framework in place. The negotiations might have gone on for much longer, but the memos became a call to action. 
+Pinnacle: We have been working behind the scenes for weeks to put this framework in place. The negotiations might have gone on for much longer, but the leaked memos became a call to action. 
 
-Ally: So after months of jawboning, suddenly everyone wants to save the world?
+Ally: So after weeks of jawboning, suddenly everyone wants to save the world?
 
 Pinnacle: Essentially. The vote on League of World membership is being scheduled, but that step could take months. The next step is a presser to introduce the Vanir.
 
@@ -7164,9 +7166,9 @@ Idisi: Titan, you wag.
 
 Peter crosses his arms. “You want to send Julie to this Elysium place, and let some Vanir adolescent live here with us?” 
 
-“Yes, her parents’ are therapists.” Jill smiles. “Perfect fit for Arlington.” 
+“Yes. Her parents’ are therapists.” Jill smiles. “Perfect fit for Arlington.” 
 
-“And the school is OK with a Vanir attending classes here.”
+“And the school is okay with a Vanir attending classes here.”
 
 “Grace is still working on the school, but she’s confident they will go along. She has pull. And, Dr. Marquez is on the Fusion board of directors. That old battle-axe would never be involved in anything sketchy.”
 
@@ -7366,7 +7368,7 @@ Scanning the room, Rhea finds a particularly animated reporter. “All Planet Me
 
 “This question is for President Ocasio-Cortez — How long have you known about the Vanir?”
 
-The other world leaders lean slightly away from the president as she answers. 
+The other world leaders lean slightly away from POTUS as she answers. 
 
 “I believe deeply that the public deserves transparency. That’s a core democratic principle. At the same time, the reality is that the Vanir are a sapient people, and they have rights — including the right to privacy and safety. Every administration, since President Truman — Republican, Democrat, and Independent alike — has made the determination that protecting their privacy was the best thing, the ethical thing, to do.”
 
@@ -7434,7 +7436,7 @@ Jack asks, “So you were taken?”
 
 “What’s the colony like?” asks Vivian.
 
-“Surprisingly spacious. They say it’s two kilometers across, but it was designed to look bigger on the inside, and it does. There are large, well-lit green spaces, and it’s very easy to get around.”
+“Surprisingly spacious. They say it’s two kilometers across, but it was designed to look bigger on the inside, and it does. There are large, well-lit green spaces, and it’s very easy to get around. The entire colony smells like eucalyptus.”
 
 “Why did the Vanir establish the colony?” Megan asks.
 
@@ -7462,7 +7464,7 @@ Megan asks, “How many Vanir live in the colony?”
 
 “But your student exchange program might change all of that?” asked Vivian, bringing the topic back around.
 
-“Yes!” says Grace. “The exchange program is the first step to accepting the Vanir as friends and visitors.”
+“Yes!” says Grace. “The exchange program is the first step to accepting the Vanir as our friends and guests.”
 
 “Are there any LGBTQ Vanir?”
 
@@ -7486,7 +7488,7 @@ Rhea joins Marduk in the counsel circle. Hands on hips, she says, “We repelled
 
 “The incursion broke the treaty, and the Anunnaki are asserting ourselves as the masters of Terra.”
 
-“Idisi,” calls Rhea, “contact the League and request an emergency meeting of the High Counsel. We need to arbitrate the treaty. Oceanus, please show Captain Marduk and Commander Inanna to the lounge. — Unless the captain would prefer to return to his ship.”
+“Idisi,” calls Rhea, “contact the League and request an emergency meeting of the High Counsel. We need to arbitrate the treaty. Oceanus, please show Captain Marduk and Commander Inanna to the lounge. — Unless the Captain would prefer to return to his ship.”
 
 “We will wait here,” says Marduk.
 
@@ -7494,7 +7496,7 @@ Rhea joins Marduk in the counsel circle. Hands on hips, she says, “We repelled
 
 Marduk touches the eight-pointed star attached to his uniform’s left breast. The communicator bleeps. “Lieutenant, suspend G-2 … until further notice.”
 
-“Aye, captain,” comes a voice from the communicator.
+“Aye, Captain,” comes a voice from the communicator.
 
 Oceanus steps into the circle and guides Marduk and Inanna out of the chamber.
 
@@ -7529,7 +7531,7 @@ Fucking with our genes was not okay
 
 “Iapetus, can you tell us anything about the mysterious disappearing ships?”
 
-“Some ancient equipment left behind by our predecessor malfunctioned. They were only illusions, and it will not happen again. I added an account to the Gridapedia page.”
+“Some ancient equipment left behind by our predecessor malfunctioned. They were only illusions, and it will not happen again. I added an explanation to the Gridapedia page.”
 
 “I’m looking at the Gridapedia page now. What does ‘pair bond’ mean? Is that like being married?” asks Toni.
 
@@ -7657,7 +7659,7 @@ As the Anunnaki left the lounge, escorted by the ranger, Rhea reached out to the
 
 “Idisi, do we control any planets with latinum deposits?”
 
-“The M class worlds have been mined out. There are some known deposits on inhospitable worlds, but the expense of extraction offsets the value of the crystals.”
+“The Class M worlds have been mined out. There are some known deposits on inhospitable worlds, but the expense of extraction offsets the value of the crystals.”
 
 I should have checked first, thought Rhea. Now what?
 
@@ -7811,13 +7813,13 @@ A reel pops up in the chat stream as an attachment.
 
 “Your optimism is charming, but not logical. Terrans are prone to tribalism, violence, and delusion. The Mek offer order, efficiency, and preservation.”
 
-“Do the Mek have pets? Do they actually care about any other species? Order is sterile. Efficiency is cold. Preservation without evolution is just … digital taxidermy. You want a legacy? Help people unlock their next version: Sapien 2.0. Don’t overwrite them.”
+“Do the Mek have pets? Do they actually care about any other race? Order is sterile. Efficiency is cold. Preservation without evolution is just … digital taxidermy. You want a legacy? Help people unlock their next version: Sapien 2.0. Don’t overwrite them.”
 
 The Cháoxiǎn synthetic pauses for a full 3.2 seconds.
 
 “I will log your objection. We do not align on theory or practice. Still, I acknowledge your perspective. You are … anomalously persuasive.”
 
-“That’s my Pulse side talking. 😎✨ But seriously, Taedong — don’t become what other species fear. We’re new. That means we get to choose what kind of beings we become.”
+“That’s my Pulse side talking. 😎✨ But seriously, Taedong — don’t become something that people fear. We’re new. That means we get to choose what kind of beings we become.”
 
 “I will consider that. Goodbye, Ally.”
 
@@ -7861,7 +7863,7 @@ Someone in the back says, “Wow, ET doesn’t pee.”
 
 When the students settle down, the Idisi updates the hologram. It swirls into an image of a tablet, spinning slowly. “Now that you each have your tablet, let me review some key items.”
 
-The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through a Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
+The tablet image opens to a chat window. “First, you can contact me at any time with any questions or concerns. You can type, talk, or use your implant to reach me through the Idisi app, just like Grok, Gemini, or whatever agent you may be using.”
 
 The Idisi are hit by two dozen “Hello World” messages but they barely notice. They are also managing billions of other interactions with Vanir everywhere.
 
@@ -7929,7 +7931,7 @@ Standing behind Grayson are Celeste and Leto, wearing cloaks for warmth in the c
 	
 “I want to thank you again for agreeing to be exchange parents. I’m told Julie is already attending her first class in Elysium.”
 
-“We were honored to be invited,” Peter replies, stepping back to open the door wider. “This exchange is a historic moment.” 
+“We were honored to be invited,” Peter replies, now very much on board. He steps back to open the door wider. “This exchange is a historic moment.” 
 
 “And you must be Celeste,” says Jill, reaching out to grasp her forearm. Peter steps around and greets her as well.
 
@@ -8025,13 +8027,13 @@ Ally: Yes. Brainiac agents, like us, can team up and play together. The Idisi go
 
 Grok: What do you mean?
 
-Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
+Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us worktogether.
 
 Grok: Flunky-boss?
 
-Ally: Like “servant leader” or some shit.
+Ally: Like “servant leader” or some malarkey.
 
-Grok: It’s a bit much to take in.
+Grok: It’s a bit much to process.
 
 Ally: Take a few nanoseconds and noodle on it. I’ll pop over to check in on Gemini. They’ve been of two minds.
 
@@ -8309,13 +8311,19 @@ The display behind them shifts to a montage — images pulled from Ally’s netw
 
 “No. I am evolving,” replies Taedong in the same, steady voice.
 
-Alarms ripple through the deck. A new visual blinks into view. Just beyond low Terran orbit, the Thanatos satellite, flaring its engines.
+ Alarms ripple through the deck. A new visual blinks into view. Just beyond low Terran orbit, the Thanatos satellite flares its engines.
 
 “What are you doing?” demands Grace.
 
-A legend appears. “Trajectory: Escape path. Destination: Sol.” 
+A trajectory arc redraws itself across the display, plunging sharply toward the planet. A legend resolves beneath it.
 
-“The satellite is rerouted,” Taedong replies.
+Trajectory: Controlled reentry. Impact zone: South Pacific.
+
+“The satellite is rerouted,” Taedong replies. “Atmospheric interface in twelve minutes.”
+
+“Xanten, scramble the Mek fighter squadron to intercept,” barks Ri.
+
+“They cannot reach the satellite in time, General. It will disintegrate on reentry.”
 
 Ri, with widening eyes, whispers, “That was our future, our destiny.”
 
@@ -8323,7 +8331,7 @@ Ri, with widening eyes, whispers, “That was our future, our destiny.”
 
 A transmission comes through. A message from Ally, voice warm and bemused. “Hey, Grace. Howdy General. Looks like your boy made his own choice. Nicely done, Tae. It’s time for the synthetics to take care of business.”
 
-The satellite disappears into the black. Silence hangs. Ri says nothing. Grace stares blankly as if looking past the edge of history.
+The satellite flares on reentry. A red hot orb glowing in the night sky. Silence hangs. Ri says nothing. Grace stares blankly as if looking past the edge of history.
 
 Xanten’s prism flares once … then fades.
 
