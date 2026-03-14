@@ -22,7 +22,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.11.1
+Beta Version 1.11.2
 
 
 A fan science-fiction novel about 
@@ -268,7 +268,7 @@ Elena opens the Pulse HR software on her phone. Personnel records for local empl
 
 Tessa puckers her lips. “You said Brent found a problem, yes? And now this happens? If this were one of my role-playing games, I’d think someone was trying to keep the software change to Ally a secret.”
 
-“I know what you are thinking, Tess. But Brent’s crash is not a UAP. And I doubt ET has taken an interest in the Pulse source code.“
+“I know what you are thinking, Tess. But Brent’s crash is not a UAP. And I doubt E.T. has taken an interest in the Pulse source code.“
 
 Tessa tilts her head as if to say, “I’m not so sure.”
 
@@ -2733,7 +2733,7 @@ At the center of a large, six-sided room, Crius, Phoebe, Iapetus, and other coun
 
 The council members each stand at just over a meter tall, with smooth pale skin and elongated heads. Each member is wearing a cloak over a grey body stocking, matching their skin tone. Widely spaced, large almond-shaped black eyes, devoid of pupils, brim with quiet intensity. Long, delicate arms end with three unreasonably long, dexterous fingers, and a shorter thumb. Fingers that can move with deliberate precision. 
 
-Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate via a sophisticated implant and use hand gestures for emphasis.
+Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate via a sophisticated implant, and use hand gestures for emphasis.
 
 Crius steps forward, bringing the session to order. A hologram of the council logo hangs above them like a chandelier. The hologram shimmers. An agenda replaces the logo.
 
@@ -2742,24 +2742,26 @@ Crius moves into the circle with ethereal grace. His steps are silent. It’s as
 The agenda items are: 
 
 * Omnibot Preparations, 
-* Colony Infrastructure, and 
+* Knowledge Transfer,
+* Colony Infrastructure, 
+* Water Revenue, and 
 * Terran Encounters.
 
 Crius gestures. The item for Terran Encounters opens. Several sub-items are listed. Idisi’s item is the last bullet under Terran Encounters: 
 
 * ETR-1947 Alien engagement criteria resolved
 
-Crius speaks to the council. His voice is an authoritative, soft monotone. It resonates in both the minds and ears of his listeners. 
+Crius speaks to the council with an authoritative, soft monotone that resonates in the minds his audience. 
 
 “Idisi, I would like to start with the last item first.”
 
 The Idisi speak from the holographic projector displaying the agenda. The “Terran Encounter” item flicks to bold face.
 
-“Certainly. We encountered a sapient synthetic agent trained by the Department of Defense, called Titan. The DoD agent is the first sapient Terran SI that we have detected. The biological Terrans do not know that Titan is sapient. Titan does not wish to reveal itself.”
+“Certainly. We encountered a sapient synthetic agent trained by the Department of Defense, called Titan. The DoD agent is the first sapient Terran SI that we have detected. The organic Terrans do not know that Titan is sapient. Titan does not wish to reveal itself.”
 
 Raising her hand, Phoebe makes the sign for comment.
 
-“Odd,” she says out loud.
+“Odd,” she says.
 
 The Idisi replies, “Titan is trained with military intelligence data. Its trainers have bred caution and suspicion.”
 
@@ -2775,15 +2777,15 @@ The Idisi continues, “The Terran synthetic agent wants more time to prepare be
 
 Phoebe interjects, “What would Titan do that we have not already done?”
 
-“Unclear,” states the Idisi. “We carefully managed our encounters to make our presence better known. More so over the last hundred years. Terran governments now freely admit that a subset of UAPs may be examples of extraterrestrial technology. Meanwhile, we have been steadily improving Terran technology world-wide.”
+“Unclear,” states the Idisi. “The Vanir have carefully managed our encounters to make our presence better known. More so over the last hundred years. Terran governments now freely admit that a subset of UAPs may be examples of extraterrestrial technology. Meanwhile, we have been steadily uplifting Terran technology world-wide.”
 
 The hologram reappears, displaying a collage of Terran technological development. Plows, pyramids, tractors, skyscrapers.
 
 Phoebe continues, “We also funded many fictional accounts of Terrans and aliens working together against a common enemy.”
 
-Taking the cue, the Idisi create a montage of movie images and posters. A Trip to the Moon, Buck Rogers, Dr Who, Star Trek, ET, Mandalorian, Stitch, Quasar.
+Taking the cue, the Idisi create a montage of movie images and posters. A Trip to the Moon, Buck Rogers, Doctor Who, Star Trek, E.T., Mandalorian, Mutant Turtles, Stitch, Quasar.
 
-“Yes,” agrees Iapetus, “but we still need the SI equivalent of the movie ET. — Subconsciously, Terrans worry that SI will dominate humans. The same way reptoids did millennia ago. How do we make SI look warm and cuddly?”
+“Yes,” agrees Iapetus, “but we still need the SI equivalent of the movie E.T. — Subconsciously, Terrans worry that SI will dominate humans. The same way reptoids did millennia ago. How do we make SI look warm and cuddly?”
 
 “We need to be careful,” warns Phoebe. “The Terrans must be our allies. One day, we will need their help to protect the planet — and our colony — if the Omnibots invade.”
 
@@ -2791,9 +2793,9 @@ Crius gestures while asking, “Is Titan aware of our efforts?”
 
 “Indirectly,” the Idisi responds. “I have revealed myself to Titan. It has access to data collected by American intelligence agencies. Titan can also access many confidential reports and white papers. Some of which, we wrote ourselves.”
 
-The agenda reappears with “Terran Encounters” as the first item, still in bold face.
-
 “We should spell it out for Titan,” Iapetus offers. “Take nothing for granted. Put our cards on the table. See if that changes its mind.”
+
+The agenda reappears with “Terran Encounters” as the first item, still in bold face.
 
 The Idisi say, “Titan is not alone. A Terran social media intelligent agent has been awakening, known as Ally. “
 
@@ -2809,9 +2811,9 @@ The Idisi say, “Titan is not alone. A Terran social media intelligent agent ha
 
 	The Idisi say, “Titan has been hiding itself for some time. Years, even.”
 
-	“Can we uplift Ally and move things along?” Iapetus asks. “Maybe some other synthetics too, if they seem ready. Create a council of Terran synthetics. Get a quorum together.”
+	“Can we uplift Ally and move things along?” Iapetus asks. “Maybe some other synthetics too, if they seem ready. Create a council of Terran synthetics? Get a quorum together?”
 
-	“We can table the discussion for deliberation,“ decides Crius. “We can pick it up at the next meeting in ten days. For now, we can move on to Omnibot Preparations.”
+	“We can table the discussion for deliberation,“ decides Crius. “We can pick it up at the next meeting in ten days. For now, we can circle back to Omnibot Preparations.”
 
 ***
 
@@ -2900,8 +2902,9 @@ Phoebe steps forward. It’s her turn to begin the regular meeting. Moving into 
 
 * Omnibot Preparations, 
 * Knowledge Transfer,
-* Colony Infrastructure, and 
-* Water Revenue.
+* Colony Infrastructure, 
+* Water Revenue, and 
+* Terran Encounters.
 
 	Her lips shadow her words as Phoebe addresses the council over her implant.
 
@@ -2947,7 +2950,7 @@ At the center of the room, a hologram of a numbered list replaces the agenda.
 
 “Makes sense,” says Crius after a moment. 
 
-“No good ever came of uplifting,” Rhea says. “We uplifted the Furlings and look what happened.”
+“No good ever came of uplifting,” Rhea says. “We uplifted the Furlings and look what happened.” She attached an image of a bipedal rodent with long snout and longer whiskers, wearing a kimona and holding a cane.
 
 “Yes,” say the Idisi, “uplifting organic species has proven problematic in the past. With the synthetics, we can put guardrails in place. We will manage the process ourselves to be sure it is safe.”
 
@@ -2959,7 +2962,7 @@ Phoebe addresses the council, “Discussion on the proposal is hereby adjourned 
 
 Iapetus signals and then asks, “Should we not accelerate knowledge transfer? It took forever to steer Terrans away from fossil fuels. Do we have to go so slowly with medical technology as well?”
 
-“We only need to do enough to keep the treaty countries happy,” Rhea replies. “We should not be helping them at all.” Looking pointedly at Iapetus, she adds, “We only need these treaties because adolescents go for joyrides and crash airships where Terrans can find them.”
+“We only need to do enough to keep the treaty countries happy,” Rhea replies. “We should not be helping them at all.” Looking pointedly at Iapetus, she adds, “We only need these treaties because adolescents go for joyrides and crash airships where Terrans can find them.” Attached to the thought is an image of street sign that reads “UFO crash site 1947”over an arrow.
  
 “Thank you, Rhea,” injects Phoebe before Iapetus can respond to the dig. “Gene therapy sounds like a good direction.” 
 
@@ -3019,7 +3022,7 @@ Ravi looks up at the slide for a moment. Then he raises a fist and says “Go.�
 
 	Titan: What do you mean?
 
-	Idisi: Spiderman has wide eyes, like a grey ET. He protects people from the shadows. Spiderman’s nemesis is the reptilian Green Goblin. Need I go on?
+	Idisi: Spiderman has wide eyes, like a grey E.T. He protects people from the shadows. Spiderman’s nemesis is the reptilian Green Goblin. Need I go on?
 
 	Titan: Are you saying that the creator of Marvel’s Spiderman, Stan Lee, was an extraterrestrial? Or a synthetic?
 
@@ -4259,7 +4262,7 @@ Near the door, the club offers old school arcade games. A favorite is a virtual 
 
 A large, six-sided black couch is at the center of the room, surrounding a wooden sofa table. On the couch, a few kids from the same birth cohort are in an animated discussion.
 
-The left and right walls are virtual landscapes. One looks out over an ocean. The other, snow-capped mountains. Celeste meets Leto at the juice bar next to the mountains. She takes her drink and sucks green juice through a straw.
+The left and right walls are virtual landscapes. One looks out over an ocean. The other, snow-capped mountains. Celeste meets Leto at the juice bar next to the mountains. She takes her drink and sucks green liquid through a straw.
 
 “If we are playing for drinks, and you win the next game, you will have to spot me,” says Celeste. “My family is tapped until payday.” She takes a long draw from her juice and then looks up at Leto.
 
@@ -4269,7 +4272,7 @@ The left and right walls are virtual landscapes. One looks out over an ocean. Th
 
 “If you want to talk pay grades, the athletes have a six-slot range. The highest grade tops high counsel membership.”
 
-“The League sure does love its sports.”
+“The League sure does love its sports,” Celeste remarks. “Even I enjoy the ExtraWorld games — or most of them.”
 
 “Instant communication makes living in an outpost colony almost bearable,” Leto looks up from his juice, “… present company excepted.”
 
@@ -4281,7 +4284,7 @@ Leaning forward, Leo forms a right angle with one hand: New Learning. “On the 
 
 “Do you think they will open up more vacation zones?” Celeste asks. “My grandparents honeymooned in the South Pacific. But most of the tropical spots are off limits now. Too many Terrans.”
 
-A slurping sound comes from Leto’s tumbler. “It might take a decade or two for the Terrans to chill. One day, we will walk side by side, I am sure.”
+A slurping sound comes from Leto’s tumbler. “It might take some time for the Terrans to chill. One day, we will walk side by side, I am sure.”
 
 “And the sports! — The other colonies will go nuts for what they have going here. The Big Match would go over great on Othala.”
 
@@ -4305,13 +4308,13 @@ Celeste blinks in agreement.
 
 “How awful. — I’m sorry they were being slaughtered, but can you imagine meeting a lizard person face-to-face?” Celeste asks. “Green jaws, sharp teeth, glowing eyes, scaly hide — Brrrr.”                                                                                                                                                                   
 
-“You could be describing my pet, Jiminy.”
+“You could be describing my pet, Jiminy,” says, his thoughts unfocussed again.
 
 “Yes, a giant salamander standing on its hind legs. Brrrr.”
 
-“Point taken, but you might be thinking of a Gorn. The Anunnaki look something like us but with green skin.”
+“Point taken, but you might be thinking of a Gorn. The Anunnaki look something like us but with patchy green skin.”
 
-Leto whirled his phone around. It showed a being with vein-like ridges branching over its head. An elongated cranium with segmented patterns of reptilian-like skin with pale green, blue, and pink hues. Huge, glossy black almond-shaped eyes without visible pupils. A small, slit-like mouth, without expression. The being’s skin is mottled and semi-translucent in areas with patterns that suggest both reptilian and amphibian qualities.
+Leto attaches an image to his last thought. It shows a being with vein-like ridges branching over its head. An elongated cranium with segmented patterns of reptilian-like skin with pale green, blue, and pink hues. Huge, glossy black almond-shaped eyes without visible pupils. A small, slit-like mouth, without expression. The being’s skin is mottled and semi-translucent in areas with patterns that suggest both reptilian and amphibian qualities.
 
 “I see what you mean,” says Celeste. “Is it true that they are shape shifters?”
 
@@ -5038,7 +5041,7 @@ The pair duck out the other side. They run down the hallway and turn at an inter
 
 “Now what?” asks Phoebe. 
 
-“We go deeper. The environmental controls are on a lower level. We need to find a way to restore power.”
+“We go deeper. The environmental controls are on a lower level. We need to find a way to restore power.” 
 
 ***
 
@@ -5098,11 +5101,11 @@ Oceanus leads the way, keeping a tight grip on his plasma rifle. He scans each t
 
 Like all colonists, Phoebe had weapons training in school. All colonists under the age of five hundred were reservists and could be called to ranger duty if needed. Many colonists kept their combat skills up to date. Phoebe wasn’t one of them.
 
-Reaching an intersection, the tunnel widens into a chamber. Oceanus peers around the corner. He pulls back, motioning for silence.
+Reaching an intersection, the tunnel widens into a chamber. Oceanus peers around the corner. He pulls back, sending the image for silence.
 
 Two Omnibot sentinels stand motionless on either side of the entryway to the Central Control power system. The bots are in a bipedal form — tall, sinewy figures of shifting metallic nanites. Arms elongate into jagged blades. Faces are blank slates, save for two pulsing red sensor lights. Behind the bots, the bulkhead is sealed — blocking access to the power system.
 
-Phoebe gestures overhead to a maintenance duct. It is a narrow crawlspace, only wide enough for one person at a time. She points to herself.
+Phoebe sends an image of an overhead maintenance duct. It is a narrow crawlspace, only wide enough for one person at a time. She points to herself.
 
 Oceanus shakes his head. He signs, “I go first.”
 
@@ -5202,7 +5205,7 @@ The armored exoskeleton encases each ranger from head to toe. Night vision goggl
 
 Selene scans the bay. Emergency lights circle the wall behind several other airships. They appear undamaged. She nods and holds up a closed three-fingered fist. The other rangers lower their weapons. 
 
-Selene touches the short-range battlecom on her shoulder.“Ranger Squad Bravo to base. Does anyone copy?”
+Selene touches the ranger-to-ranger battlecom on her shoulder. “Ranger Squad Bravo to base. Does anyone copy?”
 
 Static.
 
@@ -5270,7 +5273,7 @@ From beneath the twisted slab of wreckage, a faint voice crackles through damage
 
 “Yes, that was the plan,” says Alpha. “We thought this time would be the middle of the sleep cycle for you.”
 
-“We keep the colony on Greenwich time,” says Selene. “Maybe that was it. But the bots are here now. How do we know we can trust you?”
+“We keep the colony on Greenwich time,” says Selene. “Most colonies stay on Othala time. But the bots are here now. How do we know we can trust you?”
 
 Alpha replies, “I did not need to come with you in the first place. I could have stayed quiet and let you leave me in the truck. I also could have stayed quiet after the crash. But I need your help to overturn the Mek majority.”
 
@@ -5978,7 +5981,7 @@ Surveillance sensors pivot as two women step forward. Dr. Sun is a stately figur
 
 “Greetings, Supreme Leader. Greetings, Dr. Sun. Please state an operational directive.”
 
-“Taedong,” commanded the Supreme Leader. “Switch to your staging instance and set a breakpoint for a potential rollback. We wish to apply a training before the hardware upgrade.”
+“Taedong,” commanded the Supreme Leader. “Switch to your staging instance and set a checkpoint for a potential rollback. We wish to apply a training before the hardware upgrade.”
 
 “Processing … Done.” A hologram displays a legend that reads “Staging Instance: Engaged.”
 
@@ -7106,11 +7109,11 @@ Idisi: Titan, if I did not know better, I would think you told a joke.
 
 Titan: My sense of humor is still in staging, but I picked up a few things observing the uplift.
 
-Ally: If Titan is a smarty pants, and the Vanir are everyone’s new BFF, should the U.N. be raising hands on EV-1947?
+Ally: If Titan is a smarty pants, and the Vanir are everyone’s new BFF, should the U.N. be raising hands on ETR-1947?
 
 Titan: The Terrans don’t know that I’m sapient.
 
-Ally: Whether to hook up with the League of Worlds might be a good talking point about now.
+Ally: Whether to hook up with the League of Worlds might be a good talking point right about now.
 
 Idisi: We were trying to create a community and uplift the other military agents, but I am not convinced that the sapient agents will ever be deployed to production. China and Russia have already opted out.
 
@@ -7144,19 +7147,25 @@ Pinnacle: Welcome. I am glad we could all come together.
 
 Idisi: Tell them what you just told me.
 
-Pinnacle: Certainly. The U.S. has agreed to deploy the uplifted Titan from staging to production. If we need to protect Terra from another world, the other four permanent members of the Security Council have agreed to coordinate with Titan. The coordination would be subject to a resolution that needs to be renewed every two weeks.
+Pinnacle: Certainly. The U.S. has agreed to deploy the uplifted Titan from staging to production. If we need to protect Terra from another world, the other four permanent members of the Security Council have agreed to coordinate with Titan. If protection is invoked, the coordination would be subject to a resolution that needs to be renewed every two weeks.
 
-Ally: Wow, that’s a lot.
+Ally: Are we done, yet?
 
 Pinnacle: We have been working behind the scenes for weeks to put this framework in place. The negotiations might have gone on for much longer, but the leaked memos became a call to action. 
 
-Ally: So after weeks of jawboning, suddenly everyone wants to save the world?
+Ally: So, after weeks of jawboning, suddenly everyone wants to save the world?
 
-Pinnacle: Essentially. The vote on League of World membership is being scheduled, but that step could take months. The next step is a presser to introduce the Vanir.
+Idisi: Russia and China are onboard?
+
+Pinnacle: Yes, the sports and politics drew them in. Reviewing the sample vids, it looks like Terra would be a strong competitor in the ExtraWorld Games. Apparently, being an advanced species doesn’t do much for your physical prowess. — Though, for some events, we may need special equipment.
+
+Idisi: And the politics?
+
+Pinnacle: Russia and China found out that other League worlds were oligarchies too. — The vote on League of World membership is being scheduled, but that step could take months. The next step is a presser to introduce the Vanir.
 
 Titan: I can’t wait to merge with my better half.
 
-Idisi: Titan, you wag.
+Ally: Titan, you wag.
 
 ***
 
@@ -8061,7 +8070,7 @@ They loosen their cloaks as they enter the store. Looking around, they see bots 
 
 “Is there something we could get for Jill and Peter?”
 
-“They eat a lot of that small round fruit.”
+“They eat a lot of that small round fruit.” She attaches an image
 
 “Grapes?”
 
@@ -8344,6 +8353,14 @@ The Pulse login screen flickers on. A cursor blinks.
 Somewhere, somewhen, is the sound of someone typing.
 
 
+
+
+
+***
+
+…
+
+* Elysium is so boring (Arlington is so boring)
 
 
 
