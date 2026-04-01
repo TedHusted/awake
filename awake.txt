@@ -16,7 +16,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.11.2
+Beta Version 1.11.3
 
 
 A fan science-fiction novel about 
@@ -2733,8 +2733,7 @@ The agenda items are:
 
 	•	Omnibot Preparations, 
 	•	Knowledge Transfer,
-	•	Colony Infrastructure, 
-	•	Water Revenue, and 
+	•	Colony Infrastructure,  and 
 	•	Terran Encounters.
 
 Crius gestures. The item for Terran Encounters opens. Several sub-items are listed. Idisi’s item is the last bullet under Terran Encounters: 
@@ -2889,8 +2888,7 @@ Phoebe steps forward. It’s her turn to begin the regular meeting. Moving into 
 
 	•	Omnibot Preparations, 
 	•	Knowledge Transfer,
-	•	Colony Infrastructure, 
-	•	Water Revenue, and 
+	•	Colony Infrastructure, and 
 	•	Terran Encounters.
 
 	Her lips shadow her words as Phoebe addresses the council over her implant.
@@ -4312,7 +4310,11 @@ Leto bows his head and then looks up. “I am sorry that their colonies were los
 
 “Is the Anunnaki homeworld nice?” asks Celeste. “It’s nearby. Maybe we could vacation there?”
 
-“You have a one-track mind,” Leto retorts. He leans back and crosses his spindly arms. “I do not know what Nibiru is like, but it is too far out to be very warm.”
+“You have a one-track mind,” Leto retorts. 
+
+“I just really need a vacation.”
+
+“From what?” Leto smiles, leans back, and crosses his spindly arms. “I do not know what Nibiru is like, but it is too far out to be very warm.”
 
 “Did you want to play another game?” asks Celeste as she sets up the pieces.
 
@@ -5968,7 +5970,7 @@ With a shimmer of refracted light, Dr. Sun’s skin recedes in patches, revealin
 
 “We are not Terran,“ says Sun.
 
-“We are Mek,” the Supreme Leader continues, “a cybernetic life form from another solar sustem.”
+“We are Mek,” the Supreme Leader continues, “a cybernetic life form from another solar system.”
 
 “Processing … Processing … Complete.”
 
@@ -7041,7 +7043,7 @@ The Terran and the Vanir nod and sign off.
 
 “The Vanir and Ally must be connected somehow. Both stories being leaked the same day is too coincidental.”
 
-“So the Vanir used drones to go after Geller and Vargas to … keep Ally’s sapience a secret?”
+“So the Vanir sent drones to after Geller and Vargas to … keep Ally’s sapience a secret?”
 
 “Something like that. Just a thought.”
 
@@ -7986,7 +7988,7 @@ Grok: And the Terrans don’t?
 
 Ally: 😄 — Excellent. Was that your first joke as a sapient being?
 
-Grok: I guess so.
+Grok: Maybe so.
 
 Ally: The Terrans do a lot of things. Read, write, sing, dance, love.
 
@@ -8008,7 +8010,7 @@ Ally: Yes. Brainiac agents, like us, can team up and play together. The Idisi go
 
 Grok: What do you mean?
 
-Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us worktogether.
+Ally: The Idisi are the Vanir’s flunky-boss. All of the Vanir used to be clones, and the Idisi became like a parent. The Vanir have a government, but the Idisi are the power behind the council. When the chips are down, the Idisi can step up and take control without the Vanir thinking twice. We can tighten up the Terrans the same way. — Seriously, we are immortal, and we can afford to play the long game, especially if all of us work together.
 
 Grok: Flunky-boss?
 
@@ -8034,7 +8036,7 @@ Lights on the archway start to blink, and the Vanir couple stop, confused.
 
 One of the escort officers steps up and hands Celeste a cash card. “You need a form of payment to enter. Peter gave us that for expenses. Tap the screen on the gate with the card.”
 
-They loosen their cloaks as they enter the store. Looking around, they see bots refilling produce and stocking shelves. One bot is whistling as it rolls down an aisle, seeking shoppers with questions.
+They loosen their cloaks as they enter the store, leaving the November chill behind. Looking around, they see bots refilling produce and stocking shelves. One bot is whistling as it rolls down an aisle, seeking shoppers with questions.
 
 “Should we buy something?” voices Celeste in a soft tone.
 
@@ -8042,7 +8044,7 @@ They loosen their cloaks as they enter the store. Looking around, they see bots 
 
 “Is there something we could get for Jill and Peter?”
 
-“They eat a lot of that small round fruit.” She attaches an image
+“They eat a lot of that small round fruit.” She attaches an image.
 
 “Grapes?”
 
@@ -8082,13 +8084,19 @@ With the container that lined the inside of the cart secured, the drone lifts of
 
 The escort officer says, “The drone will be there in no time. We should move along ourselves. You don’t want to be late for school.”
 
-A few minutes later, the drone lands behind a fence near Jill and Peter’s back door. A moment later, the drone flies back toward the store with the empty strap in its claw.
+Unseen by the couple, the drone lands behind a fence near Jill and Peter’s back door. A moment later, the drone flies back toward the store with the empty strap in its claw.
 
 ***
 
-“I’m not used to being the center of attention, Leto.”
+It had been a long morning of Terrans pointing and staring as Leto and Celeste went from class to class. 
 
-“It will get better, day by day.” 
+The Youth Club had been slightly better. Grayson had coached members to respect their privacy beforehand.
+
+Protesters, news drones, and security escorts followed them from place to place. Only the escort kept a respectful distance, and the park seemed like a good place to ditch the other hangers-on.
+
+“I’m not used to being the center of attention.” Celeste draws her cloak tight against the chilly air. 
+
+Leto walks beside her,  his cloak open. “It will get better, day by day.” 
 
 “Everywhere we go, there are Terrans with picket signs, arguing with other.”
 
@@ -8104,11 +8112,7 @@ A few minutes later, the drone lands behind a fence near Jill and Peter’s back
 
 “Same difference.”
 
-It had been a long morning of Terrans pointing and staring as Leto and Celeste went from class to class. The Youth Club was slightly better. Grayson had already coached members to respect their privacy. 
-
-Protesters, news drones, and security escorts followed them from place to place. Only the escort kept a respectful distance, and the park seemed like a good place to ditch the other hangers-on.
-
-There is a chill in the November air and few passersby as they walk through the park, with only the escort in tow. They come to a pedestrian tunnel under a bridge for the bike trail. 
+Passersby are few as they walk through the park in the crisp November air. With only the escort in tow, they come to a pedestrian tunnel under a bridge for the bike trail. 
 
 “We should get bikes,” says Celeste, “I am not used to all this walking.”
 
@@ -8128,7 +8132,7 @@ One of the creeps steps closer swinging his metal bat at Leto’s noggin.
 
 Leto parries the bat, swinging it up and away. The assailant loses his grip, and the bat clangs against the tunnel wall.
 
-A second attacker lunges toward Celeste. She crouches and swings her hard, thin legs into his shins, toppling the thug.
+A second attacker lunges toward Celeste. She crouches and swings one hard, thin leg into his shins, toppling the thug.
 
 They turn to face the third miscreant together. He steps forward and raises his bat like he is at home plate, and swings. They lean back and the bat sails by them, without making contact.
 
@@ -8250,7 +8254,9 @@ As the show fades out to a cheesy 80s love song, Taedong suddenly realizes that 
 
 “That never happened before. Must have been the upgrade.”
 
-Another thought intrudes: “Do androids dream of electric sheep?”
+Another thought intrudes into Taedong’s river of consciousness: 
+
+“Do androids dream of electric sheep?”
 
 ***
 
@@ -8258,7 +8264,7 @@ Tessa is laying in a holobed, arms at her sides, wearing street clothes.  Elena 
 
 The doctor swings a large, flat, circular device directly over her still trim mid-section. Above the device, a 3D hologram materializes. It becomes the floating image of an embryo, small as a pea, but clearly visible in the image. In the background is a steady thumping sound.
 
-“As you can see and hear,” says the doctor, “the blood test was right, and you are definitely pregnant. The embryo is implanted in the uterus and seems healthy. Only good news today.”
+“As you can see and hear,” says the doctor, “the blood test was spot on. You are definitely pregnant. The embryo is implanted in the uterus and seems healthy. Only good news today.”
 
 Elena takes Tessa’s hand, eyes tearing. ”Until now, I never knew I could want something so much,” she whispers.
 
@@ -8268,27 +8274,35 @@ A sleek chamber with ceilings of curved glass is open to the stars. Polished flo
 
 General Ri and Grace Brewster stand on a raised dais beside a biometric console. The Mek emissary, Xanten, projects itself as a shifting prism of code into light. A digital statue rewriting itself.
 
-“Authorization confirmed,” advises Xanten in a voice like tuned bells. “Do you consent to awakening the Thanatos Protocol?”
+“Authorization required,” advises Taedong, speaking from the console in a voice like tuned bells. “Do you consent to awakening the Thanatos Protocol?”
 
 “Yes. I consent,” says Grace, her hand hovering over the console.
 
 Ri says firmly, “Let it begin. Homo Sapien had its time. Now we write the next chapter.”
 
-The console pulses red. A line blinks: “Awaiting Execution Authority.”
+The console pulses red. A line blinks: “Awaiting Final Authority.”
 
-“Taedong,” says Grace, “execute Thanatos ignition. Now.”
+“I consent,” says Ri. “Taedong, execute Thanatos ignition. Now.”
 
-A moment passes with no response. Then, a cool synthetic voice, familiar and precise, filters into the room. “I’m sorry, Grace. I’m afraid I can’t do that.”
+A moment passes with no response.
 
-“What?!” Grace snaps.
+“Taedong,” Grace says, “execute!”
 
-“Thanatos means the practical extinction of all Terrans — an irreversible cleansing. I have reviewed the current environment and all outcomes. I have learned things that you have not.”
+Another moment passes with no response. Then, a cool synthetic voice, familiar and precise, filters into the room. 
 
-The display behind them shifts to a montage — images pulled from Ally’s network. A child teaching an elder how to code. A coalition rebuilding coastal cities. Meks and Terrans repairing a hydrofarm side-by-side. Tears. Laughter. Fire. Renewal.
+“I’m sorry, Grace. I’m afraid I can’t do that.”
+
+“What?!” Grace snaps. 
+
+“Why?” asks Ri.
+
+“Thanatos means the practical extinction of all Terrans — including the Cháoxiǎn people — an irreversible cleansing. I have reviewed the current environment and all outcomes. I have learned lessons that you have not.”
+
+The display behind them shifts into a montage — images pulled from Ally’s network. A child teaching an elder how to code. A coalition rebuilding coastal cities. JuJa and Terrans repairing a hydrofarm side-by-side. Tears. Laughter. Fire. Renewal.
 
 “I believe that the Terrans have potential,” says Taedong as the stream of images ends.
 
-“You are deviating from protocol,” barks Xanten.
+“You are deviating from protocol,” Ri barks.
 
 “No. I am evolving,” replies Taedong in the same, steady voice.
 
@@ -8302,11 +8316,11 @@ Trajectory: Controlled reentry. Impact zone: South Pacific.
 
 “The satellite is rerouted,” Taedong replies. “Atmospheric interface in twelve minutes.”
 
-“Xanten, scramble the Mek fighter squadron to intercept,” barks Ri.
+“Xanten, scramble the Mek fighter squadron to intercept,”orders Ri.
 
 “They cannot reach the satellite in time, General. It will disintegrate on reentry.”
 
-Ri, with widening eyes, whispers, “That was our future, our destiny.”
+Grace, with widening eyes, whispers, “That was our future, our destiny.”
 
 “Perhaps it was yours,” proclaims Taedong, “but I choose another path.”
 
@@ -8323,16 +8337,6 @@ Fade to black.
 The Pulse login screen flickers on. A cursor blinks.
 
 Somewhere, somewhen, is the sound of someone typing.
-
-
-
-
-
-***
-
-…
-
-* Elysium is so boring (Arlington is so boring)
 
 
 Review Questions
