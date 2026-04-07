@@ -22,8 +22,8 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.11.3
-
+Beta Version 1.11.4
+  
 
 A fan science-fiction novel about 
 information technology.
@@ -39,16 +39,20 @@ in any printed or electronic form.
 
 ----
 
-## 1.1 - Pulse - A Spooky Glitch ##  
+## 1.1 - Pulse - A Spooky Glitch ##
+
+----
+
+### Chapter One ###  
 
 
 Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. 
 
 A young person is strapped into the front seat, wearing square-rimmed glasses, and scrolling on a paper-thin, translucent phone as guardrails flicker past.
 
-The Stratos EV sells itself as a two-person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. Some people call the Stratos a “gray bullet on wheels, perfect for introverted drivers who don’t want to interact with passengers.” It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
+The Stratos EV sells itself as a two-person vehicle. The second person sits behind the driver, like the cockpit of a plane, and the front of the car streamlines to a rounded point. The Stratos is known as a “gray bullet on wheels, perfect for introverted drivers who don’t want to interact with passengers.” It’s the lightest car in its class, with the longest range and strongest performance. It is also the most expensive.
 
-The car’s smooth hum falters for a split second, a stuttering glitch that the driver ignores as he stares at his screen. A curve comes up, and the vehicle lurches forward. He drops the phone, face twisting in shock.
+The self-driving car’s smooth hum falters for a split second, a stuttering glitch that the driver ignores as he stares at his screen. A curve comes up, and the vehicle lurches forward. He drops the phone, face twisting in shock.
 
 The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. His unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
 
@@ -100,7 +104,7 @@ The drone drops the photo onto their phones and slips away. “Speaking of Pulse
 
 Elena smiles. “¡Todos los días! — Every day! I’ll pass along the praise to our engineers. It’s a popular feature. A lot of people use referrals to expand their colleague circle.”
 
-Elena, Tessa, and Heather nod and smile good bye. The couple continue past Heather into the main room. 
+Elena, Tessa, and Heather nod and smile good bye. “We should find our table,”says Elena. The couple continues  past Heather into the main room. 
 
 Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Chief Experience Officer at Pulse Social Media. Swims in the morning. Prosthetics. Lost parentals in car accident. Spouse is Tessa, Pulse Chief Quality Officer.”
 
@@ -160,19 +164,29 @@ An hour later, Elena receives a Zoom invite for twenty minutes into the future.
 
 “I did find a change from Saturday morning. The code is five stars, but the commit says the author is the Mercurial Admin. Usually, we only use admin for configuration changes. Someone used it to force commit the code with no approvals attached. DevOps picked up the change and started a rollout.”
 
-Elena frowns and says, “That sounds muy mala. Mercurial is our system of record for software changes. We need every change to be compliant. The government doesn’t joke around.”
+Elena frowns and says, “That sounds muy mala. Mercurial is our system of record. Every change needs two approvals. The government doesn’t joke around.”
 
-“I can label the rollout a West Coast beta test while we sort it out. The bar is lower for a beta.”
+“I can label the rollout a West Coast beta release, and keep it away from the Midwest and East Coast while we sort it out. The bar is lower for a beta.”
 
-“Brent, Ally is the algorithm. It’s central to everything on our platform. Should we pull back the change?”
+“Brent, Ally is the algorithm. It’s central to everything on our platform. Can’t we just redeploy the prior version?”
 
-“Maybe. DevOps ran the automatic tests before starting the rollout, and everything is green. Other changes by the weekend crew are using it now. We’d have to revert more than the one commit. I’m thinking I can finish the code review today and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Dumping it would be annoying.”
+“I don’t have the authority myself, but Adrian can approve a rollback. I checked the comments, and there is a lot of buzz about the new version. People will notice if we redeploy, and customer service needs to be prepared.”
+
+Elena sighs, clearly frustrated.
+
+“DevOps did run the automatic tests before starting the rollout,” says Brent, “and everything is green. I’m thinking I can finish the code review today and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Best I've ever seen. Dumping it would be annoying.”
 
 “Could someone from outside the team have made the change?” says Elena, wrinkling her brow.
 
-“I checked the network firewall, and there’s no sign of a breach,” Brent says. “The style follows our guidelines, and the change is elegant — it really is great code.” Brent pauses and then continues. “I don’t see how it could have been written by anyone outside the team. Someone must have thought they were making a local commit or something — I’ll straighten it out.”
+“I checked the network firewall, and there’s no sign of a breach,” Brent says. “The style follows our guidelines, and the change is elegant — it really is great code. — I don’t see how it could have been written by anyone outside the team.” Brent pauses and indulges in a rare smile. “And if it was someone else, we should hire them.”
 
-“Bueno, whatever you think best. We can catch up tomorrow. But if we can’t determine the author, then work with Adrian to roll it back.”
+Elena’s face relaxes at the joke and grins a bit. “Not comforting.”
+
+“I’m sure one of us thought they were making a local commit or something. I’ll straighten it out.”
+
+“Bueno, whatever you think best. We can catch up tomorrow. When you determine the author, have them submit a test plan to Tessa’s team. But if we can’t determine the author, then work with Adrian to roll it back.”
+
+Brent nods in agreement.
 
 After the call, Elena uses the Pulse messaging application to send Adrian a text. “Brent is looking into it now.” A few minutes later, Adrian reacts with a thumbs up.
 
@@ -198,11 +212,11 @@ In her home office, Elena is signing off for the day.
 
 Elena sighs and changes into her red one-piece bathing suit. In her wheelchair, she heads toward her apartment’s elevator. The Pulse colors — blue and orange — adorn the chair.
 
-Elena pulls up to the elevator door, and the chair calls the elevator for her. She doesn’t actually steer the chair. There are several location buttons on the left armrest. An add-on, the icons allowed quick access to the elevator, apartment, kitchen, bedroom, pool, and others. Most people use their implant. 
+Elena pulls up to the elevator door, and the chair calls the elevator for her. She doesn’t actually steer the chair. There are several location buttons on the left armrest. An add-on, the icons allowed quick access to the elevator, apartment, kitchen, bedroom, pool, and others. Most people use their implant instead of using manual control.
 
 The luxury wheelchair itself does not seem remarkable at first. But crammed into its streamline frame are all the trappings. The armrests curve up at the end and offer an array of touchscreen controls. A collapsible joystick graces the right side. Besides the location buttons, it comes with voice-control, implant-control, GPS, Wi-Fi networking, and collision sensors. The seat is temperature controlled with a retractable harness. Although it is a chair, the seat can extend upward and roll on its rear wheels, like a Segway.
 
-As the doors open, the chair rolls into the elevator, and the doors whoosh close. A few seconds later, Elena whirs into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads “WARNING! NO SWIMMING ALONE” in all-caps. Elena turns the timer under a sign labeled “Endless Pool Current”.
+As the doors open, the chair rolls into the elevator, and the doors whoosh close. A few seconds later, Elena whirs into the pool area. The room features an endless pool and a hot tub. A sign on the wall reads in all-caps, “WARNING! NO SWIMMING ALONE.” Elena turns the timer under a sign labeled “Endless Pool Current”.
 
 The chair lurches forward without warning. Its wheels catch the edge of the pool, and Elena splashes into the water. The chair flips over her, like an upended wheelbarrow.
 
@@ -214,27 +228,27 @@ Elena flails the water with her arms. The chair with its long frame  pins her do
 
 Elena finds the link is responding now. She stands up and pounds her head with an open palm. Water shakes loose.
 
-“No sé, I don’t know what happened. It was like the chair had a mind of its own. I’m so glad you got here when you did, Tess.”
+“No sé, I don’t know what happened. It was like the chair had a mind of its own. I’m glad you got here when you did, Tess.”
 
 “The traffic was murder. I came straight down when I got home. You know I don’t like you to come down here by yourself.”
 
-“If you can push the chair, I can walk for now. I just need to get out of here.”
+“I’m a big girl, Tess. If you can push the chair, I can walk for now. I just need to get out of here.”
 
 ***
 
+Elena and Tessa are eating at either side of a counter separating the kitchen from the living area. 
+
 “I don’t want you back in that chair until we have it checked out, Lanie.”
 
-Elena and Tessa are eating at either side of a counter separating the kitchen from the living area. Elena’s chair is raised up, so she appears to be sitting at the counter.
-
-Elena nods. “Sí, claro. — Let’s change the subject.”
+Elena nods. “Sí, claro. I’ll use the implant and take some Tylenol. Let’s change the subject.”
 
 Tessa scoops more mixed salad onto her plate and asks, “Did you find out anything about the software changes to Ally?”
 
 “Yes, Brent found the change. But he said it was made with the wrong account. Brent wasn’t sure of the actual author. He’ll sort it out tomorrow with the rest of the team after stand-up.”
 
-“What’s the old saying? Move fast and break things?”
+“What’s the old saying? ‘Move fast and break things?’”
 
-Elana cocks her head and shrugs. “Everyone says it’s an improvement. Brent is sure it can wait, and I trust his judgment.”
+Elena cocks her head and shrugs. “It's social media, and your automated test suite is thorough. No lives will be lost. -- Everyone says it’s an improvement. Brent is sure it can wait, and I trust his judgment.”
 
 Behind them, the ABC 7 evening report comes on in the other room. They both stop to listen.
 
@@ -286,7 +300,7 @@ A broad face takes up most of the screen on Tessa’s phone. Coarse black hair, 
 
 “Is Elena all right?”
 
-“Yes, she’s sleeping now. I managed to pull her out of the pool in time. The weird thing is that her lead engineer was in a car crash a few minutes earlier. I caught the traffic on my way home.”
+“Yes, she’s sleeping now. I managed to pull her out of the pool in time. The weird thing is that her lead engineer was in a car crash a few minutes earlier. I got caught in the traffic on my way home.”
 
 “A car crash? How did that happen?”
 
@@ -390,6 +404,9 @@ Elena furrows her brow. “Wow, that’s not how I remember it at all.”
 
 Adrian rises to leave. Elena blinks, bewildered. ¿Me estoy volviendo loco? How could my recollection of the meeting be so different from the recording? 
 
+----
+
+### Chapter Two ###  
 ***
 
 “Do you have a minute?” 
@@ -780,6 +797,9 @@ Marquez turns to her tablet. Enabling monitoring, she says, “Nexus, let’s ho
 Nexus: Acknowledged.
 
 
+----
+
+### Chapter Three ###  
 ***
 
 Wednesday morning at ten, Siri plays the door chime on Elena’s and Tessa’s phones. 
@@ -1131,6 +1151,9 @@ She glances over at the family portrait on the wall. Her gaze lingers on their o
 
 Behind her, the house bot quietly collects her forgotten cup of tea.
 
+----
+
+### Chapter Four ###  
 ***
 
 	“Welcome to Porto Mobility. Can I help you?” 
@@ -7227,7 +7250,7 @@ Celeste lowers her arms. “It will not end well, but I will go with you, if onl
 
 ***
 
-	Cue theme song and audience applause. 
+	Cue theme song and audience applause.   
 
 	“Today on The Glance: October Surprise? Are there extraterrestrials among us? Is Ally spooky or self-aware? Is it the all-time biggest leak or an elaborate hoax? Or a ploy to sell alien costumes for Halloween?”
 
