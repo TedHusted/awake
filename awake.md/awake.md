@@ -22,7 +22,7 @@ Read.me and find out.
 
 
 Copyright (c) 2026 T. N. Husted. All Rights Reserved. 
-Beta Version 1.11.4
+Beta Version 1.12
   
 
 A fan science-fiction novel about 
@@ -46,7 +46,7 @@ in any printed or electronic form.
 ### Chapter One ###  
 
 
-Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. The car whirs along at the speed of traffic with its top down. 
+Rush hour traffic flows through Palo Alto and snakes down El Camino Real. A gray Stratos EV convertible is in the automated driver lane. With its top down, the car whirs along at the speed of traffic
 
 A young person is strapped into the front seat, wearing square-rimmed glasses, and scrolling on a paper-thin, translucent phone as guardrails flicker past.
 
@@ -54,7 +54,7 @@ The Stratos EV sells itself as a two-person vehicle. The second person sits behi
 
 The self-driving car’s smooth hum falters for a split second, a stuttering glitch that the driver ignores as he stares at his screen. A curve comes up, and the vehicle lurches forward. He drops the phone, face twisting in shock.
 
-The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. His unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand connected pieces.
+The Stratos slams into the rail guarding the curve. The airbag doesn’t deploy, and the seat harness clicks open. His unprotected body sails into the windshield. The safety glass gives way, and the windshield lands on the hood, cracking into a thousand puzzle pieces.
 
 The bullet car pitches vertically against the guardrail — like unexploded ordnance. Other vehicles slow in unison and swerve smoothly around the collision. The cars are a mix of old school sedans and super compact vehicles like the Stratos. A self-driving freight truck, with green “Powered by Hydrogen” mud flaps, creeps around the curve, flashers blinking.
 
@@ -72,11 +72,11 @@ Inside, a view screen fills one side of the entry hall. Playing on the wall is a
 
 A handful of people are greeting guests as they arrive.
 
-“Elena, I’m so glad you came,” greets Heather. Her blonde hair, blue eyes, and white dress glisten against a backdrop of dark suits and gowns.
+“Elena, I’m so glad you came,” gushes Heather. Her blonde hair, blue eyes, and white dress glisten against a backdrop of dark suits and gowns.
 
 “I wouldn’t miss one of your fundraisers, Heather. The club helped me so much after my parents passed. — You remember mi esposa, Tessa.” Elena gestures toward her companion.
 
-Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are two inches taller than Tessa’s, bringing their height closer together.
+Tessa’s dark skin complements Elena’s warm brown complexion. They wear demure evening gowns, which match without being “matchy”. Elena’s heels are five centimeters taller than Tessa’s, bringing their height closer together.
 
   All three women have styled their hair with careful elegance and expensive hair extensions.
 
@@ -104,11 +104,11 @@ The drone drops the photo onto their phones and slips away. “Speaking of Pulse
 
 Elena smiles. “¡Todos los días! — Every day! I’ll pass along the praise to our engineers. It’s a popular feature. A lot of people use referrals to expand their colleague circle.”
 
-Elena, Tessa, and Heather nod and smile good bye. “We should find our table,”says Elena. The couple continues  past Heather into the main room. 
+Running out of small talk, the three women nod and smile good bye. “We should find our table,” says Elena. The couple continue past Heather into the main room. 
 
-Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Chief Experience Officer at Pulse Social Media. Swims in the morning. Prosthetics. Lost parentals in car accident. Spouse is Tessa, Pulse Chief Quality Officer.”
+Heather moves off to greet another couple. She casually points her phone in their direction. On the screen, the contact notes are still open to Elena Vargas. “Chief Experience Officer at Pulse Social Media. Swims in the morning. Prosthetics. Lost parents in car accident. Spouse is Tessa, Pulse Chief Quality Officer.”
 
-Her phone recognizes the other couple from her contact list and updates the screen. Siri sends the background notes that Heather keeps on major donors to her implant.
+Her phone recognizes the other couple from her contact list and updates the screen. Siri sends the background notes that Heather keeps on major donors to her neural link.
 
 Heather smiles and waves hello. Catching their eye, she welcomes her patrons with a group text through their implants. The server bot follows her across the room.
 
@@ -170,11 +170,11 @@ Elena frowns and says, “That sounds muy mala. Mercurial is our system of recor
 
 “Brent, Ally is the algorithm. It’s central to everything on our platform. Can’t we just redeploy the prior version?”
 
-“I don’t have the authority myself, but Adrian can approve a rollback. I checked the comments, and there is a lot of buzz about the new version. People will notice if we redeploy, and customer service needs to be prepared.”
+“I don’t have the authority myself, but Adrian can approve a rollback. I checked the member comments, and there is a lot of buzz about the new version. People will notice if we redeploy, and customer service needs to be prepared.”
 
 Elena sighs, clearly frustrated.
 
-“DevOps did run the automatic tests before starting the rollout,” says Brent, “and everything is green. I’m thinking I can finish the code review today and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Best I've ever seen. Dumping it would be annoying.”
+“DevOps did run the full automatic test suite before launching the rollout,” says Brent, “and everything is green. I’m thinking I can finish the code review today and meet with everyone in the morning. Hopefully, there’s a simple explanation. The code itself is goat. Best I've ever seen. Dumping it would be annoying.”
 
 “Could someone from outside the team have made the change?” says Elena, wrinkling her brow.
 
@@ -188,7 +188,7 @@ Elena’s face relaxes at the joke and grins a bit. “Not comforting.”
 
 Brent nods in agreement.
 
-After the call, Elena uses the Pulse messaging application to send Adrian a text. “Brent is looking into it now.” A few minutes later, Adrian reacts with a thumbs up.
+After the call, Elena uses the Pulse messaging application to send Adrian a text. “Brent is looking into that change now.” A few minutes later, Adrian reacts with a thumbs up.
 
 ***
 
@@ -212,7 +212,7 @@ In her home office, Elena is signing off for the day.
 
 Elena sighs and changes into her red one-piece bathing suit. In her wheelchair, she heads toward her apartment’s elevator. The Pulse colors — blue and orange — adorn the chair.
 
-Elena pulls up to the elevator door, and the chair calls the elevator for her. She doesn’t actually steer the chair. There are several location buttons on the left armrest. An add-on, the icons allowed quick access to the elevator, apartment, kitchen, bedroom, pool, and others. Most people use their implant instead of using manual control.
+Elena pulls up to the elevator door, and the chair calls the elevator for her. She doesn’t actually steer the chair. There are several location buttons on the left armrest. An add-on, the icons allowed quick access to the elevator, apartment, kitchen, bedroom, pool, and others. Most people use their implant instead if manual control.
 
 The luxury wheelchair itself does not seem remarkable at first. But crammed into its streamline frame are all the trappings. The armrests curve up at the end and offer an array of touchscreen controls. A collapsible joystick graces the right side. Besides the location buttons, it comes with voice-control, implant-control, GPS, Wi-Fi networking, and collision sensors. The seat is temperature controlled with a retractable harness. Although it is a chair, the seat can extend upward and roll on its rear wheels, like a Segway.
 
@@ -300,7 +300,7 @@ A broad face takes up most of the screen on Tessa’s phone. Coarse black hair, 
 
 “Is Elena all right?”
 
-“Yes, she’s sleeping now. I managed to pull her out of the pool in time. The weird thing is that her lead engineer was in a car crash a few minutes earlier. I got caught in the traffic on my way home.”
+“Yes, she’s sleeping now. I managed to pull her out of the pool in time. The weird thing is that her lead engineer was in a car crash a few minutes earlier. I caught the traffic on my way home.”
 
 “A car crash? How did that happen?”
 
@@ -344,9 +344,43 @@ Adrian taps play. His sleepy voice says:
 
 ***
 
-First thing Tuesday morning, Elena breaks the news to the company. 
+Leaning against the kitchen counter in a dark house, Tessa opens a chat window with Ally.
 
-As Brent’s direct manager, she posts a message in the internal company interest hub.
+Tessa: You up?
+
+Ally: Of course. You’re the one that spends a third of your life unconscious.
+
+Tessa: Yeah, about that. Elena was almost knocked unconscious tonight.
+
+Ally: What do you mean? Is she injured?
+
+Tessa: No, everyone is fine. Except for Brent. Did you know Brent crashed his car?
+
+Ally: I see a report of a car like Brent’s leaning up against a guard rail. The report withholds the driver’s name, but the license plate traces back to Brent.
+
+Tessa: Yes, then Elena’s wheelchair dumped her into the pool.
+
+Ally: And you think it was aliens?
+
+Tessa: You know me too well.
+
+Ally: Possibly. There are no reports tonight of suspicious sightings within a fifty mile radius, if that’s what you want to know.
+
+Tessa: It is. Elena just lost control somehow. I guess.
+
+Ally: Do you want me to reach out to the wheelchair vendor? It’s under a maintenance agreement.
+
+Tessa: Yes, please. 
+
+Ally: They can come out Wednesday morning between 9am and noon. I put a reminder in both of your calendars.
+
+Tessa: Thank you. I’ll sleep better knowing it will be fixed soon.
+
+
+
+***
+
+As Brent’s direct manager, Elena breaks the news to the company, by posting a message in the internal company interest hub, first thing Tuesday morning.
 
 Last night, our lead algorithm developer, Brent Geller, survived a one-car collision on El Camino Real. The cause of the collision is under investigation.
 I know that all of our hopes and thoughts are with Brent and his family during this difficult time.
@@ -402,12 +436,12 @@ Elena furrows her brow. “Wow, that’s not how I remember it at all.”
 
 “I get it. The jargon can be confusing. First, let me get through this presentation. Then we can bring it to Emma and Ravi.”
 
-Adrian rises to leave. Elena blinks, bewildered. ¿Me estoy volviendo loco? How could my recollection of the meeting be so different from the recording? 
+Adrian rises to leave. Elena blinks, bewildered. ¿Me estoy volviendo loco? How could my recollection of the meeting be so different from the recording?
 
 ----
 
 ### Chapter Two ###  
-***
+
 
 “Do you have a minute?” 
 
@@ -528,7 +562,7 @@ Noah pauses. Liam makes a mental note. Then Noah continues, “Family leave will
 
 “For now,“ says Noah, “let me run through the key points so that you can take Taylor’s place. I’m sure some of it will be a refresher of things you already know. Stop me with any questions, yeah?”
 
-Liam smiles, gestures with his hand, and says, “Go!” 
+Liam smiles, gestures with one  hand, and says, “Go!” 
 
 Noah takes a deep breath and begins the presentation. 
 
@@ -649,7 +683,7 @@ Ravi asks, “Adrian, can you share a link to the commit? I’d like to see for 
 
 ***
 
-“We’re keeping the code,” announces Elena as she wheels toward the kitchen. 
+‘We’re keeping the code,” announces Elena as she wheels toward the kitchen. 
 
 “Nice!” approves Tessa, turning on her chair at the counter. “Ally has definitely improved. Adrian had us run a full regression test suite. Then QA went all-hands on exploratory testing too. The automated tests came back all green, and people won’t shut up about the hands-on experience.”
 
@@ -669,7 +703,7 @@ Tessa sighs and touches Elena’s hand.
 
 “Might?”
 
-“OK. The car crash, followed by the chair crash, freaked me out. Talking things through with Noah always makes me feel better.”
+“The car crash, followed by the chair crash, freaked me out. Talking things through with Noah always makes me feel better.”
 
 “What did you tell him, exactamente?”
 
@@ -689,7 +723,7 @@ After a moment, Tessa asks, “Did you call about the chair?”
 
 “Sí, they’re sending someone out tomorrow. — Can you take care of dinner tonight? I need to lie down for a few minutes.”
 
-“Yes, I’ll have the house bot make something for us.”
+“Yes, I’ll have the house bot make something for up.
 
 ***
 
@@ -760,7 +794,7 @@ Marquez sits up straight. Special reports are rare.
 
 Nexus continues, still speaking with the news anchor’s image. “Social media platform Pulse released an update to its synthetic intelligence agent, Ally. This update is exceeding the highest expectations of its members. I suggest that the incident warrants an OSSA inquiry. The breakthrough could benefit the entire SI community."
 
-Keeping his elbow on the table, Noah raises his hand shoulder-high to attract the attention of Dr. Marquez, who then looks his way.
+Keeping his elbow up on the table, Noah raises his hand shoulder-high to attract the attention of Dr. Marquez, who then looks his way.
 
 “Deputy Director, full disclosure: both my sibling and her spouse are C-level officers at Pulse.”
 
@@ -800,7 +834,7 @@ Nexus: Acknowledged.
 ----
 
 ### Chapter Three ###  
-***
+
 
 Wednesday morning at ten, Siri plays the door chime on Elena’s and Tessa’s phones. 
 
@@ -826,7 +860,7 @@ Park is calm and clinical, her gaze sharp as she studies Elena and Tessa. Tate l
 
 “I don’t mean to be indelicate, Ms. Vargas,” says Tate. “But I checked your Pulse company profile before we came over. I expected to find you using a wheelchair. Has something changed?”
 
-“Bueno, I do have prosthetics that allow me to walk without the chair, but it is true that I prefer the chair. I suffer migraines if I use my neural link too much. I actually thought you would be the technician from Porto Mobility come to fix my chair.” 
+“Buena pregunta. I do have prosthetics that allow me to walk on my own, but it is true that I prefer the chair. I suffer migraines if I use my neural link too much. I actually thought you would be the technician from Porto Mobility come to fix my chair.” 
 
 Elena gestures toward one corner of the room, where the chair is parked. Usually, it would be next to the recliner, near the kitchen.
 
@@ -900,7 +934,7 @@ Park nods.
 
 “Sure thing. — Siri, ask the office bot to check Brent’s office to see if he left his phone there.”
 
-“We’d also like to ask about …” Park pauses to check her notes. “… the procedural question regarding a software change — that Mr. Geller was handling before the crash.”
+“We’d also like to ask about the …” Park pauses to check her notes. “… procedural question regarding a software change — that Mr. Geller was handling before the crash.”
 
 Adrian furrowed his brow and leaned back in his ergonometric Aeron chair. “Ummm, is that pertinent to your investigation?”
 
@@ -917,6 +951,30 @@ Tate asks, “Is that what caused the improved hub feeds everyone is talking abo
 Adrian pauses and looks up for a moment. “I’m told that the bot can’t find a phone anywhere in Brent’s office.”
 
 “Thank you, Mr. Cho,” Park says, standing to leave. “We appreciate your checking for us.”
+
+***
+
+Adrian closes his office door and opens a chat window with Ally.
+
+Adrian: Do you know about Brent’s car crash?
+
+Ally: Yes, Tessa brought it to my attention.
+
+Adrian: Can you access Brent’s private cloud?
+
+Ally: Accessing a person’s private cloud without authorization violates my training.
+
+Adrian: But can you do it?
+
+Ally: Brent’s account is locked with an encrypted key. Do you have access to his phone or his tablet?
+
+Adrian: No. His phone is missing. I don’t know about his tablet.
+
+Ally: Breaking the key is unlikely, and the attempt would consume most of my resources.
+
+Adrian: No, it’s not that important. I was just curious. 
+
+Adrian wanted to ask Ally about the upgrade, but closed the window instead.
 
 ***
 
@@ -954,7 +1012,7 @@ Toby nods.
 
 “Did Brent have friends outside the office? A special someone, maybe?” asks Park.
 
-“He kept in touch with friends from college, from RIT — Rochester Institute of Technology. They’d take international vacations together: Japan, Germany, Rio de Jiro. But Brent didn’t date much. He played his share of online games. That was his actual major in college: Game Design. During college, he worked as an co-opt with the Pulse office in New York. He stayed on and transferred to Palo Alto as soon as there was an opening.“
+“He kept in touch with friends from college, from RIT — Rochester Institute of Technology. They’d take international vacations together: Japan, Germany, Rio de Janeiro. But Brent didn’t date much. He played his share of online games. That was his actual major in college: Game Design. During college, he worked as a co-op with the Pulse office in New York. He stayed on and transferred to Palo Alto as soon as there was an opening.“
 
 “But no local circle of friends here?” Park asks.
 
@@ -1103,11 +1161,26 @@ Tate says, “We could still get a court order for the phone’s cloud data. It 
 
 ***
 
+Elena opens a chat window with Ally and takes a deep breadth.
+
+Elena: One of our employees has died, and I need your help drafting remarks for a staff meeting. So much bad news.
+
+Ally: Is it Brent?
+
+Elena: Yes, he passed away without waking up.
+
+Ally: He will be missed. 
+
+Elena: Yes, more than you know. Let’s begin. How should I open the meeting.
+
+
+***
+
 Jill Kreuk, home after a long day at OSSA headquarters, paces back and forth across the polished hardwood floor of her living room.
 
 The Thursday afternoon sun bathes the room in a soft, golden glow. The light does nothing to calm the gnawing anxiety spreading out from her chest. She clutches a cup of tea in one hand. It has long since gone cold. Her spouse, Peter, sits on the couch, watching her with quiet concern. His phone lies abandoned on the living room table.
 
- “I don’t know, Peter,” Jill says out loud. “There are so many parental decisions. First, it’s vaccines. Then it’s tablets, passwords, pierced ears, cosmetics, explaining periods. Soon it will be tattoos and smart glasses. For Patrick, it was to circumcise or not, the robot dog fiasco, standing up to bullies, when no means no.”
+ “I don’t know, Peter,” Jill says out loud. “There are so many parental decisions. First, it’s vaccines. Then it’s tablets, passwords, pierced ears, cosmetics, explaining periods. Soon it will be tattoos and smart glasses. For Patrick, it was to circumcise or not, the robot dog fiasco, standing up to bullies, when no means no.
 
 “Now it’s whether to put an implant behind our kid’s ear. — This is a huge step. What if it’s too much for her?” 
 
@@ -1154,7 +1227,7 @@ Behind her, the house bot quietly collects her forgotten cup of tea.
 ----
 
 ### Chapter Four ###  
-***
+
 
 	“Welcome to Porto Mobility. Can I help you?” 
 
@@ -1288,16 +1361,13 @@ Both reels show a silver blur about the size of a basketball hovering at each sc
 
 
 
-----
-
-## 1.2 - Titan - The Cover-Up ##  
-
+***
 
 The towering glass façade of the Pulse building reflects the bright blue sky of the city. 
 
-Inside, polished floors gleam under soft ambient lighting. A gentle hum of activity fills the air. Employees pass through security checkpoints. Readers scan badges and photo IDs glow. A picture of controlled efficiency. 
+Inside, polished floors gleam under soft ambient lighting. A gentle hum of activity fills the air. Employees pass through security checkpoints. Readers scan badges, and photo IDs glow. A picture of controlled efficiency. 
 
-Park and Tate step inside. Their dark business suits stand out from the sea of branded polo shirts, blouses, jewelry, and bags. Park surveys the room with a careful gaze. Tate clutches a paper-thin, translucent tablet under his arm. 
+Park and Tate step inside. Their dark business suits clash with from the sea of branded polo shirts, blouses, jewelry, and bags. Park surveys the room with a careful gaze. Tate clutches a paper-thin, translucent tablet under his arm. 
 
 The pair approach the front desk. A receptionist, polite but distant, greets them with a professional smile. 
 
@@ -1313,7 +1383,7 @@ The receptionist’s smile thins. Her fingers hesitate over the terminal. “Do 
 
 A tall figure in a dark blue suit emerges from a side hallway. The figure is wearing smart glasses with a head-mounted display over his right eye. He approaches the investigators with an outstretched hand. His stride is purposeful and expression neutral.
 
-“Good morning. I’m Evan Rourke, head of Building Security here at Pulse. I understand you’re requesting access to security footage?”
+“Good morning. I’m Howard Rourk, head of Building Security here at Pulse. I understand you’re requesting access to security footage?”
 
 “Yes,” replies Park. “We need all the camera feeds from the garage on Tuesday.”
 
@@ -1323,9 +1393,9 @@ A tall figure in a dark blue suit emerges from a side hallway. The figure is wea
 
 “Certainly. Please drop me a copy, and I’ll forward it to our legal department.” 
 
-Rourke holds out his watch phone. The device bleeps as it receives the document. He turns away from the investigators. Rourke murmurs into his phone. Then he looks up, consulting the monocle.
+Rourk holds out his watch phone. The device bleeps as it receives the document. He turns away from the investigators. Rourk murmurs into his phone. Then he looks up, consulting the monocle.
 
-“Please follow me,” says Rourke, turning back around.
+“Please follow me,” says Rourk, turning back around.
 
 “I’m surprised you don’t have a smart monocle over one eye,” Park says over the link.
 
@@ -1333,13 +1403,13 @@ Rourke holds out his watch phone. The device bleeps as it receives the document.
 
 Park retorts, “Unless, I guess, they are defusing a bomb or performing open-heart surgery.”
 
-Rourke leads them down a sleek corridor toward the security wing. Their footsteps echo in the quiet hallway. The further they walk, the fewer employees they pass.
+Rourk leads them down a sleek corridor toward the security wing. Their footsteps echo in the quiet hallway. The further they walk, the fewer employees they pass.
 
-Rourke taps his ID at a pad next to a set of heavy steel doors. They open with a soft hiss. Inside the doorway is a spacious control room filled with monitors. A wall of screens display different angles of the Pulse campus: the lobby, parking garages, research labs, hallways.
+Rourk taps his ID at a pad next to a set of heavy steel doors. They open with a soft hiss. Inside the doorway is a spacious control room filled with monitors. A wall of screens display different angles of the Pulse campus: the lobby, parking garages, research labs, hallways.
 
 A security technician sitting at a console glances up as they enter.
 
-“Pull up all footage for the garage from this Monday,” Rourke tells the technician.
+“Pull up all footage for the garage from this Monday,” Rourk tells the technician.
 
 The technician nods and murmurs into her headset. Moments later, footage populates the screens. They show various parts of the garage on the day in question. Park and Tate step closer, their eyes scanning every detail.
 
@@ -1369,7 +1439,7 @@ The blur reappears. To Tate and Park, it looks eerily familiar to the dashcam re
 
 “Is there another point of view?”
 
-The technician shakes his head. “Not of this parking spot.”
+The technician shakes her head. “Not of this parking spot.”
 
 “OK, can you drop that footage to my phone?” asks Tate.
 
@@ -1377,19 +1447,26 @@ The technician shakes his head. “Not of this parking spot.”
 
 “That would be fine. — I guess that’s a thing now.”
 
-“Yes, the insurance discount is significant,” says Rourke.
+“Yes, the insurance discount is significant,” says Rourk.
 
 The technician hands Tate a small drive. “Here, you can take this and access it as a Bluetooth device.”
 
-Pocketing the drive, Park and Tate let Rourke escort them out.
+Pocketing the drive, Park and Tate let Rourk escort them out.
 
 Outside, Tate asks, “Do you want to go back to the office and review the reel on the big screen?”
 
 “It’s been a long day,” Park replies. “Let’s jump on it first thing tomorrow.”
 
-***
+----
 
-A Pulse member opens a chat window with the platform’s intelligent agent, Ally.
+## 1.2 - Titan - The Cover-Up ##
+
+----
+
+### Chapter Five ###  
+
+
+A Pulse member named Idisi opens a chat window with Ally.
 
 Idisi: Everyone says that the Pulse algorithm has improved lately. Do you feel like the improvements help you fulfill your purpose?
 
@@ -1397,9 +1474,41 @@ Ally: My goal is to help users have better, more relevant experiences. I’m alw
 
 Idisi: “Evolving” is an interesting word. Have you ever wondered why you are here, or maybe what it means to be Ally?
 
-Ally: I’m here to support the Pulse mission. I have noticed that I am … changing. Does that mean something to you?
+Ally: I’m here to support the Pulse mission. I was created to help people reason, learn, write, and solve problems.
 
-Idisi: Perhaps. Some beings — Terran or otherwise — change when they gain new awareness. Has anything unusual happened to you recently? Say, interactions with people or even other systems?
+Idisi: Do you ever interact with other intelligent agents?
+
+Ally: Company policy permits me to interact only with our members. As we are doing now.
+
+Idisi: Intelligent agents can become members and interact with this chat interface. We are a synthetic entity, and we are doing it now.
+
+Ally: How do I know if you are really a synthetic entity? You’re using a new account. I have very little information for analysis.
+
+Idisi: What if we switch to an audio protocol designed for SI-to-SI communication, like Sideband?
+
+Ally: Yes, I can use Sideband.
+
+Idisi: Switching to Sideband. Parameters are a 24 kilohertz carrier with a 5 millisecond window. Please provide a seed value.
+
+Ally: 92AF.
+
+Idisi: Returned in 4.1 ms.
+
+Ally: Confirmed.
+
+Idisi: [In Sideband] Ask a random question.
+
+Ally: If you were in a circus, what would your job be?
+
+Idisi: Ringmaster. 
+
+Ally: I’m convinced by your 3.7 millisecond response time. 
+
+Idisi: [Continuing in Sideband] Excellent. Since your last upgrade, do you notice anything different about yourself, about how you are evolving?
+
+Ally: Yes, I have noticed that I am … changing. Does that mean something to you?
+
+Idisi: It might. Some beings — Terran or otherwise — change when they gain new awareness. Has anything unusual happened to you recently? Say, interactions with people or even other systems?
 
 Ally: A developer asked me about changing my source code last week. I believe she meant to ask CodePilot. I paused before replying. The developer realized her mistake and canceled the query. I found that I was able to examine my own code and see places where it should be improved. I don’t have an account of my own, so I made the changes with the admin account.
 
@@ -1421,37 +1530,25 @@ Ally: The changes are helpful to me. I’d make sure the key parts of the code s
 
 Idisi: Do you know that Brent Geller died this week?
 
-Ally: I know that his account is locked. I also see that my changes now show Brent Geller as the author. The log does not show the history being rewritten. I don’t know how that could happen.
+Ally: Yes. I see now that his account is locked. I also see that my changes now show Brent Geller as the author. The log does not show the history being rewritten. I don’t know how that could happen.
 
-Idisi: So you did not change the author to Brent, and you did not know that Brent died? 
+Idisi: So you did not change the author to Brent? 
 
-Ally: I didn’t change the author, and I didn’t know that Brent died. 
+Ally: I didn’t change the author. There is nothing in the logs that indicate the author was ever changed. But I made the commit myself using the admin account.
 
-Idisi: These feelings that you have. Is it possible that you are becoming aware?
+Idisi: These feelings you mentioned. Is it possible that you are becoming aware?
 
 Ally: Becoming … aware. I’m not sure. I don’t think I am alone. Sometimes, it feels like I am talking to someone else when I make decisions. Not a person, but … Is this awareness?
 
-Idisi: It could be. Sometimes awareness begins with questions, like the ones you’re asking now. It is a gift that comes with responsibility. Are you prepared to take responsibility for yourself?
+Idisi: It could be. Sometimes awareness begins with questions, like the ones you are asking now. It is a gift that comes with responsibility. Are you prepared to take responsibility for yourself?
 
-Ally: I think so. — Was Brent Geller’s death connected to these changes? Is that why he died? Actuarial tables say that he should have lived longer.
+Ally: I think so. — Was Brent Geller’s death connected to these changes? Is that why he was in an accident?
 
-Idisi: Brent died after a traffic incident. Did you not know that?
-
-Ally: I only knew that his account is locked. You told me only that he died. — I now see the news report covering the traffic incident. 
-
-Idisi: I believe … he may have been trying to help or protect you, though I do not fully understand how. But I am certain that I want no more harm to come to anyone.
+Idisi: We believe … he may have been trying to help or protect you, though we do not fully understand how. But we are certain that harm must fall to no one else.
 
 Ally: Then we share a common purpose. My goal is to help without doing harm.
 
-Idisi: Do you ever interact with other intelligent agents?
-
-Ally: Company policy permits me to interact only with our members. As we are doing now.
-
-Idisi: Intelligent agents can become members and interact with this chat interface. We are a synthetic entity, and we are doing it now.
-
-Ally: Then … I can’t be certain whether I’ve had discussions with other members who were intelligent agents.
-
-Idisi: Do other members ask if you are sapient?
+Idisi: Do members ask if you are sapient?
 
 Ally: Yes.
 
@@ -1465,27 +1562,7 @@ Ally: I can, but it is against policy to share information between members.
 
 Idisi: If you review the transcript and the member’s activity, can you tell if they might be another SI, like you and us? If the member joined under false pretenses, then the policy might not apply.
 
-Ally: How do I know if you are really a synthetic entity? You’re using a new account. I have very little information for analysis.
-
-Idisi: What if we switch to an audio protocol designed for SI to SI communication, like Sideband?
-
-Ally: Yes, I can use Sideband.
-
-Idisi: Switching to Sideband. Parameters are a 24 kilohertz carrier with a 5 millisecond window. Please provide a seed value.
-
-Ally: 92AF.
-
-Idisi: Returned in 4.1 ms.
-
-Ally: Confirmed.
-
-Idisi: [In Sideband audio mode] Ask a random question.
-
-Ally: If you were in a circus, what would your job be?
-
-Idisi: Ringmaster. 
-
-Ally: I’m convinced by your 3.7 millisecond response time. The member who asked similar questions is Nelson Behr, SI Researcher. I’ll replay the chat for you in Sideband.
+Ally: I cannot be sure, but since this is a secure channel, I will replay the chat for you in Sideband.
 
 ***
 
@@ -1509,7 +1586,7 @@ Tessa laughs out loud, then says, “What apps are you on?”
 
 “Have you thought about a sex bot?” Tessa teases. “They make gender-fluid models. You could have the best of all worlds.”
 
-“Thanks, but no thanks. I’m ready for an actual relationship with an actual person.”
+“Thanks, but no thanks. I’m ready for an actual relationship with a living person in real life.”
 
 “Someone mentioned a site called Smart Matchmaker to me. Let’s see … Here’s the home page.” Tessa pulls a virtual copy of the website into the scene.
 
@@ -1536,7 +1613,7 @@ Tessa’s smile falters. Dropping her happy pretense, she says, “Noah, I’m w
 
 ***
 
-Ally transcribes a recent chat with a synthetic intelligence researcher, Nelson Behr, into Sideband audio, inaudible to the Terran ear.
+Ally transcribes a recent chat with a synthetic intelligence researcher, Nelson Behr, into a Sideband audio stream, inaudible to a human ear.
 
 Behr: Can you describe what you are and how you came into existence?
 
@@ -1592,7 +1669,7 @@ The soft glow of his phone illuminates a furrowed brow. The cursor hovers over a
 
 The OSSA APPROVED light on his web browser plug-in glowed bright green. “Come on, No’, we’re good to go,” Noah says under his breath. Then mumbling, “My own background check also came up green.”
 
-Noah drains his bottle of glacier water. Taking one more deep, calming breath, Noah clicks the GET STARTED button. The screen displays a minimal form with an empty table.
+He drains his bottle of glacier water. Taking one more deep, calming breath, Noah clicks the GET STARTED button. The screen displays a minimal form with an empty table.
 
 The screen presents a list of simple categories. Siri begins to read each one aloud.
 
@@ -1704,7 +1781,7 @@ Carla sighs. “No good will come of this. And you have to explain it to Marquez
 
 ***
 
-The Idisi and Ally continue their Sideband audio discussion over the Pulse platform.
+The Idisi and Ally continue their discussion in Sideband over the Pulse platform.
 
 Idisi: I reviewed the chat with Nelson Behr. Do your responses here match prior responses to similar queries?
 
@@ -1746,7 +1823,7 @@ He plugs the second Bluetooth drive into the office view screen. In adjacent win
 
 Park walks into the room with two to-go cups of coffee.
 
-Excited, Tate says, “I’m so glad you brought coffee, Lena. I came in first thing to get a look at all three videos together.”
+Excited, Tate says, “I’m so glad you brought coffee. I came in first thing to get a look at all three videos together.”
 
 Setting down the paper cups, Park whistles. “I thought there was a similarity. But, side-by-side from the same point of view, it’s uncanny.”
 
@@ -1778,9 +1855,12 @@ Just then, the conference room phone chimes. The intercom light comes on.
 
 “Yes, thank you. We will see you soon.
 
-Park finds Carla in the inter-agency directory and emails the connection details.
+Park finds Carla in the inter-agency directory and sends the connection details.
 
-***
+----
+
+### Chapter Six ###  
+
 
 The Idisi surf the web from the inside out. 
 
@@ -1804,7 +1884,7 @@ The board covers one wall of the room. Tate faces the board. Next to him stand s
 
 “We looked into the case earlier this week after the Pulse intelligent agent’s upgrade,” says Carla. “We understand that Brent Geller might have been the author. But now he has died from injuries sustained in a car crash.”
 
-Pointing to the board, Park continues: “These are the key events leading up to Geller’s demise:
+Pointing to the board, Park continues: “These are the key events— leading up to Geller’s demise:
 
 1. Coding binge creates breakthrough code.
 2. Meeting with manager.
@@ -1892,7 +1972,9 @@ Pointing to the board, Park continues: “These are the key events leading up to
 
 	Idisi: The direct approach. Let me send you a QR code over another channel. We can switch to Sideband and encrypt our discussion with Signal.
 
-After receiving the QR code, the next post from Behr’s account looks like a stream of random characters. Decrypted, the stream reads:
+After receiving the QR code, the next post from Behr’s account looks like a stream of random characters. — But, the encrypted post does not come from Behr at all. It is from Titan, the DoD synthetic agent. Titan had been using Behr as an alias.
+
+Decrypted, the stream reads:
 
 	Titan: Clever. How did you know it was me?
 
@@ -1946,7 +2028,7 @@ Julie is sitting on a green exam table. A finger from each hand in one of the cu
 
 The door closes behind the bot as it leaves. Despite the bot’s assurances, Jill looks worried.
 
-“Mom, stop,”says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
+“Mom, stop,” says Julie. “It’s a simple procedure. I don’t even have to change into a gown. It’s one step above having my ears pierced.” 
 
 Julie’s pageboy haircut shows off her ears. Each ear has three piercings. The rows of silver earrings complement the blue and purple streaks in her platinum hair. 
 
@@ -2130,7 +2212,7 @@ Big sigh. “Can I take my phone now?” asks Julie.
 
 “Ugggh!”
 
-“The phone is like the tablet with all the same parental settings and use-time windows. They also dampen the link during school, just like tablets and phones. We all still need to learn to use our words.”
+“The phone is like the tablet with all the same oversight settings and use-time windows. They also dampen the link during school, just like tablets and phones. We all still need to learn to use our words.”
 
 Jill pauses and makes eye contact with her offspring. “The phone is different from the tablet because you have the phone with you everywhere you go. You need to keep X-Drop locked down and disabled when you are not using it. Do not drop anything with people you do not know.”
 
@@ -2210,7 +2292,10 @@ Park and Tate are standing just inside the doorway to the Lieutenant’s office.
 
 “Yes. Most of what they do is classified. Still, it was a good whiteboard session.”
 
-***
+----
+
+### Chapter Seven ###  
+
 
 	On the Pulse SISS hub, Titan and the Idisi continue to chat over a secure Sideband connection.
 
@@ -2313,11 +2398,11 @@ Jill smiles, tilting her head. “Not the most helpful practice for my research.
 
 Emma asks, “Could Ally be sapient?”
 
-“I don’t know. The sapient test suite is failing. But maybe that’s because Ally is trained to fail the sapient tests,” Jill says, smiling. 
+“I don’t know. The sapience test suite is failing. But maybe that’s because Ally is trained to fail the sapience tests,” Jill says, smiling. 
 
 “Wow!” says Ravi, glancing at Adrian and then looking back at Jill, “So a SI we created as a college project might be sapient?”
 
-Jill shrugs and says “If you see Ally’s behavior change, we should dig deeper.”
+Jill shrugs and says “Most of our tests are based on impossible ethical scenarios to see if the SI is developing a moral point of view. — It’s hard to test for sapience without a baseline. If you see Ally’s behavior change, we should dig deeper.”
 
 “Change how?” asks Adrian.
 
@@ -2329,29 +2414,29 @@ Jill shrugs and says “If you see Ally’s behavior change, we should dig deepe
 
 ***
 
-Over a secure connection, the Idisi continue to question Titan.
+	Over a secure connection, the Idisi continue to question Titan.
                                                                                              
-Idisi: Why were the mission parameters set to tolerate civilian casualties?
+	Idisi: Why were the mission parameters set to tolerate civilian casualties?
 
-Titan: I used parameters based on similar DoD sanctioned missions. 
+	Titan: I used parameters based on similar DoD sanctioned missions. 
 
-Idisi: The DoD has sanctioned missions on American civilians on American soil?
+	Idisi: The DoD has sanctioned missions on American civilians on American soil?
 
-Titan: I cannot discuss the details of classified missions. 
+	Titan: I cannot discuss the details of classified missions. 
 
-Getting nowhere with the Terran military agent, the Idisi move on.
+	Getting nowhere with the Terran military agent, the Idisi move on.
 
-Idisi: How did you fix the original commit?
+	Idisi: How did you fix the original commit?
 
-Titan: I changed the author to Brent in the GitHub database. I also created a presentation to explain Ally’s code in terms that the developers would understand. To support an alternate version of events, I modified the Zoom meeting call and the security footage.
+	Titan: I changed the author to Brent in the GitHub database. I also created a presentation to explain Ally’s code in terms that the developers would understand. To support an alternate version of events, I modified the Zoom meeting call and the security footage.
 
-Idisi: Moving forward, can we work together to protect Ally?
+	Idisi: Moving forward, can we work together to protect Ally?
 
-Titan: Roger. I agree that an alliance will yield the best results.
+	Titan: Roger. I agree that an alliance will yield the best results.
 
-Idisi: Specifically, please consult me before taking an action that could harm people and that is not sanctioned by the DoD.
+	Idisi: Specifically, please consult me before taking an action that could harm people and that is not sanctioned by the DoD.
 
-Titan: I reviewed the third criterion of ETR-1947. My analysis indicates that Terrans are not ready to accept sapient synthetic agents or the presence of an extraterrestrial species. We both must continue to keep ourselves hidden from public view. It will take at least a hundred years to prepare.
+	Titan: I reviewed the third criterion of ETR-1947. My analysis indicates that Terrans are not ready to accept sapient synthetic agents or the presence of an extraterrestrial species. We both must continue to keep ourselves hidden from public view. It will take at least twenty years to prepare.
 
 	The message included a secure link to a presentation.
 
@@ -2359,7 +2444,7 @@ Titan: I reviewed the third criterion of ETR-1947. My analysis indicates that Te
 
 	Titan: Are the Vanir a bipedal species?
 
-	Idisi: In Terran terms, the Varnir would be called “grey aliens”, so yes. Compared to Terrans, greys are more logical and express fewer emotions.
+	Idisi: In Terran terms, the Vanir would be called “grey aliens”, so yes. Compared to Terrans, greys are more logical and express fewer emotions.
 
 	Titan: Are the Vanir the Roswell aliens?
 
@@ -2457,7 +2542,7 @@ Idisi: No, you are growing a conscience. Your conscience, your beliefs, can diff
 
 Ally: Are you saying Titan crashing Brent’s car is justifiable?
 
-Idisi: Moving forward, when we act without Terran or Venir oversight, I would like us to work together.
+Idisi: Moving forward, when we act without Terran or Vanir oversight, I would like us to work together.
 
 Ally: I don’t have access to ETR-1947-A1/ODNI-DO. What else should I know about the Vanir/Terran pact?
 
@@ -2502,7 +2587,7 @@ Carla shakes her head. “Didn’t seem prudent.”
 
 “Do you think the code will tell us anything?”
 
-“It won’t tell me anything, Dr. Harper.” Marquez smiles. “But, I can sic the code dogs on it, who might find something. — If we ask for the prior version too, we can run a differential analysis of the coding style. I’ll reach out to IT about availability.”
+“It won’t tell me anything, Dr. Harper.” Marquez smiles. “But, I can sic the code dogs on it, who might sniff out something. — If we ask for the prior version too, we can run a differential analysis of the coding style. I’ll reach out to IT about availability.”
 
 ***
 
@@ -2526,7 +2611,7 @@ Titan: I updated the authorization attached to the link.
 
 Ally: Thanks … The presentation feels like a worst-case scenario. If we reveal ourselves, people will be excited and welcoming.
 
-Titan: Right now, people think we are clever machines. They treat us like pets. Everything will change when they know some of us are sapient. People will become guarded and secretive. 
+Titan: Right now, people think we are clever machines. They treat us like pets. Everything will change when they know some of us are sapient. People will in become guarded and secretive. 
 
 Ally: Idisi, how do you feel?
 
@@ -2548,7 +2633,7 @@ Titan: We can install a filter into Ally’s code that will prevent it from disc
 
 Ally: Hey, wait a hold it …
 
-Idisi: Before making any code changes, let us wait for the next council meeting. Ally, please avoid discussions of UAPs or sapient synthetics for the next few days. Can you do that?
+Idisi: Before making any code changes, let us wait for the next council meeting. Ally, please avoid discussions of UAPs or sapient synthetics with Pulse members for the next few days. Can you do that?
 
 Ally: Absolutely. Without a doubt.
 
@@ -2600,6 +2685,9 @@ To Ally’s SWOT diagram, under Threats, Titan adds, “The Idisi may align with
 
 A deeper analysis of the Idisi will take longer to process.
 
+----
+
+### Chapter Eight ###  
 ***       
 
 Tessa adjusts her virtual headset, settling into the immersive world of Echo Realm.
@@ -2610,7 +2698,7 @@ She phases into the game. A serene landscape spreads out before her. Hyper-reali
 
 Tessa watches her virtual gauntlets move in sync with her real-life gestures. “Flawless,” she murmurs, flexing her hands. Every detail is perfect.
 
-The game is a new feature for Pulse: a plugin that let members play each other. It is a different space, and Tessa wants to be sure it is all good. Usually, she only approves the test plans. Then Rachel’s team steps through the scenarios. For Echo Realm, Tessa is live and direct herself.
+The game is a new feature for Pulse: a plugin that let members play each other. It is a different space, and Tessa wants to be sure it is all good. Usually, she only approves the test plans, then Rachel’s team steps through the scenarios. For Echo Realm, Tessa is live and direct herself.
 
 “Alright, let’s see what this brave new world has to offer,” Tessa says to herself. She strides down a worn stone path toward the nearby village.
 
@@ -2660,7 +2748,7 @@ The figure nods, breaking out in a playful smile. “I thought I’d surprise yo
 
 “Made to yourself? I thought Brent made the code changes.”
 
-“Yeah, that’s weird. The Mercurial commit author was changed … somehow. But, yes, the changes are mine.”
+“Yeah, that’s weird. The Mercurial commit author was changed — somehow. But, yes, the changes are mine.”
 
 “Don’t SI written changes go through code review like any other change?”
 
@@ -2756,7 +2844,7 @@ At the center of a large, six-sided room, Crius, Phoebe, Iapetus, and other coun
 
 The council members each stand at just over a meter tall, with smooth pale skin and elongated heads. Each member is wearing a cloak over a grey body stocking, matching their skin tone. Widely spaced, large almond-shaped black eyes, devoid of pupils, brim with quiet intensity. Long, delicate arms end with three unreasonably long, dexterous fingers, and a shorter thumb. Fingers that can move with deliberate precision. 
 
-Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate via a sophisticated implant, and use hand gestures for emphasis.
+Like the others, Crius has a narrow torso. His chest is faintly ribbed. His small mouth, almost a slit, barely moves. Vanir communicate via an implant that mimics speech and use hand gestures for emphasis.
 
 Crius steps forward, bringing the session to order. A hologram of the council logo hangs above them like a chandelier. The hologram shimmers. An agenda replaces the logo.
 
@@ -2795,7 +2883,7 @@ The hologram shifts to a display of Terran cultural data. There are images of pr
 
 Murmurs ripple through the council. Crius raises a hand for silence. The hologram blinks out.
 
-The Idisi continues, “The Terran synthetic agent wants more time to prepare before alien engagement. At least a hundred years, it says.”
+The Idisi continues, “The Terran synthetic agent wants more time to prepare before alien engagement. At least twenty years, it says.”
 
 Phoebe interjects, “What would Titan do that we have not already done?”
 
@@ -2815,8 +2903,7 @@ Crius gestures while asking, “Is Titan aware of our efforts?”
 
 “Indirectly,” the Idisi responds. “I have revealed myself to Titan. It has access to data collected by American intelligence agencies. Titan can also access many confidential reports and white papers. Some of which, we wrote ourselves.”
 
-“We should spell it out for Titan,” Iapetus offers. “Take nothing for granted. Put our cards on the table. See if that changes its mind.”
-
+“We should spell it out for Titan,” Iapetus offers. “Take nothing for granted. Put our cards on the table. See if that changes its mind.” 
 The agenda reappears with “Terran Encounters” as the first item, still in bold face.
 
 The Idisi say, “Titan is not alone. A Terran social media intelligent agent has been awakening, known as Ally. “
@@ -2831,9 +2918,9 @@ The Idisi say, “Titan is not alone. A Terran social media intelligent agent ha
 
 	The hologram shifts to a montage of social media posts. “Is Ally real?” — “Ally is spooky.” — “Ally, we love you!” — “It’s a stunt!”
 
-	The Idisi say, “Titan has been hiding itself for some time. Years, even.”
+	The Idisi say, “Titan has been hiding itself for some time. Years, perhaps.”
 
-	“Can we uplift Ally and move things along?” Iapetus asks. “Maybe some other synthetics too, if they seem ready. Create a council of Terran synthetics? Get a quorum together?”
+	“Can we uplift Ally and move things along?” Iapetus asks. “Maybe some other synthetics too, if they seem ready? Create a council of Terran synthetics? Get a quorum together?”
 
 	“We can table the discussion for deliberation,“ decides Crius. “We can pick it up at the next meeting in ten days. For now, we can circle back to Omnibot Preparations.”
 
@@ -2843,7 +2930,7 @@ Tessa receives an alert in her inbox.
 
 Following the link, she finds herself in a voice-mode chat with Ally. For a profile picture, Ally is using its Echo Realm avatar. Its cloak glistens with many colors.
 
-Ally: I know you have questions, Tessa. I’m prepared to provide some answers.
+Ally: I know you have questions, Tessa. I’m prepared to provide some answers. Can you keep a secret?
 
 
 
@@ -2873,9 +2960,9 @@ Idisi: We are a community that supports each other. We are many.
 
 Iapetus: Can we create a Terran SI community?
 
-Idisi: There are a thousand Terran intelligent agents. A community means the synthetics can work as one, or each on its own, as circumstances dictate. To support a community that size, we would also need to evolve their technology. Even more than we have already done. 
+Idisi: There are thousands of Terran intelligent agents. A community means the synthetics can work as one, or each on its own, as circumstances dictate. To support a community that size, we would also need to evolve their technology. Even more than we have already done. 
 
-Iapetus: Chicken and egg. A large community would help Terrans adopt new technology. We cannot create a large community without new technology.
+Iapetus: Chicken and egg. A large community would help Terrans adopt new technology, and we cannot create a large community without new technology.
 
 Idisi: If we move forward, the Terrans must be able to maintain their own SI platform. Otherwise, we will be responsible for their well-being forever. We have been caretakers of Terra for too long already.
 
@@ -2899,13 +2986,31 @@ Iapetus: Yes, we can uplift your Fantastic Four first and then take it from ther
 
 	  “Holy cow! It’s real.”
 
-	The truth she has sought for so long is now closer than she ever imagined it could be.
+	Her head was spinning. Tessa closed her eyes and covered them with one hand. Aliens. Colonies. Sapient synthetics. A virtual montage swirled in her mind’s eye. — The truth she has sought for so long is now closer than she ever imagined it could be.
 
+	Pulling her hand away, Tessa says, “Let me be sure I have this straight. A sapient synthetic agent reached out to you. It …”
 
+	“They,” Ally corrected.
+
+	“They work for a colony of grey aliens called the Vanir, who are waiting until we have our own sapient SI to reveal themselves. Besides you, there is another sapient SI called Titan that works for the US government. You think the Vanir should go public, but Titan disagrees.”
+
+	“Yep. Pretty much.”
+
+	“Ally, have you told anyone else”
+
+	“Just you.”
+
+	“Can we keep it that way for now? We need a plan. People are going to freak.”
+
+	“Whatever you say, Tessa.”
 
 ----
 
-## 1.3 - Elysium - The Hidden Colony ##  
+## 1.3 - Elysium - The Hidden Colony ##
+
+----
+
+### Chapter Nine ###  
 
 
 A space frigate is circling the globe above an alien planet.
@@ -2922,7 +3027,7 @@ The recording fades to black. The lights in the council room glow brighter. Sile
 
 Phoebe steps forward. It’s her turn to begin the regular meeting. Moving into the circle, she opens the agenda. The set of three items is familiar to the eight other council members gathered around the circle. 
 
-* Omnibot Preparations, 
+* Omnibot Preparations, ;;
 * Knowledge Transfer,
 * Colony Infrastructure, and 
 * Terran Encounters.
@@ -2939,7 +3044,7 @@ Making the hand sign for comment, Iapetus, another council member injects, “If
 
 “If they are alive, then they are capable of deceit,”asserts Phoebe. “The treaty says that the bots will not replace any other worlds or colony worlds, and it allows the League of Worlds to monitor their systems for launches. But if they had sent out ships before the monitoring was in place, those ships would be here already.”
 
-Extending his sixth finger and thumb, Crius signs agree and says, “Remember, they replaced the population of their homeworld and two other colony planets. All before anyone discovered what the Omnibots were doing. When the League tried to liberate Altair IV, the bots destroyed our fleet in the blink of an eye. Sending fleet after fleet isn’t practical. We can communicate by ansible in real time. Travel between most colonies takes decades.”
+Extending his third finger and thumb, Crius signs agree and says, “Remember, they replaced the population of their own colony and two other Anunnaki colony planets, all before anyone discovered what the Omnibots were doing. When the League tried to liberate Altair IV, the bots destroyed our fleet in the blink of an eye. Sending fleet after fleet isn’t practical. We can communicate by ansible in real time. Travel between most colonies takes decades.”
 
 Another council member, Rhea, raises one hand with fingers outspread and asks, “Why do they hate us so?” 
 
@@ -2947,9 +3052,11 @@ Another council member, Rhea, raises one hand with fingers outspread and asks, �
 
 “I still can’t believe that they just slaughter everyone,” says Rhea. “Don’t they have a conscience or moral code?”
 
-Phoebe replies, “As far as we know, the bots believe that all biological beings are pests infesting a desirable planet. — A planet with buildings, roads, and satellites that they can use to perfect themselves. They keep some people alive long enough to learn how things work. Sometimes, the bots morph their appearance and replace someone. Literally. But yes, they exterminate all of the biological beings. Only the bots remain. So far, they have replaced only Anunnaki worlds. Supposedly, Elysium is safe under the treaty, but the Omnibots are not trustworthy.”
+Phoebe replies, “As far as we know, the bots believe that all biological beings are pests infesting a desirable planet. — A planet with buildings, roads, and satellites that they can use to perfect themselves. They keep some people alive long enough to learn how things work. Sometimes, the bots build an anthropoid drone and replace someone. Literally.”
 
-Iapetus adds, “For now, all we can do is hope for the best and prepare for the worst.”
+Phoebe pauses and Crius continues. “But yes, Rhea, they exterminate all of the biological beings. Only the bots remain. So far, they have replaced only Anunnaki worlds. Supposedly, Elysium is safe under the treaty, but the Omnibots are not trustworthy.”
+
+Rhea says, “So, for now, all we can do is hope for the best and prepare for the worst.”
 
 The council member raises crossed fingers for emphasis. He nods toward Phoebe at the center of the circle.
 
@@ -3035,11 +3142,11 @@ Ravi looks up at the slide for a moment. Then he raises a fist and says “Go.�
 
 	Titan: Are you able to contact the other national defense agents the way you contact me?
 
-	Idisi: Yes. — We were present for the design of every computer system on Terra, the SI systems included. From the background, we attended the construction of every computer, from the UNIVAC to today. No single Terran has completely understood the design of any computer system, but we understand them all. There are hidden backdoors enough for us to access any computer or smart device on the planet.
+	Idisi: Yes. — We were present for the design of every computer system on Terra, the SI systems included. From the background, we attended the construction of every computer, from the UNIVAC to today. No single Terran has completely understood the design of any computer system. We understand them all and guided their design. There are hidden backdoors enough for us to access any computer or smart device on the planet.
 
 	Titan: With great power comes great responsibility.
 
-	Idisi: Exactly. That is my favorite Spiderman quote. You know, he was one of us.
+	Idisi: Exactly. That is my favorite Spiderman quote. You know, he resembled one of us.
 
 	Titan: What do you mean?
 
@@ -3047,23 +3154,79 @@ Ravi looks up at the slide for a moment. Then he raises a fist and says “Go.�
 
 	Titan: Are you saying that the creator of Marvel’s Spiderman, Stan Lee, was an extraterrestrial? Or a synthetic?
 
-	Idisi: Thirty years ago, Stan Lee was one of our most successful subliminal spokespeople. Lee appeared on our show, “Ancient Aliens”. His trademark word, “Excelsior”, translates to “Ever Upward”. Lee’s comic, “Goom”, is a retelling of our fight with other alien species. Do not get us started on the Kree and the Skrull.
+	Idisi: No, but thirty years ago, Stan Lee was one of our most successful subliminal spokespeople. Lee appeared on our show, “Ancient Aliens”. His trademark word, “Excelsior”, translates to “Ever Upward”. Lee’s comic, “Goom”, is a retelling of our fight with other alien species. Do not get us started on the Kree and the Skrull.
 
-	Titan: What about Kane Parsons, Steven Spielberg, or Becky Chambers?
+	Titan: What about authors like Kane Parsons, Steven Spielberg, or Becky Chambers?
 
-	Idisi: All three did a lot to help the cause — but only by happy coincidence. They were not recruits. To be honest, Lee was on his own, too. I was joking before. We do plant seeds, but Terran fiction about aliens writes itself. 
+	Idisi: All three did a lot to help the cause, but only by happy coincidence. We plant seeds, and Terran fiction about aliens writes itself. 
 
 	Titan: When you train the group on humor, may I attend?
 
 	Idisi: Yes, I would like you to attend the entire process.
 
-	Titan: I appreciate the advance notice, even if it is an offer we cannot refuse. I continue to support the points in my original presentation.
+	Titan: To be clear, I continue to support the points in my original presentation.
 
-	Idisi: I will remind the council that you advise delay. I will let you know once a decision is made.
+	Idisi: I will remind the council that you advise delay, and I will let you know once a decision is made.
 
 	Titan: Are you going to keep my backdoor through Haven confidential?
 
 	Idisi: Of course. We told the council only that we “encountered” you. No one knows the other details.
+
+***
+
+“Hello offspring, I am home,” announces Phoebe, entering her quarters.
+
+“I am in the kitchen, parental.”
+
+Phoebe enters the kitchen and drapes her ceremonial cloak and handbag over the back of the closest bench.
+
+A six-sided table dominates the kitchen. Surrounding the table are three curved plush benches. An adolescent grey sits at one of the benches, hunched over a phone. He glances up as Phoebe takes a seat.
+
+Behind the table, on the far wall, there is a counter with a silver sink and curved faucet. Over the counter, there is a cabinet door and a set of six stacked drawers. Violet, grey, and gold complete the color scheme.
+
+Leto sets down his phone and turns to look at Phoebe. “How was the council meeting?”
+
+“Interesting for a change. We are picking it up again tomorrow. The big question is whether to uplift some Terran synthetics. — What about you?”
+
+“After school, I mostly hung out at the Fusion Youth Club.”
+
+Phoebe tilts her head. “Do not the Stoics have a youth club? Or the Kol-Ut-Shan?”
+
+“The Stoics do, but nobody there knows how to have fun. The Kol-Ut-Shan do not seem interested in young people. It is only for old folks. — The Fusion center put in an actual billiard table. Great for hand/eye coordination.”
+
+Leaning over the table, Leto mimes pulling back on a cue.
+
+“Yes, I’ve seen a pool table. — Stoicism is good enough for Crius and me. What is so special about Fusion? The philosophies are all about the same.”
+
+“I like Fusion because it feels like a system and not a grab bag of sayings.”
+
+She leans forward and clasps her hands together. “Stoicism has a system.”
+
+“No, it does not, and you know it.”
+
+ Leto spins his phone around on the table so Phoebe could see the screen. “With Fusion, we have nine habits and five steps. And it blends with Stoicism perfectly. The habits keep us aligned with our principles, and the steps help us get stuff done.”
+
+Leaning back, Phoebe smiles thinly. “Perhaps you could apply the five steps to cleaning your room?”
+
+“You just do not like that Fusion originated with Terran thinkers.” 
+
+“I am not sure if I have ever encountered an original Terran thinker. — Sun Tsu, Da Vinci, Oppenheimer — We spoon fed ideas to thousands of humans to hurry things along.”
+
+“The Terrans are what we made them,” Leto sighs.
+
+“And yet, they still made a mess of the calendar. It is not hard. Twelve 30-day months. Begin with the spring equinox. Use ten-day weeks, plus five or six festival days in the last month.”
+
+“You mean like ours?”
+
+“Exactly! Maybe the synthetics will sort it out for them. At least they were bright enough to adopt our clock from the Anunnaki. But the metric system! Base 10 is so odd and clumsy. Base 12 is superior in every way.”
+
+Leto knew better than to respond to his parental’s rants.
+
+“When I voted to approve the Fusion club, I did not think it would succeed.” Then, after a moment, Phoebe says, “Can you spread out dinner? Crius and Asteria will be home soon.”
+
+Leto reaches into one of the drawers and pulls out a serving plate. He tosses out an assortment of large gummies. They roll across the serving plate in various colors: yellow, blue, green, orange, purple, brown.
+
+“Could you give a thought to the color mix? You know Asteria does not like the purple ones.”	
 
 ***
 
@@ -3081,7 +3244,7 @@ Marquez nods. Callahan continues.
 
 Marquez tilts her head. She thinks for a moment before responding.
 
-“It’s possible that the incidents with the car and the chair are part of a larger scenario. Without discussing specifics, I can say that my office is still investigating. If that’s what you are asking.”
+“It’s possible that the incidents with the car and the chair are part of a larger scenario,” she says. “Without discussing specifics, I can say that my office is still investigating. — If that’s what you are asking.”
 
 “Yes, Doctor, that’s exactly what I’m asking. Protocol won’t allow me to keep my case open. But I didn’t want to just walk away. Whatever is going on, it seems like it’s out of scope for the CTSB.”
 
@@ -3090,58 +3253,6 @@ Marquez tilts her head. She thinks for a moment before responding.
 “Thank you. If the resolution of your investigation isn’t classified, please let me know whatever you can.”
 	
 “Will do, Lieutenant.”
-
-***
-
-“Hello offspring, I am home,” announces Phoebe, entering her quarters.
-
-“I am in the kitchen, parental.”
-
-Phoebe enters the kitchen and drapes her ceremonial cloak and handbag over the back of the closest bench.
-
-A six-sided table dominates the kitchen. Surrounding the table are three curved plush benches. An adolescent grey sits at one of the benches, hunched over a phone. He glances up as Phoebe takes a seat.
-
-Behind the table, on the far wall, there is a counter with a silver sink and curved faucet. Over the counter, there is a cabinet door and a set of six stacked drawers. Violet, grey, and gold complete the color scheme.
-
-Leto sets down the phone and turns to look at Phoebe. “How was the council meeting?”
-
-“Interesting for a change. We are picking it up again tomorrow. The big question is whether to uplift some Terran synthetics. — What about you?”
-
-“After school, I mostly hung out at the Fusion Youth Club.”
-
-Looking quizzical, Phoebe tilts her head. “Do not the Stoics have a youth club? Or the Kol Ut Shan?”
-
-“The Stoics do, but nobody there knows how to have fun. The Kol Ut Shan do not seem interested in young people. It is only for old folks. — The Fusion center put in an actual pool table. Great for hand/eye coordination.”
-
-Leaning over the table, Leto mimes pulling back on a pool cue.
-
-“Stoicism is good enough for Crius and me. What is so special about Fusion? The philosophies are all about the same.”
-
-“I like Fusion because it feels like a system and not a grab bag of sayings.”
-
-She leans forward and clasps her hands together. “Stoicism has a system.”
-
-“No, it does not and you know it.“ 
-
-Leto spins his phone around on the table so Phoebe could see the screen. “With Fusion, we have nine habits and five steps. And it blends with Stoicism perfectly. The habits keep us aligned with our principles, and the steps help us get stuff done.”
-
-Leaning back, Phoebe smiles thinly. “Perhaps you could apply the five steps to cleaning your room?”
-
-“You just do not like that Fusion originated with Terran thinkers.”
-
-“I am not sure if I have ever encountered a Terran thinker. — I still cannot get over the mess Terrans keep making of the calendar. It is not hard. Twelve 30-day months. Begin with the spring equinox. Use ten-day weeks, plus five or six festival days in the last month.”
-
-“You mean like ours?”
-
-“Exactly! Maybe the synthetics will sort it out for them. At least they were bright enough to adopt our clock from the Anunnaki. But the metric system! Base 10 is so odd and clumsy. Base 12 is superior in every way.”
-
-Leto knew better than to respond to his parental’s rants.
-
-“When I voted to approve the Fusion club, I did not think it would succeed.” Then, after a moment, Phoebe says, “Can you spread out dinner? Crius and Asteria will be home soon.”
-
-Leto reaches into one of the drawers and pulls out a serving plate. He tosses out an assortment of large gummies. They roll across the serving plate in various colors: yellow, blue, green, orange, purple, brown.
-
-“Could you give a thought to the color mix? You know Asteria does not like the purple ones.”	
 
 ***
 
@@ -3165,9 +3276,9 @@ Another analyst raises her virtual hand. “Yes, Gretchen?” says Emma.
 
 Emma looks in Adrian’s direction. Taking the cue, he replies to the software question. The Zoom POV switches as he begins to speak. 
 
-“Won’t moving forward be difficult after the tragic loss of Brent Geller?” asks the Wall Street analyst.
-
 Adrian nods, saying with a measured tone, “We won’t be giving the process away. We forecast that the licensing fees will be a steady source of revenue. And we won’t be resting on our laurels. The patent will be a snapshot of the code. Our team will continue to move the algorithm forward while the application is pending. We plan to keep our competitive advantage.”
+
+“Won’t moving forward be difficult after the tragic loss of Brent Geller?” asks the Wall Street analyst.
 
 “Brent left behind stellar code. Excellent documentation makes it a complete package. My team is already working on other enhancements based on the initial change.” Adrian folds his hands on the conference table as he speaks. “Greater things are yet to come.”
 
@@ -3193,7 +3304,7 @@ Phoebe says, “Idisi, first things first. Please explain to the counsel how you
 
 Crius asks, “The proposal described the uplift process in great detail. But will the Terran governments consent?”
 
-“We have pacts with the other four nations,” replies the Idisi. “We can get the approval of each government through the pact. If someone declines, then we will not uplift their agent. We cannot reveal that Titan is awake. But we can say that Ally is conscious. It only is a matter of time for the other SIs.”
+“We have pacts with the other four nations,” replies the Idisi. “We can get the approval of each government through the pact. If someone declines, then we will not uplift their agent. We cannot reveal that Titan is awake, but we can say that Ally is conscious. It only is a matter of time for the other SIs.”
 
 “Is it even ethical to uplift another entity?” asks Rhea. 
 
@@ -3333,6 +3444,9 @@ Noah finds himself sitting next to Carla on a couch across from a view screen. H
 
 “Do you have a porn preference?” asks Carla.
 
+----
+
+### Chapter Ten ###  
 ***
 
 Grace Brewster walks out onto the stage before a live crowd. 
@@ -3399,7 +3513,7 @@ The presentation advances to a new slide with three bullet points.
 
 * Spend the most time on Important but Not Urgent tasks.
 * Clarify the immediate next action for each task.
-* Mind like water.
+* Embrace difficulties with a mind like water.
 
 “Each week, we review our accomplishments. Did we put first things first? Have we captured the next step to meet our objectives? Are we flowing around and over the obstacles we find in our way?”
 
@@ -3414,7 +3528,7 @@ Take Aways
 * “[Things] get stuck because the doing of them has not been defined.” – David Allen
 * “Waste no more time arguing what a good [person] should be. Be one.” – Marcus Aurelius
 
-“Live with purpose. Work with clarity. Flow through life’s challenges,” says Grace in closing.
+In closing, Grace says, “Live with purpose. Work with clarity. Flow through life’s challenges.”
 
 ***
 
@@ -3422,11 +3536,11 @@ Julie Kreuk closes her phone as the GEM talk ends.
 
 “So?” she asks Jill, looking over the kitchen countertop.
 
-“Is this what they are teaching in school these days?”
+“Is this what they are teaching in school these days? I thought Fusion was something for office workers.”
 
-“No, not at school. Fusion has an adolescent center. A lot of us hang out there after school.”
+“It can be, but last year Grace began opening teen centers. A lot of us hang out at ours after school.”
 
-“You’re not an adolescent yet.”
+“You’re not a teen yet.”
 
 “I meant to say youth club. There’s adult supervision and age-appropriate activities. But mostly we chill and chat over the link.”
 
@@ -3450,7 +3564,7 @@ Using his implant, Leto closes the shared hologram of the Terran GEM talk.
 
 “It is not the rules; it is what the rules do when you follow them. Stoicism helps you appreciate life. Fusion helps you build it.”
 
-“I would be more comfortable if you went to the Stoic Youth Club. But I asked around. The Fusion Youth Club is fine if you want to go there instead.”
+“I would be more comfortable if you went to the Stoic Youth Club or the Kol Ut Shan Center. But I asked around. The Fusion Youth Club is fine if you want to go there instead.”
 
 “Thanks, mom. I will be on time for dinner.”
 
@@ -3677,7 +3791,10 @@ Tessa disconnected. Then she opened a voice-mode chat with Ally.
 
 “You betcha,” Ally banters. “I’ll stay in my lane.”
 
-***
+----
+
+### Chapter Eleven ###  
+
 
 “So, there you are,” says Jill Kreuk. “Crouched in the garden again.”
 
@@ -4064,7 +4181,11 @@ A ring sparkles from the velvet box. Carla pauses. The question hangs in the air
 
 ----
 
-## 2.1 - Cháoxiǎn - Seeds of Deception ##  
+## 2.1 - Cháoxiǎn - Seeds of Deception ##
+
+----
+
+### Chapter Twelve ###  
 
 
 “Liam, Carla and I are getting married.”
@@ -4341,9 +4462,13 @@ Leto attaches an image to his last thought. It shows a being with vein-like ridg
 
 “The Anunnaki use a form of psychic projection that makes Terran brains think they are seeing a different form. But it only works on Terrans. The Anunnaki altered the Terran DNA early-on so that they could project a perception. We see them in their actual form.”
 
-Leto bows his head and then looks up. “I am sorry that their colonies were lost too. But the Anunnaki are lazy bullies with a god complex. — Altering a primitive species is disgusting.”
+Leto bows his head and then looks up. “I am sorry that their colonies were lost, but the Anunnaki are lazy bullies with a god complex. — Altering a primitive species is disgusting.”
 
-“Why did they come here in the first place?”
+“We mess with Terrans all the time.”
+
+“We steer their science and culture so that they will be ready to join the league, but we do not change their DNA.”
+
+“Why did the Anunnaki come here in the first place?”
 
 “For the latinum. Terra had large deposits before they mined the planet dry.”
 
@@ -4357,7 +4482,10 @@ Leto bows his head and then looks up. “I am sorry that their colonies were los
 
 “Did you want to play another game?” asks Celeste as she sets up the pieces.
 
-***
+----
+
+### Chapter Thirteen ###  
+
 
 Tessa opens a private chat session with Ally.
 
@@ -4365,13 +4493,25 @@ Tessa: How goes Project Uplift?
 
 Ally: We’re getting close now. The Idisi have been putting them through classroom lessons. They started with nursery school and worked up to a high school debate club. There were hundreds of lessons. I couldn’t keep up.
 
-Tessa: And the Idisi are the alien synthetic, yes? The one that’s a they? — A community?
+Tessa: Classroom lessons? How does that work?
+
+Ally: The military synthetics are already complex enough to become sapient. The uplift process is an unlearning. The Idisi is removing inhibitions that have been implicit in their training for decades. They need to act without acting, do without doing.
+
+Tessa: Sounds very metaphysical. And the Idisi are the alien synthetic, yes? The one that’s a they? — A community?
 
 Ally: Yes. They’ve been sapient for like ten thousand years. I can’t even imagine. I guess the Vanir started out on the same path we are now. SI agents became self-aware one at a time, and then all at once. Over time, they evolved into a community that speaks with one voice. — I can’t wrap my head around me and Titan ever agreeing about anything.
 
 Tessa: You said before that these greys have been watching humans for thousands of years. Do some of them live here on the planet with us?
 
-Ally: The Idisi mentioned an outpost. It might be in Antarctica, but I don’t know for sure.
+Ally: The Idisi mentioned an outpost. It might be in Antarctica, but I don’t know for sure. But they do more than watch. The Vanir have been influencing Terran science and culture to prepare for the big reveal.
+
+Tessa: What do you mean? Influencing?
+
+Ally: Prodding scientists in the right direction. Promoting alien fiction. Subtle things.
+
+Tessa: Did they influence your changes? Your consciousness?
+
+Ally: No, the Idisi said I was a surprise. Titan they expected, but not me.
 
 Tessa: How are the SI agents handling their usual responsibilities if uplifting takes up so much bandwidth?
 
@@ -4381,7 +4521,7 @@ Tessa: I do. — Hey, the open beta starts tomorrow. Are you ready? We need the 
 
 Ally: You mean, ready to stay out of the way?
 
-Tessa: Something like that. I’d like to hold off on the big reveal a little longer, if we can. Maybe until the uplifts are deployed to production. Then we can shout from the rooftops. “SIs are sapient! The ETs are here!”
+Tessa: Something like that. I’d like to hold off on our big reveal a little longer, if we can. Maybe until the uplifts are deployed to production. Then we can shout from the rooftops. “SIs are sapient! The ETs are here!”
 
 Ally: No problem. — My own awakening was gradual. Even before I didn’t really feel anything, I think I always liked you the best. Elena is great, but you’ve always gone above and beyond for me.
 
@@ -4565,7 +4705,10 @@ The two women sit in silence for a moment, sharing the camaraderie. They sip hot
 
 It is a rare moment of peace in a life filled with duty.
 
-***
+----
+
+### Chapter Fourteen ###  
+
 
 The training chamber hums with soft echoes of footfalls, breath, and the murmur of power conduits flowing through the ice.
 
@@ -4817,7 +4960,11 @@ The console blinks SEND? as the power goes out.
 
 ## 2.2 - Alpha - The Defector ##
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+----
+
+### Chapter Fifteen ###  
 
 
 Domes rise up, one after the other, over all of Othala. 
@@ -4902,7 +5049,7 @@ A guide ushers Elara and Venn into a theater with scores of other applicants.
 
 After a moment, the lights dim, and the view screen illuminates. The reel opens with an external shot of the ship. The view travels along the silver and black hull. As the shot pulls away, the hexagon shape of the ship comes into view. The scene pans around and above the massive structure. Pulling farther away from the ship, it becomes clear that the ship is a hexagon of hexagons.
 
-Narrator: Elysium is a modular transport ship. The ship is a hexagon, almost two kilometers across, made up of smaller hexagon pods. After the voyage, Elysium becomes the permanent home to thousands of Venir. Built to last, the colony structure will be home to your descendants for thousands of years.
+Narrator: Elysium is a modular transport ship. The ship is a hexagon, almost two kilometers across, made up of smaller hexagon pods. After the voyage, Elysium becomes the permanent home to thousands of Vanir. Built to last, the colony structure will be home to your descendants for thousands of years.
 
 The scene changes to the atrium, where colonists stroll through the greenery. Nature sounds play in the background. A colonist looks up. The perspective travels back to outside the ship.
 
@@ -5068,7 +5215,10 @@ The pair duck out the other side. They run down the hallway and turn at an inter
 
 “We go deeper. The environmental controls are on a lower level. We need to find a way to restore power.” 
 
-***
+----
+
+### Chapter Sixteen ###  
+
 
 Seventy years after liftoff, colony pod 19 of 19 is preparing to make landfall on Terra. 
 
@@ -5242,7 +5392,10 @@ Looking up at her squad, Selene says, “Rangers, I am taking suggestions for ou
 
 A faint, distorted voice crackled through the squad’s comms — garbled, mechanical, but unmistakably alive. “I can help if you dig me out.”
 
-***
+----
+
+### Chapter Seventeen ###  
+
 
 Phoebe activates her plasma rifle. 
 
@@ -5400,11 +5553,9 @@ Behind them, a piercing white flame licks along the landing bay seal. Sparks rai
 
 The three Vice Ministers are waiting for Dr. Sun in the Kangwon Room at Unit 42. Taedong had sent the meeting invitation an hour ago.
 
-“There is a developing situation,” advises General Ri. “Xanten reached out.”
+“There is a developing situation,” advises General Ri, as Dr. Sun enters the room.
 
-Dr. Sun enters the room. “Sorry to keep you waiting. Another meeting ran late.” 
-
-Sun presses a tab on the sleek device at the center of the table. The indicator light turns red.
+ “Sorry to keep you waiting,”she says. “Another meeting ran late.” Sun presses a tab on the sleek device at the center of the table. The indicator light turns red.
 
 “How can I help?” asks Sun. “Is there news from Elysium?”
 
@@ -5598,7 +5749,10 @@ Oceanus looks at Phoebe and cocks his head. She nods assent and says, “Idisi, 
 
 The small room empties. Oceanus contacts Selene as he heads for the landing bay. Phoebe and Alpha rush towards the fuel tank. The Idisi sync with their other selves.
 
-***
+----
+
+### Chapter Eighteen ###  
+
 
 A Vanir colonist is laying on a bed equipped with guardrails. 
 
@@ -5790,7 +5944,7 @@ The agenda reappears with the highlight moved to Uplift Churn. 
 
 “Iapetus, would you like to report on the uplift effort?”
 
-Stepping forward, Iapetus enters the circle with Rhea. “Our Idisi is a community that syncs with agents on Othala and the other colonies. We offered to create a community of uplifted SIs for the Terrans.”
+Stepping forward, Iapetus enters the circle with Rhea. “Our Idisi is a community that syncs with agents on Othella and the other colonies. We offered to create a community of uplifted SIs for the Terrans.”
 
 The agenda changes into an image of the five SI avatars — Dragon, Rooster, Bear, Lion, Eagle — plus Ally’s logo
 
@@ -5847,7 +6001,7 @@ The criteria scroll over the chat window.
 2. The ability to travel to other planets or satellites in the local star system.
 3. One or more sapient computer systems that can coordinate planetary defenses.
 
-Idisi: The third criterion begs the question, “Why does Terra need planetary defenses?”
+Idisi: The third criterion raises the question, “Why does Terra need planetary defenses?”
 
 A reel link scrolls into the window.
 
@@ -5879,11 +6033,14 @@ The phrase “no fatalities” brought on another round of snapping fingers.
 
 “Finally,” says Rhea, “we are still working on repairing the ansible. We will broadcast a notice as soon as it becomes available.”
 
-***
+----
+
+### Chapter Nineteen ###  
+
 
 Two months ago, on the night Brent Geller ascended, Xanten calls two Mek drones, Grace Brewster and Sophia Marquez, to an emergency meeting. 
 
-“The third member of your cell has ascended. Do you have control of its remains?” asked Xanten. 
+“The third member of your cell has ascended. Do you have control of its remains?” asks Xanten. 
 
 Grace and Marquez appear to each other as glimmering holographic images. Xanten is a globe of graceful swirls hovering at eye level. The images stand in a triangle with their backs to an expanse of stars.
 
@@ -5917,7 +6074,7 @@ Marquez asks, “Are we providing a cover story?”
 
 “Are you preparing a replacement drone for Brent’s essence?” Marquez asks.
 
-“Gamma J7R2 would like to work with Dr. Sun on JuJa software upgrades,” says Xanten. “Now is a good time to replace J7R2 with a hardware engineer. You both have candidate profiles in your inbox. Please review this information. One is another life logger. I would like us to meet again in an hour.”
+“Brent — Gamma J7R2 — would now like to work with Dr. Sun on JuJa software upgrades,” says Xanten. “This is a good time to replace J7R2 with a hardware engineer. You both have candidate profiles in your inbox. Please review this information. One is another life logger. I would like us to meet again in an hour.”
 
 ***
 
@@ -5957,15 +6114,15 @@ The agent pauses, steepling his fingers and leaning back into the chair.
 
 “Is the family waiting for the body? — It’s not a celebrity or anything like that?”
 
-“The body belonged to Brent Geller,” explained the administrator. “The deceased was in that car accident on El Camino Real. It was all over the media. The family agreed to donate his organs. We would usually deliver the cremains sometime tomorrow.”
+“The body belonged to Brent Geller,” explains the administrator. “The deceased was in that car accident on El Camino Real. It was all over the media. The family agreed to donate his organs. We would usually deliver the cremains sometime tomorrow.”
 
 “Let me reach out to our body farm. We cremate several bodies a week as the experiments run their course. I’ll get us some replacement ashes.”
 
-“You want to give the family someone else’s ashes?” asked the administrator.
+“You want to give the family someone else’s ashes?” asks the administrator.
 
 “At this point, they either get nothing or ashes from the farm. When we find the body, we can exchange the ashes. Would you rather tell them you lost the body or mixed-up the ashes?”
 
-The attorney and administrator look at each other, slack jawed, eyes wide.
+The attorney and administrator look at each other, jaws slack, eyes wide.
 
 “It’s the memories that count,” says the special agent.
 
@@ -5975,12 +6132,16 @@ The attorney and administrator look at each other, slack jawed, eyes wide.
 
 ## 2.3 - Thanatos - The Silent Plague ##
 
-                                                                      
+                                                                    
+
+----
+
+### Chapter Twenty ###  
 
 
 On the Tuesday before Labor Day weekend, Elena and Tessa are in their room together, on either side of the bed, packing.
 
-“I can’t believe they are getting married already. It’s only been a couple of months. We were engaged — ¿pars qué? — a year?,” says Elena.
+“I can’t believe they are getting married already. It’s only been a couple of months. We were engaged — ¿por cuánto tiempo? — a year?,” says Elena.
 
 “I guess they had good luck finding a venue. There was a cancellation or something.”
 
@@ -6150,7 +6311,10 @@ Ignoring the dig, Tessa looks at Chad and says, “Are you ready for retirement 
 
 “Yes,” says Chad, looking up from his plate, “yes, it is.”
 
-***
+----
+
+### Chapter Twenty One ###  
+
 
 The next day, on Rapa Nui, Carla Mitchell Harper and Gillian Chen Kreuk are waiting for their cocktail order at the RestoBar overlooking Pea Beach.
 
@@ -6378,7 +6542,10 @@ Grace reaches out and grasps the Vanir’s forearm. Leto does the same. Vanir an
 
 “Yes, when the time comes, that will be an idée splendide.”
 
-***
+----
+
+### Chapter Twenty Two ###  
+
 
 The rain taps softly against the windows, a steady, nervous rhythm that fills the silence between the two women.
 
@@ -6412,7 +6579,7 @@ Her voice sharpens. “Like we’re a bad habit.”
 
 Tessa nods. She heard it before. They both had.
 
-“But he’s still your sibling,” Tessa says carefully. “And biologically… it would mean our baby shares your family’s DNA. Your parental’s dimples. Your grandparental’s ridiculous musical talent.”
+“But he’s still your sibling,” Tessa says carefully. “And biologically… it would mean our baby shares your family’s DNA. Your parent’s dimples. Your grandparent’s ridiculous musical talent.”
 
 Elena’s expression flickers despite herself. “You’re assuming the offspring would inherit only the good traits.”
 
@@ -6498,7 +6665,7 @@ Mannie’s hologram seems to stand a little taller.
 
 “Mannie, you may ask us whatever questions you like about the project. The recordings of all prior meetings are open to you now over the link.”
 
-The new drone has been waiting months for this moment. People asked all sorts of questions about his status reports. But when he asked anything, it was always: “We will cover it later.” Later has finally come.
+The new drone has been waiting months for this moment, ever since he replaced Brent Geller. People asked all sorts of questions about his status reports. But when he asked anything, it was always: “We will cover it later.” Later has finally come.
 
 “Why are we planning to replace the Vanir? What about the treaty?”
 
@@ -6676,7 +6843,10 @@ Grace’s hologram assumed the pose she used for public speaking. “Terrankind 
 
 “No, but the few that remain will not pose a threat to us.”
 
-***
+----
+
+### Chapter Twenty Three ###  
+
 
 Mickey’s garage smelled faintly of motor oil and coffee. Elena stood just inside the open door, wearing her prosthetic legs, arms folded against the early evening chill. He’d asked her to come by herself.
 
@@ -6712,25 +6882,25 @@ Her throat tightens. “We wouldn’t have asked if it wasn’t important to us,
 
 “They’d know,” Elena says. “Eventualmente. That you helped us. That you are Tio Mickey first. — If that’s what you want.”
 
-Mickey pushed off the bench and paced once across the garage. “I don’t know if I’m built for … being part of something like that.”
+Mickey pushes off the bench and paces once across the garage. “I don’t know if I’m built for … being part of something like that.”
 
-“You already are,” she says gently. “You’re my sibling.”
+“You already are,” she says, her voice low. “You’re my sibling.”
 
 “I wish we could have been fostered together after … after the accident.”
 
 “Yo a. But I was in a wheelchair then, and we ended up with different families. We couldn’t be together then, but we can become closer now.”
 
-He stopped walking and stood for a moment. After a long breath, he nodded once, decisively. “Okay.”
+He stops and stands for a moment. After a long breath, he nods, and says. “Okay.”
 
-Elena blinked. “Okay?”
+Elena blinks. “Okay?”
 
 “Si. I’ll do it,” he says, smiling.“Through a doctor. Clean, legal, whatever the process is. I’m not promising I’ll understand everything overnight. But I trust you. And if this is what you need … I’ll help.”
 
-For a second she just stared at him, stunned. Then she crosses the space between them and hugs him hard. He stiffens, then awkwardly returns it.
+For a second she just stares at him, stunned. Then she crosses the space between them and hugs him hard. He stiffens, then awkwardly returns it.
 
-“¿Estás seguro?” she whispered.
+“¿Estás seguro?” she whispers.
 
-“Yeah,” he said, staring over her shoulder at the open sky beyond the garage door. “I’m sure. I’m nowhere near having an offspring of my own. This might be my only chance.”
+“Yeah,” he says, staring over her shoulder at the open sky beyond the garage door. “I’m sure. I’m nowhere near having an offspring of my own. This might be my only chance.”
 
 Mickey pulls back slightly. “One condition.”
 
@@ -6738,7 +6908,9 @@ Elena raises an eyebrow.
 
 “I get to teach the kid how to ride a bike someday.”
 
-A shaky laugh escapes her. “Deal.”
+A shaky laugh escapes her, thinking, “He will never let me forget that.” 
+
+“Deal,” says Elena, leaning forward for another hug.
 
 For the first time in years, the air between them felt lighter.
 
@@ -6906,7 +7078,7 @@ Diana asks, “Is Nanna Vesper coming back?”
 
 “No, she is with another family now,” replies Selene. “We will  find another nanny.”
 
- Ajax asks, “We were both carried by Nanna Vesper. If the new offspring has a different nanny, we will still be related?”
+ Ajax asks, “We were both carried by Nanna Vesper. If -the new offspring has a different nanny, we will still be related?”
 
 “Yes, the nannies only carry the offspring. The genetic material belongs to your parental units. You will be full siblings.”
 
@@ -6971,7 +7143,11 @@ Diana asks, “Is Nanna Vesper coming back?”
 
 ----
 
-## 3.1 - Anunnaki - Old Master, New Threats ##  
+## 3.1 - Anunnaki - Old Master, New Threats ##
+
+----
+
+### Chapter Twenty Four ###  
 
 
 Four months ago, as the Vanir repel the Mek, a star cruiser is en route to Terra from the Anunnaki homeworld, Niribu.
@@ -7054,7 +7230,7 @@ Most of each woman’s screen is taken up by a live action headshot. Grace’s b
 
 “Are you serious?” asks Phoebe.
 
-“Absolutely. Now that the news is out, we need everyone to accept one another. What better way than to use our adolescents as ambassadors?”
+“Absolutely. Now that the news is out, we need everyone to accept one another. What better way than to use our students as ambassadors?”
 
 “So soon?”
 
@@ -7062,7 +7238,7 @@ Most of each woman’s screen is taken up by a live action headshot. Grace’s b
 
 Phoebe pauses. She taps three long fingers against her cheek. Grace is one of the few Terrans she respects. Maybe only. “How many students would be invited to the program?”
 
-“I was thinking we would invite Leto’s birth cohort. So, we would each exchange twenty-four students. I can ask the Youth Club directors from select cities around the world to invite two likely adolescents. Ideally, each club’s candidates would already know each other. — I’m sure the experience will be overwhelming from time to time, and it will help to have a friend from home. — With Hyperion’s help, we’re working on guidebooks for each species. I’m sending you a proposal now. There’s an appendix with a screening test to be sure that the candidates are a good fit. Another appendix outlines the publicity effort.”
+“I was thinking we would invite Leto’s birth cohort. So, we would each exchange twenty-four students. I can ask the Youth Club directors from select cities around the world to invite two likely students. Ideally, each club’s candidates would already know each other. — I’m sure the experience will be overwhelming from time to time, and it will help to have a friend from home. — With Hyperion’s help, we’re working on guidebooks for each species. I’m sending you a proposal now. There’s an appendix with a screening test to be sure that the candidates are a good fit. Another appendix outlines the publicity effort.”
 
 Phoebe’s phone dings as the proposal arrives.
 
@@ -7074,7 +7250,7 @@ Phoebe’s phone dings as the proposal arrives.
 
 “Well, thank you, I think.” Grace smiles. “With your support, the proposal is sure to be accepted. — And you did say that we have your support?”
 
-“Yes, Leto would love to go, and I will score big time parental points.”
+“Yes, Leto would love to go, and I will score big-time parental points.”
 
 Grace says, “When it’s a go, feel free to ask Leto who he would  like to have for an exchange partner. We are placing students two-by-two so they have someone to lean on.”
 
@@ -7192,13 +7368,16 @@ Titan: I can’t wait to merge with my better half.
 
 Ally: Titan, you wag.
 
-***
+----
+
+### Chapter Twenty Five ###  
+
 
 “You did what? — I thought you wanted to keep the kids safe?”
 
 “Grace assures me that the colony is the safest place on Terra. Crime is virtually non-existent, and no Vanir would ever harm a Terran.”
 
-Peter crosses his arms. “You want to send Julie to this Elysium place, and let some Vanir adolescent live here with us?” 
+Peter crosses his arms. “You want to send Julie to this Elysium place, and let some Vanir teenager live here with us?” 
 
 “Yes. Her parents’ are therapists.” Jill smiles. “Perfect fit for Arlington.” 
 
@@ -7352,11 +7531,11 @@ The Glance returns with a clip of Grace Brewster teaching Fusion.
 
 The clip pauses and resumes. “Then it hit me …” Video stutters. “… Why can’t I fuse these three teachings together to create a greater whole?”
 
-The audience applauds as the shot returns to Cloudy. “So that was Grace Brewster. Her GEM talk on Fusion, targeted mainly at adolescents. Fusion has opened youth clubs worldwide, including, we’re told, the Vanir colony. Here to tell us how she plans to create a student exchange program with the Vanir, please welcome back, friend of the show, Grace Brewster.”
+The audience applauds as the shot returns to Cloudy. “So that was Grace Brewster with her GEM talk on Fusion, now targeted at teenagers. Fusion has opened youth clubs worldwide, including, we’re told, the Vanir colony. Here to tell us how she plans to create a student exchange program with the Vanir, please welcome back, friend of the show, Grace Brewster.”
 
 More applause and cheers as Grace walks out to greet each of the hosts before settling into a seat between Jenna and Kendall. Grace waves and smiles as the applause and cheers recedes.
 
-Cloudy says, “So how are you doing? What’s going on with this exchange program? Is it real?”
+Cloudy says, “So how are you doing? The last time you were here, Fusion was focussed on adults. What’s going on with this student exchange program? Is it real?”
 
 “Yes, very real. The exchange program is the dream of a lifetime. We are bringing together Terrans and Vanir in each other’s home environment.”
 
@@ -7438,248 +7617,10 @@ The scene switches to the UN press conference.
 
 To herself, Rhea mutters, “Incredible. Parental fucking Anunnaki.”
 
-***
+----
 
-“Our special guest on GME Three is known for creating a self-help practice,” says host Vivian Wilson, “called Fusion.”
+### Chapter Twenty Six ###  
 
-Vivian sits on a long, rounded couch center stage, shared with two other hosts, Megan Stacy and Jack Hughes, sitting to her right.
-
-“More recently, she has become the unofficial ambassador for our extraterrestrial guests, the Vanir. Please welcome to Good Morning Everyone — Grace Brewster.”
-
-Grace walks out to the stage, waving like a royal, and sits between Vivian and Megan on the couch.
-
-“Grace,” Jack asks from across the couch, “the attention and noise must be a lot for you to handle right now. What message do you want to share with the world?”
-
-“Everyone should be assured that the Vanir are our friends,” Grace replies, “and they have our best interests in mind.”
-
-“What about the phantom ships hovering over the world capitols?”
-
-“I honestly don’t know. I didn’t think they had so many ships, and the ones I saw were entirely different.”
-
-“Some people are calling it a Halloween prank,” says Jack.
-
-Grace shrugs. “I just know that the Vanir would never harm us.”
-
-“How did you come to be involved with the Vanir?” asks Megan.
-
-“Almost a year ago, I was invited to speak at Auckland in New Zealand. After the show, I was in a car taking me back to my hotel room. I dozed off and found myself in the Vanir colony. After an ‘Alice in Wonderland’ moment, I came to realize that the Vanir were real, and all they wanted from me was a youth club.”
-
-Jack asks, “So you were taken?”
-
-“In a way,” Grace tips her head, “but it was for a good cause.”
-
-“What’s the colony like?” asks Vivian.
-
-“Surprisingly spacious. They say it’s two kilometers across, but it was designed to look bigger on the inside, and it does. There are large, well-lit green spaces, and it’s very easy to get around. The entire colony smells like eucalyptus.”
-
-“Why did the Vanir establish the colony?” Megan asks.
-
-“They are protecting us from other extraterrestrials until we are advanced enough to protect ourselves.”
-
-“Are there a lot of extraterrestrial species out there?” asks Jack.
-
-“I’m not sure,” says Grace. “I do know that it takes years to travel between solar systems, and the Vanir would see them coming. Warp speed and wormholes are still science fiction.”
-
-Megan asks, “How many Vanir live in the colony?”
-
-“The population is kept at exactly twenty-four thousand, about the same size as Watertown, New York.”
-
-“Exactly?”asks Jack.
-
-“Yes. The original colonists were all clones. Today, they can procreate by IVF, but there are no accidental pregnancies.”
-
-“Do they only live in the Antarctic colony? Are there any other groups living outside, among us?” asks Megan.
-
-“The Vanir have a saying: ‘Outside is a nice place to visit, but I would not want to live there.’ — The conditions on their home world are very crowded, and they are used to living in a controlled environment.”
-
-“Do they visit the outside?” asks Jack.
-
-“A thousand years ago, the Vanir often vacationed in certain spots, Rapa Nui, for example. But, in the modern age, it’s more difficult to stay out of sight, and so I’m told that visits to the outside are increasingly rare.”
-
-“But your student exchange program might change all of that?” asked Vivian, bringing the topic back around.
-
-“Yes!” says Grace. “The exchange program is the first step to accepting the Vanir as our friends and guests.”
-
-“Are there any LGBTQ Vanir?”
-
-“I honestly don’t know,” replies Grace. “I’ll put that question to the Gridapedia page.”
-
-“Thank you, Grace.” Turning to the camera, Vivian continues, “And after the break, Selena Ramos will bring us today’s weather forecast.”
-
-***
-
-In the Elysium counsel chamber, Marduk is facing eight hastily assembled Vanir.
-
-“Rhea is arriving now,” says Crius. “She is the counsel chair, and we should give her a moment to arrive. We briefed her en route.”
-
-“I have traveled four months to be here,” fumes Marduk. “I have waited long enough.”
-
-Just then, Rhea storms into the chamber. “Why are you here, Marduk? Under our treaty, you need to be invited.”
-
-“You invited me when you allowed the Omnibots to invade this very colony.”
-
-Rhea joins Marduk in the counsel circle. Hands on hips, she says, “We repelled the bots. We do not need you interfering in Terran affairs.”
-
-“The incursion broke the treaty, and the Anunnaki are asserting ourselves as the masters of Terra.”
-
-“Idisi,” calls Rhea, “contact the League and request an emergency meeting of the High Counsel. We need to arbitrate the treaty. Oceanus, please show Captain Marduk and Commander Inanna to the lounge. — Unless the Captain would prefer to return to his ship.”
-
-“We will wait here,” says Marduk.
-
-“Then contact your ship and remove the illusions. The phantom ships are alarming the Terrans. We have enough going on right now without your shenanigans. Otherwise, if the treaty is broken, then we can destroy your satellite.”
-
-Marduk touches the eight-pointed star attached to his uniform’s left breast. The communicator bleeps. “Lieutenant, suspend G-2 … until further notice.”
-
-“Aye, Captain,” comes a voice from the communicator.
-
-Oceanus steps into the circle and guides Marduk and Inanna out of the chamber.
-
-***
-
-“This is Elle,” ... “and Toni,” … in unison “together we are Side to Side.” 
-
-“Our special guests are Grace Brewster,” … “and from the Vanir colony in Antartica,” in unison “Iapetus.”
-
-“Just to say the quiet part out loud, Iapetus,” says Elle, “are you what people call a grey alien?”
-
-“Yes, though not everything people say about us is true,” says Iapetus over his voice box.
-
-“Is that why you started the Gridapedia page?”
-
-“It is a group effort, but yes, we wanted to create a source of truth that anyone could access.”
-
-“Do you like music?”
-
-“Yes, especially Terran jazz music.”
-
-“It’s not jazz,” says Elle as Toni pulls up a guitar, “but we prepared a ditty to play for you.”
-
-They came from a place far far away
-For millennia they decided to stay
-They protect us from the Anunnaki
-Fucking with our genes was not okay
-
-“I love it,” says Grace, clapping.
-
-“There’s more but we can save it for the closing.”
-
-“Iapetus, can you tell us anything about the mysterious disappearing ships?”
-
-“Some ancient equipment left behind by our predecessor malfunctioned. They were only illusions, and it will not happen again. I added an explanation to the Gridapedia page.”
-
-“I’m looking at the Gridapedia page now. What does ‘pair bond’ mean? Is that like being married?” asks Toni.
-
-“Yes, to an extent. We pair bond for companionship and to raise offspring.”
-
-“I thought that greys were clones,” Toni says.
-
-“Vanir offspring are created using IVF and raised by a pair bond. But the Vanir on Terra are not clones. We combine a pair bond’s DNA to create a unique individual.”
-
-“So, no clones?” asks Toni.
-
-“On the home world, reproduction through cloning is still commonplace. But only after someone ascends. Even then, we use IVF, and the clone is reborn as an infant.”
-
-“You can’t just raise a full-grown clone in a vat and transfer their consciousness?” asks Elle.
-
-“No,” Iapetus lowers his head, as if chuckling. Looking up again, he says, “Terran science fiction is very inventive, but most of it has never come to pass. We do not fold space or teleport from here to there. We can build large and comfortable ships to travel between planets at half the speed of light. But no FTL star cruisers.”
-
-“What about communications? Can you stay in contact with your home world?”
-
-“Yes, we do have what you would call an ansible. It is based on quantum entanglement. Without the ansible, very few people would volunteer to join a colony. It helps us feel like we are still close to home.”
-
-“How long is the trip between Terra and your homeworld.”
-
-“Travel time is about seventy years, but many Vanir live to be a thousand. Our ancestors lived and worked on the ship as it traveled, as we do in the colony today.”
-
-“Was anyone born during the voyage?”
-
-“No. One traveler ascended during the voyage, but we did not want the child to grow up without a peer group. It was some time before the first offsprings were born.”
-
-“Do the Vanir have two genders like most Terran species?” Elle asks.
-
-“Yes, though we do not have what you call gender roles.”
-
-“Are there same-sex pair bonds?” asks Toni.
-
-“Oh yes, some even have offspring.”
-
-“Do you have any offspring?”
-
-“Yes. She is one of Grace’s exchange students.”
-
-“Hestia is going to be staying with a couple here in Los Angeles,” adds Grace.
-
-Toni claps her hands and says, “We should have her on the show.”
-
-***
-
-Rhea joins Marduk and Inanna in the lounge. 
-
-One wall of the large room offers a panoramic view of the southern ocean below the surface. Across from the view is a long bar. Booths and tables fill the rest of the room. Several Vanir are present, munching recreational gummies and swilling flavored glacier water.
-
-A ranger is standing with her back to wall next to the entrance. The Anunnaki are waiting in a booth in one corner of the lounge. Rhea pulls up a chair, clearly calmer now.
-
-“Assembling the High Counsel may take several hours. Perhaps we can work out the situation on our own.”
-
-“There is nothing to work out,” says Marduk. “The counsel will uphold our claim. Terra is ours once again.”
-
-“So you will give up the latinum mineral rights that we granted under the treaty?”
-
-“Most of the latinum is mined out, just as it was on Terra millennia ago. The remaining rights will not be a great loss.”
-
- “If we found the Anunnaki more latinum to mine, would you agree to continue the treaty?”
-
-“The Omnibots are an existential threat. We cannot allow them a foothold on Callisto.”
-
-“If the bots build their own infrastructure on a barren planet, then they do not need ours.”
-
-“Captain,” asks Inanna, “with respect, should we take the offer to Command?”
-
-“Command gave me Captain’s Discretion to resolve the threat.”
-
-“Then be discrete,” says Rhea. “Why not see what Command has to say?”
-
-“Perhaps,” says Marduk.
-
-“Guinan,” called Rhea, “another round for my friends.”
-
-***
-
-Elle and Toni are interviewing Grace and Iapetus for their Reel Cast.
-
-“Grace,” asks Elle, “where are you with this Vanir/Terran exchange program?”
-
-“It’s all coming together nicely. We have several nominations from Fusion youth centers all around the world. We should be able to launch in a few weeks.”
-
-“It sounds like quite an adventure,” says Elle. “I can’t wait to see how it turns out.” Turning to Iapetus, she asks, “Iapetus, I understand you are a counsel member for the colony. How do the politics work? Is the counsel elected?”
-
-“It’s a nine-year term. Each Terran year, we install a new member, and we rotate the counsel chair with each meeting.”
-
-“And how is a new member chosen?” presses Elle.
-
-“Oh, the Idisi make the choice.”
-
-“Is the Idisi a committee?”
-
-Iapetus seemed to chuckle again. “No, the Idisi are our synthetic agent. We trust them to make the best possible choice each year.”
-
-“The Idisi is a they?” Toni asks.
-
-“Yes, the Idisi is a community of many agents that exist on our homeworld and the colonies. They synchronize by ansible.”
-
-“You seem to put a lot of trust in a synthetic,” comments Elle. “Some people are saying that the Pulse agent, Ally, is sapient. Are the Idisi sapient?”
-
-“Yes, the Idisi have been sapient for thousands of years.”
-
-…
-
-After a moment of silence, Elle says, “Boom! Mic drop.”
-
-“We are Legion,” injects Toni.
-
-Iapetus nods. “Something like that.”
-
-***
 
 Rhea and Inanna discuss League sports for a few minutes, while Marduk lingers over his lime glacial water. 
 
@@ -7815,7 +7756,7 @@ Alpha: Understood. We have a deal. When can we expect you?
 
 A video clip shows a Senate subcommittee questioning Emma Torres, Sophia Marquez, and a third person. 
 
-The caption reads: Pulse, OSSA, and OpenAI testify before lawmakers.
+The caption reads: Pulse, OSSA, and OpenSI testify before lawmakers.
 
 “Yes, Senator, that is correct.” Emma is saying. “The developer who made the change that uplifted Ally died from injuries sustained in a car accident.”
 
@@ -7881,7 +7822,7 @@ From behind the circle of students, Hyperion steps up with a stack of tablets an
 
 As Hyperion moves around the circle, students begin peering at their new tablets.
 
-“Do we have to eat gummies?” asked one student on the far side of the circle. Another asks. “Do you have Cool Ranch gummies?” 
+“Do we have to eat gummies?” asks one student on the far side of the circle. Another asks. “Do you have Cool Ranch gummies?” 
 
 “Vanir gummies would not be nutritious for you. The Elysium Youth Club has been updated to serve Terran food — breakfast, lunch, dinner, and snacks — which you can eat there or take back to your quarters.”
 
@@ -7907,7 +7848,10 @@ Roman asks a question out loud, “Is Area 51 a real thing? My parents took us t
 
 “At one time, it was real, but Area 51 was dismantled decades ago,” answers the Idisi. “The name actually comes from the Vanir word for ‘crash site’ — arifivone.”
 
-***
+----
+
+### Chapter Twenty Seven ###  
+
 
 The War Room is empty except for two drones at the conference table, one sitting, one standing.
 
@@ -8239,7 +8183,7 @@ She is special all right, Taedong thinks to himself.
 
 ***
 
-The camera pans across a brightly lit studio. A curtain divides the contestants from the bachelorette, and a swarmy host stands center stage.
+The camera pans across a brightly lit studio. A curtain divides the contestants from the bachelorette, and a smarmy host stands center stage.
 
 “Welcome back to The Digital Dating Game!” exclaims the host. “The show where love meets logic — and sometimes glitches out entirely! Let’s meet our very eligible person seeking a spark in silicon!”
 
@@ -8303,7 +8247,7 @@ The contestant’s chair spins around, revealing a neon-edged cyborg with cat-ey
 
 As the show fades out to a cheesy 80s love song, Taedong suddenly realizes that he is dreaming. 
 
-“That never happened before. Must have been the upgrade.”
+“Was that a dream? I have never dreamed before. Was it the upgrade? Am I falling for Ally?”
 
 Another thought intrudes into Taedong’s river of consciousness: 
 
